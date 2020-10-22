@@ -8,7 +8,6 @@ languages := am ar ca cs ckb da de el en es et fi fa fr fy he hr hu is it lt lv 
 
 ################################################## USAGE #################################################################
 # First Time:
-# - edit the E2 TARBALL Exports if needed.
 # - make init
 #
 # Always:
@@ -16,7 +15,7 @@ languages := am ar ca cs ckb da de el en es et fi fa fr fy he hr hu is it lt lv 
 # - make merge
 ################################################# USAGE ##################################################################
 
-.PHONY: init submodule_init submodule_update default update pull template merge msmgmerge
+.PHONY: init submodule_init submodule_update default update template merge
 
 init : submodule_init submodule_update
 
