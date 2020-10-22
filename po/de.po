@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2019-12-02 06:44+0000\n"
-"Last-Translator: Stephan Reichholf <stephan@reichholf.net>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-22 06:44+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: German <http://translations.dream-multimedia-tv.de/translate/"
+"projects/dreambox/enigma2/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1575269057.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -24,6 +25,13 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!! ACHTUNG !!!\n"
+"Aufgrund essentieller Änderungen in der Firmware ist ein Downgrade auf "
+"ältere Firmwareversionen nicht mehr möglich!\n"
+"Diese Aktualisierung wichtig und sollte nicht übersprungen werden!!\n"
+"!!! ACHTUNG !!!!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -307,6 +315,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d Blöcke geschrieben\n"
+"%03d Blöcke bestätigt (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -315,6 +327,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d Blöcke geschrieben (%s)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
@@ -366,12 +381,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:57
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s IR Codes bestätigt!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:175
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s IR Codes gesendet!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -381,12 +396,12 @@ msgstr "%s Netzwerk - Nameserver"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:109
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s Geräte"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s mapped keys, %s unmapped keys"
-msgstr ""
+msgstr "%s zugewiesene Tasten, %s nicht zugewiesene Tasten"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -434,12 +449,14 @@ msgid "* current animation"
 msgstr "* momentane Animation"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
+#, fuzzy
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
+#, fuzzy
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
@@ -664,8 +681,9 @@ msgid "9"
 msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
+#, fuzzy
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Current movielist location>"
@@ -696,8 +714,9 @@ msgid "<unknown>"
 msgstr "<unbekannt>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
+#, fuzzy
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
@@ -1504,7 +1523,7 @@ msgstr "Audio Plugin Auswahl"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Restart Setup"
-msgstr ""
+msgstr "Audio-Neustart Einstellungen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Sync"
@@ -1521,8 +1540,9 @@ msgstr "Audio System (erzwungen)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#, fuzzy
 msgid "AudioPlayer"
-msgstr ""
+msgstr "AudioPlayer"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:497
 msgid "Authentication required"
@@ -1729,8 +1749,9 @@ msgid "BASIC-HD Skin for Dreambox Images created from Ismail Demir"
 msgstr "BASIC-HD Skin für die Dreambox erstellt von Ismail Demir"
 
 #: enigma2/usr/share/enigma2/skin.xml
+#, fuzzy
 msgid "BAT"
-msgstr ""
+msgstr "BAT"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
@@ -1753,8 +1774,9 @@ msgid "BER:"
 msgstr "BER:"
 
 #: enigma2/usr/share/enigma2/skin.xml
+#, fuzzy
 msgid "BLE"
-msgstr ""
+msgstr "BLE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
@@ -1762,8 +1784,9 @@ msgid "BLUDISC RECORDABLE"
 msgstr "BLUDISC AUFNAHMEMEDIUM"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#, fuzzy
 msgid "Babelzapper Plugin"
-msgstr ""
+msgstr "Babelzapper Plugin"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:650
@@ -1927,11 +1950,11 @@ msgstr "Bing"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Birthday Reminder"
-msgstr ""
+msgstr "Geburtstagserinnerungen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Birthday Reminder Settings"
-msgstr ""
+msgstr "Geburtstagserinnerungen - Einstellungen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:250
 msgid "Bitrates"
@@ -1965,7 +1988,7 @@ msgstr "BludiscPlayer spielt unverschlüsselte Titel von Bludiscs ab."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:17
 msgid "Blue"
-msgstr ""
+msgstr "Blau"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:107
@@ -1979,7 +2002,7 @@ msgstr "Bluetooth Frontprozessor Firmware"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Bluetooth Remote Setup"
-msgstr ""
+msgstr "Bluetooth Fernbendienung - Einstellungen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
@@ -2512,7 +2535,7 @@ msgstr "Zusammenstellungs-Einstellungen"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color"
-msgstr ""
+msgstr "Farbe"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -2628,7 +2651,7 @@ msgstr "Konfiguration des Common Interface"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
-msgstr ""
+msgstr "Konfigurationen Sie Ihre Frontblenden-LED."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel OLED or LCD display."
@@ -2856,8 +2879,9 @@ msgid "Cross-fading duration"
 msgstr "Überblenddauer"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#, fuzzy
 msgid "CurlyTx"
-msgstr ""
+msgstr "CurlyTx"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:62
 msgid "Current IP Address:"
@@ -3047,8 +3071,9 @@ msgid "DVD"
 msgstr "DVD"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#, fuzzy
 msgid "DVD Backup"
-msgstr ""
+msgstr "DVD Backup"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:192
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:604
@@ -3787,7 +3812,7 @@ msgstr "Beendet - Keine Updates vorhanden."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
 msgid "Down"
-msgstr ""
+msgstr "Runter"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:520
@@ -3848,7 +3873,7 @@ msgstr "Holländisch"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DynDNS Setup"
-msgstr ""
+msgstr "DynDNS Einstellungen"
 
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:19
 msgid "Dynamic"
@@ -3904,12 +3929,12 @@ msgstr "FEHLER - Suche fehlgeschlagen (%s)!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
-msgstr ""
+msgstr "FEHLER!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR! Frontprocessor Update"
-msgstr ""
+msgstr "FEHLER! Frontprozessor Update"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:109
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
@@ -4647,13 +4672,15 @@ msgstr "Frontprozessor Firmware"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:27
 msgid "Frontprocessor Update"
-msgstr ""
+msgstr "Frontprozessor Update"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid ""
 "Frontprocessor update failed\n"
 "Retrying!"
 msgstr ""
+"Frontprozessor Update gescheitert\n"
+"Starte erneut!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid ""
@@ -4663,6 +4690,11 @@ msgid ""
 "'flash-nrf52 --program --verify --start'\n"
 "on a console manually"
 msgstr ""
+"Frontprozessor Aktualisierung mehrfach gescheitert!\n"
+"Bitte kontaktieren Sie den Support!\n"
+"Sie können versuchen\n"
+"'flash-nrf52 --program --verify --start'\n"
+"manuell auf einer Konsole auszuführen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:30
 #, python-format
@@ -4808,7 +4840,7 @@ msgstr "Griechisch"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:18
 msgid "Green"
-msgstr ""
+msgstr "Grün"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:106
@@ -5053,11 +5085,11 @@ msgstr "IPKG upgrade..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:319
 msgid "IR-Mode LED color when connected to this dreambox"
-msgstr ""
+msgstr "IR-Modus LED Farbe bei Verbindung mit dieser Dreambox"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:126
 msgid "IR-Setup"
-msgstr ""
+msgstr "IR Einstellungen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:305
@@ -5080,11 +5112,11 @@ msgstr "Idle"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Brightness"
-msgstr ""
+msgstr "Idle Helligkeit"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
-msgstr ""
+msgstr "Idle Farbe"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
@@ -5561,7 +5593,7 @@ msgstr "Tastenlayout"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED"
-msgstr ""
+msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
@@ -5569,7 +5601,7 @@ msgstr "LED Manager"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr ""
+msgstr "LED Einstellungen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -8162,7 +8194,7 @@ msgstr "Zum Anwenden OK drücken"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:186
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
-msgstr ""
+msgstr "OK drücken um %s Tasten von '%s' zuzuweisen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:216
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:324
@@ -8426,7 +8458,7 @@ msgstr "Fernbedienung"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid "RETRYING!"
-msgstr ""
+msgstr "ERNEUTER VERSUCH!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:76
@@ -9821,7 +9853,7 @@ msgstr "Netzwerkverbindungen konfigurieren"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
-msgstr ""
+msgstr "Richten Sie Ihre Bluetooth Fernbedienungen ein"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:75
 msgid "Set up your keyboard."
@@ -10046,7 +10078,7 @@ msgstr "Ausschalten"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Shutdown Color"
-msgstr ""
+msgstr "Farbe beim Herunterfahren"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:44
@@ -10866,6 +10898,8 @@ msgid ""
 "The Frontprocessor was updated successfully!\n"
 "Your Dreambox will now be restarted!"
 msgstr ""
+"Der Frontprozessor wurder erfolgreich aktualisiert!\n"
+"Ihre Dreambox wird jetzt neu gestartet!"
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -12100,11 +12134,11 @@ msgstr "Vali.HD.warp Skin"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
-msgstr ""
+msgstr "Herstellerliste"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:135
 msgid "Vendors"
-msgstr ""
+msgstr "Hersteller"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Verbose FileWatch Debug output"
@@ -12202,7 +12236,7 @@ msgstr "Video-Konfiguration"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Video color space setup"
-msgstr ""
+msgstr "Video Farbraum - Einstellungen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:325
