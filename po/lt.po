@@ -3,16 +3,18 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-04-26 09:28+0000\n"
-"Last-Translator: Adga <adga@zebra.lt>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-23 12:39+0000\n"
+"Last-Translator: Adga <adga45@gmail.com>\n"
+"Language-Team: Lithuanian <http://dreambox.de/translate/projects/dreambox/"
+"enigma2/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.8\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
+"19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
+"1 : 2);\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1587893298.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -25,6 +27,13 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!! DĖMESIO !!! \n"
+"Dėl didelių programinės aparatinės įrangos pakeitimų nebegalite grąžinti "
+"ankstesnių nei ankstesnių vaizdų!\n"
+" Šis atnaujinimas yra privalomas ir jo negalima praleisti!\n"
+" !!! DĖMESIO !!!!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -289,6 +298,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d parašyti blokai\n"
+"%03d blokai patikrinti (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -297,6 +310,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d parašyti blokai (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
 #, python-format
@@ -346,12 +362,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:57
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s IR kodai pripažinti!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:175
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s IR kodai išsiųsti!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -361,12 +377,12 @@ msgstr "%s Tinklas - serveriai"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:109
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s įrenginiai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s mapped keys, %s unmapped keys"
-msgstr ""
+msgstr "%s susieti raktai, %s neatvaizduoti raktai"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -411,12 +427,14 @@ msgid "* current animation"
 msgstr "* dabar veikianti animacija"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
+#, fuzzy
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
+#, fuzzy
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
@@ -582,12 +600,14 @@ msgid "4:3"
 msgstr "4:3"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:91
+#, fuzzy
 msgid "4:3 Letterbox"
-msgstr "4:3 įterpiant juostas viršuje ir apačioje"
+msgstr "4:3 Letterbox"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:92
+#, fuzzy
 msgid "4:3 PanScan"
-msgstr "4:3 nukerpant šonus"
+msgstr "4:3 PanScan"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "5"
@@ -624,8 +644,9 @@ msgid "9"
 msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
+#, fuzzy
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Current movielist location>"
@@ -653,8 +674,9 @@ msgid "<unknown>"
 msgstr "<nežinomas>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
+#, fuzzy
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:207
@@ -1410,7 +1432,7 @@ msgstr "Garso sistema (priverstinė)"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "AudioPlayer"
-msgstr ""
+msgstr "Garso grotuvas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:497
 msgid "Authentication required"
@@ -1608,8 +1630,9 @@ msgstr ""
 "BASIC HD atvaizdų vartotojo grafinės aplinkos tema, sukurta Ismail Demir"
 
 #: enigma2/usr/share/enigma2/skin.xml
+#, fuzzy
 msgid "BAT"
-msgstr ""
+msgstr "BAT"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
 msgid "BB"
@@ -1631,8 +1654,9 @@ msgid "BER:"
 msgstr "BER:"
 
 #: enigma2/usr/share/enigma2/skin.xml
+#, fuzzy
 msgid "BLE"
-msgstr ""
+msgstr "BLE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
@@ -1829,7 +1853,7 @@ msgstr "Bludisc grotuvas atkuria nešifruotus pavadinimus iš Bludiscs"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:17
 msgid "Blue"
-msgstr ""
+msgstr "mėlyna"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:107
 msgid "Blue boost"
@@ -1842,7 +1866,7 @@ msgstr "Bluetooth priekinio procesoriaus programinė įranga"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Bluetooth Remote Setup"
-msgstr ""
+msgstr "Bluetooth nuotolinė sąranka"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
@@ -2338,7 +2362,7 @@ msgstr "Kolekcijos nustatymai"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color"
-msgstr ""
+msgstr "Spalva"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color Format"
@@ -3427,7 +3451,7 @@ msgstr "Ar norite atkurti nustatymus?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2198
 msgid "Do you want to resume this playback?"
-msgstr "Ar norite tęsti šį atkūrimą?"
+msgstr "Ar norite pratęsti šį atkūrimą?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:96
 msgid "Do you want to update now?"
@@ -3463,7 +3487,7 @@ msgstr "Neklausti, tiesiog siųsti"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:100
 msgid "Don't stop current event but disable coming events"
-msgstr "Nestabdyti dabartinės užduoties, o išjungti sekančią užduotį"
+msgstr "Nestabdykite esamo įvykio, bet išjunkite būsimus"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:75
 msgid ""
@@ -3490,8 +3514,9 @@ msgid "Done - No updates available."
 msgstr "Baigta - Nėra galimų naujinimų."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
+#, fuzzy
 msgid "Down"
-msgstr ""
+msgstr "Žemyn"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:520
 msgid "Download"
