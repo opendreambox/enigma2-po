@@ -1,5 +1,14 @@
-# Enigma2 core translation repository
+# enigma2 core translation repository
+This contains the po files for the enigma2 core
 
-**Please use https://dreambox.de/translate for translating.**
+# Import translatable strings
+```
+make -f Makefile.translations
+```
+
+# ATTENTION
+Please use https://dreambox.de/translate for translating.
 
 ***This repository is not meant for manual updates or pull-requests.***
+
+

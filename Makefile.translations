@@ -6,18 +6,10 @@ PODIR=po
 # The languages to build
 languages := am ar ca cs ckb da de el en es et fi fa fr fy he hr hu is it lt lv nl no pl pt pt_BR ru sv sk sl sq sr tr uk
 
-################################################## USAGE #################################################################
-# First Time:
-# - make init
-#
-# Always:
-# - make update
-# - make merge
-################################################# USAGE ##################################################################
+.PHONY: default init submodule_init submodule_update update template merge
+default: update
 
-.PHONY: init submodule_init submodule_update default update template merge
-
-init : submodule_init submodule_update
+init: submodule_init submodule_update
 
 submodule_init:
 	git submodule init
@@ -25,9 +17,7 @@ submodule_init:
 submodule_update:
 	git submodule update
 
-default: update
-
-update : submodule_update template
+update: init template merge
 
 template:
 	find ./enigma2 ./enigma2-skins -iname "*.py" | xargs $(GETTEXT) -L Python --from-code=UTF-8 --add-comments="TRANSLATORS:" -d enigma2 -s -o $(PODIR)/enigma2.pot
