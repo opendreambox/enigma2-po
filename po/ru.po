@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-23 17:15+0200\n"
-"PO-Revision-Date: 2016-01-19 07:42+0000\n"
-"Last-Translator: system user <>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-10-23 16:41+0000\n"
+"Last-Translator: A P <popov.andrei04@gmail.com>\n"
+"Language-Team: Russian <https://dreambox.de/translate/projects/dreambox/"
+"enigma2/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.7\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1453189337.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -25,6 +26,13 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!! ВНИМАНИЕ !!!\n"
+"Из-за многочисленных изменений в прошивке вы больше не сможете перейти на "
+"предыдущие имиджи!\n"
+"Это обновление является важным, и его нельзя пропускать!\n"
+"!!! ВНИМАНИЕ !!!!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -32,6 +40,9 @@ msgid ""
 "\n"
 "DO NOT TURN OFF YOUR DREAMBOX!"
 msgstr ""
+"\n"
+"\n"
+"НЕ ВЫКЛЮЧАЙТЕ DREAMBOX!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:746
 msgid ""
@@ -39,6 +50,9 @@ msgid ""
 "\n"
 "Issued from:"
 msgstr ""
+"\n"
+"\n"
+"Получен из:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:750
 msgid ""
@@ -46,6 +60,9 @@ msgid ""
 "\n"
 "Validity:\n"
 msgstr ""
+"\n"
+"\n"
+"Срок действия:\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:157
 msgid ""
@@ -193,7 +210,7 @@ msgstr " обновлений доступно."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:56
 msgid "!! Bootloader Upgrade !!"
-msgstr ""
+msgstr "Обновление загрузчика!!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:596
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:599
@@ -205,17 +222,17 @@ msgid "%(Desc)s"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
-#, fuzzy, python-format
+#, python-format
 msgid "%(Desc)s already configured!"
-msgstr "%(desc)s уже настроено!"
+msgstr "%(Desc)s уже настроено!"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
-#, fuzzy, python-format
+#, python-format
 msgid "%(num)d hour"
 msgid_plural "%(num)d hours"
 msgstr[0] "%(num)d час"
-msgstr[1] "%(num)d час"
-msgstr[2] "%(num)d час"
+msgstr[1] "%(num)d часов"
+msgstr[2] "%(num)d часа"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1789
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1790
@@ -265,12 +282,12 @@ msgstr "%d:%02d/%d:%02dmin"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:988
 #, python-format
 msgid "%dMHz scanned"
-msgstr ""
+msgstr "%dMHz отсканированна"
 
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:108
 #, python-format
 msgid "%i entries (%i pending)"
-msgstr ""
+msgstr "%i событий(е) (%i в ожидании"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:77
 #, python-format
@@ -280,6 +297,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d блоков записанно\n"
+"%03d блоков проверено (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -288,6 +309,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d блоков записанно (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
 #, python-format
@@ -305,6 +329,9 @@ msgid ""
 "Time server\n"
 "%s\n"
 msgstr ""
+"%s\n"
+"Сервер времени\n"
+"%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PluginBrowser.py:44
 #, python-format
@@ -334,12 +361,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:57
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s IR коды подтверждены!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:175
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s IR коды отправлены!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -349,7 +376,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:109
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s устройства"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
