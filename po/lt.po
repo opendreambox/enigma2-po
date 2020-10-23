@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-10-23 12:39+0000\n"
+"PO-Revision-Date: 2020-10-29 22:40+0000\n"
 "Last-Translator: Adga <adga45@gmail.com>\n"
-"Language-Team: Lithuanian <http://dreambox.de/translate/projects/dreambox/"
+"Language-Team: Lithuanian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -427,12 +427,10 @@ msgid "* current animation"
 msgstr "* dabar veikianti animacija"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
-#, fuzzy
 msgid "+"
 msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
-#, fuzzy
 msgid "-"
 msgstr "-"
 
@@ -600,14 +598,12 @@ msgid "4:3"
 msgstr "4:3"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:91
-#, fuzzy
 msgid "4:3 Letterbox"
-msgstr "4:3 Letterbox"
+msgstr "4:3 Įterpiant juodas juostas viršuje ir apačioje"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:92
-#, fuzzy
 msgid "4:3 PanScan"
-msgstr "4:3 PanScan"
+msgstr "4:3 Nukerpant šonus"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "5"
@@ -644,7 +640,6 @@ msgid "9"
 msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
-#, fuzzy
 msgid "<"
 msgstr "<"
 
@@ -674,7 +669,6 @@ msgid "<unknown>"
 msgstr "<nežinomas>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
-#, fuzzy
 msgid ">"
 msgstr ">"
 
@@ -1630,7 +1624,6 @@ msgstr ""
 "BASIC HD atvaizdų vartotojo grafinės aplinkos tema, sukurta Ismail Demir"
 
 #: enigma2/usr/share/enigma2/skin.xml
-#, fuzzy
 msgid "BAT"
 msgstr "BAT"
 
@@ -1654,7 +1647,6 @@ msgid "BER:"
 msgstr "BER:"
 
 #: enigma2/usr/share/enigma2/skin.xml
-#, fuzzy
 msgid "BLE"
 msgstr "BLE"
 
@@ -2468,7 +2460,7 @@ msgstr "Konfigūruoti savo bendrą sąsają."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
-msgstr ""
+msgstr "Konfigūruokite priekinio skydelio LED."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel OLED or LCD display."
@@ -3514,7 +3506,6 @@ msgid "Done - No updates available."
 msgstr "Baigta - Nėra galimų naujinimų."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
-#, fuzzy
 msgid "Down"
 msgstr "Žemyn"
 
@@ -3625,12 +3616,12 @@ msgstr "KLAIDA - paieška nepavyko (%s)!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
-msgstr ""
+msgstr "KLAIDA!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR! Frontprocessor Update"
-msgstr ""
+msgstr "KLAIDA! Priekinio procesoriaus atnaujinimas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:109
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
@@ -4094,7 +4085,7 @@ msgstr "Greitas DiSEqC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:40
 msgid "Fast Forward"
-msgstr ""
+msgstr "Greitai pirmyn"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Fast Forward speeds"
@@ -4302,13 +4293,15 @@ msgstr "Priekinio procesoriaus programinė įranga"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:27
 msgid "Frontprocessor Update"
-msgstr ""
+msgstr "Priekinio procesoriaus atnaujinimas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid ""
 "Frontprocessor update failed\n"
 "Retrying!"
 msgstr ""
+"Nepavyko atnaujinti priekinio procesoriaus\n"
+"Bandoma dar kartą!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid ""
@@ -4318,6 +4311,11 @@ msgid ""
 "'flash-nrf52 --program --verify --start'\n"
 "on a console manually"
 msgstr ""
+"Kelis kartus nepavyko atnaujinti priekinio procesoriaus!\n"
+"Susisiekite su palaikymo tarnyba!\n"
+"Galite pabandyti vykdyti\n"
+"'flash-nrf52 --program --verify --start'\n"
+"konsolėje rankiniu būdu"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:30
 #, python-format
@@ -4450,7 +4448,7 @@ msgstr "Graikų"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:18
 msgid "Green"
-msgstr ""
+msgstr "Žalia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:106
 msgid "Green boost"
@@ -4685,11 +4683,11 @@ msgstr "IPKG atnaujinimas..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:319
 msgid "IR-Mode LED color when connected to this dreambox"
-msgstr ""
+msgstr "IR režimo LED spalva, kai prijungtas prie šio dreambox"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:126
 msgid "IR-Setup"
-msgstr ""
+msgstr "IR sąranka"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:305
 msgid "ISO file is too large for this filesystem!"
@@ -4709,11 +4707,11 @@ msgstr "Laukime"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Brightness"
-msgstr ""
+msgstr "Ryškumas, kai nenaudojama"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
-msgstr ""
+msgstr "Spalva, kai nenaudojama"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
@@ -5129,7 +5127,7 @@ msgstr "Kernis HD1 tema"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Key Info"
-msgstr ""
+msgstr "Pagrindinė informacija"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:56
 msgid "Keyboard"
@@ -5149,7 +5147,7 @@ msgstr "Mygtukų išdėstymas"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED"
-msgstr ""
+msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
@@ -5157,7 +5155,7 @@ msgstr "LED valdymas"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr ""
+msgstr "LED sąranka"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -5528,7 +5526,7 @@ msgstr "Medijos centras: pagrindiniai nustatymai"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MediaCenter:Main Settings"
-msgstr ""
+msgstr "Medijos centras: pagrindiniai nustatymai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:146
 msgid "MediaDatabase RESET!"
@@ -6002,7 +6000,7 @@ msgstr "Tinklo technologijos"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Network:Service configuration"
-msgstr ""
+msgstr "Tinklas: paslaugų konfigūracija"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
@@ -6673,7 +6671,7 @@ msgstr "PMT PID"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:26
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -6783,11 +6781,11 @@ msgstr "Nuotolinio imtuvo valdymas"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:Edit Entry"
-msgstr ""
+msgstr "Partnerbox: redaguoti įrašą"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:List of Entries"
-msgstr ""
+msgstr "Partnerbox: įrašų sąrašas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:228
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:243
@@ -7470,7 +7468,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:15
 msgid "Power"
-msgstr ""
+msgstr "Galia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:86
 msgid "Power Handling"
@@ -7551,7 +7549,7 @@ msgstr "Paspauskite OK jei norite naudoti"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:186
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
-msgstr ""
+msgstr "Spauskite OK, jei norite pritaikyti %s raktus '%s'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:216
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:324
@@ -7796,7 +7794,7 @@ msgstr "Valdymo pulto meniu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid "RETRYING!"
-msgstr ""
+msgstr "KARTOTI!"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:76
 msgid "RGB"
@@ -7953,7 +7951,7 @@ msgstr "Atkūrimo režimas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:16
 msgid "Red"
-msgstr ""
+msgstr "Raudona"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:327
 msgid "Reenter new PIN"
@@ -8358,7 +8356,7 @@ msgstr "Grįžti į buvusį kanalą"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:41
 msgid "Rewind"
-msgstr ""
+msgstr "Atsukti atgal"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Rewind speeds"
@@ -8754,7 +8752,7 @@ msgstr "Vakarų paieška"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Search with 0-9:"
-msgstr ""
+msgstr "Paieška naudojant 0–9:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:599
 msgid "Searching for available updates. Please wait..."
@@ -8998,7 +8996,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service:Name server configuration"
-msgstr ""
+msgstr "Paslauga: dns serverio konfigūracija"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -9059,7 +9057,7 @@ msgstr "Nustatykite savo tinklo jungtis"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
-msgstr ""
+msgstr "Nustatykite bluetooth nuotolinio valdymo pultus"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:75
 msgid "Set up your keyboard."
@@ -9270,7 +9268,7 @@ msgstr "Išjungimas"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Shutdown Color"
-msgstr ""
+msgstr "Išjungimo spalva"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:44
 msgid "Shutdown Dreambox after"
@@ -9883,7 +9881,7 @@ msgstr "TV sistema"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 msgid "TXT"
-msgstr ""
+msgstr "TXT"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:128
 msgid "TXT PID"
@@ -10013,6 +10011,8 @@ msgid ""
 "The Frontprocessor was updated successfully!\n"
 "Your Dreambox will now be restarted!"
 msgstr ""
+"Priekinis procesorius sėkmingai atnaujintas!\n"
+"Dreambox dabar bus paleistas iš naujo!"
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -10928,7 +10928,7 @@ msgstr "Iki: %s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:20
 msgid "Up"
-msgstr ""
+msgstr "Aukštyn"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:678
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:33
@@ -11142,15 +11142,15 @@ msgstr "Vali.HD.warp tema"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
-msgstr ""
+msgstr "Tiekėjų sąrašas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:135
 msgid "Vendors"
-msgstr ""
+msgstr "Tiekėjai"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Verbose FileWatch Debug output"
-msgstr ""
+msgstr "Išsami derinimo išvestis failams peržiūrėti"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:63
 msgid "Verifying firmware..."
@@ -11420,11 +11420,11 @@ msgstr "Garsumas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:38
 msgid "Volume +"
-msgstr ""
+msgstr "Garsumas +"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:39
 msgid "Volume -"
-msgstr ""
+msgstr "Garsumas -"
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:55
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
@@ -11476,7 +11476,7 @@ msgstr "Web sąsaja: Pagrindinis nustatymas"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Webinterface:Main Setup"
-msgstr ""
+msgstr "Web sąsaja: Pagrindinis nustatymas"
 
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
@@ -11748,7 +11748,7 @@ msgstr "Metai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:19
 msgid "Yellow"
-msgstr ""
+msgstr "geltona"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:27
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:200
