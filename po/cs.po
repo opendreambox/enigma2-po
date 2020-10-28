@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-10-18 19:38+0000\n"
+"PO-Revision-Date: 2020-10-29 22:40+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
+"enigma2/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1603049902.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -24,6 +25,13 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!! Upozornění !!!\n"
+"Kvůli zásadním změnám firmwaru se již nelze vrátit k obrázkům s předchozím "
+"datem !\n"
+"Tato aktualizace je povinná a neměla by být přeskočena !\n"
+"!!! Upozornění !!!!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -43,7 +51,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Vydal :"
+"vydal :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:750
 msgid ""
@@ -215,7 +223,7 @@ msgstr "%(Desc)s"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr "%(Desc)s : je už nakonfigurovaný !.."
+msgstr "%(Desc)s : je už nakonfigurovaný !"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
@@ -291,6 +299,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d zapsaných bloků\n"
+"%03d ověřených bloků (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -299,6 +311,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d zapsaných bloků (%s)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
@@ -350,12 +365,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:57
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s potvrzených IR kódů !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:175
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s odeslaných IR kódů !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -365,12 +380,12 @@ msgstr "%s síť - označení serveru"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:109
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s zařízení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s mapped keys, %s unmapped keys"
-msgstr ""
+msgstr "%s zmapovaných klíčů, %s nezmapovaných klíčů"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -410,7 +425,7 @@ msgstr "(prázdné)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:360
 msgid "(show optional DVD audio menu)"
-msgstr "(zobrazit volitelné menu DVD audio)"
+msgstr "(zobrazit volitelné audio menu DVD)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:44
 msgid "* current animation"
@@ -418,11 +433,11 @@ msgstr "*  = označení aktuální animace"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
@@ -648,7 +663,7 @@ msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Current movielist location>"
@@ -678,7 +693,7 @@ msgstr "<neurčeno>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
@@ -785,7 +800,7 @@ msgid ""
 "What do you want to do?"
 msgstr ""
 "Právě se nahrává...\n"
-"Co chcete udělat ?"
+"...co chcete udělat ?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:622
@@ -934,7 +949,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:753
 msgid "AUTOMATICALLY start service searching, press green to change"
-msgstr "Aut.spuštění vyhledávání kanálů ...zelené -> start..."
+msgstr "Aut.spuštění vyhledávání kanálů ... zelené -> start..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:379
 msgid "Abort"
@@ -971,7 +986,7 @@ msgstr "přesnost (vyšší je lepší)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:264
 msgid "Action"
-msgstr "-akce-"
+msgstr "akce"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -991,7 +1006,7 @@ msgstr "časovač > "
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:195
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1637
 msgid "Activate Picture in Picture"
-msgstr "aktivovat PiP - obraz v obrazu >>"
+msgstr ">>aktivovat PIP - obraz v obrazu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:217
 msgid "Active connection"
@@ -1104,7 +1119,7 @@ msgstr "> další info k programu :"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:122
 msgid "Additional event-time position"
-msgstr "...pozice časů dalšího infa :"
+msgstr "...pozice časů dalšího infa"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:614
 msgid "Address (IPv4)"
@@ -1118,7 +1133,7 @@ msgstr "adresa (IPv6)"
 msgid ""
 "Adds enigma2 settings and dreambox model informations like SN, rev... if "
 "enabled."
-msgstr "Přidat nast.Enigmy2 a model Dreamu jako SN, rev._"
+msgstr "Přidat nastavení Enigmy2 a model Dreamu jako SN, rev._"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Adjust network settings"
@@ -1182,7 +1197,7 @@ msgstr "obnovit Image E2 ze zálohy"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:509
 msgid "Advanced settings."
-msgstr "pokročilé nastavení"
+msgstr "pokročilá nastavení"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Advanced setup options"
@@ -1214,7 +1229,7 @@ msgstr "za název programu"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicename"
-msgstr "za název kanálu..."
+msgstr "za název kanálu"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicenumber"
@@ -1280,7 +1295,7 @@ msgstr "povolit 12 bit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:111
 msgid "Allow remote control via CEC"
-msgstr "povolit vzdálené ovládání přes CEC"
+msgstr "povolit dálkové ovládání přes CEC"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -1336,7 +1351,7 @@ msgstr "animace okna"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:95
 msgid "Anonymize crashlog?"
-msgstr "anonymní chybový záznam"
+msgstr "anonymní chybový záznam ?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Anti Scroll Setup"
@@ -1373,7 +1388,7 @@ msgid ""
 "Enigma2 will restart after the restore"
 msgstr ""
 "Chcete obnovit nastavení Enigmy2 ze zálohy ?\n"
-"Enigma2 se po dokončení aut.restartuje..."
+"Enigma2 se po dokončení aut.restartuje."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:107
@@ -1404,12 +1419,12 @@ msgstr "zeptat se..."
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:84
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Aspect Ratio"
-msgstr "poměr stran "
+msgstr "poměr stran"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:83
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:90
 msgid "Aspect ratio"
-msgstr "poměr stran "
+msgstr "poměr stran"
 
 #: enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml
 #: enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml./enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml
@@ -1439,11 +1454,11 @@ msgstr "bit.tok audia"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:640
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1918
 msgid "Audio Options..."
-msgstr "audio kanálu"
+msgstr "audio kanálu..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:125
 msgid "Audio PID"
-msgstr "audio - PID "
+msgstr "audio PID"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:310
 msgid "Audio Plugin Selection"
@@ -1455,7 +1470,7 @@ msgstr "nastavení restartu audia"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Sync"
-msgstr "- synchronizace audia"
+msgstr "synchronizace audia"
 
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:20
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:14
@@ -1469,7 +1484,7 @@ msgstr "audio systém (vynucený)"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "AudioPlayer"
-msgstr ""
+msgstr "AudioPlayer"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:497
 msgid "Authentication required"
@@ -1599,11 +1614,11 @@ msgid ""
 "the standby mode automatically. You can choose the period after which the "
 "standby mode will be activated or disable this functionality now."
 msgstr ""
-"Automatický režim spánku :\n"
+"Automatický režim spánku...\n"
 "\n"
 "Pokud nestisknete nějaké tlačítko na dálkovém ovladači, může sat.přijímač "
-"přejít do režimu spánku automaticky.  Zadejte sledovací dobu, po kterou bude "
-"tato funkce pro režim spánku aktivní."
+"přejít do režimu spánku automaticky.\n"
+"Nastavte aktivní čas nebo tuto funkci deaktivujte."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:142
 msgid "Automatic update checks"
@@ -1673,7 +1688,7 @@ msgstr "BASIC-HD skin pro Dreambox od Ismail Demir"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BAT"
-msgstr ""
+msgstr "BAT"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
@@ -1697,7 +1712,7 @@ msgstr "chyby:"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BLE"
-msgstr ""
+msgstr "BLE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
@@ -1786,7 +1801,7 @@ msgstr "Zazálohovat..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Backup settings"
-msgstr "Nastavení do zálohy..."
+msgstr "Nastavení zálohy..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:139
 msgid "Backup system settings"
@@ -1902,7 +1917,7 @@ msgstr "-- přehrává nekódované tituly z disků Bludisc"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:17
 msgid "Blue"
-msgstr ""
+msgstr "modrá"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:107
 msgid "Blue boost"
@@ -1910,12 +1925,12 @@ msgstr "zvýraznit modrou"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:19
 msgid "Bluetooth Frontprocessor Firmware"
-msgstr "Firmware pro bluetooth přijímač"
+msgstr "firmware pro bluetooth přijímač"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Bluetooth Remote Setup"
-msgstr ""
+msgstr "nastavení Bluetooth zařízení"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
@@ -1958,7 +1973,7 @@ msgstr ">jas v provozu"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Browse and manage your plugins."
-msgstr "Seznam nainstalovaných std.přídavných modulů_"
+msgstr "Seznam nainstalovaných std.modulů_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/plugin.py:26
 #: enigma2/usr/share/meta/plugin_browser.xml
@@ -2003,8 +2018,7 @@ msgstr "-- vypalování videa na DVD"
 msgid ""
 "By pressing the OK Button on your remote control, the info bar is being "
 "displayed."
-msgstr ""
-"Po stlačení tlačítka OK na dálkovém ovladači se zobrazí informační panel"
+msgstr "Přes tlačítko OK na dálkovém ovladači se zobrazí informační panel"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1723
@@ -2203,7 +2217,7 @@ msgstr ">vzhled seznamu kanálů ->"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Channellist menu"
-msgstr "Menu - programy akt.kanálů..."
+msgstr "Menu seznamu kanálů..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:450
@@ -2390,7 +2404,7 @@ msgstr "vyčistit log.protokol"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:173
 #: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
 msgid "Close"
-msgstr " zavřít"
+msgstr "zavřít"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:141
 msgid "Close MediaCenter Audioplayer"
@@ -2434,7 +2448,7 @@ msgstr "nastavení sestavy"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color"
-msgstr ""
+msgstr "barva"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -2508,7 +2522,7 @@ msgstr "komplexně, mixovat audio stopy a obraz"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Composition of the recording filenames"
-msgstr "názvy nahraných souborů (datum+název)"
+msgstr "názvy nahrávaných souborů (datum+název)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:44
 msgid "Configuration"
@@ -2534,11 +2548,11 @@ msgstr "Konfigurace syst.prostředí Enigmy2_"
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
 msgid "Configure HDMI CEC option"
-msgstr "ovládání TV přes HDMI"
+msgstr "Ovládání TV přes HDMI - CEC"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure and set up your Dreambox."
-msgstr "Konfigurace prostředí Dreamboxu_"
+msgstr "Konfig.prostředí Dreamboxu a nahrávání_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your common interface."
@@ -2546,7 +2560,7 @@ msgstr "konfigurace CI rozhraní"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
-msgstr ""
+msgstr "Konfigurace předního LED panelu."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel OLED or LCD display."
@@ -2679,7 +2693,7 @@ msgstr "Nelze načíst soubor : %s !"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1809
 #, python-format
 msgid "Couldn't record due to conflicting timer %s"
-msgstr "Nelze nahrávat - konflikt časovačů: %s !"
+msgstr "Nelze nahrávat - konflikt časovačů : %s !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1812
 #, python-format
@@ -3015,7 +3029,7 @@ msgstr "datový zdroj"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Database Manager"
-msgstr "správa databáze"
+msgstr "Správa databáze..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:145
 msgid "Database has been reset successfully!"
@@ -3038,11 +3052,11 @@ msgstr "---ODLADĚNÍ---"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Debug accel memory usage"
-msgstr "použít paměť pro urychlení zpracování ?"
+msgstr "použít paměť pro urychlení zpracování"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:94
 msgid "Decide if you want to enable or disable the Cleanup Wizard."
-msgstr "Použít nebo vyřadit průvodce pro čištění ?.."
+msgstr "Použít nebo vyřadit průvodce pro čištění_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:125
 msgid "Decide what should be done when crashlogs are found."
@@ -3140,13 +3154,13 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "odstranit protokoly o pádu"
+msgstr "odstranit chybové protokoly"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:512
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
 msgid "Delete entry"
-msgstr "odstranit záznam"
+msgstr "odstranit položku"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:673
@@ -3167,7 +3181,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:409
 msgid "Depends on"
-msgstr "závisí na "
+msgstr "závisí na"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:22
@@ -3398,7 +3412,7 @@ msgid ""
 "This could take lots of time!"
 msgstr ""
 "Chcete zkontrolovat souborový systém ?\n"
-"Může to trvat delší dobu..."
+"Může to trvat delší dobu."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:623
 msgid "Do you really want to clear the History?"
@@ -3533,7 +3547,7 @@ msgstr "Chcete povolit rodičovskou kontrolu na Dreamboxu ?"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Do you want to install default sat lists?"
-msgstr "Nainstalovat předvolený seznam kanálů ? OK -> pokračovat..."
+msgstr "Nainstalovat předvolený seznam kanálů ?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1276
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1646
@@ -3571,7 +3585,7 @@ msgstr "Chcete odebrat balíček ? :\n"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:240
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Do you want to restore your settings?"
-msgstr "Chcete obnovit původní nastavení ?.."
+msgstr "Chcete obnovit původní nastavení ?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2198
@@ -3605,7 +3619,7 @@ msgstr "nepřidávat tento záznam"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:29
 msgid "Don't ask again!"
-msgstr "znovu se nedotazovat"
+msgstr "znovu se nedotazovat !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
 msgid "Don't ask, just send"
@@ -3624,13 +3638,13 @@ msgid ""
 msgstr ""
 "Buďte v klidu, vaše zařízení je OK ! Je tu vloženo několik bezpečnostních "
 "mechanizmů.\n"
-"Box bude vrácený do původního stavu před procedůrou..."
+"Box bude vrácený do původního stavu před akcí..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:118
 #, python-format
 msgid "Done - Installed or upgraded %d packages"
-msgstr "Dokončena instalace nebo aktualizace %d modulů..."
+msgstr "Byla dokončena instalace nebo aktualizace %d modulů..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:59
 #, python-format
@@ -3643,11 +3657,11 @@ msgstr "...hotovo, není nic nového..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
 msgid "Down"
-msgstr ""
+msgstr "dolů"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:520
 msgid "Download"
-msgstr "Stáhnout"
+msgstr "stahování"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Downloads.py:7
 msgid "Download Manager"
@@ -3756,12 +3770,12 @@ msgstr "Chyba, selhalo prohledávání (%s) !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
-msgstr ""
+msgstr "chyba !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR! Frontprocessor Update"
-msgstr ""
+msgstr "CHyba aktualizace frontprocesoru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:109
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
@@ -3899,7 +3913,7 @@ msgstr ">>aktivovat rodičovskou kontrolu"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:296
 msgid "Enable automatic partition mounting?"
-msgstr "aktivovat aut.připojení disk.oddílu ?"
+msgstr "Aktivovat aut.připojení disk.oddílu ?"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4016,7 +4030,7 @@ msgstr "zadat webovou adresu nebo hledaný výraz"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1613
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
 msgid "Error"
-msgstr "Chyba"
+msgstr "chyba"
 
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:294
 #, python-format
@@ -4064,11 +4078,11 @@ msgstr "start makra :"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Console.py:56
 msgid "Execution finished!!"
-msgstr "Dokončeno !"
+msgstr "...dokončeno..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:139
 msgid "Exif"
-msgstr "Info"
+msgstr "info"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:35
@@ -4196,11 +4210,11 @@ msgstr "FTP prohlížeč"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "FTP Queue Manager"
-msgstr "FTP správce fronty"
+msgstr "FTP - správa fronty"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "FTP Server Editor"
-msgstr "FTP server.editor"
+msgstr "FTP - server editor"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "FTP Server Manager"
@@ -4209,7 +4223,7 @@ msgstr "správa FTP serveru"
 #
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Factory reset"
-msgstr "tovární nastavení ->"
+msgstr "tovární nastavení"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:49
@@ -4254,7 +4268,7 @@ msgstr "rychlý  DiSEqC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:40
 msgid "Fast Forward"
-msgstr ""
+msgstr "rychle vpřed"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4366,7 +4380,7 @@ msgstr "formátovat"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:112
 msgid "Forward Volume keys to TV/AVR"
-msgstr "předat nastavení hlasitosti do TV/AVR"
+msgstr "předat nastavení hlasitosti do TV / AVR"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:256
 msgid "Framerate"
@@ -4430,7 +4444,7 @@ msgstr "frekvence "
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Fri"
-msgstr "Pá"
+msgstr "pátek"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:138
@@ -4475,13 +4489,15 @@ msgstr "firmware frontprocesoru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:27
 msgid "Frontprocessor Update"
-msgstr ""
+msgstr "aktualizace frontprocesoru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid ""
 "Frontprocessor update failed\n"
 "Retrying!"
 msgstr ""
+"Aktualizace frontprocesoru se nezdařila !\n"
+"Opakovat !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid ""
@@ -4491,6 +4507,11 @@ msgid ""
 "'flash-nrf52 --program --verify --start'\n"
 "on a console manually"
 msgstr ""
+"Aktualizace frontprocesoru několikrát selhala !\n"
+"Kontaktujte podporu.\n"
+"Můžete zkusit spustit\n"
+"'flash-nrf52 --program --verify --start'\n"
+"na konzole ručně"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:30
 #, python-format
@@ -4528,7 +4549,7 @@ msgid ""
 "GUI needs a restart to apply a new skin\n"
 "Do you want to Restart the GUI now?"
 msgstr ""
-"Grafiku skinu je třeba znovu obnovit. \n"
+"Grafiku skinu je třeba znovu obnovit !\n"
 "  Chcete Enigmu2 restartovat ?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:616
@@ -4541,7 +4562,7 @@ msgstr "brána (IPv6)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:120
 msgid "General"
-msgstr "---OBECNÉ---"
+msgstr "---obecné---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:106
 msgid "General AC3 Delay"
@@ -4622,7 +4643,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/plugin.py:120
 msgid "Graphical Multi EPG"
-msgstr "graf.seznam programů kanálů >>"
+msgstr "graf.seznam programů"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:33
@@ -4631,7 +4652,7 @@ msgstr "řecky"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:18
 msgid "Green"
-msgstr ""
+msgstr "zelená"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:106
 msgid "Green boost"
@@ -4648,7 +4669,7 @@ msgstr "nastavení Growlee"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2716
 #, python-format
 msgid "Gstreamer error: %s"
-msgstr "Chyba Gstreamer : %s"
+msgstr "chyba Gstreamer : %s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1456
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:113
@@ -4663,7 +4684,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "ovládání TV přes HDMI - CEC"
+msgstr "ovládání TV přes HDMI"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -4676,7 +4697,7 @@ msgstr "Nastavení HDMI CEC..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:34
 msgid "HDMI CeC: Devices"
-msgstr "zařízení HDMI CeC"
+msgstr "zařízení HDMI CEC"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:100
 msgid "HDMI Input"
@@ -4870,11 +4891,11 @@ msgstr "IPKG - aktualizace..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:319
 msgid "IR-Mode LED color when connected to this dreambox"
-msgstr ""
+msgstr "barva LED diody v IR režimu při připojení k tomuto Dreamboxu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:126
 msgid "IR-Setup"
-msgstr ""
+msgstr "nastavení IR"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:305
 msgid "ISO file is too large for this filesystem!"
@@ -4895,11 +4916,11 @@ msgstr "vypnuto."
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Brightness"
-msgstr ""
+msgstr "nízký jas"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
-msgstr ""
+msgstr "bez barvy"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
@@ -4962,7 +4983,8 @@ msgstr "stav ..."
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:263
 msgid ""
 "In order to record a timer, the TV was switched to the recording service!\n"
-msgstr "Aby se mohlo nahrávat, bude TV přepnuta na tento kanál !\n"
+msgstr ""
+"Startuje nahrávání, box nemá prostor, potřebuje přepnout na kanál záznamu !\n"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:113
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:135
@@ -4985,7 +5007,7 @@ msgstr "index"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Info"
-msgstr "-info <>"
+msgstr "-info ->"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:38
@@ -5168,7 +5190,7 @@ msgstr "okamžitý záznam"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:127
 msgid "Instant record location"
-msgstr "předvolená složka pro okamžitý záznam..."
+msgstr "předvolená složka pro okamžitý záznam"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:16
@@ -5329,7 +5351,7 @@ msgstr "-- skin Kernis HD1"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Key Info"
-msgstr ""
+msgstr "info tlačítek"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:56
 msgid "Keyboard"
@@ -5352,7 +5374,7 @@ msgstr "mapování klávesnice"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED"
-msgstr ""
+msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
@@ -5360,7 +5382,7 @@ msgstr "modrá přední LED"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr ""
+msgstr "nastavení LED"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -5390,7 +5412,7 @@ msgstr "LPCM,"
 #
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Language"
-msgstr "volba jazyka dialogu"
+msgstr "jazyk dialogu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:129
@@ -5494,7 +5516,7 @@ msgstr "úložná zařízení"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Listen to radio stations."
-msgstr "poslouchat rozhlasové stanice"
+msgstr "rozhlasové stanice"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:36
@@ -5760,7 +5782,7 @@ msgstr "MediaCenter: základní nastavení"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MediaCenter:Main Settings"
-msgstr ""
+msgstr "MediaCenter : základní nastavení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:146
 msgid "MediaDatabase RESET!"
@@ -5783,7 +5805,7 @@ msgid ""
 "possible actions like viewing pictures or playing movies."
 msgstr ""
 "MediaScanner analyzuje soubory videa a zobrazí menu s odpovídajícími akcemi "
-"pro prohlížení obrázků nebo videa"
+"pro prohlížení obrázků nebo videa."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:152
 msgid "Mediabrowser Selection"
@@ -5850,7 +5872,7 @@ msgstr "Merlin Program Guide"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Message"
-msgstr "- Info -"
+msgstr "- info -"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -5886,7 +5908,7 @@ msgstr "mód zobrazení"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:231
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1411
 msgid "Model"
-msgstr "model "
+msgstr "model"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:464
@@ -5906,7 +5928,7 @@ msgstr "modulace "
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Mon"
-msgstr "Po"
+msgstr "pondělí"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:123
@@ -5928,7 +5950,7 @@ msgstr "pondělí"
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:149
 msgid "More ..."
-msgstr "další volby..."
+msgstr "další volby"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:110
 msgid "Mosquito noise reduction"
@@ -6060,7 +6082,7 @@ msgstr "vícenásobné sdílení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:69
 msgid "Music"
-msgstr "audio přehrávač"
+msgstr "Audio přehrávač"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:208
 msgid "Music and Audiobooks"
@@ -6164,7 +6186,7 @@ msgstr "kanál "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Bookmarks.py:32
 msgid "Name:"
-msgstr "Název :"
+msgstr "název :"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:85
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:91
@@ -6183,7 +6205,7 @@ msgstr "Vyžaduje pozornost !"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:436
 msgid "Netmask"
-msgstr "maska sítě "
+msgstr "maska sítě"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:44
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:135
@@ -6252,7 +6274,7 @@ msgstr "technologie sítě"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Network:Service configuration"
-msgstr ""
+msgstr "síť : konfigurace služby"
 
 #
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -6321,7 +6343,7 @@ msgstr "další kontrola"
 #: enigma2/usr/share/enigma2/restorewizard.xml
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No"
-msgstr "Ne"
+msgstr "-ne-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:302
 msgid "No (supported) DVDROM found!"
@@ -6369,7 +6391,7 @@ msgstr "Popis není dostupný !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:146
 msgid "No details available..."
-msgstr "Detaily nejsou dostupné..."
+msgstr "Detaily nejsou dostupné !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:46
 msgid "No displayable files on this medium found!"
@@ -6453,7 +6475,7 @@ msgstr "Chybí signál !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:464
 msgid "No tags are set on these movies."
-msgstr "Tato videa nemají nastavené značky "
+msgstr "Tato videa nemají nastavené značky"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 msgid "No to all"
@@ -6470,7 +6492,7 @@ msgid ""
 "No tuner is enabled!\n"
 "Please setup your tuner settings before you start a service scan."
 msgstr ""
-"Není povolený žádný tuner!\n"
+"Není povolený žádný tuner !\n"
 "Nastavte tuner před tím, než začnete prohledávat kanály !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:68
@@ -6759,7 +6781,7 @@ msgstr "OK -> odebrat některé moduly..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:130
 msgid "ONID"
-msgstr "ONID "
+msgstr "ONID"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:122
 msgid "OSD"
@@ -6873,7 +6895,7 @@ msgstr "pozice na orbitě "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:42
 msgid "Other"
-msgstr "---OSTATNÍ---"
+msgstr "další"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Overall progress:"
@@ -6907,7 +6929,7 @@ msgstr "PCM,"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:126
 msgid "PCR PID"
-msgstr "PCR PID "
+msgstr "PCR PID"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:54
 msgid "PGS Bluray subs"
@@ -6920,7 +6942,7 @@ msgstr "přehled PID "
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:387
 msgid "PIN"
-msgstr "Pin"
+msgstr "PIN"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "PIN WARNING"
@@ -6953,11 +6975,11 @@ msgstr "mód PLS"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:127
 msgid "PMT PID"
-msgstr "PMT PID "
+msgstr "PMT PID"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:26
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -6993,7 +7015,7 @@ msgstr "o stránku dolů / zmenšit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:283
 msgid "Page Up / Zoom in"
-msgstr "o stránku  / zvětšit"
+msgstr "o stránku ↑  / zvětšit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:445
 msgid "Page to load on startup"
@@ -7073,11 +7095,11 @@ msgstr "Nastavení Partnerboxu..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:Edit Entry"
-msgstr ""
+msgstr "Partnerbox : upravit zadání"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:List of Entries"
-msgstr ""
+msgstr "Partnerbox : seznam položek"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:228
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:243
@@ -7213,7 +7235,7 @@ msgid ""
 "Play UPnP/DLNA media controlled from an UPnP/DLNA controlpoint on your "
 "dreambox."
 msgstr ""
-"Přehrát UPnP/DLNA médium ovládané z UPnP/DLNA kontrolního bodu na Dreamboxu"
+"Přehrát UPnP/DLNA médium ovládané z UPnP/DLNA kontrolního bodu na Dreamboxu."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:253
 msgid "Play and watch all your media."
@@ -7226,7 +7248,7 @@ msgstr "Přehraje soubory videa_"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:57
 msgid "Play recorded movies..."
-msgstr "PVR - nahrané ... menu EasyMedia"
+msgstr "Přehrát nahraná videa..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:32
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:146
@@ -7236,15 +7258,15 @@ msgstr "přehrát / pauza"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:13
 msgid "Playback Device"
-msgstr "projektor"
+msgstr "přehrávací zařízení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:17
 msgid "Playback Device 2"
-msgstr "projektor 2"
+msgstr "přehrávací zařízení 2"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:20
 msgid "Playback Device 3"
-msgstr "projektor 3"
+msgstr "přehrávací zařízení 3"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:206
 msgid "Playlist has been saved!"
@@ -7282,7 +7304,7 @@ msgstr "Bez zadání pinu je rodičovská kontrola málo účinná !"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1855
 msgid "Please change recording endtime"
-msgstr "Změňte nahrávácí dobu !"
+msgstr "Změňte čas dokončení záznamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:808
@@ -7298,7 +7320,7 @@ msgstr "Vyberte balíček..."
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/DefaultServicelistStep.py:18
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
 msgid "Please choose the default service list you want to install."
-msgstr "předvolený seznam kanálů...  OK -> pokračovat..."
+msgstr "Vyberte předvolený seznam kanálů."
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Please configure at least on set of IP Addresses (IPv4 or IPv6)."
@@ -7321,7 +7343,7 @@ msgstr "Zadejte název pro novou sadu kanálů"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:335
 msgid "Please enter a name for the new marker"
-msgstr "Zadejte text pro novou popisku ke kanálu..."
+msgstr "Zadejte text pro novou popisku kanálu..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:383
@@ -7352,7 +7374,7 @@ msgid ""
 "pressing OK."
 msgstr ""
 "Zadejte složku, kterou použijete jako připojovací bod nebo zvolte složku "
-"stlačením tlačítka OK"
+"stlačením tlačítka OK."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:354
 msgid "Please enter the old PIN code"
@@ -7375,8 +7397,8 @@ msgid ""
 "Please make sure to set up your default storage device in menu -> setup -> "
 "system -> recording paths."
 msgstr ""
-"Zkontrolujte nastavení HDD pro ukládání v Menu -> nastavení >> -> úložná "
-"zařízení, disky >> -> úložná zařízení, disky"
+"Zkontrolujte nastavení HDD pro ukládání : Menu -> nastavení -> systém -> "
+"složky pro nahrávání"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:349
 msgid ""
@@ -7393,8 +7415,8 @@ msgid ""
 "Please make sure to set up your storage devices with the storage management "
 "in menu -> setup -> system -> storage devices."
 msgstr ""
-"Nezapomeňte nastavit úložné zařízení v Menu -> Nastavení -> Systém -> Úložné "
-"zařízení"
+"Zkontrolujte připojení disku v hl.menu -> nastavení -> periférie, HDD, HDMI -"
+"> úložná zařízení, disky !"
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:427
 msgid ""
@@ -7471,13 +7493,13 @@ msgstr "Vyberte modul pro úložné zařízení"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:434
 msgid "Please select a subservice to record..."
-msgstr "Vyberte pod-program pro nahrávání..."
+msgstr "Vyberte program pro nahrávání..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SubservicesQuickzap.py:120
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2023
 msgid "Please select a subservice..."
-msgstr "Vyberte pod-program..."
+msgstr "Vyberte program..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:292
 msgid "Please select an HbbTV application"
@@ -7572,7 +7594,7 @@ msgstr "Vyberte umístění, odkud chcete převzít aktuální stream"
 #: enigma2/usr/lib/enigma2/python/Screens/StartWizard.py:119
 #, python-format
 msgid "Please set up tuner %s"
-msgstr "Nastavte tuner : %s, OK -> pokračovat..."
+msgstr "nastavte tuner : %s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:112
 msgid ""
@@ -7608,8 +7630,8 @@ msgid ""
 "Please verify if your default storage device is attached or set up your "
 "default storage device in menu -> setup -> system -> recording paths."
 msgstr ""
-"Zkontrolujte, zda máte nastavené složky pro ukládání ! Nastavte ho v Menu -> "
-"nastavení -> služby, tunery a nahrávání -> složky pro nahrávání..."
+"Zkontrolujte, zda máte nastavené složky pro ukládání ! Menu -> nastavení -> "
+"služby, tunery a nahrávání -> složky pro nahrávání..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:116
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:122
@@ -7671,7 +7693,7 @@ msgstr "údaje o modulu"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Plugin manager"
-msgstr "správce modulu"
+msgstr "správa modulů"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:983
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -7774,7 +7796,7 @@ msgstr "-- nastavení pozice a motorové otáčení paraboly"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:15
 msgid "Power"
-msgstr ""
+msgstr "napájení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:86
 msgid "Power Handling"
@@ -7782,11 +7804,11 @@ msgstr "---OBSLUHA NAPÁJECÍCH ZDROJŮ---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:90
 msgid "Power on AV-Receiver"
-msgstr "zapnout zdroj TV"
+msgstr "zapnout AV přijímač"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:95
 msgid "Power on/off based on CEC Events"
-msgstr "zapnout zdroj podle CEC programu"
+msgstr "zap./vyp. na základě událostí CEC"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:73
@@ -7845,7 +7867,7 @@ msgstr "OK -> pokračovat..."
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:470
 #, python-format
 msgid "Press OK to %s the subtitle track %s and close"
-msgstr "OK -> %s titulky : %s "
+msgstr "OK -> %s titulky : %s a zavřít"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:34
 msgid "Press OK to activate the selected skin."
@@ -7858,7 +7880,7 @@ msgstr "OK -> použít..."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:186
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
-msgstr ""
+msgstr "OK -> přiřadit %s klávesy k '%s'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:216
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:324
@@ -7952,7 +7974,7 @@ msgstr "<< předchozí"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:43
 msgid "Preview"
-msgstr "---NÁHLED---"
+msgstr "---náhled---"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Preview AutoTimer"
@@ -8008,7 +8030,7 @@ msgstr "chránit kanály"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:81
 msgid "Protect setup"
-msgstr "nastavit zabezpečení ! změní se bez uložení ! "
+msgstr "nastavit zabezpečení, změní se bez uložení !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2009
@@ -8109,7 +8131,7 @@ msgstr "menu dálkového ovladače"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid "RETRYING!"
-msgstr ""
+msgstr "Obnovit !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:76
@@ -8131,7 +8153,7 @@ msgstr "server RTSP..."
 #: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Radio"
-msgstr "-rádio-"
+msgstr "kanály rádia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Random"
@@ -8266,7 +8288,7 @@ msgstr ">nahrávání"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Recordings always have priority"
-msgstr "nahrávání má vždy prioritu !"
+msgstr "Nahrávání má vždy prioritu !"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Recovery Mode"
@@ -8274,7 +8296,7 @@ msgstr "...servisní mód ..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:16
 msgid "Red"
-msgstr ""
+msgstr "červená"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:327
 msgid "Reenter new PIN"
@@ -8294,8 +8316,8 @@ msgid ""
 "Refresh rate\n"
 "Use up/down buttons."
 msgstr ""
-"Obnovovací frekvence\n"
-"Použijte tl.nahoru / dolů"
+"Obnovovací frekvence,\n"
+"použijte tl.nahoru / dolů"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:169
 msgid ""
@@ -8325,7 +8347,7 @@ msgstr "region"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1540
 msgid "Reload"
-msgstr "znovu načíst "
+msgstr "znovu načíst"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:104
 msgid "Reload Black-/Whitelists"
@@ -8364,11 +8386,11 @@ msgstr "editor vzdálených časovačů"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:110
 msgid "Remote control"
-msgstr "---VZDÁLENÉ OVLÁDÁNÍ---"
+msgstr "---dálkové ovládání---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:113
 msgid "Remote control repeat delay (ms)"
-msgstr "vzdálené ovládání - prodleva opakování (ms)"
+msgstr "dálkové ovládání - prodleva opakování (ms)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remote timer entry"
@@ -8513,7 +8535,7 @@ msgstr "způsob opakování"
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:102
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1735
 msgid "Repeating event currently recording... What do you want to do?"
-msgstr "Právě se nahrává stejný pořad... Co chcete udělat ?"
+msgstr "Právě se nahrává totožný pořad... Co chcete udělat ?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:196
@@ -8658,7 +8680,7 @@ msgstr "pokračovat od poslední pozice"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2198
 #, python-format
 msgid "Resume position at %s"
-msgstr "...od pozice :  %s"
+msgstr "...pokračovat od pozice :  %s"
 
 #
 #. TRANSLATORS: The string "Resuming playback" flashes for a moment
@@ -8670,7 +8692,7 @@ msgstr "...od pozice :  %s"
 #. TRANSLATORS: question or a choice, but it is a statement.)
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2207
 msgid "Resuming playback"
-msgstr "Obnovuji přehrávání..."
+msgstr "Obnovit přehrávání..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Retro GameStation"
@@ -8697,7 +8719,7 @@ msgstr "zpět na předchozí kanál"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:41
 msgid "Rewind"
-msgstr ""
+msgstr "přetočit"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -8810,7 +8832,7 @@ msgstr "SSA stanice Alpha"
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Sat"
-msgstr "So"
+msgstr "sobota"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -9085,7 +9107,7 @@ msgstr "-- prohledání kanálů (lamedb), podle satelitů"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DefaultServicesScanner/plugin.py:140
 msgid ""
 "Scans default lamedbs sorted by satellite with a connected dish positioner"
-msgstr "prohledat standardní lamedbs řazený podle setelitu a pozicionéru"
+msgstr "-- vyhledání kanálů podle satelitů se změnou pozice"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:835
 #, python-format
@@ -9127,7 +9149,7 @@ msgstr "hledat západně"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Search with 0-9:"
-msgstr ""
+msgstr "hledat od 0 do 9 :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:599
 msgid "Searching for available updates. Please wait..."
@@ -9146,7 +9168,7 @@ msgstr "posunout (min)"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:150
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:56
 msgid "Select"
-msgstr "zvolit"
+msgstr "zvolit..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -9244,7 +9266,7 @@ msgstr "Vybrat kanál pro přidání..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:489
 msgid "Select storage device."
-msgstr "Vybrat úložné zařízení"
+msgstr "vybrat úložné zařízení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/RemoteControlSelection/plugin.py:90
 msgid "Select the remote you're using"
@@ -9383,7 +9405,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service:Name server configuration"
-msgstr ""
+msgstr "služba : nastavení názvu serveru"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -9430,11 +9452,11 @@ msgstr "Čas, po kterém se Dreambox vypne_"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1100
 #, python-format
 msgid "Set up as default %(desc)s."
-msgstr "nastavit jako předvolené : %(desc)s"
+msgstr "nastavit jako předvolbu : %(desc)s"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up parental control."
-msgstr "Nastavení rodičovské kontroly (! zapíše postavení)_"
+msgstr "Nastavit rodičovskou kontrolu (! zapíše postavení)_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your Dreambox language."
@@ -9446,7 +9468,7 @@ msgstr "Nastavení interní sítě LAN_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
-msgstr ""
+msgstr "Nastavení dálkového ovládání Bluetooth"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:75
 msgid "Set up your keyboard."
@@ -9458,7 +9480,7 @@ msgstr "nastavit úložné zařízení ?"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your storage devices like harddisks and flash memory cards."
-msgstr "Zařízení pro data - harddisk, USB disk, paměť flash_"
+msgstr "Datová zařízení, harddisk, USB disk, flash_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your system timezone."
@@ -9482,7 +9504,7 @@ msgstr "Nastavení nového kódování na {0} selhalo ! (chybný zdroj)"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Settings"
-msgstr "nastavení "
+msgstr "nastavení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:463
 msgid "Settings have been saved successfully!"
@@ -9664,7 +9686,7 @@ msgstr "vypnout"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Shutdown Color"
-msgstr ""
+msgstr "barva při vypnutí"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:44
@@ -9693,7 +9715,7 @@ msgstr "základní"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Simple RSS Reader Setup"
-msgstr "Jednoduchá RSS čtečka - nastavení"
+msgstr "jednoduchá RSS čtečka - nastavení"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Simple RSS Ticker"
@@ -9720,7 +9742,7 @@ msgstr "aktuální kanál"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:241
 msgid "Single EPG"
-msgstr "akt.programy..."
+msgstr "akt.programy"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1684
@@ -9788,7 +9810,7 @@ msgstr "skluz zleva > vpravo"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in left + Slide out right (Wizard)"
-msgstr "skluz zleva    > vpravo"
+msgstr "skluz zleva   - vpravo"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in right + Slide out left"
@@ -9796,7 +9818,7 @@ msgstr "skluz zprava > vlevo"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in right + Slide out left (Wizard)"
-msgstr "skluz zprava  > vlevo"
+msgstr "skluz zprava  - vlevo"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in top + Slide out bottom"
@@ -9877,7 +9899,7 @@ msgstr "aktualizovat software"
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml./enigma2/usr/share/meta/plugin_softwaremanager.xml
 msgid "SoftwareManager manages your Dreambox software"
-msgstr "-- správce pro software Dreamboxu"
+msgstr "-- správa software Dreamboxu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:461
 msgid "Softwaremanager information"
@@ -9964,7 +9986,7 @@ msgstr "---KONTROLA STAVU---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:198
 msgid "Speed"
-msgstr "otáčky :"
+msgstr "otáčky"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:102
 msgid "Split preview mode"
@@ -10026,7 +10048,7 @@ msgstr "začít na aktuálním kanálu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:814
 msgid "Start with current service instead of first service."
-msgstr "začít na aktuálním kanálu, ne na prvním"
+msgstr "začít na aktuálním kanálu, ne = na prvním"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:220
@@ -10064,7 +10086,7 @@ msgstr "krok západně"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:239
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:36
 msgid "Stop"
-msgstr "Stop"
+msgstr "stop"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:147
 msgid "Stop Playback"
@@ -10176,7 +10198,7 @@ msgstr "chyba sdílení :  %s"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1932
 msgid "Subservice list..."
-msgstr "zelené tl. - PIP"
+msgstr "zelené tl. (PIP)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -10218,7 +10240,7 @@ msgstr "Úspěšně odpojeno ze Fstab"
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Sun"
-msgstr "Ne"
+msgstr "neděle"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:138
@@ -10313,7 +10335,7 @@ msgstr "TV (vynucená)"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:101
 msgid "TV Services"
-msgstr "TV kanál, "
+msgstr "TV kanál,"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -10323,7 +10345,7 @@ msgstr "TV systém"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 msgid "TXT"
-msgstr ""
+msgstr "TXT"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:128
 msgid "TXT PID"
@@ -10348,7 +10370,7 @@ msgstr "značka 2"
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:234
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:367
 msgid "Tags"
-msgstr "označit žánr záznamu..."
+msgstr "označit žánr záznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:449
 msgid "Target directory for downloads"
@@ -10444,9 +10466,8 @@ msgid ""
 "has dropped below a definable threshold.You can use this wizard to remove "
 "some plugins."
 msgstr ""
-"CleanupWizard podává informace o volné interní paměti sat.přijímače v "
-"okamžiku, kdy klesne pod nastavenou mez. Přes tohoto průvodce lze odebrat "
-"některé nepoužívané moduly."
+"Podává hlášení o volné interní paměti sat.přijímače, pokud poklesne pod "
+"nastavenou mez."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:365
 msgid "The DVD standard doesn't support H.264 (HDTV) video streams."
@@ -10457,6 +10478,8 @@ msgid ""
 "The Frontprocessor was updated successfully!\n"
 "Your Dreambox will now be restarted!"
 msgstr ""
+"Frontprocesor byl úspěšně aktualizovaný.\n"
+"Dreambox se nyní restartuje !"
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -10609,7 +10632,7 @@ msgstr "Složka %s již existuje"
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:271
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 msgid "The pin code you entered is wrong."
-msgstr "Zadaný PIN kód je chybný !"
+msgstr "Zadaný PIN je chybný !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:527
 #, python-format
@@ -10784,11 +10807,11 @@ msgstr "Tento modul je připravený pro nastavení sítě Dreamboxu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1103
 msgid "This plugin will be installed."
-msgstr "Nainstalovat zásuvný modul "
+msgstr "nainstalovat zásuvný modul"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1105
 msgid "This plugin will be removed."
-msgstr "Odebrat zásuvný modul "
+msgstr "odebrat zásuvný modul"
 
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
@@ -10804,8 +10827,8 @@ msgid ""
 "This will reset all CeC settings to their factory defaults\n"
 "Continue?"
 msgstr ""
-"Resetujete všechno nastavení CeC podle předvoleb !\n"
-"Pokračovat ?"
+"Resetujete všechno nastavení CEC podle předvoleb !\n"
+" Pokračovat ?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1774
@@ -10824,7 +10847,7 @@ msgstr "práh"
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Thu"
-msgstr "Čt"
+msgstr "čtvrtek"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:106
 msgid "Thumbnails"
@@ -11053,7 +11076,7 @@ msgstr "přenos"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:488
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:117
 msgid "Transponder"
-msgstr "Transpondér"
+msgstr "transpondér"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:758
 msgid "Transponder searching finished!"
@@ -11102,7 +11125,7 @@ msgstr "          ...stahuji data, čekejte..."
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Tue"
-msgstr "Út"
+msgstr "úterý"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:138
@@ -11277,7 +11300,7 @@ msgid ""
 "Error: "
 msgstr ""
 "Nelze dokončit kontrolu souborového systému !\n"
-"Chyba :"
+"chyba : "
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1183
 #, python-format
@@ -11396,7 +11419,7 @@ msgstr "až do : %s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:20
 msgid "Up"
-msgstr ""
+msgstr "nahoru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:678
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:33
@@ -11619,15 +11642,15 @@ msgstr "-- skin Vali.HD.warp"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
-msgstr ""
+msgstr "seznam prodejců"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:135
 msgid "Vendors"
-msgstr ""
+msgstr "prodejci"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Verbose FileWatch Debug output"
-msgstr ""
+msgstr "podrobný výstup ladění FileWatch"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:63
 msgid "Verifying firmware..."
@@ -11662,7 +11685,7 @@ msgstr "---NASTAVENÍ OBRAZU---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:252
 msgid "Video Bitrate"
-msgstr " bit.tok videa"
+msgstr "bit.tok videa"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:312
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:324
@@ -11702,7 +11725,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:59
 msgid "Video Output"
-msgstr "výstup videa..."
+msgstr "výstup videa"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:124
 msgid "Video PID"
@@ -11804,7 +11827,7 @@ msgstr "-- rozšířené nastavení videa"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:217
 msgid "Videos"
-msgstr "Videos"
+msgstr "videa, filmy"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:1017
 msgid "View Movies..."
@@ -11812,7 +11835,7 @@ msgstr "Zobrazit videa..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:162
 msgid "View Movies... (MediaCenter)"
-msgstr "Prohlížet video... (MediaCenter)"
+msgstr "prohlížet video... (přes MediaCenter)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:738
 msgid "View Photos..."
@@ -11898,15 +11921,15 @@ msgstr "napěťový mód"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Volume"
-msgstr ">hlas>>"
+msgstr "hlasitost"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:38
 msgid "Volume +"
-msgstr ""
+msgstr "hlasitost +"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:39
 msgid "Volume -"
-msgstr ""
+msgstr "hlasitost  -"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:55
@@ -11961,7 +11984,7 @@ msgstr "Webové rozhraní - nastavení..."
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Webinterface:Main Setup"
-msgstr ""
+msgstr "Webinterface : základní nastavení"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
@@ -11969,7 +11992,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Wed"
-msgstr "St"
+msgstr "středa"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:138
@@ -11997,10 +12020,10 @@ msgid ""
 msgstr ""
 "Editor střihu...\n"
 "\n"
-"Začátek střihu - stiskněte OK ... v menu: 'začít střih zde', Konec střihu - "
-"stiskněte OK,. v menu: 'ukončit střih zde'\n"
+"začátek střihu -> stiskněte OK ... v menu: 'začít střih zde', konec střihu -"
+"> stiskněte OK,. v menu: 'ukončit střih zde'\n"
 "\n"
-"Exit ... Střih videa - ořezat podle značek…"
+"Exit ... střih videa - ořezat podle značek…"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -12077,7 +12100,7 @@ msgstr "Co chcete prohledat ?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:94
 msgid "What to do with submitted crashlogs?"
-msgstr "co udělat s chybovým protokolem"
+msgstr "co udělat s chybovým protokolem ?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/FactoryReset.py:5
 msgid ""
@@ -12228,7 +12251,7 @@ msgstr "rok"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:19
 msgid "Yellow"
-msgstr ""
+msgstr "žlutá"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:27
@@ -12273,12 +12296,12 @@ msgstr "ano - ale pouze některé"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:131
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:150
 msgid "Yes, but play next service"
-msgstr "ano  - ale spustit následující"
+msgstr "ano  - a spustit následující"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:133
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:152
 msgid "Yes, but play previous service"
-msgstr "ano  - ale spustit předchozí"
+msgstr "ano  - a spustit předchozí"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12303,12 +12326,12 @@ msgstr "ano  - vypnout Dreambox"
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SettingsRestoreStep.py:16
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Yes, restore the settings now"
-msgstr "ano  - obnovit nastavení"
+msgstr "ano  - a obnovit nastavení"
 
 #
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
 msgid "Yes, view the tutorial"
-msgstr "ano  - zobrazit manuál"
+msgstr "ano  - a zobrazit manuál"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1103
 msgid "You can cancel the installation."
@@ -12347,7 +12370,7 @@ msgstr "Můžete odstranit tento zásuvný modul..."
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:135
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:294
 msgid "You cannot delete this!"
-msgstr "Toto nelze odstranit !"
+msgstr "Nemůžete toto smazat !"
 
 #
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
@@ -12478,8 +12501,8 @@ msgstr ""
 "Dreambox nabízí tři úrovně konfigurace :\n"
 "\n"
 "Základní - doporučujeme, pokud je to Váš první kontakt s Dreamboxem\n"
-"Střední  - nastavení, převážně pro grafické rozhraní a základní funkce\n"
-"Expert   - kompletní přístup do nastavení Dreamboxu.\n"
+"Střední   - nastavení převážně pro grafické rozhraní a základní funkce\n"
+"Expert    - kompletní přístup do nastavení Dreamboxu.\n"
 "\n"
 "Upozornění : nejvyšší úroveň je také složitější pro orientaci v problému."
 
@@ -12777,7 +12800,7 @@ msgstr "před název kanálu"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:199
 msgid "all"
-msgstr "vše"
+msgstr "-vše-"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:199
 msgid "allocations"
@@ -12786,7 +12809,7 @@ msgstr "přidělit"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:80
 msgid "alphabetic sort"
-msgstr "↓A-Z"
+msgstr "↕A-Z"
 
 #: enigma2/usr/lib/enigma2/python/Components/AudioHardware.py:72
 msgid "always"
@@ -13033,7 +13056,7 @@ msgstr "zrušit přesun"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:830
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:844
 msgid "disabled"
-msgstr "vyp."
+msgstr "zakázáno"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:75
@@ -13045,7 +13068,7 @@ msgstr "odpojený"
 #: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1713
 msgid "do nothing"
-msgstr "nedělat nic..."
+msgstr "nedělat nic"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1719
@@ -13119,7 +13142,7 @@ msgstr "povolit úpravu oblíbených"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:205
 msgid "enable move mode"
-msgstr "aktivovat přesuny položek"
+msgstr "aktivovat přesun položek"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:833
@@ -13274,7 +13297,7 @@ msgstr "skrýt přehrávač do pozadí"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "hide/visible entry"
-msgstr "skrýt položku"
+msgstr "skrýt/zobr.položku"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:71
 msgid "high"
@@ -13468,7 +13491,7 @@ msgstr "manuálně"
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:253
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:149
 msgid "menu"
-msgstr "...menu..."
+msgstr "menu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:72
@@ -13740,7 +13763,7 @@ msgstr "přehrát od předchozí značky nebo seznamu"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:98
 msgid "please press OK when ready"
-msgstr "stiskněte OK, až budete připraveni..."
+msgstr "Stiskněte OK, až budete připraveni..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:548
@@ -13979,7 +14002,7 @@ msgstr "krátký popis"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:353
 msgid "show DVD main menu"
-msgstr "zobrazit hlavní menu DVD "
+msgstr "otevřít hlavní menu DVD"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:647
@@ -14035,7 +14058,7 @@ msgstr "zobrazí menu pro vypnutí"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:638
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:804
 msgid "show single service EPG..."
-msgstr "žluté tl. - programy kanálu"
+msgstr "žluté tl. (programy kanálu)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:262
@@ -14187,7 +14210,7 @@ msgstr "přepnout na další náhled"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:362
 msgid "switch to the next audio track"
-msgstr "přepnout na další zvukovou stopu"
+msgstr "přepnout na další audio stopu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:363
@@ -14277,12 +14300,12 @@ msgstr "vertikální"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1508
 msgid "view extensions..."
-msgstr "modré tl. -mo_menu"
+msgstr "modré tl. (rozšířené menu)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:74
 msgid "view recordings..."
-msgstr "nahrané ... menu EasyMedia"
+msgstr "zobrazit nahrané..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:36
@@ -14327,7 +14350,7 @@ msgstr "bílý sezn. -povolené kanály"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:261
 msgid "working"
-msgstr "pracuji..."
+msgstr "...pracuji..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -14367,9 +14390,7 @@ msgstr "ano - ponechat vybrané"
 msgid ""
 "your dreambox might be unusable now. Please consult the manual for further "
 "assistance before rebooting your dreambox."
-msgstr ""
-"Dreambox není použitelný ! Vyhledejte v manuálu další pomoc před restartem "
-"přijímače."
+msgstr "Dreambox přestal fungovat ! Vyhledejte v manuálu možnou příčinu."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:104
