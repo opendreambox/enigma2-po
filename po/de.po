@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-10-29 22:40+0000\n"
-"Last-Translator: dhwz <dhwz@gmx.net>\n"
+"PO-Revision-Date: 2020-11-01 19:30+0000\n"
+"Last-Translator: Gorgone Impertinence <gorgone.rult@gmail.com>\n"
 "Language-Team: German <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/de/>\n"
 "Language: de\n"
@@ -4872,11 +4872,11 @@ msgstr "HDMI CEC Konfiguration"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:161
 msgid "HDMI CEC: Setup"
-msgstr "HDMI CEC: Setup"
+msgstr "HDMI CEC: Einrichtung"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:34
 msgid "HDMI CeC: Devices"
-msgstr "HDMI CeC: Geräte"
+msgstr "HDMI CEC: Geräte"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:100
 msgid "HDMI Input"
@@ -7038,6 +7038,7 @@ msgid "OSD"
 msgstr "OSD"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:85
+#, fuzzy
 msgid "OSD Name"
 msgstr "OSD Name"
 
@@ -8107,11 +8108,11 @@ msgstr "Standby Handling"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:90
 msgid "Power on AV-Receiver"
-msgstr "AV-Receiver einschalten"
+msgstr "Einschalten des AV-Empfängers"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:95
 msgid "Power on/off based on CEC Events"
-msgstr "An/Ausschalten auf Basis von CEC-Ereignissen"
+msgstr "Ein-/Ausschalten aufgrund von CEC-Ereignissen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:73
@@ -8714,11 +8715,11 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:110
 msgid "Remote control"
-msgstr "Fernbedienung"
+msgstr "Fernsteuerung"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:113
 msgid "Remote control repeat delay (ms)"
-msgstr "Wiederholungsverzögerung für Fernbedienung (ms)"
+msgstr "Wiederholungsverzögerung der Fernbedienung (ms)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remote timer entry"
@@ -8913,7 +8914,7 @@ msgstr "Titelnamen zurücksetzen und neu nummerieren"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:130
 msgid "Reset to defaults?"
-msgstr "Auf Standard zurücksetzen?"
+msgstr "Auf Standardwerte zurücksetzen?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:265
@@ -10391,7 +10392,7 @@ msgstr "Splitscreen für Vorschau-Modus"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Stalker Middleware Client Configuration"
-msgstr "Stalker Middleware Klient-Konfiguration"
+msgstr "Stalker-Middleware-Client-Konfiguration"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:85
@@ -11279,7 +11280,8 @@ msgid ""
 "This will reset all CeC settings to their factory defaults\n"
 "Continue?"
 msgstr ""
-"Dies setzt alle CeC Einstellungen auf Werkeinstellung zurück!\n"
+"Dadurch werden alle CEC-Einstellungen auf die Werkseinstellungen "
+"zurückgesetzt.\n"
 "Fortfahren?"
 
 #
@@ -11628,14 +11630,17 @@ msgid "Tuner "
 msgstr "Tuner "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:15
+#, fuzzy
 msgid "Tuner 2"
 msgstr "Tuner 2"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:16
+#, fuzzy
 msgid "Tuner 3"
 msgstr "Tuner 3"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:19
+#, fuzzy
 msgid "Tuner 4"
 msgstr "Tuner 4"
 
