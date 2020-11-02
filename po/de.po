@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-11-01 19:48+0000\n"
+"PO-Revision-Date: 2020-11-02 15:53+0000\n"
 "Last-Translator: dhwz <dhwz@gmx.net>\n"
 "Language-Team: German <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/de/>\n"
@@ -2843,7 +2843,7 @@ msgstr "Neue Playlist erstellen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1333
 msgid "Create directory"
-msgstr "Verzeichnis anlegen"
+msgstr "Verzeichnis erstellen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:375
@@ -6557,7 +6557,7 @@ msgstr "Neue Version:"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:540
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:65
 msgid "Next"
-msgstr "Vor"
+msgstr "Weiter"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:47
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:154
@@ -8099,7 +8099,7 @@ msgstr "Unterstützt Sie beim Installieren eines Rotors"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:15
 msgid "Power"
-msgstr ""
+msgstr "Power"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:86
 msgid "Power Handling"
@@ -10100,7 +10100,6 @@ msgid "Simple RSS Reader Setup"
 msgstr "Einrichtung eines RSS-Readers"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "Simple RSS Ticker"
 msgstr "Simple RSS Ticker"
 
@@ -10747,7 +10746,6 @@ msgstr "Fernsehnorm"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
-#, fuzzy
 msgid "TXT"
 msgstr "TXT"
 
@@ -11060,7 +11058,7 @@ msgstr "Der Pfad %s existiert bereits."
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:271
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 msgid "The pin code you entered is wrong."
-msgstr "Der eingegebene Pincode ist falsch"
+msgstr "Der eingegebene Pincode ist falsch."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:527
@@ -11076,7 +11074,7 @@ msgstr "Der Ausschalt-Timer wurde aktiviert"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:115
 msgid "The sleep timer has been disabled."
-msgstr "Der Ausschalt-Timer wurde deaktiviert"
+msgstr "Der Ausschalt-Timer wurde deaktiviert."
 
 #
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:560
@@ -12106,12 +12104,10 @@ msgid "VMGM (intro trailer)"
 msgstr "VMGM (Intro-Trailer)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "VPS-Plugin"
 msgstr "VPS-Plugin"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "VPS-Plugin Information"
 msgstr "VPS-Plugin Information"
 
@@ -12746,7 +12742,6 @@ msgstr ""
 "motorgesteuerten Satellitenantenne."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "Wizard..."
 msgstr "Wizard..."
 
@@ -13392,7 +13387,7 @@ msgstr "Allokationen"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:80
 msgid "alphabetic sort"
-msgstr "Aufnahmen alphabetisch sortieren"
+msgstr "alphabetisch sortieren"
 
 #: enigma2/usr/lib/enigma2/python/Components/AudioHardware.py:72
 msgid "always"
@@ -13545,7 +13540,6 @@ msgid "clear playlist"
 msgstr "Wiedergabeliste leeren"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "coded:2010 by Vali"
 msgstr "coded:2010 by Vali"
 
@@ -13682,7 +13676,6 @@ msgid "done!"
 msgstr "erledigt!"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "dreamIRC"
 msgstr "dreamIRC"
 
@@ -13702,7 +13695,6 @@ msgid "eMMC"
 msgstr "eMMC"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "eParted"
 msgstr "eParted"
 
@@ -13853,7 +13845,6 @@ msgid "free diskspace"
 msgstr "freier Festplattenspeicher"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "fstab-Editor"
 msgstr "fstab-Editor"
 
@@ -14751,7 +14742,7 @@ msgstr "Vorwärts springen (Zeit eingeben)"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:78
 msgid "sort by date"
-msgstr "Aufnahmen nach Datum sortieren"
+msgstr "nach Datum sortieren"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:252
@@ -14848,7 +14839,7 @@ msgstr "Zur nächsten Kameraperspektive wechseln"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:362
 msgid "switch to the next audio track"
-msgstr "Zum nächsten Audio-Titel wechseln"
+msgstr "Zur nächsten Audiospur wechseln"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:363
@@ -14887,7 +14878,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2160
 msgid "toggle a cut mark at the current position"
-msgstr "Toggle Marker an der aktuellen Position"
+msgstr "Marker an der aktuellen Position umschalten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:354
