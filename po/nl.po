@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2019-12-02 06:36+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-11-03 21:02+0000\n"
+"Last-Translator: Gorgone Impertinence <gorgone.rult@gmail.com>\n"
+"Language-Team: Dutch <https://dreambox.de/translate/projects/dreambox/"
+"enigma2/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1575268564.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -194,7 +195,7 @@ msgstr " extensies."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:237
 msgid " ms"
-msgstr "ms"
+msgstr " ms"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:668
@@ -442,7 +443,6 @@ msgid "-- All --"
 msgstr "-- Allemaal --"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:69
-#, fuzzy
 msgid "..."
 msgstr "..."
 
@@ -1175,7 +1175,7 @@ msgstr "Aanpassen Bitrate"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1099
 msgid "Adopt current configuration."
-msgstr "Activeer huidige configuratie"
+msgstr "Activeer huidige configuratie."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:113
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:61
@@ -1220,7 +1220,7 @@ msgstr "Geavanceerd herstellen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:509
 msgid "Advanced settings."
-msgstr "Adapter instellingen"
+msgstr "Adapter instellingen."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Advanced setup options"
@@ -1319,7 +1319,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:111
 msgid "Allow remote control via CEC"
-msgstr "Afstandsbediening via CEC "
+msgstr "Afstandsbediening via CEC"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -1995,7 +1995,7 @@ msgstr "Markeerpunt '%s' succesvol bewaard!"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:132
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:73
 msgid "Bookmarks"
-msgstr "Markeerpunten :"
+msgstr "Markeerpunten"
 
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml./enigma2/usr/share/meta/plugin_fsblupdater.xml
@@ -2184,7 +2184,7 @@ msgstr "Kan bestand niet toevoegen. Geen audio!"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:232
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1412
 msgid "Capacity"
-msgstr "Capaciteit: "
+msgstr "Capaciteit"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:25
@@ -2445,7 +2445,7 @@ msgstr "Afspeellijst ledigen"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1469
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2250
 msgid "Clear before scan"
-msgstr "Vóór zoeken alle zenders wissen?"
+msgstr "Vóór zoeken alle zenders wissen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:505
@@ -2670,7 +2670,7 @@ msgstr "Configureren"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:327
 msgid "Conflicting timer"
-msgstr "Timer conflict!"
+msgstr "Timer conflict"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:84
@@ -2889,7 +2889,7 @@ msgstr "Huidige transponder"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:235
 msgid "Current device: "
-msgstr "Actueel apparaat:"
+msgstr "Actueel apparaat: "
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:121
@@ -2945,7 +2945,7 @@ msgstr ""
 "Ga naar het begin van het deel dat u wilt knippen. Druk op 'OK', kies 'start "
 "cut'.\n"
 "Ga vervolgens naar het einde van het deel dat u wilt knippen, druk op 'OK', "
-"kies 'end cut'. Dat is alles. "
+"kies 'end cut'. Dat is alles."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
@@ -3804,7 +3804,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:138
 msgid "Done - No updates available."
-msgstr " Klaar - Geen updates beschikbaar."
+msgstr "Klaar - Geen updates beschikbaar."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
 msgid "Down"
@@ -4495,7 +4495,7 @@ msgstr "Bestandssysteem"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1199
 msgid "Filesystem check completed without errors."
-msgstr "Bestandssysteem bevat onherstelbare fouten"
+msgstr "Bestandssysteem bevat onherstelbare fouten."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:375
@@ -5158,12 +5158,11 @@ msgid ""
 "If you are happy with the result, press OK."
 msgstr ""
 "Indien uw TV over contrast- of helderheidsoptimalisatie opties en andere "
-"'beeldverbeteraars' beschikt, zet deze dan uit!\n"
-"Instellingen als 'Dynamic', op standaard instellen. Stel bij een LCD TV de "
-"achtergrondverlichting op een niveau in dat u bevalt. Zet 'contrast' zo laag "
-"mogelijk.\n"
-"Daarna 'helderheid' zo laag mogelijk instellen, maar wel zodanig dat alle "
-"donkerste grijstinten zichtbaar zijn.\n"
+"'beeldverbeteraars' beschikt, zet deze dan uit.Instellingen als 'Dynamic', "
+"op standaard instellen. Stel bij een LCD TV de achtergrondverlichting op een "
+"niveau in dat u bevalt.\n"
+"Zet 'contrast' zo laag mogelijk. Daarna 'helderheid' zo laag mogelijk "
+"instellen, maar wel zodanig dat alle donkerste grijstinten zichtbaar zijn.\n"
 "Let nu even niet op de heldere vlakken. Die worden pas bij de volgende stap "
 "ingestelt.\n"
 "Indien het resultaat nu goed is, druk dan op OK."
@@ -6630,7 +6629,7 @@ msgstr "Geen harde schijf gevonden of de harde schijf is niet geformatteerd!"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:291
 msgid "No HbbTV Application available"
-msgstr "Geen HbbTV toepassing beschikbaar."
+msgstr "Geen HbbTV toepassing beschikbaar"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -6854,7 +6853,7 @@ msgstr "Nee, ga verder met lege kanaallijst"
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, scan later manually"
-msgstr "Nee, later handmatig zoeken."
+msgstr "Nee, later handmatig zoeken"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:203
@@ -6981,8 +6980,8 @@ msgid ""
 msgstr ""
 "Gebruik nu 'contrast' om de helderheid van de achtergrond zo hoog mogelijk "
 "in te stellen, maar zorg er voor dat u nog steeds de helderste grijze "
-"vlakken van elkaar kunt onderscheiden.\n"
-"Indien het resultaat nu goed is, druk dan op OK."
+"vlakken van elkaar kunt onderscheiden. Indien het resultaat nu goed is, druk "
+"dan op OK."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:264
 msgid "Number of B-Frames"
@@ -7534,7 +7533,7 @@ msgstr "Muziek afspelen...(MediaCenter)"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:148
 msgid "Play Next Entry"
-msgstr "Speel volgende "
+msgstr "Speel volgende"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:149
@@ -7609,7 +7608,7 @@ msgstr "A.u.b. herstarten"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:65
 msgid "Please Select Medium to be Scanned"
-msgstr "Selecteer het te scannen medium..."
+msgstr "Selecteer het te scannen medium"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:294
@@ -7659,7 +7658,7 @@ msgstr ""
 msgid "Please do not change any values unless you know what you are doing!"
 msgstr ""
 "Wijzig hier geen instellingen indien u niet precies weet waar u mee bezig "
-"bent. "
+"bent!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:250
@@ -7674,12 +7673,12 @@ msgstr "Voer de naam voor uw nieuwe markeerpunt in"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:383
 msgid "Please enter a new filename"
-msgstr "Voer a.u.b. een bestandsnaam in "
+msgstr "Voer a.u.b. een bestandsnaam in"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:365
 msgid "Please enter a new name:"
-msgstr "Voer een nieuwe naam in: "
+msgstr "Voer een nieuwe naam in:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:618
@@ -7836,7 +7835,7 @@ msgstr "Selecteer een subzender..."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:292
 msgid "Please select an HbbTV application"
-msgstr "Selecteer een HbbTV toepassing."
+msgstr "Selecteer een HbbTV toepassing"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
@@ -7852,7 +7851,7 @@ msgstr "Selecteer een optie hieronder."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:254
 msgid "Please select medium to use as backup location"
-msgstr "Selecteer het te gebruiken medium als back-up locatie..."
+msgstr "Selecteer het te gebruiken medium als back-up locatie"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:21
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -7943,7 +7942,7 @@ msgid ""
 "button pressed) before shutting down automatically"
 msgstr ""
 "Gelieve de tijdslimiet in te stellen voor inactiviteit (vb. geen knop "
-"gedrukt), na dewelke de Dreambox uitschakeld."
+"gedrukt), na dewelke de Dreambox uitschakeld"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/PiPSetup.py:35
@@ -8218,7 +8217,7 @@ msgstr "Druk op de OK toets om door te gaan."
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:470
 #, python-format
 msgid "Press OK to %s the subtitle track %s and close"
-msgstr "Druk OK om de ondertitel te %s %s en sluiten."
+msgstr "Druk OK om de ondertitel te %s %s en sluiten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:34
@@ -8275,7 +8274,7 @@ msgstr "Druk op OK voor meer detail van: %s"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2291
 msgid "Press OK to scan"
-msgstr "Druk OK om te zoeken."
+msgstr "Druk OK om te zoeken"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:434
@@ -8295,7 +8294,7 @@ msgstr "Om een CAId te selecteren/deselecteren druk op OK."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1260
 msgid "Press OK to start the scan"
-msgstr "Druk OK om te zoeken."
+msgstr "Druk OK om te zoeken"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:472
 #, python-format
@@ -8439,7 +8438,7 @@ msgstr "Schakel de dreambox in idle modus."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Put your Dreambox into standby, restart or shut it down."
-msgstr "Zet uw Dreambox in idle, standby of herstart. "
+msgstr "Zet uw Dreambox in idle, standby of herstart."
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -8709,7 +8708,7 @@ msgstr ""
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Refresh rate selection."
-msgstr "Herhalingsfrequentie selectie"
+msgstr "Herhalingsfrequentie selectie."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/TimezoneStep.py:21
 #: enigma2/usr/share/enigma2/setup.xml
@@ -8751,7 +8750,7 @@ msgstr "Afstandsbediening"
 #: enigma2/usr/share/meta/plugin_remotecontrolselection.xml./enigma2/usr/share/meta/plugin_remotecontrolselection.xml
 msgid ""
 "Remote Control Selection let's you select which Remote Control you're using"
-msgstr "Met deze instelling kan u kiezen welke afstandsbediening u gebruikt."
+msgstr "Met deze instelling kan u kiezen welke afstandsbediening u gebruikt"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remote Timer Editor"
@@ -8875,7 +8874,7 @@ msgstr "Verwijderen van een map uit de database is mislukt!"
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:291
 #, python-format
 msgid "Removing directory %s failed. (Maybe not empty.)"
-msgstr "Verwijderen van map %s mislukt (map niet leeg?)."
+msgstr "Verwijderen van map %s mislukt (map niet leeg.)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:94
@@ -9372,7 +9371,7 @@ msgstr "Zoeken"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2269
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2277
 msgid "Scan "
-msgstr "Zoeken"
+msgstr "Zoeken "
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:112
@@ -9703,7 +9702,7 @@ msgstr "Selecteer upgrade bron om te bewerken."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/RemoteControlSelection/plugin.py:52
 msgid "Select your Remote"
-msgstr "Selecteer afstandsbediening."
+msgstr "Selecteer afstandsbediening"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:815
 msgid "Select your favorite mapping."
@@ -9725,7 +9724,7 @@ msgstr "HDMI CEC Power Events versturen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:92
 msgid "Send explicit on/off to Audio System"
-msgstr "Expliciet aan/uit voor audio systeem "
+msgstr "Expliciet aan/uit voor audio systeem"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:193
 msgid "Sensor"
@@ -10514,7 +10513,7 @@ msgstr "Start opname?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:504
 msgid "Start storage device plugin..."
-msgstr "Start opslagplugin"
+msgstr "Start opslagplugin..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:879
 msgid "Start with current service"
@@ -11254,7 +11253,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:91
 msgid "There was no input for too long!"
-msgstr "Er was geen ingave binnen de tijdslimiet! "
+msgstr "Er was geen ingave binnen de tijdslimiet!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:310
 msgid "These options require a bluetooth enabled and connected remote!"
@@ -11700,7 +11699,7 @@ msgstr "Tuner"
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:726
 msgid "Tuner "
-msgstr "Tuner"
+msgstr "Tuner "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:15
 msgid "Tuner 2"
@@ -12279,7 +12278,7 @@ msgid ""
 "Use up/down buttons."
 msgstr ""
 "Video Ingang\n"
-"Gebruik de omhoog/omlaag toetsen"
+"Gebruik de omhoog/omlaag toetsen."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:130
@@ -12289,7 +12288,7 @@ msgid ""
 "Use up/down buttons."
 msgstr ""
 "Video Mode\n"
-"Gebruik de omhoog/omlaag toetsen"
+"Gebruik de omhoog/omlaag toetsen."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:59
@@ -12550,7 +12549,7 @@ msgstr "Wacht"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:120
 msgid "Waiting for clients"
-msgstr "wachten op clients..."
+msgstr "wachten op clients"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
@@ -12666,7 +12665,7 @@ msgstr ""
 "Als u uw Dreambox wenst te connecteren naar het internet, kan deze wizard u "
 "helpen bij de basis netwerkinstellingen van uw Dreambox .\n"
 "\n"
-"Druk op  OK om je netwerk te configureren."
+"Druk op OK om je netwerk te configureren"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12718,8 +12717,8 @@ msgid ""
 "\n"
 "Really do a factory reset?"
 msgstr ""
-"Wanneer u de fabrieksinstellingen wenst, verliest u\n"
-"alle gegevens van uw configuratie.\n"
+"Wanneer u de fabrieksinstellingen wenst, verliest u alle gegevens van uw "
+"configuratie.\n"
 "(inclusief boeketten, zenders, satellietdata, etc ...)\n"
 "Na voltooiing van de fabrieksinstellingen, zal uw ontvanger automatisch "
 "herstarten!\n"
@@ -12817,7 +12816,7 @@ msgstr ""
 msgid ""
 "With the Remote Control Selection you can select which Remote Control you're "
 "using"
-msgstr "Met deze instelling kan u kiezen welke afstandsbediening u gebruikt."
+msgstr "Met deze instelling kan u kiezen welke afstandsbediening u gebruikt"
 
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml./enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
@@ -13025,7 +13024,7 @@ msgid ""
 "You chose not to install anything. Please press OK finish the install wizard."
 msgstr ""
 "U heeft er voor gekozen om niets te installeren. Druk op OK om de wizard af "
-"te sluiten. "
+"te sluiten."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:343
@@ -13836,7 +13835,7 @@ msgstr "Stop snijpunt hier"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:226
 msgid "end favourites edit"
-msgstr "Favorieten bewerken deactiveren "
+msgstr "Favorieten bewerken deactiveren"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:96
 msgid "enqueued for future scan..."
@@ -14064,7 +14063,7 @@ msgstr "Vooruit naar volgende titel"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:167
 msgid "jump to listbegin"
-msgstr "Ga naar begin lijst "
+msgstr "Ga naar begin lijst"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:168
@@ -14619,13 +14618,13 @@ msgstr "Bij verlaten bewaar afspeellijst"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:108
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 msgid "scan done!"
-msgstr "Zoeken voltooid."
+msgstr "Zoeken voltooid!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:39
 #, python-format
 msgid "scan in progress - %d%% done!"
-msgstr "Bezig met zoeken - %d%% voltooid."
+msgstr "Bezig met zoeken - %d%% voltooid!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceScan.py:52
