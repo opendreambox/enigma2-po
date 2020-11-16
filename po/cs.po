@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-11-03 16:01+0000\n"
+"PO-Revision-Date: 2020-11-17 16:44+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -6584,7 +6584,7 @@ msgstr "ne   - nikdy neposílat"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:18
 msgid "No, skip update process"
-msgstr "ne, přeskočit proces aktualizace"
+msgstr "přeskočit aktualizaci"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Non TS Streaming Buffer (ms)"
@@ -7109,7 +7109,7 @@ msgstr "seznam položek Partnerboxu"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:243
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:33
 msgid "Password"
-msgstr "heslo boxu"
+msgstr "heslo boxu pro FTP,SSH"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:1180
 msgid "Password:"
@@ -12319,7 +12319,7 @@ msgstr "ano  - a instalovat předvolený seznam kanálů"
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:17
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes, install the latest bluetooth receiver firmware"
-msgstr "Ano, nainstalovat nejnovější firmware pro bluetooth přijímač"
+msgstr "nainstalovat nový firmware s bluetooth"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -12549,9 +12549,7 @@ msgstr "Současná kompilace bude ztracena !"
 msgid ""
 "Your dreambox can automatically search for available updates. Set the "
 "options you prefer here."
-msgstr ""
-"Dreambox může aut.vyhledávat dostupné aktualizace. \n"
-"Nastavte preference."
+msgstr "Dreambox může aut. vyhledávat dostupné aktualizace."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
