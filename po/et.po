@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2019-12-02 06:34+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-11-17 13:19+0000\n"
+"Last-Translator: Urmas Punane <inspire@hot.ee>\n"
+"Language-Team: Estonian <https://dreambox.de/translate/projects/dreambox/"
+"enigma2/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-POOTLE-MTIME: 1575268441.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -2240,7 +2241,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Choose Tuner"
-msgstr ""
+msgstr "Vali tuuner"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
@@ -2543,7 +2544,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your tuners."
-msgstr ""
+msgstr "Seadista oma tuunerid."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:108
@@ -3216,9 +3217,8 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:41
 #: enigma2/usr/share/enigma2/menu.xml
-#, fuzzy
 msgid "Devices"
-msgstr "Kanalid"
+msgstr "Seadmed"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "DiSEqC"
@@ -4930,7 +4930,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:90
 #: enigma2/usr/share/enigma2/menu.xml enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Mode"
-msgstr ""
+msgstr "Jõudeolek"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Scart.py:32
@@ -5522,7 +5522,7 @@ msgstr "Salvestusseadmete loetelu"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Listen to radio stations."
-msgstr ""
+msgstr "Kuula raadiojaamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:36
@@ -6817,7 +6817,7 @@ msgstr "OSD nähtavus"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "OSD, Video and Audio Settings"
-msgstr ""
+msgstr "OSD, video ja audio seade"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
@@ -7160,7 +7160,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Picture and Sound"
-msgstr ""
+msgstr "Pilt ja heli"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:174
@@ -8153,7 +8153,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Radio"
-msgstr ""
+msgstr "Raadio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Random"
@@ -9140,7 +9140,7 @@ msgstr "Otsi '%s'"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Search for services and configure your tuners."
-msgstr ""
+msgstr "Otsi teenuseid ja seadke tuunerid üles."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:242
@@ -9352,7 +9352,7 @@ msgstr "Kanaliotsing"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Service Searching, Parental Control, ..."
-msgstr ""
+msgstr "Kanaliotsing, lapselukk, ..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2047
@@ -9426,7 +9426,7 @@ msgstr "Kanalid"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Services and Recordings"
-msgstr ""
+msgstr "Kanaliotsing ja salvestuskaustad"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:223
@@ -10159,7 +10159,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Storage, Common Interface, Input, ..."
-msgstr ""
+msgstr "Salvestusseadmed, CI liides, Sisendseadmed, ..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:257
@@ -12690,7 +12690,7 @@ msgstr "just algab"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:796
 msgid "active"
-msgstr ""
+msgstr "aktiivne"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "add Partition"
@@ -13327,7 +13327,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:794
 msgid "inactive"
-msgstr ""
+msgstr "tegevusetu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:335
