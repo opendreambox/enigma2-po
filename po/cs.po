@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-11-17 16:44+0000\n"
+"PO-Revision-Date: 2020-11-20 13:41+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -4594,7 +4594,7 @@ msgstr "kategorie"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Genuine Dreambox"
-msgstr "Genuine Dreambox"
+msgstr "-- ověření pravosti Dreamboxu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:22
@@ -4684,7 +4684,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "HDMI CEC"
+msgstr "ovládání TV přes HDMI"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -4891,7 +4891,7 @@ msgstr "IPKG - aktualizace..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:319
 msgid "IR-Mode LED color when connected to this dreambox"
-msgstr "barva LED diody v IR režimu při připojení k tomuto Dreamboxu"
+msgstr "barva LED tlačítka MODE na DO - v IR režimu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:126
 msgid "IR-Setup"
@@ -4916,11 +4916,11 @@ msgstr "vypnuto."
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Brightness"
-msgstr "nízký jas"
+msgstr "jas ve spánku"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
-msgstr "bez barvy"
+msgstr "barva ve spánku"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
@@ -5378,7 +5378,7 @@ msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
-msgstr "modrá přední LED"
+msgstr "nastavení LED zdroje"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
@@ -5386,7 +5386,7 @@ msgstr "nastavení LED"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
-msgstr "barva LED tlačítka MODE na DO"
+msgstr "barva LED tlačítka MODE na DO - v Bluetooth režimu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:313
@@ -11330,7 +11330,7 @@ msgstr "Nepotvrzený DiSEqC příkaz !"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1146
 #, python-format
 msgid "Unconfigured %(desc)s found!"
-msgstr "Detekovaný nenakonfigurovaný %(desc)s !"
+msgstr "Detekováno nenakonfigurované  %(desc)s !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:348
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:99
