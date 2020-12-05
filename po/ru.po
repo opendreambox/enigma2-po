@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-23 17:15+0200\n"
-"PO-Revision-Date: 2020-11-14 13:40+0000\n"
-"Last-Translator: A P <popov.andrei04@gmail.com>\n"
+"PO-Revision-Date: 2020-12-06 02:40+0000\n"
+"Last-Translator: mic71@list.ru <mic71@list.ru>\n"
 "Language-Team: Russian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/ru/>\n"
 "Language: ru\n"
@@ -7775,12 +7775,14 @@ msgstr "Быстрое переключение"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:244
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:249
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:255
+#, fuzzy
 msgid "Quit"
-msgstr "Выйти"
+msgstr "Выход"
 
 #: enigma2/usr/share/enigma2/setup.xml
+#, fuzzy
 msgid "RC Menu"
-msgstr "RC меню"
+msgstr "меню ПДУ"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid "RETRYING!"
@@ -7841,9 +7843,7 @@ msgstr "Хотите выйти из подсервиса при быстром 
 
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:150
 msgid "Really reboot into Recovery Mode?\n"
-msgstr ""
-"Хотите перейти в Режим Восстановления?\n"
-"\n"
+msgstr "Хотите перезагрузиться и перейти в Режим Восстановления?\n"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:155
 msgid "Really reboot now?"
