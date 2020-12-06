@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-12-04 06:40+0000\n"
+"PO-Revision-Date: 2020-12-06 17:04+0000\n"
 "Last-Translator: Urmas Punane <inspire@hot.ee>\n"
 "Language-Team: Estonian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/et/>\n"
@@ -1161,7 +1161,7 @@ msgstr "Laiendatud seaded"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Advanced setup options"
-msgstr ""
+msgstr "Lisavõimalused ja seadistused"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:240
@@ -2178,7 +2178,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Channellist menu"
-msgstr ""
+msgstr "Kanalinimekirja menüü"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:450
 msgid "Chap."
@@ -2524,7 +2524,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your common interface."
-msgstr ""
+msgstr "CI (Common Interface) seadistamine."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
@@ -4281,11 +4281,11 @@ msgstr "Kiire kerimine"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:589
 msgid "Favorites (Radio)"
-msgstr ""
+msgstr "Lemmikud (Raadio)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:582
 msgid "Favorites (TV)"
-msgstr ""
+msgstr "Lemmikud (TV)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:543
@@ -6247,7 +6247,7 @@ msgstr "Võrgu häälestamine"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network Setup and Tools."
-msgstr ""
+msgstr "Võrguseaded ja häälestamine."
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Network connection"
@@ -7653,7 +7653,7 @@ msgstr "Palun oota, kuni otsin eemaldatavaid laiendusi..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2569
 msgid "Please wait!"
-msgstr ""
+msgstr "Palun oota!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:41
 msgid "Please wait! We are about to start..."
@@ -8296,7 +8296,7 @@ msgstr "Salvestused omavad alati eelist"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Recovery Mode"
-msgstr ""
+msgstr "Taastamisrežiim"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:16
 msgid "Red"
@@ -9398,7 +9398,7 @@ msgstr "Teenuse viide"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service scan"
-msgstr ""
+msgstr "Kanaliotsing"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2689
 msgid ""
@@ -9470,7 +9470,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:135
 msgid "Set up your Network connections"
-msgstr ""
+msgstr "Võrguühenduse seadistamine"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
@@ -12669,7 +12669,7 @@ msgstr "CI kasutajaliidese määratud kanalid/teenused/levitajad"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:658
 msgid "a gui to assign services/providers/caids to common interface modules"
-msgstr "CI kasutajaliidese määratud kanalid/levitajad/caids"
+msgstr "CI kasutajaliidese määratud kanalid/levitajad/caidid"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:230
 msgid "abort alternatives edit"
@@ -13026,7 +13026,7 @@ msgstr "keela"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:219
 msgid "disable move mode"
-msgstr "keela move mode"
+msgstr "keela liigutamine nimekirjades"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:65
@@ -13831,9 +13831,8 @@ msgstr "kustuta see märk"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:191
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:200
-#, fuzzy
 msgid "rename entry"
-msgstr "kustuta"
+msgstr "nimeta nimekiri ümber"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:89
