@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-22 07:57+0200\n"
-"PO-Revision-Date: 2020-11-20 13:41+0000\n"
+"PO-Revision-Date: 2020-12-13 02:41+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -223,7 +223,7 @@ msgstr "%(Desc)s"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr "%(Desc)s : je už nakonfigurovaný !"
+msgstr "%(Desc)s : je už nakonfigurováno !"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
@@ -1929,7 +1929,7 @@ msgstr "firmware pro bluetooth přijímač"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Bluetooth Remote Setup"
-msgstr "nastavení Bluetooth zařízení"
+msgstr "zařízení Bluetooth"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
@@ -2489,7 +2489,7 @@ msgstr "potvrzený DiSEqC příkaz"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Common Interface"
-msgstr "modul_CI - nastavení"
+msgstr "dekódovací modul CI"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:651
 msgid "Common Interface Assignment"
@@ -2559,7 +2559,7 @@ msgstr "konfigurace CI rozhraní"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
-msgstr "Konfigurace předního LED panelu."
+msgstr "Konfigurace LED na předním panelu_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel OLED or LCD display."
@@ -2657,7 +2657,7 @@ msgstr "kontrast"
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
 msgid "Control your internal system fan."
-msgstr "-- ovládání syst.ventilátoru podle teploty"
+msgstr "Ovládání syst.ventilátoru podle teploty."
 
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
@@ -2879,7 +2879,7 @@ msgstr "DLNA / UPnP"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:71
 msgid "DM RCU"
-msgstr "DM dálk.ovladač"
+msgstr "dálk.ovladač :"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:194
 msgid "DM Remote"
@@ -3153,7 +3153,7 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "odstranit chybové protokoly"
+msgstr "Chybový protokol byl odstraněný !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:512
@@ -3487,7 +3487,7 @@ msgid ""
 "All data on this %(desc)s will be lost!"
 msgstr ""
 "Chcete naformátovat : %(desc)s ?\n"
-"Všechna data na : %(desc)s budou odstraněna !"
+" ...všechna data na disku budou odstraněna !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:133
 msgid ""
@@ -3904,7 +3904,7 @@ msgstr "Povolit 5V pro aktivní anténu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:76
 msgid "Enable Cleanup Wizard?"
-msgstr "aktivovat průvodce pro vyčištění ?"
+msgstr "aktivace průvodce pro vyčištění"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/ParentalControlStep.py:16
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -4594,7 +4594,7 @@ msgstr "kategorie"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Genuine Dreambox"
-msgstr "-- ověření pravosti Dreamboxu"
+msgstr "Genuine Dreambox"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:22
@@ -4684,7 +4684,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "ovládání TV přes HDMI"
+msgstr "HDMI CEC"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -4725,7 +4725,7 @@ msgstr "server HLS..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:320
 msgid "Haptic feedback in lists"
-msgstr "zpětná vazba (vibrace) v seznamech"
+msgstr "zpětná vazba, vibrace DO na konci seznamů"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:807
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:33
@@ -4845,7 +4845,7 @@ msgstr "Domovská stránka byla nastavena na: '%s'"
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:64
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1423
 msgid "Horizontal"
-msgstr "horizontální"
+msgstr "vodorovná řada"
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -4859,7 +4859,7 @@ msgstr "Kolik minut chcete nahrát ?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:93
 msgid "How to handle found crashlogs?"
-msgstr "Pokud existuje chyb.protokol ?"
+msgstr "pokud existuje chyb.protokol"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:97
 msgid "Hue"
@@ -5059,12 +5059,12 @@ msgstr "Inicializovat nebo odstranit zvolený úložný disk offline"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1103
 #, python-format
 msgid "Initialize this %(desc)s."
-msgstr "inicializovat %(desc)s"
+msgstr "naformátovat %(desc)s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:189
 #, python-format
 msgid "Initializing %(desc)s..."
-msgstr "inicializovat %(desc)s ..."
+msgstr "...formátuji %(desc)s..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
@@ -5691,7 +5691,7 @@ msgstr "-- správa databáze videa"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1884
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1889
 msgid "Manage your receiver's software"
-msgstr "Záloha nastavení, lok.instalace Image, aktualizace_"
+msgstr "-- záloha nastavení, lok.instalace Image, aktualizace_"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -6807,7 +6807,7 @@ msgstr "-- prolínání textu a obrázku na obrazovce"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:85
 msgid "OSD visibility"
-msgstr "viditelnost OSD"
+msgstr "průhlednost skinu"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "OSD, Video and Audio Settings"
@@ -6911,7 +6911,7 @@ msgstr "přetížení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:351
 msgid "Overwrite configuration files ?"
-msgstr "Přepsat konfigurační soubory ?"
+msgstr "přepsat konfigurační soubory..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:362
 msgid "Overwrite configuration files during software upgrade?"
@@ -8293,7 +8293,7 @@ msgstr ">nahrávání"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Recordings always have priority"
-msgstr "Nahrávání má vždy prioritu !"
+msgstr "nahrávání má vždy prioritu"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Recovery Mode"
@@ -9901,7 +9901,7 @@ msgstr "nainstalovat Image ze zálohy"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:137
 msgid "Software update"
-msgstr "aktualizovat software"
+msgstr "aktualizace software"
 
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml./enigma2/usr/share/meta/plugin_softwaremanager.xml
@@ -10735,11 +10735,11 @@ msgstr "Vyskytla se chyba, balíček :"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1223
 #, python-format
 msgid "There was en error while configuring your %(desc)s."
-msgstr "Při konfiguraci %(desc)s došlo k chybě !"
+msgstr "Při konfiguraci disku došlo k chybě !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:234
 msgid "There was en error while configuring your storage device."
-msgstr "Při konfiguraci úložného zařízení se vyskytla chyba !"
+msgstr "Při konfiguraci disku se vyskytla chyba !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:91
 msgid "There was no input for too long!"
