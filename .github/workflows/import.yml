@@ -44,17 +44,17 @@ jobs:
         run: make -f Makefile.translations
         id: stringupdate
 
-#      - name: Commit
-#        id: commit
-#        run: |
-#          git config --local user.email "sreichholf@users.noreply.github.com"
-#          git config --local user.name "reichi"
-#          git commit -m "import translatable strings" -a
-#      - name: Push changes
-#        uses: ad-m/github-push-action@master
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: ${{ github.ref }}
+      - name: Commit
+        id: commit
+        run: |
+          git config --local user.email "sreichholf@users.noreply.github.com"
+          git config --local user.name "reichi"
+          git commit -m "import translatable strings" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
 
       - name: Unlock enigma2 translations
         run: wlc unlock dreambox/enigma2
