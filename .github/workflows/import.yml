@@ -1,0 +1,60 @@
+name: Import latest translatable strings
+
+# Controls when the action will run. 
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+            persist-credentials: false
+
+      - name: Install gettext
+        run: sudo apt install gettext
+        id: gettext
+
+      - name: Install wlc
+        id: wlcinstall
+        run: sudo pip3 install wlc
+      
+      - name: Setup wlc config
+        id: wlcsetup
+        run: printf "[weblate] \nurl = https://dreambox.de/translate/api/ \n\n[keys] \nhttps://dreambox.de/translate/api/ = ${{ secrets.WEBLATE_API_KEY }}\n" > ~/.config/weblate
+
+      - name: Lock plugin translations using wlc and push latest changes
+        id: wlclocknpush
+        run: | 
+          wlc lock dreambox/enigma2
+          wlc push dreambox/enigma2
+      - name: Pull weblate changes
+        id: weblatepull
+        run: git pull
+
+      - name: Update submodules and translations
+        run: make -f Makefile.translations
+        id: stringupdate
+
+#      - name: Commit
+#        id: commit
+#        run: |
+#          git config --local user.email "sreichholf@users.noreply.github.com"
+#          git config --local user.name "reichi"
+#          git commit -m "import translatable strings" -a
+#      - name: Push changes
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branch: ${{ github.ref }}
+
+      - name: Unlock plugin translations
+        run: wlc unlock dreambox/enigma2
