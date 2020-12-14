@@ -31,7 +31,7 @@ jobs:
         id: wlcsetup
         run: printf "[weblate] \nurl = https://dreambox.de/translate/api/ \n\n[keys] \nhttps://dreambox.de/translate/api/ = ${{ secrets.WEBLATE_API_KEY }}\n" > ~/.config/weblate
 
-      - name: Lock plugin translations using wlc and push latest changes
+      - name: Lock enigma2 translations using wlc and push latest changes
         id: wlclocknpush
         run: | 
           wlc lock dreambox/enigma2
@@ -56,5 +56,5 @@ jobs:
 #          github_token: ${{ secrets.GITHUB_TOKEN }}
 #          branch: ${{ github.ref }}
 
-      - name: Unlock plugin translations
+      - name: Unlock enigma2 translations
         run: wlc unlock dreambox/enigma2
