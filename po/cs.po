@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 13:09+0000\n"
-"PO-Revision-Date: 2020-12-25 12:27+0000\n"
+"PO-Revision-Date: 2020-12-25 20:08+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -425,7 +425,7 @@ msgstr "(prázdné)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:360
 msgid "(show optional DVD audio menu)"
-msgstr "(zobrazit volitelné menu DVD audio)"
+msgstr "(zobrazit volitelné audio menu DVD)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:44
 msgid "* current animation"
@@ -1968,7 +1968,7 @@ msgstr "brazilská portugalština"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:98
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Brightness"
-msgstr "jas"
+msgstr "jas v provozu"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Browse and manage your plugins."
@@ -2193,7 +2193,7 @@ msgstr "audio kanál"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Channel Selection"
-msgstr "sada kanálů---"
+msgstr "Seznam kanálů..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:331
 msgid "Channel not in services list"
@@ -2447,7 +2447,7 @@ msgstr "nastavení sestavy"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color"
-msgstr "barva"
+msgstr "barva v provozu"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -3153,7 +3153,7 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "Chybový protokol byl odstraněný !"
+msgstr "odstranit chybové protokoly"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
@@ -3781,7 +3781,7 @@ msgstr "Chyba aktualizace frontprocesoru"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
 #, python-format
 msgid "ERROR: Cannot add '%s'"
-msgstr "Chyba : nelze přidat : '%s'"
+msgstr "Chyba, nelze přidat : '%s'"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1756
@@ -4594,7 +4594,7 @@ msgstr "kategorie"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Genuine Dreambox"
-msgstr "Genuine Dreambox"
+msgstr "-- ověření pravosti Dreamboxu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:22
@@ -4637,8 +4637,8 @@ msgid ""
 "GraphMultiEPG shows a graphical timeline EPG.\n"
 "Shows a nice overview of all running und upcoming tv shows."
 msgstr ""
-"-- zobrazení globálního seznamu programů \n"
-"  v rozšířeném graf.formátu"
+"Zobrazení globálního seznamu programů \n"
+"  v rozšířeném graf.formátu."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/plugin.py:120
@@ -4684,7 +4684,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "HDMI CEC"
+msgstr "ovládání TV přes HDMI"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -5014,7 +5014,7 @@ msgstr "-info ->"
 #: enigma2/usr/share/enigma2/setup.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "InfoBar"
-msgstr "poloha info-panelu---"
+msgstr "poloha info-panelu"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -5570,7 +5570,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:233
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Location"
-msgstr "uložit do složky"
+msgstr "- uložit do složky"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:173
 msgid "Location for instant recordings"
@@ -8158,7 +8158,7 @@ msgstr "server RTSP..."
 #: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Radio"
-msgstr "-rádio-"
+msgstr "kanály rádia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Random"
@@ -8247,7 +8247,7 @@ msgstr "Nástroje záznamových médií"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:390
 msgid "Recorded files..."
-msgstr "...nahrané pořady..."
+msgstr "Nahrané pořady..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:155
@@ -9348,7 +9348,7 @@ msgstr "Vyhledávání kanálů..."
 #
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Service Searching"
-msgstr "konfigurace tunerů a kanálů..."
+msgstr "konfigurace tunerů a kanálů"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Service Searching, Parental Control, ..."
@@ -9594,7 +9594,7 @@ msgstr "zobrazit ikony v seznamu"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show blinking clock in display during recording"
-msgstr "zobrazit blikající OLED displej při nahrávání"
+msgstr "zobrazit blikající LED/OLED displej při nahrávání"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:109
 msgid "Show event-progress"
@@ -9707,7 +9707,7 @@ msgstr "vypnout box, pokud není žádné tlačítko stlačené během..."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:221
 msgid "Similar"
-msgstr "podobné"
+msgstr "podobné prg."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:216
@@ -9778,7 +9778,7 @@ msgstr "-- výběr pracovního skinu - grafického prostředí"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:843
 msgid "Skins"
-msgstr ">skiny"
+msgstr "skiny"
 
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
 msgid "Skip Satlists"
@@ -10748,7 +10748,7 @@ msgstr "Příliš dlouho nebyl žádný vstup !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:310
 msgid "These options require a bluetooth enabled and connected remote!"
-msgstr "Tato volba vyžaduje povolené Bluetooth a připojené dál.ovládání !"
+msgstr "Vyžaduje povolené Bluetooth a připojené dálkové ovládání !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:182
 msgid ""
@@ -11695,7 +11695,7 @@ msgstr "nastavení obrazu---"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:252
 msgid "Video Bitrate"
-msgstr "Bitový tok videa"
+msgstr "bit.tok videa"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:312
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:324
@@ -11861,55 +11861,55 @@ msgstr "údaje o modulu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid "View list of available "
-msgstr "-- seznam dostupných balíčků - "
+msgstr "-- dostupné balíčky - "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:849
 msgid "View list of available CommonInterface extensions"
-msgstr "-- seznam dostupných balíčků - rozhraní"
+msgstr "-- dostupné balíčky - rozhraní"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:859
 msgid "View list of available Display and Userinterface extensions."
-msgstr "-- seznam dostupných balíčků - obrazovka, uživ.rozhraní"
+msgstr "-- dostupné balíčky - obrazovka, uživ.rozhraní"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:861
 msgid "View list of available EPG extensions."
-msgstr "-- seznam dostupných balíčků - programy"
+msgstr "-- dostupné balíčky - programy"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:853
 msgid "View list of available Satellite equipment extensions."
-msgstr "-- seznam dostupných balíčků - sat.zařízení"
+msgstr "-- dostupné balíčky - sat.zařízení"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:863
 msgid "View list of available communication extensions."
-msgstr "-- seznam dostupných balíčků - komunikace"
+msgstr "-- dostupné balíčky - komunikace"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:851
 msgid "View list of available default settings"
-msgstr "-- seznam dostupných balíčků - předvolené sady kanálů s lamedb"
+msgstr "-- dostupné balíčky - předvolené sady kanálů s lamedb"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:857
 msgid "View list of available multimedia extensions."
-msgstr "-- seznam dostupných balíčků - multimédia"
+msgstr "-- dostupné balíčky - multimédia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 msgid "View list of available networking extensions"
-msgstr "-- seznam dostupných balíčků - sítě"
+msgstr "-- dostupné balíčky - sítě"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:845
 msgid "View list of available recording extensions"
-msgstr "-- seznam dostupných balíčků - nahrávání"
+msgstr "-- dostupné balíčky - nahrávání"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:843
 msgid "View list of available skins"
-msgstr "-- seznam dostupných balíčků - skiny, graf.prostředí"
+msgstr "-- dostupné balíčky - skiny, graf.prostředí"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:855
 msgid "View list of available software extensions"
-msgstr "-- seznam dostupných balíčků - software"
+msgstr "-- dostupné balíčky - software"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
 msgid "View list of available system extensions"
-msgstr "-- seznam dostupných balíčků - systém"
+msgstr "-- dostupné balíčky - systém"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2427
@@ -13034,7 +13034,7 @@ msgstr "odstranit střih"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:508
 msgid "delete file"
-msgstr "odstranit soubor videa"
+msgstr "odstranit soubor videa z disku"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:171
@@ -13144,12 +13144,12 @@ msgstr "aktivovat"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:209
 msgid "enable bouquet edit"
-msgstr "povolit úpravu seznamů kanálů"
+msgstr "upravit seznam kanálů"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:211
 msgid "enable favourite edit"
-msgstr "povolit úpravu oblíbených"
+msgstr "upravit oblíbené"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:205
