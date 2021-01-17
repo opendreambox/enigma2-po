@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 13:09+0000\n"
-"PO-Revision-Date: 2021-01-07 13:56+0000\n"
+"PO-Revision-Date: 2021-01-19 01:41+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -333,7 +333,7 @@ msgid ""
 "%s\n"
 msgstr ""
 "%s\n"
-"čas ze serveru :\n"
+"čas serveru :\n"
 "%s\n"
 
 #
@@ -357,7 +357,7 @@ msgid ""
 "\n"
 msgstr ""
 "%s IPv%s\n"
-"  adresa : %s\n"
+"lok.adresa : %s\n"
 "  %s: %s\n"
 "  brána : %s\n"
 "\n"
@@ -398,7 +398,7 @@ msgid ""
 "%sName server\n"
 "%s\n"
 msgstr ""
-"%s server :\n"
+"%sadresa serveru :\n"
 "%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:78
@@ -1027,7 +1027,7 @@ msgid ""
 "Active time servers:\n"
 "%s"
 msgstr ""
-"čas na aktivním serveru :\n"
+"čas aktivního serveru :\n"
 "%s"
 
 #
@@ -6169,7 +6169,7 @@ msgstr "-aktuální-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:904
 msgid "NTP Time Updates"
-msgstr "NTP - čas aktualizace"
+msgstr "aktualizace času NTP"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
@@ -8964,7 +8964,7 @@ msgstr "zaostření"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:213
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:334
 msgid "Scan"
-msgstr "hledání"
+msgstr "vyhledat"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2261
@@ -9412,7 +9412,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service:Name server configuration"
-msgstr "služba : nastavení názvu serveru"
+msgstr "služba : nastavení serveru"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11989,12 +11989,12 @@ msgstr "Webový prohlížeč - menu"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Webinterface: Main Setup"
-msgstr "Webové rozhraní - nastavení..."
+msgstr "Webové rozhraní..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Webinterface:Main Setup"
-msgstr "Webinterface : základní nastavení"
+msgstr "Webové rozhraní..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
