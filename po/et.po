@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 13:09+0000\n"
-"PO-Revision-Date: 2020-12-12 05:40+0000\n"
+"PO-Revision-Date: 2021-03-14 13:28+0000\n"
 "Last-Translator: Urmas Punane <inspire@hot.ee>\n"
 "Language-Team: Estonian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/et/>\n"
@@ -940,7 +940,7 @@ msgstr "Täpsus (suurem on parem)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:264
 msgid "Action"
-msgstr ""
+msgstr "Toiming"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -1118,7 +1118,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:113
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Advanced"
-msgstr ""
+msgstr "Lisavalikud"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:157
@@ -2572,9 +2572,8 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:46
 #: enigma2/usr/share/enigma2/startwizard.xml
-#, fuzzy
 msgid "Connected"
-msgstr "Ühendatud!"
+msgstr "Ühendatud"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:398
@@ -3029,7 +3028,7 @@ msgstr "Kuupäev"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Debug"
-msgstr ""
+msgstr "Silumine"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Debug accel memory usage"
@@ -3131,11 +3130,11 @@ msgstr "Kustutada küpsis?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:258
 msgid "Delete and quit "
-msgstr ""
+msgstr "Kustuta ja lahku "
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:257
 msgid "Delete and return to movie list"
-msgstr ""
+msgstr "Kustuta ja mine tagasi salvestiste nimekirja"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
@@ -5640,7 +5639,7 @@ msgstr "MMC autentimine ebaõnnestus"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "MORE"
-msgstr ""
+msgstr "VEEL"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:34
 msgid "MP3"
@@ -5885,7 +5884,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Message"
-msgstr ""
+msgstr "Sõnum"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -6162,7 +6161,7 @@ msgstr "Ei ole kasutusel"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "NEXT"
-msgstr ""
+msgstr "JÄRGMINE"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:154
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:170
@@ -6174,7 +6173,7 @@ msgstr "NIM"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "NOW"
-msgstr ""
+msgstr "PRAEGU"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:904
 msgid "NTP Time Updates"
@@ -8123,7 +8122,7 @@ msgstr "Kiire kanalivalik"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:249
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:255
 msgid "Quit"
-msgstr ""
+msgstr "Välju"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "RC Menu"
@@ -8610,7 +8609,7 @@ msgstr "Käivitame Enigma2 kohe uuesti?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:259
 msgid "Restart from the beginning"
-msgstr ""
+msgstr "Alusta uuesti algusest"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:565
 msgid "Restart required"
@@ -10190,13 +10189,13 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Streaming"
-msgstr ""
+msgstr "Voogedastus"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:165
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/plugin.py:13
 msgid "Streaming Server"
-msgstr ""
+msgstr "Striiming server"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/plugin.py:17
 msgid "Streaming Server Setup"
@@ -11521,7 +11520,7 @@ msgstr "URL:"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Usability"
-msgstr ""
+msgstr "Kasutus"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:362
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:383
@@ -11841,9 +11840,8 @@ msgid "Videomode provides advanced video mode settings"
 msgstr "Videomode võimaldab laiendatud videoseadeid"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:217
-#, fuzzy
 msgid "Videos"
-msgstr "Video"
+msgstr "Videod"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:1017
 msgid "View Movies..."
