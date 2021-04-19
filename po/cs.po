@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-19 09:16+0000\n"
-"PO-Revision-Date: 2021-04-19 15:15+0000\n"
+"PO-Revision-Date: 2021-04-19 21:33+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -1244,7 +1244,7 @@ msgstr "další info k programu :"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:122
 msgid "Additional event-time position"
-msgstr "pozice časů dalšího infa"
+msgstr "pozice doplňující informace"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:614
 msgid "Address (IPv4)"
@@ -1746,7 +1746,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:142
 msgid "Automatic update checks"
-msgstr "nastavit aut.kontrolu aktualizací"
+msgstr "automatická kontrola aktualizací"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Automatic wakeup from standby for zap timers"
@@ -1937,7 +1937,7 @@ msgstr "Nastavení zálohy..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:139
 msgid "Backup system settings"
-msgstr ">>zálohovat nastavení systému a modulů..!"
+msgstr ">>zálohovat nastavení systému a modulů"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
@@ -2327,7 +2327,7 @@ msgstr "kanál"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Channel Selection"
-msgstr "Seznam kanálů..."
+msgstr "sada kanálů---"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:331
 msgid "Channel not in services list"
@@ -2672,7 +2672,7 @@ msgstr "konfigurační mód"
 
 #: enigma2/usr/share/meta/plugin_streamservices.xml
 msgid "Configuration Utility for the Dreambox Stream Services"
-msgstr "Konfigurační nástroje pro služby DreamBox Stream"
+msgstr "-- konfigurační nástroje pro klienta sdílení"
 
 #: enigma2/usr/share/meta/plugin_streamserver.xml
 msgid "Configuration Utility for the Dreambox Streaming Server"
@@ -2693,7 +2693,7 @@ msgstr "Konfig.prostředí Dreamboxu a nahrávání_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your common interface."
-msgstr "Konfigurace CI rozhraní..."
+msgstr "Konfigurace dekódovacího CI rozhraní_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
@@ -3226,7 +3226,7 @@ msgstr ">předvolená sada kanálů"
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:123
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:157
 msgid "Default movie location"
-msgstr "předvolená složka pro záznam pořadů"
+msgstr "složka pro záznam pořadů"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -3243,7 +3243,7 @@ msgstr "předvolená sada kanálů"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:120
 msgid "Default storage device"
-msgstr "předvolené úložné zařízení pro data"
+msgstr "úložné zařízení pro data"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1897
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:113
@@ -4100,7 +4100,7 @@ msgstr "Předvolba toku..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1340
 msgid "Encoder service can only be set when in TV-Services mode!"
-msgstr "Kódování kanálu může být nastaveno pouze v TV módu !"
+msgstr "Kódování kanálu je dostupné pouze v TV módu !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1336
 #, python-brace-format
@@ -4831,7 +4831,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "ovládání TV přes HDMI"
+msgstr "HDMI CEC"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -5342,7 +5342,7 @@ msgstr "rychlý REC záznam"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:127
 msgid "Instant record location"
-msgstr "předvolená složka pro rychlý REC záznam"
+msgstr "složka pro rychlý REC záznam"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:16
@@ -5534,7 +5534,7 @@ msgstr "nastavení LED tl.zdroje"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr "nastavení LED tl.zdoje"
+msgstr "jas a barvy tl.LED zdroje"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -5676,7 +5676,7 @@ msgstr "úložná zařízení"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Listen to radio stations."
-msgstr "rozhlasové stanice"
+msgstr "Poslouchat rozhlasové stanice_"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:36
@@ -6389,7 +6389,7 @@ msgstr "maska sítě"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:135
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network"
-msgstr "Sítě, přípojné body..."
+msgstr ">sítě, přípojné body"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:475
 msgid "Network Config"
@@ -6413,7 +6413,7 @@ msgstr "sousední sítě"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:124
 msgid "Network Setup"
-msgstr "konfigurace sítě LAN"
+msgstr "konfigurace dostupných sítí"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network Setup and Tools."
@@ -6590,9 +6590,7 @@ msgstr "Chybí informace o kanálu. Nahrává se bez ukončení..."
 msgid ""
 "No fast winding possible yet.. but you can use the number buttons to skip "
 "forward/backward!"
-msgstr ""
-"Rychlé přetáčení není možné, můžete ale použít číselná tlačítka pro přeskok "
-"dopředu a zpět..."
+msgstr "Rychle přetáčet nelze, použijte číselná tlačítka..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2680
@@ -8609,7 +8607,7 @@ msgstr "odebrat složku"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:52
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:56
 msgid "Remove Selected Entry From Playlist"
-msgstr "odstranit vybrané zadání ze seznamu"
+msgstr "odebrat video ze seznamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:180
@@ -9581,8 +9579,8 @@ msgid ""
 "Service not found!\n"
 "(SID not found in PAT)"
 msgstr ""
-"Kanál nebyl nalezený !\n"
-"(SID není dostupný v PAT)"
+"Kanál nebyl v multiplexu nalezený !\n"
+"(ServiceID není dostupné v PAT)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:86
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:92
@@ -10031,7 +10029,7 @@ msgstr "prezentace - interval mezi snímky (sek.) :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:232
 msgid "Slideshow: Repeat"
-msgstr "prezentace - opakování :"
+msgstr "prezentace - opakovat"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:57
@@ -10095,7 +10093,7 @@ msgstr "nainstalovat Image ze zálohy"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:137
 msgid "Software update"
-msgstr "aktualizace software"
+msgstr "aktualizovat software"
 
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml
 #: enigma2/usr/share/meta/plugin_softwaremanager.xml./enigma2/usr/share/meta/plugin_softwaremanager.xml
@@ -10673,7 +10671,7 @@ msgstr "text"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Text subtitle black box transparency"
-msgstr "transp.pozadí titulků >>"
+msgstr "transp.pozadí titulků <->"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Text subtitle presentation"
@@ -10787,7 +10785,7 @@ msgstr ""
 #: enigma2/usr/share/meta/plugin_videoenhancement.xml./enigma2/usr/share/meta/plugin_videoenhancement.xml
 msgid ""
 "The VideoEnhancement plugin provides advanced video enhancement settings."
-msgstr "-- rozšířené nastavení videa"
+msgstr "Rozšířené nastavení videa."
 
 #: enigma2/usr/share/meta/plugin_videotune.xml
 #: enigma2/usr/share/meta/plugin_videotune.xml./enigma2/usr/share/meta/plugin_videotune.xml
@@ -11163,7 +11161,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:125
 msgid "Timer record location"
-msgstr "předvolená složka pro záznam z časovače"
+msgstr "složka pro záznam z časovače"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -12967,7 +12965,7 @@ msgstr "Přidat sadu kanálů"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:502
 msgid "add directory to playlist"
-msgstr "přidat složku do vybraného videa"
+msgstr "přidat složku do seznamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:155
@@ -12977,7 +12975,7 @@ msgstr "přidat video do vybraných"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:504
 msgid "add files to playlist"
-msgstr "přidat video do seznamu vybraných"
+msgstr "přidat video do seznamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:207
@@ -13312,7 +13310,7 @@ msgstr "nedělat nic"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1719
 msgid "don't record"
-msgstr "-bez záznamu-"
+msgstr "-nenahrávat-"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:97
@@ -14549,13 +14547,13 @@ msgstr "zobrazit nahrané..."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:36
 msgid "wait for ci..."
-msgstr "čekám na CI dek..."
+msgstr "...čekám na CI dekodér..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/SocketMMI/SocketMMI.py:24
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/SocketMMI/SocketMMI.py:31
 msgid "wait for mmi..."
-msgstr "čekám na mmi..."
+msgstr "čekám na mmi kód..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:88
