@@ -39,7 +39,7 @@ class parseXML(ContentHandler, LexicalHandler):
 	def endElement(self, name):
 		#print "endElement", name
 		if name in ("shortdescription", "description"):
-			attrlist.add((self.data.strip().decode("utf-8"), self.last_comment,self.currentFile))
+			attrlist.add((self.data.strip(), self.last_comment,self.currentFile))
 		self.data = ""
 
 	def characters(self, data):
