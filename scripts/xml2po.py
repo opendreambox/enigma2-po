@@ -1,8 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 import sys
 import os
-import string
 
 from xml.sax import make_parser, saxutils
 from xml.sax.handler import ContentHandler, property_lexical_handler
@@ -15,9 +14,9 @@ except ImportError:
 	no_comments = True
 
 class parseXML(ContentHandler, LexicalHandler):
-	def __init__(self, attrlist, filename):
+	def __init__(self, attrlist, file):
 		self.isPointsElement, self.isReboundsElement = 0, 0
-		self.currentFile = filename
+		self.currentFile = file
 		self.attrlist = attrlist
 		self.last_comment = None
 		self.data = ""
@@ -26,17 +25,11 @@ class parseXML(ContentHandler, LexicalHandler):
 		if comment.find("TRANSLATORS:") != -1:
 			self.last_comment = comment
 
-	def isSkinFile(self, filename):
-		return filename.endswith("skin.xml") or (filename.find("skin_default") >= 0 and filename.endswith(".xml"))
-
 	def startElement(self, name, attrs):
 		#print "startElement", name, attrs
 		self.last_comment = None
 		self.data = ""
-		translateable = ["text", "title", "value", "caption", "description"]
-		if self.isSkinFile(self.currentFile):
-			translateable = ["text", "title"]
-		for x in translateable:
+		for x in ["text", "title", "value", "caption", "description"]:
 			try:
 				attrlist.add((attrs[x], self.last_comment,self.currentFile))
 				self.last_comment = None
@@ -61,15 +54,15 @@ for arg in sys.argv[1:]:
 	#print "processing:",arg
 	parse_path = ""
 	if os.path.isdir(arg):
-		for filename in os.listdir(arg):
-			if (filename.endswith(".xml")):
-				contentHandler = parseXML(attrlist,filename)
+		for file in os.listdir(arg):
+			if (file.endswith(".xml")):
+				contentHandler = parseXML(attrlist,file)
 				parser.setContentHandler(contentHandler)
 				if not no_comments:
 					parser.setProperty(property_lexical_handler, contentHandler)
-				parser.parse(os.path.join(arg, filename))
+				parser.parse(os.path.join(arg, file))
 	else:
-		contentHandler = parseXML(attrlist, arg)
+		contentHandler = parseXML(attrlist,arg)
 		parser.setContentHandler(contentHandler)
 		if not no_comments:
 			parser.setProperty(property_lexical_handler, contentHandler)
@@ -81,20 +74,21 @@ for arg in sys.argv[1:]:
 	for (k,c,f) in attrlist:
 		if c:
 			for l in c.split("\n"):
-				print "#. ", l
+				print("#. ", l)
 		if arg == f:
-			print "#: %s" % (arg)
+			print("#: %s" % (arg))
 		else:
-			print "#: %s" % (arg + f)
+			print("#: %s" % (arg + f))
 		msgid = saxutils.escape(k, {'"': '&quot;'}).encode("utf-8")
 		#print type(msgid), repr(msgid)
-		string.replace(msgid, "\\n", "\"\n\"")
+		msgid = msgid.decode("utf-8")
+		msgid.replace("\\n", "\"\n\"")
 		msgstr = ""
 		if msgid.strip() != "":
 			if msgid.find("\&quot;") != -1:
-				print "msgid \"%s\"" % (msgid.replace('\&quot;', '\\"'))
+				print("msgid \"%s\"" % (msgid.replace('\&quot;', '\\"')))
 			else:
-				print "msgid \"%s\"" % (msgid)
-			print "msgstr \"%s\"\n" % (msgstr)
+				print("msgid \"%s\"" % (msgid))
+			print("msgstr \"%s\"\n" % (msgstr))
 
 	attrlist = set()
