@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-20 05:48+0000\n"
-"PO-Revision-Date: 2021-04-19 21:33+0000\n"
-"Last-Translator: dre <dre@drecomx.net>\n"
+"PO-Revision-Date: 2021-04-20 07:29+0000\n"
+"Last-Translator: reichi <stephan@reichholf.net>\n"
 "Language-Team: German <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/de/>\n"
 "Language: de\n"
@@ -4463,7 +4463,7 @@ msgstr "HLS Server"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:29
 msgid "Half server buffer time"
-msgstr ""
+msgstr "Halbe Server-Pufferzeit"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:320
 msgid "Haptic feedback in lists"
@@ -5131,11 +5131,11 @@ msgstr "Level"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:111
 msgid "Limit by bandwidth (MBit/s)"
-msgstr ""
+msgstr "Bandbreitenbegrenzung (MBit/s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:112
 msgid "Limit by resolution (Height in px)"
-msgstr ""
+msgstr "Auflösungsbeschränkung (Höhe in Pixel)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:253
@@ -5497,20 +5497,20 @@ msgstr "Methode (IPv6)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:23
 msgid "Mid"
-msgstr ""
+msgstr "Mittel"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:100
 msgid "Minimum Buffer Mode"
-msgstr ""
+msgstr "Minimale Puffergröße"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:104
 msgid "Minimum buffer (Fallback, s)"
-msgstr ""
+msgstr "Minimaler Puffer (Alternativ, Sekunden)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:107
 msgid "Minimum buffer (s)"
-msgstr ""
+msgstr "Minimaler Puffer (Sekunden)"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Minimum treshold in seconds before resuming"
@@ -7470,7 +7470,7 @@ msgstr "Python frontend für /tmp/mmi.socket."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:30
 msgid "Quarter server buffer time"
-msgstr ""
+msgstr "Ein Viertel der Server-Pufferzeit"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
@@ -8570,7 +8570,7 @@ msgstr "Servername"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:28
 msgid "Server buffer time"
-msgstr ""
+msgstr "Server-Pufferzeit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:154
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:181
@@ -9169,7 +9169,7 @@ msgstr "HbbTV starten..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:20
 msgid "Start best"
-msgstr ""
+msgstr "Mit Bester starten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:101
@@ -9178,7 +9178,7 @@ msgstr "Am Anfang starten"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:19
 msgid "Start mid"
-msgstr ""
+msgstr "Mit Mittlerer starten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1911
@@ -9199,7 +9199,7 @@ msgstr "Startet mit laufendem Kanal statt dem Ersten."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:18
 msgid "Start worst"
-msgstr ""
+msgstr "Mit Schlechtester starten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:220
@@ -9302,7 +9302,7 @@ msgstr "gespeicherte Position"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:84
 msgid "Stream Client"
-msgstr ""
+msgstr "Stream-Client"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
@@ -9318,11 +9318,11 @@ msgstr "Stream Id"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:11
 msgid "Stream Services"
-msgstr ""
+msgstr "Streamingdienste"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:15
 msgid "Stream Services Setup"
-msgstr ""
+msgstr "Streamingdienste - Setup"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Streaming"
@@ -11165,7 +11165,7 @@ msgstr "Verarbeite..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:22
 msgid "Worst"
-msgstr ""
+msgstr "Schlechteste"
 
 #
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:420
