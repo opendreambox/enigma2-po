@@ -27,9 +27,13 @@ class parseXML(ContentHandler, LexicalHandler):
 
 	def startElement(self, name, attrs):
 		#print "startElement", name, attrs
+		if name == "color":
+			return
 		self.last_comment = None
 		self.data = ""
 		for x in ["text", "title", "value", "caption", "description"]:
+			if x not in attrs:
+				return
 			try:
 				attrlist.add((attrs[x], self.last_comment,self.currentFile))
 				self.last_comment = None
