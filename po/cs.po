@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-20 05:48+0000\n"
-"PO-Revision-Date: 2021-04-19 21:33+0000\n"
+"PO-Revision-Date: 2021-04-21 10:21+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -2560,7 +2560,7 @@ msgstr "aktuální zařízení : "
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:345
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:237
 msgid "Current value: "
-msgstr "aktuální hodnota :"
+msgstr "aktuální hodnota : "
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FrontprocessorUpgrade/plugin.py:35
@@ -3857,7 +3857,7 @@ msgstr "rychle"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:422
 msgid "Fast DiSEqC"
-msgstr "rychlý  DiSEqC"
+msgstr "rychlý DiSEqC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:40
 msgid "Fast Forward"
@@ -5643,7 +5643,7 @@ msgstr "Nebyla nalezena podporovaná DVD mechanika !"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1902
 msgid "No HDD found or HDD not initialized!"
 msgstr ""
-"Harddisk nebyl nalezený \n"
+"Harddisk nebyl nalezený\n"
 "nebo není inicializovaný !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:291
@@ -7279,7 +7279,7 @@ msgstr "Zastavit a vypnout ?"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Record"
-msgstr "nahrát "
+msgstr "nahrát"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1806
 #, python-format
@@ -9446,7 +9446,7 @@ msgstr "Vyskytla se chyba, balíček :"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1223
 #, python-format
 msgid "There was en error while configuring your %(desc)s."
-msgstr "Při konfiguraci disku došlo k chybě !"
+msgstr "Při konfiguraci disku došlo k chybě %(desc)s !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:234
 msgid "There was en error while configuring your storage device."
@@ -10305,7 +10305,7 @@ msgid ""
 msgstr ""
 "bit.tok videa  :\t%s\n"
 "bit.tok audia :\t%s\n"
-" rozlišení        :\t%s"
+"rozlišení         :\t%s"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/plugin.py:12
@@ -10862,7 +10862,7 @@ msgid ""
 "Your dreambox isn't connected to the internet properly. Please check it and "
 "try again."
 msgstr ""
-"Sat.přijímač není připojený na internet ! \n"
+"Sat.přijímač není připojený na internet !\n"
 "Zkontrolujte stav a zopakujte akci."
 
 #
