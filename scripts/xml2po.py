@@ -14,9 +14,9 @@ except ImportError:
 	no_comments = True
 
 class parseXML(ContentHandler, LexicalHandler):
-	def __init__(self, attrlist, file):
+	def __init__(self, attrlist, filename):
 		self.isPointsElement, self.isReboundsElement = 0, 0
-		self.currentFile = file
+		self.currentFile = filename
 		self.attrlist = attrlist
 		self.last_comment = None
 		self.data = ""
@@ -25,15 +25,20 @@ class parseXML(ContentHandler, LexicalHandler):
 		if comment.find("TRANSLATORS:") != -1:
 			self.last_comment = comment
 
+	def isSkinFile(self, filename):
+		return filename.endswith("skin.xml") or (filename.find("skin_default") >= 0 and filename.endswith(".xml"))
+
 	def startElement(self, name, attrs):
-		#print "startElement", name, attrs
 		if name == "color":
 			return
 		self.last_comment = None
 		self.data = ""
-		for x in ["text", "title", "value", "caption", "description"]:
+		translateable = ["text", "title", "value", "caption", "description"]
+		if self.isSkinFile(self.currentFile):
+			translateable = ["text", "title"]
+		for x in translateable:
 			if x not in attrs:
-				return
+				continue
 			try:
 				attrlist.add((attrs[x], self.last_comment,self.currentFile))
 				self.last_comment = None
@@ -55,18 +60,17 @@ parser = make_parser()
 attrlist = set()
 
 for arg in sys.argv[1:]:
-	#print "processing:",arg
 	parse_path = ""
 	if os.path.isdir(arg):
-		for file in os.listdir(arg):
-			if (file.endswith(".xml")):
-				contentHandler = parseXML(attrlist,file)
+		for filename in os.listdir(arg):
+			if (filename.endswith(".xml")):
+				contentHandler = parseXML(attrlist,filename)
 				parser.setContentHandler(contentHandler)
 				if not no_comments:
 					parser.setProperty(property_lexical_handler, contentHandler)
-				parser.parse(os.path.join(arg, file))
+				parser.parse(os.path.join(arg, filename))
 	else:
-		contentHandler = parseXML(attrlist,arg)
+		contentHandler = parseXML(attrlist, arg)
 		parser.setContentHandler(contentHandler)
 		if not no_comments:
 			parser.setProperty(property_lexical_handler, contentHandler)
@@ -84,7 +88,6 @@ for arg in sys.argv[1:]:
 		else:
 			print("#: %s" % (arg + f))
 		msgid = saxutils.escape(k, {'"': '&quot;'}).encode("utf-8")
-		#print type(msgid), repr(msgid)
 		msgid = msgid.decode("utf-8")
 		msgid.replace("\\n", "\"\n\"")
 		msgstr = ""
