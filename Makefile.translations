@@ -23,7 +23,7 @@ template:
 	find ./enigma2 ./enigma2-skins -iname "*.py" | xargs $(GETTEXT) -L Python --from-code=UTF-8 --add-comments="TRANSLATORS:" -d enigma2 -s -o $(PODIR)/enigma2.pot
 	find ./enigma2 -iname "*.xml" | xargs ./scripts/xml2po.py >> $(PODIR)/enigma2.pot
 	find ./enigma2 ./enigma2-skins  -iname "plugin_*.xml" | xargs ./scripts/meta2po.py >> $(PODIR)/enigma2.pot
-	find ./enigma2-skins -iname "skin_*.xml" | grep -v skin_default.* | xargs ./scripts/meta2po.py >> $(PODIR)/enigma2.pot
+	find ./enigma2-skins -iname "skin_*.xml" | grep -v skin_default.* | xargs ./scripts/xml2po.py >> $(PODIR)/enigma2.pot
 	msguniq -n --add-location -o $(PODIR)/enigma2.pot $(PODIR)/enigma2.pot
 
 merge:
