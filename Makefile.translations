@@ -34,3 +34,11 @@ merge:
 	done
 	rm -f $(PODIR)/*.po~
 	rm -f $(PODIR)/*.pending
+
+mergeold :
+	mkdir -p $(PODIR)
+	for pofile in ./oldpo/*.po; do \
+		echo "merging $${pofile} into ${PODIR}/$${pofile##*/}"; \
+		touch $(PODIR)/$${pofile##*/}; \
+		msgcat --add-location --force-po --use-first -s $(PODIR)/$${pofile##*/} $${pofile} -o $(PODIR)/$${pofile##*/}; \
+	done
