@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-30 22:01+0000\n"
-"PO-Revision-Date: 2021-05-21 16:49+0000\n"
+"POT-Creation-Date: 2021-06-17 22:02+0000\n"
+"PO-Revision-Date: 2021-07-08 22:01+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -1079,7 +1079,7 @@ msgstr "přidat záznam"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:54
 msgid "Add file(s) to Playlist"
-msgstr "přidat video do vybraných"
+msgstr "přidat video do seznamu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:674
@@ -3179,7 +3179,7 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "odstranit chybové protokoly"
+msgstr "Chybový protokol byl odstraněný !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:512
@@ -3980,7 +3980,7 @@ msgstr "Předvolba toku..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1340
 msgid "Encoder service can only be set when in TV-Services mode!"
-msgstr "Kódování kanálu je dostupné pouze v TV módu !"
+msgstr "Kódování kanálu lze nastavit pouze v TV módu !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1336
 #, python-brace-format
@@ -4753,7 +4753,7 @@ msgstr "server HLS..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:29
 msgid "Half server buffer time"
-msgstr "poloviční paměť. čas serveru"
+msgstr "poloviční časování paměti serveru"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:320
 msgid "Haptic feedback in lists"
@@ -5046,7 +5046,7 @@ msgstr "-info ->"
 #: enigma2/usr/share/enigma2/setup.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "InfoBar"
-msgstr "poloha info-panelu"
+msgstr "poloha info-panelu---"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -5410,11 +5410,11 @@ msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
-msgstr "nastavení LED tl.zdroje"
+msgstr "nastavení LED u tlačítka zdroje"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr "nastavení LED tl.zdoje"
+msgstr "jas a barvy LED u tl.zdroje"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -7299,7 +7299,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:253
 msgid "Play and watch all your media."
-msgstr "přehrát všechna videa"
+msgstr "Přehrát audio, video, foto_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:1057
 msgid "Play back media files"
@@ -8154,11 +8154,11 @@ msgstr "Python použitý pro /tmp/mmi.socket"
 #: enigma2/usr/share/meta/plugin_socketmmi.xml
 #: enigma2/usr/share/meta/plugin_socketmmi.xml./enigma2/usr/share/meta/plugin_socketmmi.xml
 msgid "Python frontend for /tmp/mmi.socket."
-msgstr "Modul pro umístění Python do /tmp/mmi.socket"
+msgstr "Python použitý pro /tmp/mmi.socket_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:30
 msgid "Quarter server buffer time"
-msgstr "čtvrtinová časová vyrovnávací paměti serveru"
+msgstr "čtvrtinové časování paměti serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Quick"
@@ -9398,7 +9398,7 @@ msgstr "označení serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:28
 msgid "Server buffer time"
-msgstr "čas vyrovnávací paměti serveru"
+msgstr "časování paměti serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:154
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:181
@@ -10105,7 +10105,7 @@ msgstr "červené tl.HbbTV..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:20
 msgid "Start best"
-msgstr "spustit nejlepší"
+msgstr "od nejlepšího"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:101
@@ -10114,7 +10114,7 @@ msgstr "spustit od začátku"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:19
 msgid "Start mid"
-msgstr "spustit střední"
+msgstr "od středního"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Start over"
@@ -10139,7 +10139,7 @@ msgstr "začít na aktuálním kanálu, ne = na prvním"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:18
 msgid "Start worst"
-msgstr "spustit nejhorší"
+msgstr "od nejhoršího"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:220
@@ -11099,7 +11099,7 @@ msgstr "časové pásmo "
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:21
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:452
 msgid "Title"
-msgstr "titulků"
+msgstr "v názvu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:69
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:289
@@ -12089,7 +12089,7 @@ msgstr "Webový prohlížeč - menu"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Webinterface: Main Setup"
-msgstr "Webové rozhraní..."
+msgstr "Webové rozhraní - nastavení..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
