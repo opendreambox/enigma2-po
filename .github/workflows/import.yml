@@ -37,6 +37,7 @@ jobs:
         id: wlclocknpush
         run: | 
           wlc lock dreambox/enigma2
+          wlc commit dreambox/enigma2
           wlc push dreambox/enigma2
       - name: Pull weblate changes
         id: weblatepull
