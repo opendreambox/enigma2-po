@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-16 22:02+0000\n"
+"POT-Creation-Date: 2021-09-22 22:02+0000\n"
 "PO-Revision-Date: 2021-09-05 22:02+0000\n"
 "Last-Translator: dre <dre@drecomx.net>\n"
 "Language-Team: German <https://dreambox.de/translate/projects/dreambox/"
@@ -202,6 +202,14 @@ msgstr ""
 "\n"
 "Anzeigen, Installieren und Entfernen verfügbarer oder installierter Pakete."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:244
+msgid ""
+"\n"
+"Your remote control will restart in a few seconds (up to 40)!\n"
+"\n"
+"Press [OK] or [EXIT] to close this window once it finished booting!"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid " extensions."
 msgstr " Erweiterungen."
@@ -378,12 +386,12 @@ msgstr ""
 "  Gateway: %s\n"
 "\n"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:57
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:64
 #, python-format
 msgid "%s IR codes acknowledged!"
 msgstr "%s IR Codes bestätigt!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:175
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:182
 #, python-format
 msgid "%s IR codes sent!"
 msgstr "%s IR Codes gesendet!"
@@ -393,15 +401,15 @@ msgstr "%s IR Codes gesendet!"
 msgid "%s Network - Name servers"
 msgstr "%s Netzwerk - Nameserver"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:117
 #, python-format
 msgid "%s devices"
 msgstr "%s Geräte"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:124
 #, python-format
-msgid "%s mapped keys, %s unmapped keys"
-msgstr "%s zugewiesene Tasten, %s nicht zugewiesene Tasten"
+msgid "%s mapped keys"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -460,7 +468,8 @@ msgstr "-"
 msgid "-- All --"
 msgstr "-- Alle --"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:69
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:92
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:84
 msgid "..."
 msgstr "..."
 
@@ -513,7 +522,7 @@ msgstr "10 MHz"
 msgid "13 V"
 msgstr "13 V"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:148
+#: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "14 days"
 msgstr "14 Tage"
 
@@ -571,11 +580,11 @@ msgstr "2.1"
 msgid "2.2"
 msgstr "2.2"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:148
+#: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "21 days"
 msgstr "21 Tage"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:148
+#: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "28 days"
 msgstr "28 Tage"
 
@@ -666,7 +675,7 @@ msgstr "60 Minuten"
 msgid "7"
 msgstr "7"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:148
+#: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "7 days"
 msgstr "7 Tage"
 
@@ -957,6 +966,10 @@ msgstr "AC3 Downmix"
 msgid "AC3+"
 msgstr "AC3+"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
+msgid "APPLICATION"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:945
 #, python-format
 msgid ""
@@ -1202,7 +1215,7 @@ msgstr "Bitrate wird angepasst"
 msgid "Adopt current configuration."
 msgstr "Gegenwärtige Konfiguration übernehmen."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:113
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:155
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:61
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Advanced"
@@ -1409,6 +1422,10 @@ msgstr "Crashlogs anonymisieren?"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Anti Scroll Setup"
 msgstr "Anti Scroll Einstellungen"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
+msgid "Application"
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:23
@@ -1719,6 +1736,10 @@ msgstr "Automatisches Versenden von Crashlogs an Dream Multimedia"
 msgid "Automatically set up a mountpoint."
 msgstr "Automatisch einhängen."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:67
+msgid "Available Remotes"
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Available format variables"
@@ -1774,6 +1795,10 @@ msgstr "BDMV Kompatible Bludisc (nur HDTV-Aufnahmen)"
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "BER:"
 msgstr "BER:"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+msgid "BIN"
+msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BLE"
@@ -2189,11 +2214,11 @@ msgstr "Cached IO"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:165
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:169
 msgid "Cancel guided setup"
 msgstr "Geführte Einrichtung abbrechen"
 
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:304
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:316
 msgid "Cancel guided setup?"
 msgstr "Geführte Einrichtung abbrechen?"
 
@@ -2691,6 +2716,7 @@ msgstr "In Konflikt stehender Timer"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:63
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:112
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:63
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:84
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:80
@@ -2698,9 +2724,13 @@ msgstr "In Konflikt stehender Timer"
 msgid "Connect"
 msgstr "Verbinden"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:186
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:251
 msgid "Connect new remote?"
 msgstr "Neue Fernbedienung verbinden?"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:67
+msgid "Connect with WPS Push-Button?"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:46
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -2716,7 +2746,7 @@ msgstr "Verbunden mit"
 msgid "Connecting"
 msgstr "Verbinde"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:84
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:109
 #, python-format
 msgid "Connecting to %s"
 msgstr "Verbinde mit %s"
@@ -2997,19 +3027,53 @@ msgstr "Tschechisch"
 msgid "DASH"
 msgstr "DASH"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+msgid "DAT"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DBusInterfaceProxy/plugin.py:74
 msgid "DBus Interface Python Proxy"
 msgstr "DBus Schnittstelle - Python Proxy"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:88
+msgid "DFU - DM Remote"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
+msgid "DFU Firmware Upgrade"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:22
+msgid "DFU Log"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:190
+msgid "DFU device connected!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:160
+msgid ""
+"DFU device did not show up. Cancelling!\n"
+"You may want to try this again!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:187
+msgid "DFU device ready!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:155
+msgid ""
+"DFU is not available on this device. A firmware update may be required "
+"upfront!"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:236
 msgid "DLNA / UPnP"
 msgstr "DLNA/UPnP"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:71
-msgid "DM RCU"
-msgstr "DM RCU"
-
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:194
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:94
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:86
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:198
 msgid "DM Remote"
 msgstr "DM Fernbedienung"
 
@@ -3373,6 +3437,13 @@ msgstr ""
 "Festplatte bereits über einen Eintrag in der Fstab eingehängt. Eintrag in "
 "der fstab entfernen?"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:164
+#, python-brace-format
+msgid ""
+"Device battery level of {0}% is too low.\n"
+"It's required to be at least {1}%!"
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:41
 #: enigma2/usr/share/enigma2/menu.xml
@@ -3501,7 +3572,7 @@ msgstr "Änderungen verwerfen?"
 msgid "Disconnect"
 msgstr "Trennen"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:249
 msgid "Disconnect paired remote?"
 msgstr "Verbundene Fernbedienung trennen?"
 
@@ -3571,11 +3642,11 @@ msgstr ""
 msgid "Do you really want to clear the History?"
 msgstr "Möchten Sie den Verlauf wirklich löschen?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:127
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:129
 msgid "Do you really want to clear the playlist?"
 msgstr "Möchten Sie die Playlist wirklich leeren?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:186
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:251
 #, python-format
 msgid "Do you really want to connect %s (%s) "
 msgstr "Wirklich mit %s (%s) verbinden? "
@@ -3691,7 +3762,7 @@ msgstr "Möchten Sie Ihren Bookmark %s wirklich löschen?"
 msgid "Do you want to burn this collection to DVD medium?"
 msgstr "Soll diese Zusammenstellung auf DVD gebrannt werden?"
 
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:302
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:314
 msgid "Do you want to cancel the guided setup?"
 msgstr "Möchten Sie die geführte Einrichtung abbrechen?"
 
@@ -3936,6 +4007,10 @@ msgstr "EPGCache Test"
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "EPGRefresh Functions"
 msgstr "EPGRefresh Funktionen"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
+msgid "ERROR"
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
@@ -4307,7 +4382,7 @@ msgid "Exit the wizard"
 msgstr "Assistent beenden"
 
 #
-#: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/skin.xml enigma2/usr/share/enigma2/startwizard.xml
 msgid "Exit wizard"
 msgstr "Assistenten beenden"
 
@@ -4536,7 +4611,13 @@ msgstr "Finnisch"
 msgid "Firmware flasher is missing or broken! Cancelled!"
 msgstr "Das Programm zur Aktualisierung der Firmware fehlt! Abbruch!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:156
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:113
+msgid ""
+"Firmware updates can only be applied to connected remotes!\n"
+"Press Yellow to connect the selected remote control."
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Flash Bluetooth Receiver Firmware?"
@@ -4566,6 +4647,11 @@ msgstr "Folge Live"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:977
 msgid "Following tasks will be done after you press OK!"
 msgstr "Folgendes wird ausgeführt nachdem Sie OK gedrückt haben!"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
+msgid "Force Update"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:253
 msgid "Forced"
@@ -5107,7 +5193,7 @@ msgstr "IPKG upgrade..."
 msgid "IR-Mode LED color when connected to this dreambox"
 msgstr "IR-Modus LED Farbe bei Verbindung mit dieser Dreambox"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:126
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:185
 msgid "IR-Setup"
 msgstr "IR Einstellungen"
 
@@ -5255,6 +5341,10 @@ msgstr "Informationen"
 msgid "Init"
 msgstr "Initialisieren"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
+msgid "Init failed!"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:45
 msgid "Inital Setup Finished!"
 msgstr "Ersteinrichtung abgeschlossen!"
@@ -5293,6 +5383,10 @@ msgstr "%(desc)s initialisieren."
 msgid "Initializing %(desc)s..."
 msgstr "%(desc)s wird initialisiert..."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:143
+msgid "Initializing DFU Mode..."
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
 #: enigma2/usr/lib/enigma2/python/Screens/ChoiceBox.py:11
@@ -5326,12 +5420,12 @@ msgstr "Verwaltung von Eingabegeräten"
 msgid "Input device setup"
 msgstr "Eingabegeräte Setup"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:96
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:137
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Input devices"
 msgstr "Eingabegeräte"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:61
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:86
 msgid "Input required"
 msgstr "Benutzereingabe notwendig"
 
@@ -6065,7 +6159,7 @@ msgstr ""
 "MediaScanner durchsucht Geräte nach Mediendateien und bietet Ihnen dazu "
 "passende Aktionen an, wie z. B. Bilder betrachten oder Videos abspielen."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:152
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:154
 msgid "Mediabrowser Selection"
 msgstr "Medienbrowser wählen"
 
@@ -6112,7 +6206,7 @@ msgstr "Medientoolbox"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:295
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:25
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:269
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:167
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:171
 msgid "Menu"
 msgstr "Menu"
 
@@ -6128,7 +6222,7 @@ msgstr "Merlin Programm Übersicht"
 msgid "Merlin Programm Guide"
 msgstr "Merlin Programm Übersicht"
 
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:19
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:20
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -6494,8 +6588,8 @@ msgstr "Netzmaske"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:44
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:135
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:51
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:169
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network"
 msgstr "Netzwerk"
@@ -6520,7 +6614,7 @@ msgid "Network Neighbourhood"
 msgstr "Netzwerkumgebung"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:124
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:158
 msgid "Network Setup"
 msgstr "Netzwerkeinstellungen"
 
@@ -6532,7 +6626,7 @@ msgstr "Netzwerkeinstellungen und Werkzeuge."
 msgid "Network connection"
 msgstr "Netzwerkverbindung"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:42
 #, python-format
 msgid "Network error on %s"
 msgstr "Netzwerkfehler bei %s"
@@ -6687,7 +6781,7 @@ msgstr "Keine Details verfügbar..."
 msgid "No displayable files on this medium found!"
 msgstr "Keine anzeigbaren Dateien auf diesem Medium gefunden!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:162
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:227
 msgid "No dreambox bluetooth receiver detected! Sorry!"
 msgstr "Kein Dreambox Bluetooth Empfänger gefunden! Sorry!"
 
@@ -7034,6 +7128,7 @@ msgstr "OGG"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:39
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:60
@@ -7289,6 +7384,11 @@ msgstr "PMT PID"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:26
 msgid "PVR"
 msgstr "PVR"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:173
+#, python-brace-format
+msgid "Package Content: {0}"
+msgstr ""
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -7793,11 +7893,15 @@ msgstr "Bitte drücken Sie Rot um diese(s) %(desc)s zu initialisieren!"
 msgid "Please press red to remove this %(desc)s configuration!"
 msgstr "Bitte drücken Sie Rot um diese(s) ausgeschaltete %(desc)s zu löschen!"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:149
+msgid "Please read carefully!"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2439
 msgid "Please select a Text application"
 msgstr "Bitte wählen Sie eine Text Applikation"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:152
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:154
 msgid "Please select a media browser"
 msgstr "Bitte einen Medienbrowser wählen"
 
@@ -8210,6 +8314,13 @@ msgstr "Voreinstellungen"
 msgid "Press Blue to disconnect the selected remote control."
 msgstr "Blau drücken um die gewählte Fernbedienung zu trennen."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:109
+#, python-brace-format
+msgid ""
+"Press Blue to update the firmware of the selected remote control to "
+"application version {0} and bootloader version {1}"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:130
 msgid "Press INFO on your remote control for additional information."
 msgstr "INFO drücken für zusätzliche Informationen."
@@ -8237,7 +8348,7 @@ msgstr "Drücken Sie OK um den selektierten Skin zu aktivieren."
 msgid "Press OK to apply"
 msgstr "Zum Anwenden OK drücken"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:186
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:193
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
 msgstr "OK drücken um %s Tasten von '%s' zuzuweisen"
@@ -8247,7 +8358,7 @@ msgstr "OK drücken um %s Tasten von '%s' zuzuweisen"
 msgid "Press OK to connect"
 msgstr "OK zum Verbinden"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:168
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:233
 msgid "Press OK to connect the selected remote control."
 msgstr "Zum Verbinden der Fernbedienung OK drücken."
 
@@ -8256,7 +8367,7 @@ msgid "Press OK to disable"
 msgstr "OK zum deaktivieren"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:322
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:166
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:231
 msgid "Press OK to disconnect"
 msgstr "OK zur Verbindungstrennung"
 
@@ -8268,6 +8379,11 @@ msgstr "OK drücken zum Editieren."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:343
 msgid "Press OK to enable"
 msgstr "OK zum Aktivieren"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:68
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:115
+msgid "Press OK to finish the Remote Control Firmware Update Assistant."
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:559
@@ -8545,7 +8661,7 @@ msgstr "zufällig"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:394
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:184
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:157
-#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:318
+#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:314
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:441
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:275
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:571
@@ -8562,7 +8678,7 @@ msgstr "Vollendete Timer wirklich löschen?"
 msgid "Really delete this %(desc)s entry?"
 msgstr "Diese(s) %(desc)s und dessen Eintrag wirklich löschen?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:249
 #, python-format
 msgid "Really disconnect %s (%s)?"
 msgstr "Verbindung zu %s (%s) wirklich trennen?"
@@ -8954,7 +9070,7 @@ msgstr "Benötigte Rohlingsorte:"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:39
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:57
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:112
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:81
 msgid "Rescan"
 msgstr "Erneut suchen"
@@ -9238,6 +9354,10 @@ msgstr "SNR:"
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:57
 msgid "SSA Substation Alpha"
 msgstr "SSA Substation Alpha"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:170
+msgid "SYSTEM"
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -9909,7 +10029,7 @@ msgstr "Konfiguration des Jugendschutzes."
 msgid "Set up your Dreambox language."
 msgstr "Konfiguration der Dreambox Sprache."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:135
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:169
 msgid "Set up your Network connections"
 msgstr "Netzwerkverbindungen konfigurieren"
 
@@ -10020,6 +10140,10 @@ msgstr "Schärfe"
 #: enigma2/usr/lib/enigma2/python/Components/RecordingConfig.py:14
 msgid "Short filenames"
 msgstr "Kurze Dateinamen"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:62
+msgid "Show Full Log"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:59
 msgid "Show HbbTV Browser"
@@ -10474,7 +10598,7 @@ msgid "Standby"
 msgstr "Standby"
 
 #
-#: enigma2/usr/lib/enigma2/python/mytest.py:576
+#: enigma2/usr/lib/enigma2/python/mytest.py:580
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Standby / Restart"
 msgstr "Standby / Neustart"
@@ -10537,6 +10661,11 @@ msgstr "Mit Schlechtester starten"
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:220
 msgid "StartTime"
 msgstr "Startzeit"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:194
+#, python-brace-format
+msgid "Starting DFU Upload of {0}"
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:198
@@ -10796,6 +10925,7 @@ msgstr "Sync-Modus"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1357
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:98
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:156
@@ -10803,6 +10933,10 @@ msgstr "Sync-Modus"
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "System"
 msgstr "System"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:240
+msgid "System rejected! (Already the latest version?!). Skipping!"
+msgstr ""
 
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:100
@@ -10968,6 +11102,10 @@ msgstr ""
 "Der Assistent ist hiermit beendet. Ihre Dreambox kann nun benutzt werden.\n"
 "Bitte drücken Sie OK, um den Assistenten zu verlassen."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:181
+msgid "Thank you..."
+msgstr ""
+
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
 msgid ""
@@ -11116,6 +11254,12 @@ msgstr ""
 "Das Verzeichnis %s ist nicht beschreibbar.\n"
 "Stellen Sie sicher, dass Sie ein beschreibbares Verzeichnis angegeben haben."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:201
+msgid ""
+"The firmware files are invalid or corrupted!\n"
+"The upload was rejected by the device!"
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:52
 msgid "The following files were found..."
@@ -11165,6 +11309,12 @@ msgstr "Der eingegebene Pincode ist falsch."
 #, python-format
 msgid "The results have been written to %s."
 msgstr "Die Ergebnisse des Tests wurden in der Datei %s gespeichert."
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:140
+msgid ""
+"The selected remote is already running the latest firmware!\n"
+"Update anyways?"
+msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:111
@@ -11277,7 +11427,7 @@ msgstr "Es gab ein Problem während der Konfiguration der/des %(desc)s."
 msgid "There was en error while configuring your storage device."
 msgstr "Es gab ein Problem während der Konfiguration Ihres Speichergerätes."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:91
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:116
 msgid "There was no input for too long!"
 msgstr "Es wurde zu lange nichts eingegeben!"
 
@@ -11308,6 +11458,12 @@ msgstr "Diese Dreambox kann %s Streams nicht dekodieren!"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:220
 msgid "This Playlist already exists!"
 msgstr "Diese Playlist existiert bereits!"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:66
+msgid ""
+"This WiFi supports connecting using the WPS Push-Button Method!\n"
+"Do you want to connect using WPS Push-Button"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:919
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:146
@@ -11443,7 +11599,7 @@ msgstr "Zeit zu der mit GELB gesprungen wird."
 msgid "Time/Date Input"
 msgstr "Zeit-/Datumseingabe"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:91
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:116
 msgid "Timeout!"
 msgstr "Zeit abgelaufen!"
 
@@ -11816,7 +11972,7 @@ msgstr "UPnP/DLNA - Fehler beim Laden des Bildes"
 msgid "UPnP/DLNA - Failed to show picture"
 msgstr "UPnP/DLNA - Fehler beim anzeigen des Bildes"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/AudioGUI.py:47
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/AudioGUI.py:46
 msgid "UPnP/DLNA Audio Player"
 msgstr "UPnP/DLNA Audio Player"
 
@@ -11838,7 +11994,7 @@ msgstr "UPnP/DLNA Mediaserver"
 msgid "UPnP/DLNA Setup"
 msgstr "UPnP/DLNA Einstellungen"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/VideoGUI.py:19
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/VideoGUI.py:18
 msgid "UPnP/DLNA Video Player"
 msgstr "UPnP/DLNA Video Player"
 
@@ -11957,7 +12113,7 @@ msgstr "Universal-LNB"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:105
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:113
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:121
 msgid "Unknown"
 msgstr "Unbekannt"
 
@@ -12000,10 +12156,12 @@ msgstr "Hoch"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:678
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:105
 msgid "Update"
 msgstr "Aktualisieren"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:146
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:210
 msgid "Update Bluetooth Receiver Firmware?"
 msgstr "Bluetooth-Empfänger Firmware aktualisieren?"
 
@@ -12018,6 +12176,10 @@ msgstr "Aktualisierung fehlgeschlagen!"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:78
 msgid "Update finished!"
 msgstr "Aktualisierung beendet!"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:207
+msgid "Update initialization failed!\n"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:79
 msgid ""
@@ -12064,6 +12226,16 @@ msgstr "Aktualisiere"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:71
 msgid "Upgrading Dreambox... Please wait"
 msgstr "Dreambox wird aktualisiert... Bitte warten"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:165
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
+msgid "Upload rejected!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:226
+#, python-brace-format
+msgid "Uploaded {0} of {1} bytes"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:711
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:723
@@ -12229,7 +12401,7 @@ msgstr "Vali.HD.warp Skin"
 msgid "Vendor list"
 msgstr "Herstellerliste"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:135
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:142
 msgid "Vendors"
 msgstr "Hersteller"
 
@@ -12567,6 +12739,10 @@ msgstr "Warte"
 msgid "Waiting for clients"
 msgstr "Warte auf Clients"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
+msgid "Waiting for device reboot..."
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
 msgid "Warn if free space drops below (kB):"
@@ -12702,6 +12878,7 @@ msgstr ""
 "Mit den hoch/runter-Tasten können Sie eine Option auswählen. Danach, drücken "
 "Sie OK auf Ihrer Fernbedienung, um zum nächsten Schritt zu gelangen."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
@@ -13009,6 +13186,11 @@ msgstr "Sie können diese Erweiterung installieren."
 msgid "You can only burn Dreambox recordings!"
 msgstr "Nur Dreambox-Aufnahmen können gebrannt werden!"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:197
+msgid ""
+"You can remove the batteries of your remote for a short moment to reboot it!"
+msgstr ""
+
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1099
 msgid "You can remove this plugin."
@@ -13119,7 +13301,7 @@ msgstr ""
 msgid "You've selected a media file what do you want to do?"
 msgstr "Sie haben eine Mediendatei gewählt, was wollen Sie tun?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:218
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:15
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
@@ -13246,6 +13428,14 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:74
 msgid "Your network is not working. Please try again."
 msgstr "Ihr Netzwerk funktioniert nicht. Bitte versuchen Sie es erneut."
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:148
+msgid ""
+"Your remote is likely to become unresponsive during the first half of the "
+"update Process.\n"
+"After the Bootloader/System has been updated you will regain control for the "
+"rest of this and all future updates."
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -13482,11 +13672,11 @@ msgstr "erweitert"
 msgid "ahead"
 msgstr "voraus"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:199
+#: enigma2/usr/lib/enigma2/python/mytest.py:202
 msgid "all"
 msgstr "alle"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:199
+#: enigma2/usr/lib/enigma2/python/mytest.py:202
 msgid "allocations"
 msgstr "Allokationen"
 
@@ -13601,7 +13791,8 @@ msgstr "Negativliste"
 msgid "blue"
 msgstr "blau"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:66
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:89
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:81
 msgid "bound"
 msgstr "Gepaart"
 
@@ -13659,7 +13850,8 @@ msgid "config menu"
 msgstr "Konfigurationsmenü"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:75
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:94
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:394
 msgid "connected"
 msgstr "Verbunden"
@@ -13709,7 +13901,7 @@ msgstr "täglich"
 msgid "day"
 msgstr "Tag"
 
-#: enigma2/usr/lib/enigma2/python/mytest.py:199
+#: enigma2/usr/lib/enigma2/python/mytest.py:202
 msgid "deallocations"
 msgstr "Deallokationen"
 
@@ -13759,7 +13951,8 @@ msgid "disabled"
 msgstr "deaktiviert"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:75
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:94
 msgid "disconnected"
 msgstr "Nicht verbunden"
 
@@ -13918,6 +14111,13 @@ msgstr "Dateiname"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/plugin.py:16
 msgid "fine-tune your display"
 msgstr "Ändern Sie die Feineinstellungen Ihres Bildschirms"
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:182
+msgid ""
+"for using the Remote Control Firmware Update Assistant.\n"
+"\n"
+"[Press OK to close]"
+msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:406
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:425
@@ -14254,8 +14454,8 @@ msgstr "Multinorm"
 msgid "multiple"
 msgstr "mehrfach"
 
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:197
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:200
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:201
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:204
 msgid "n/A"
 msgstr "n/V"
 
@@ -14292,8 +14492,8 @@ msgstr "Nächster Kanal im Verlauf"
 #: enigma2/usr/lib/enigma2/python/Components/config.py:503
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:52
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:54
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:95
 msgid "no"
@@ -14369,7 +14569,7 @@ msgid "not used"
 msgstr "nicht verwendet"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
-#: enigma2/usr/lib/enigma2/python/mytest.py:199
+#: enigma2/usr/lib/enigma2/python/mytest.py:202
 msgid "nothing"
 msgstr "nichts"
 
@@ -14969,6 +15169,16 @@ msgstr "Diese Aufnahme"
 msgid "this service is protected by a parental control pin"
 msgstr "Dieser Kanal ist durch einen Jugendschutz-Pincode geschützt"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:21
+msgid ""
+"to the Remote Control Firmware Update Assistant.\n"
+"We will now guide you through the remote control firmware update procedure!\n"
+"\n"
+"Let's begin!\n"
+"\n"
+"[Press OK]"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:12
 msgid ""
 "to your new Dreambox!\n"
@@ -15113,8 +15323,8 @@ msgstr "gelb"
 #: enigma2/usr/lib/enigma2/python/Components/config.py:503
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:52
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:54
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:93
 msgid "yes"
