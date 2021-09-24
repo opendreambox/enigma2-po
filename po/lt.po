@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-23 22:02+0000\n"
-"PO-Revision-Date: 2021-05-20 19:37+0000\n"
+"PO-Revision-Date: 2021-09-24 22:01+0000\n"
 "Last-Translator: Adga <adga45@gmail.com>\n"
 "Language-Team: Lithuanian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/lt/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
 "%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 4.8\n"
 "X-POOTLE-MTIME: 1587893298.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -196,6 +196,12 @@ msgid ""
 "\n"
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
+"\n"
+"Nuotolinio valdymo pultas bus paleistas iš naujo po kelių sekundžių (iki 40)!"
+"\n"
+"\n"
+"Paspauskite [OK] arba [EXIT], kad uždarytumėte šį langą, kai jis bus "
+"paleistas!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid " extensions."
@@ -389,7 +395,7 @@ msgstr "%s įrenginiai"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:124
 #, python-format
 msgid "%s mapped keys"
-msgstr ""
+msgstr "%s susieti raktai"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -902,7 +908,7 @@ msgstr "AC3+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
 msgid "APPLICATION"
-msgstr ""
+msgstr "TAIKOMOJI PROGRAMA"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:945
 #, python-format
@@ -1323,7 +1329,7 @@ msgstr "Anti slinkties sąranka"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
 msgid "Application"
-msgstr ""
+msgstr "Taikomoji programa"
 
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:23
 msgid "Arabic"
@@ -1619,7 +1625,7 @@ msgstr "Prijungimo tašką nustatyti automatiškai."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:67
 msgid "Available Remotes"
-msgstr ""
+msgstr "Galimi nuotolinio valdymo pultai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Available format variables"
@@ -1676,7 +1682,7 @@ msgstr "BER:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
 msgid "BIN"
-msgstr ""
+msgstr "BIN"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BLE"
@@ -2543,7 +2549,7 @@ msgstr "Prijungti naują nuotolinio valdymo pultą?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:67
 msgid "Connect with WPS Push-Button?"
-msgstr ""
+msgstr "Prisijungti naudojant WPS mygtuką?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:46
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -2810,7 +2816,7 @@ msgstr "DASH"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
 msgid "DAT"
-msgstr ""
+msgstr "DAT"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DBusInterfaceProxy/plugin.py:74
 msgid "DBus Interface Python Proxy"
@@ -2818,35 +2824,39 @@ msgstr "Python sąsaja DBus sąsajai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:88
 msgid "DFU - DM Remote"
-msgstr ""
+msgstr "DFU - DM nuotolinis pultas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
 msgid "DFU Firmware Upgrade"
-msgstr ""
+msgstr "DFU programinės-aparatinės įrangos atnaujinimas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:22
 msgid "DFU Log"
-msgstr ""
+msgstr "DFU žurnalas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:190
 msgid "DFU device connected!"
-msgstr ""
+msgstr "DFU įrenginys prijungtas!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:160
 msgid ""
 "DFU device did not show up. Cancelling!\n"
 "You may want to try this again!"
 msgstr ""
+"DFU įrenginio nėra. Atšaukiama!\n"
+"Galbūt norėsite pabandyti dar kartą!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:187
 msgid "DFU device ready!"
-msgstr ""
+msgstr "DFU įrenginys paruoštas!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:155
 msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
 msgstr ""
+"DFU šiame įrenginyje nepasiekiamas. Programinės-aparatinės įrangos "
+"naujinimas gali būti reikalaujamas iš anksto!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:236
 msgid "DLNA / UPnP"
@@ -3196,6 +3206,8 @@ msgid ""
 "Device battery level of {0}% is too low.\n"
 "It's required to be at least {1}%!"
 msgstr ""
+"Įrenginio akumuliatoriaus įkrovos lygis {0}% i per žemas.\n"
+"Jis turi būti bent {1}%!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:41
 #: enigma2/usr/share/enigma2/menu.xml
@@ -3707,7 +3719,7 @@ msgstr "EPG atnaujintojo funkcijos"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
 msgid "ERROR"
-msgstr ""
+msgstr "KLAIDA"
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
 #, python-format
@@ -4256,6 +4268,9 @@ msgid ""
 "Firmware updates can only be applied to connected remotes!\n"
 "Press Yellow to connect the selected remote control."
 msgstr ""
+"Programinės-aparatinės įrangos naujinimus galima taikyti tik prijungtiems "
+"nuotolinio valdymo pultams!\n"
+"Paspauskite Geltona, kad prijungtumėte pasirinktą nuotolinio valdymo pultą."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
@@ -4290,7 +4305,7 @@ msgstr "Kitos užduotys bus atliktos po to, kai jūs paspausite OK!"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
 msgid "Force Update"
-msgstr ""
+msgstr "Priverstinis naujinimas"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:253
 msgid "Forced"
@@ -4936,7 +4951,7 @@ msgstr "Inicializacija"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Init failed!"
-msgstr ""
+msgstr "Init nepavyko!"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:45
 msgid "Inital Setup Finished!"
@@ -4975,7 +4990,7 @@ msgstr "Inicializuojama %(desc)s..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:143
 msgid "Initializing DFU Mode..."
-msgstr ""
+msgstr "Inicijuojamas DFU režimas..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
 #: enigma2/usr/lib/enigma2/python/Screens/ChoiceBox.py:11
@@ -6827,7 +6842,7 @@ msgstr "PVR"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:173
 #, python-brace-format
 msgid "Package Content: {0}"
-msgstr ""
+msgstr "Pakuotės turinys: {0}"
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -7298,7 +7313,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:149
 msgid "Please read carefully!"
-msgstr ""
+msgstr "Prašome atidžiai perskaityti!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2439
 msgid "Please select a Text application"
@@ -7687,6 +7702,8 @@ msgid ""
 "Press Blue to update the firmware of the selected remote control to "
 "application version {0} and bootloader version {1}"
 msgstr ""
+"Paspauskite Mėlyna, kad atnaujintumėte pasirinkto nuotolinio valdymo pulto "
+"programinę įrangą į programos versijos {0} ir įkrovos tvarkyklės versiją {1}"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:130
 msgid "Press INFO on your remote control for additional information."
@@ -7748,6 +7765,8 @@ msgstr "Paspauskite OK, jei norite įjungti"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:115
 msgid "Press OK to finish the Remote Control Firmware Update Assistant."
 msgstr ""
+"Paspauskite OK, kad užbaigtumėte nuotolinio valdymo programinės-aparatinės "
+"įrangos naujinimo asistentą."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:559
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
@@ -8640,7 +8659,7 @@ msgstr "SSA Substation Alpha"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:170
 msgid "SYSTEM"
-msgstr ""
+msgstr "SISTEMA"
 
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
@@ -9354,7 +9373,7 @@ msgstr "Trumpi failų pavadinimai"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:62
 msgid "Show Full Log"
-msgstr ""
+msgstr "Rodyti visą žurnalą"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:59
 msgid "Show HbbTV Browser"
@@ -9825,7 +9844,7 @@ msgstr "Paleidimo pradžia"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:194
 #, python-brace-format
 msgid "Starting DFU Upload of {0}"
-msgstr ""
+msgstr "Pradedamas DFU {0} įkėlimas"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:198
 msgid "Starting on"
@@ -10072,7 +10091,7 @@ msgstr "Sistema"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:240
 msgid "System rejected! (Already the latest version?!). Skipping!"
-msgstr ""
+msgstr "Sistema atmesta! (Jau naujausia versija?!). Praleidžiama!"
 
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:100
@@ -10227,7 +10246,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:181
 msgid "Thank you..."
-msgstr ""
+msgstr "Ačiū..."
 
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
@@ -10375,6 +10394,8 @@ msgid ""
 "The firmware files are invalid or corrupted!\n"
 "The upload was rejected by the device!"
 msgstr ""
+"Programinės-aparatinės įrangos failai yra neleistini arba sugadinti!\n"
+"Įrenginys atmetė įkėlimą!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:52
 msgid "The following files were found..."
@@ -10422,6 +10443,9 @@ msgid ""
 "The selected remote is already running the latest firmware!\n"
 "Update anyways?"
 msgstr ""
+"Pasirinktame nuotolinio valdymo pulte jau veikia naujausia programinė-"
+"aparatinė įranga!\n"
+"Vis tiek atnaujinti?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:111
 msgid "The sleep timer has been activated."
@@ -10555,6 +10579,8 @@ msgid ""
 "This WiFi supports connecting using the WPS Push-Button Method!\n"
 "Do you want to connect using WPS Push-Button"
 msgstr ""
+"Šis WiFi palaiko prisijungimą naudojant WPS mygtuko metodą!\n"
+"Ar norite prisijungti naudodami WPS mygtuką"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:919
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:146
@@ -11213,7 +11239,7 @@ msgstr "Atnaujinimas baigtas!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:207
 msgid "Update initialization failed!\n"
-msgstr ""
+msgstr "Naujinimo inicijuoti nepavyko!\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:79
 msgid ""
@@ -11258,12 +11284,12 @@ msgstr "Atnaujinamas imtuvas... Prašome palaukti"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:165
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
 msgid "Upload rejected!"
-msgstr ""
+msgstr "Įkėlimas atmestas!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:226
 #, python-brace-format
 msgid "Uploaded {0} of {1} bytes"
-msgstr ""
+msgstr "Įkelta {1} baitų {0}"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:711
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:723
@@ -11725,7 +11751,7 @@ msgstr "Laukiama klientų"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "Waiting for device reboot..."
-msgstr ""
+msgstr "Laukiama įrenginio perkrovimo..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
 msgid "Warn if free space drops below (kB):"
@@ -12139,6 +12165,8 @@ msgstr "Galite įrašyti tik Dreambox įrašus!"
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
 msgstr ""
+"Galite trumpam išimti nuotolinio valdymo pulto baterijas, kad jį iš naujo "
+"paleistumėte!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1099
 msgid "You can remove this plugin."
@@ -12362,6 +12390,10 @@ msgid ""
 "After the Bootloader/System has been updated you will regain control for the "
 "rest of this and all future updates."
 msgstr ""
+"Tikėtina, kad jūsų nuotolinio valdymo pultas nereaguoja pirmoje naujinimo "
+"proceso pusėje.\n"
+"Atnaujinę Užkrovėją/Sistemą, atgausite likusių šio ir visų būsimų naujinimų "
+"kontrolę."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12953,6 +12985,9 @@ msgid ""
 "\n"
 "[Press OK to close]"
 msgstr ""
+"nuotolinio valdymo programinės-aparatinės įrangos naujinimo asistentui.\n"
+"\n"
+"[Paspauskite OK, kad uždaryti]"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:406
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:425
@@ -13867,6 +13902,13 @@ msgid ""
 "\n"
 "[Press OK]"
 msgstr ""
+"nuotolinio valdymo programinės-aparatinės įrangos naujinimo asistentui.\n"
+"Dabar mes padėsime jums per nuotolinio valdymo programinės įrangos "
+"atnaujinimo procedūrą!\n"
+"\n"
+"Pradėkime!\n"
+"\n"
+"[Paspauskite OK]"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:12
 msgid ""
