@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-30 22:02+0000\n"
-"PO-Revision-Date: 2021-10-01 16:59+0000\n"
+"PO-Revision-Date: 2021-10-01 22:01+0000\n"
 "Last-Translator: Vladimír Rozsypálek <roxy1139r@gmail.com>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -4883,7 +4883,7 @@ msgstr "hardware adresa :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/plugin.py:21
 msgid "HbbTV"
-msgstr "aplikace HbbTV"
+msgstr "teletext HbbTV"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:286
 msgid "HbbTV Applications"
@@ -6327,7 +6327,7 @@ msgstr "tuner_"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "NOW"
-msgstr "-aktuální-"
+msgstr "-aktu-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:904
 msgid "NTP Time Updates"
@@ -8880,7 +8880,7 @@ msgstr "pokračovat od poslední pozice"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2198
 #, python-format
 msgid "Resume position at %s"
-msgstr "Pokračovat od pozice :  %s"
+msgstr "Pokračovat od času :  %s"
 
 #
 #. TRANSLATORS: The string "Resuming playback" flashes for a moment
@@ -9668,7 +9668,7 @@ msgstr "nastavit jako předvolbu : %(desc)s"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up parental control."
-msgstr "Nastavit rodičovskou kontrolu (! zapíše postavení)_"
+msgstr "Nastavení rodičovské kontroly_"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your Dreambox language."
@@ -10394,7 +10394,7 @@ msgstr "uložená pozice"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:84
 msgid "Stream Client"
-msgstr "stream klienta"
+msgstr "Klient pro sdílení..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
@@ -11003,7 +11003,7 @@ msgstr "Vyskytla se chyba, balíček :"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1223
 #, python-format
 msgid "There was en error while configuring your %(desc)s."
-msgstr "Při konfiguraci disku došlo k chybě %(desc)s !"
+msgstr "Při konfiguraci disku %(desc)s došlo k chybě !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:234
 msgid "There was en error while configuring your storage device."
@@ -11342,7 +11342,7 @@ msgstr "cs..."
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Translation:"
-msgstr "překlad :"
+msgstr "lokalizace :"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1455
