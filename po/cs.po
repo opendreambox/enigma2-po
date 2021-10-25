@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-09 22:01+0000\n"
+"POT-Creation-Date: 2021-10-25 22:02+0000\n"
 "PO-Revision-Date: 2021-10-13 22:02+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
@@ -188,7 +188,7 @@ msgstr ""
 "\n"
 "Kompletní výpis dostupných a nainstalovaných modulů_"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:244
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:252
 msgid ""
 "\n"
 "Your remote control will restart in a few seconds (up to 40)!\n"
@@ -379,7 +379,7 @@ msgstr ""
 msgid "%s IR codes acknowledged!"
 msgstr "%s potvrzených IR kódů !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:182
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
 msgstr "%s odeslaných IR kódů !"
@@ -389,12 +389,12 @@ msgstr "%s odeslaných IR kódů !"
 msgid "%s Network - Name servers"
 msgstr "%s síť - označení serveru"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:117
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
 msgstr "%s zařízení"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:124
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
 msgstr "%s namapované klíče"
@@ -942,7 +942,7 @@ msgstr "AC3 downmix"
 msgid "AC3+"
 msgstr "AC3+,"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:174
 msgid "APPLICATION"
 msgstr "Aplikace"
 
@@ -1377,7 +1377,7 @@ msgstr "anonymní chybový záznam ?"
 msgid "Anti Scroll Setup"
 msgstr "nastavení Anti Scroll"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
 msgstr "aplikace"
 
@@ -1742,7 +1742,7 @@ msgstr "Bludisk kompatibilní s BDMV (jen HDTV)"
 msgid "BER:"
 msgstr "chyby:"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "BIN"
 msgstr "BIN"
 
@@ -2705,6 +2705,15 @@ msgstr "ne  - ale pokračovat v přehrávání"
 msgid "Contrast"
 msgstr "kontrast"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:217
+msgid "Control write failed!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:215
+#, python-format
+msgid "Control write failed! Code %i\n"
+msgstr ""
+
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
 msgid "Control your internal system fan."
@@ -2928,7 +2937,7 @@ msgstr "česky,"
 msgid "DASH"
 msgstr "DASH"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "DAT"
 msgstr "DAT"
 
@@ -2941,6 +2950,7 @@ msgid "DFU - DM Remote"
 msgstr "DFU - DM dálkový"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DFU Firmware Upgrade"
 msgstr "aktualizace firmwaru DFU"
 
@@ -2948,11 +2958,11 @@ msgstr "aktualizace firmwaru DFU"
 msgid "DFU Log"
 msgstr "DFU log"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:192
 msgid "DFU device connected!"
 msgstr "Zařízení DFU připojeno !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:160
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:162
 msgid ""
 "DFU device did not show up. Cancelling!\n"
 "You may want to try this again!"
@@ -2960,11 +2970,11 @@ msgstr ""
 "Zařízení DFU se nezobrazilo. Bylo zpřerušeno !\n"
 "Možná to budete chtít zkusit znovu !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:187
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:189
 msgid "DFU device ready!"
 msgstr "Zařízení DFU je připraveno !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:155
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:157
 msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
@@ -3327,7 +3337,7 @@ msgid "Device already hard mounted over filesystem table. Remove fstab entry?"
 msgstr ""
 "Zařízení je už připojené přes soubor.systém. Odstranit položku z fstab ?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:164
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:166
 #, python-brace-format
 msgid ""
 "Device battery level of {0}% is too low.\n"
@@ -3870,7 +3880,7 @@ msgstr "test EPGCache"
 msgid "EPGRefresh Functions"
 msgstr "EPGRefresh - příkaz..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "ERROR"
 msgstr "Chyba"
 
@@ -5161,7 +5171,7 @@ msgstr "informace  >>"
 msgid "Init"
 msgstr "inicializovat..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:211
 msgid "Init failed!"
 msgstr "Inicializace se nezdařila !"
 
@@ -5200,7 +5210,7 @@ msgstr "naformátovat %(desc)s"
 msgid "Initializing %(desc)s..."
 msgstr "...formátuji %(desc)s..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:143
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:145
 msgid "Initializing DFU Mode..."
 msgstr "Inicializace režimu DFU ..."
 
@@ -6907,7 +6917,7 @@ msgstr "OGG"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:35
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:38
@@ -7148,7 +7158,7 @@ msgstr "PMT PID"
 msgid "PVR"
 msgstr "PVR"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:173
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:175
 #, python-brace-format
 msgid "Package Content: {0}"
 msgstr "obsah balíčku : {0}"
@@ -7636,7 +7646,7 @@ msgstr "Červené tlačítko -> inicializovat tento %(desc)s!"
 msgid "Please press red to remove this %(desc)s configuration!"
 msgstr "Červené tlačítko -> odstranit nastavení pro : %(desc)s!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:149
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:151
 msgid "Please read carefully!"
 msgstr "Prosím, čtěte pozorně !"
 
@@ -8063,7 +8073,7 @@ msgstr "OK -> aktivovat skin..."
 msgid "Press OK to apply"
 msgstr "OK -> použít..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:193
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:205
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
 msgstr "OK -> přiřadit %s klávesy k '%s'"
@@ -9027,7 +9037,7 @@ msgstr "sign.: "
 msgid "SSA Substation Alpha"
 msgstr "SSA stanice Alpha"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:170
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
 msgid "SYSTEM"
 msgstr "Systém"
 
@@ -10284,7 +10294,7 @@ msgstr "od nejhoršího"
 msgid "StartTime"
 msgstr "začátek nahrávání / přepnutí"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:194
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:196
 #, python-brace-format
 msgid "Starting DFU Upload of {0}"
 msgstr "spuštění nahrávání DFU z {0}"
@@ -10548,12 +10558,12 @@ msgstr "režim synchronizace"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "System"
 msgstr ">nastavení systému  >>"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:240
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:248
 msgid "System rejected! (Already the latest version?!). Skipping!"
 msgstr "Systém byl odmítnutý ! (Je již nejnovější verze ?!) Přeskočit !"
 
@@ -10855,7 +10865,7 @@ msgstr ""
 "Do složky %s nelze zapisovat !\n"
 "Vyberte jinou použitelnou složku."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:201
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
 msgid ""
 "The firmware files are invalid or corrupted!\n"
 "The upload was rejected by the device!"
@@ -11667,7 +11677,7 @@ msgstr "univerzální LNB"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:105
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:121
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
 msgid "Unknown"
 msgstr "neurčeno"
 
@@ -11730,7 +11740,7 @@ msgstr "Aktualizace selhala !"
 msgid "Update finished!"
 msgstr "Aktualizace byla dokončena !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:207
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Update initialization failed!\n"
 msgstr "Inicializace aktualizace se nezdařila !\n"
 
@@ -11776,12 +11786,12 @@ msgstr "...aktualizuji..."
 msgid "Upgrading Dreambox... Please wait"
 msgstr "...ověřuji data boxu, čekejte..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:165
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
 msgid "Upload rejected!"
 msgstr "Nahrávání bylo odmítnuto !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:226
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:234
 #, python-brace-format
 msgid "Uploaded {0} of {1} bytes"
 msgstr "nahráno {0} z {1} bytů"
@@ -11946,7 +11956,7 @@ msgstr "-- skin Vali.HD.warp"
 msgid "Vendor list"
 msgstr "seznam prodejců"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:142
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:154
 msgid "Vendors"
 msgstr "prodejci"
 
@@ -12259,7 +12269,7 @@ msgstr "...čekám..."
 msgid "Waiting for clients"
 msgstr "počkat na klienty"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
 msgstr "Čekám na restart zařízení ..."
 
@@ -12312,6 +12322,7 @@ msgid "Weekday"
 msgstr "den v týdnu"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:96
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Welcome"
 msgstr "Vítejte"
 
@@ -12669,7 +12680,7 @@ msgstr "Tento zásuvný modul můžete nainstalovat... "
 msgid "You can only burn Dreambox recordings!"
 msgstr "Můžete vypalovat pouze nahrávky z Dreamboxu !"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:197
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:199
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
 msgstr ""
@@ -12889,7 +12900,7 @@ msgstr ""
 msgid "Your network is not working. Please try again."
 msgstr "Síť nepracuje ! Ověřte a zkuste znovu..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:148
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:150
 msgid ""
 "Your remote is likely to become unresponsive during the first half of the "
 "update Process.\n"

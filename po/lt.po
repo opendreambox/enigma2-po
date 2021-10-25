@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-09 22:01+0000\n"
+"POT-Creation-Date: 2021-10-25 22:02+0000\n"
 "PO-Revision-Date: 2021-09-24 22:01+0000\n"
 "Last-Translator: Adga <adga45@gmail.com>\n"
 "Language-Team: Lithuanian <https://dreambox.de/translate/projects/dreambox/"
@@ -189,7 +189,7 @@ msgstr ""
 "\n"
 "Peržiūrėkite, diekite ir pašalinkite galimus arba įdiegtus paketus."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:244
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:252
 msgid ""
 "\n"
 "Your remote control will restart in a few seconds (up to 40)!\n"
@@ -377,7 +377,7 @@ msgstr ""
 msgid "%s IR codes acknowledged!"
 msgstr "%s IR kodai pripažinti!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:182
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
 msgstr "%s IR kodai išsiųsti!"
@@ -387,12 +387,12 @@ msgstr "%s IR kodai išsiųsti!"
 msgid "%s Network - Name servers"
 msgstr "%s Tinklas - serveriai"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:117
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
 msgstr "%s įrenginiai"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:124
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
 msgstr "%s susieti raktai"
@@ -906,7 +906,7 @@ msgstr "AC3 kanalų suliejimas"
 msgid "AC3+"
 msgstr "AC3+"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:174
 msgid "APPLICATION"
 msgstr "TAIKOMOJI PROGRAMA"
 
@@ -1327,7 +1327,7 @@ msgstr "Anoniminis gedimų žurnalas?"
 msgid "Anti Scroll Setup"
 msgstr "Anti slinkties sąranka"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
 msgstr "Taikomoji programa"
 
@@ -1680,7 +1680,7 @@ msgstr "BDMV suderinamas Blu-ray diskas (tik HDTV)"
 msgid "BER:"
 msgstr "BER:"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "BIN"
 msgstr "BIN"
 
@@ -2602,6 +2602,15 @@ msgstr "Tęsti žiūrėjimą"
 msgid "Contrast"
 msgstr "Kontrastas"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:217
+msgid "Control write failed!"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:215
+#, python-format
+msgid "Control write failed! Code %i\n"
+msgstr ""
+
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
 msgid "Control your internal system fan."
@@ -2814,7 +2823,7 @@ msgstr "Čekų"
 msgid "DASH"
 msgstr "DASH"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:184
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "DAT"
 msgstr "DAT"
 
@@ -2827,6 +2836,7 @@ msgid "DFU - DM Remote"
 msgstr "DFU - DM nuotolinis pultas"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DFU Firmware Upgrade"
 msgstr "DFU programinės-aparatinės įrangos atnaujinimas"
 
@@ -2834,11 +2844,11 @@ msgstr "DFU programinės-aparatinės įrangos atnaujinimas"
 msgid "DFU Log"
 msgstr "DFU žurnalas"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:192
 msgid "DFU device connected!"
 msgstr "DFU įrenginys prijungtas!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:160
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:162
 msgid ""
 "DFU device did not show up. Cancelling!\n"
 "You may want to try this again!"
@@ -2846,11 +2856,11 @@ msgstr ""
 "DFU įrenginio nėra. Atšaukiama!\n"
 "Galbūt norėsite pabandyti dar kartą!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:187
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:189
 msgid "DFU device ready!"
 msgstr "DFU įrenginys paruoštas!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:155
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:157
 msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
@@ -3200,7 +3210,7 @@ msgstr ""
 "Įrenginys jau stipriai pajungtas per failų sistemos lenteles. Pašalinti "
 "fstab įrašą?"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:164
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:166
 #, python-brace-format
 msgid ""
 "Device battery level of {0}% is too low.\n"
@@ -3718,7 +3728,7 @@ msgstr "EPG talpyklos testas"
 msgid "EPGRefresh Functions"
 msgstr "EPG atnaujintojo funkcijos"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "ERROR"
 msgstr "KLAIDA"
 
@@ -4950,7 +4960,7 @@ msgstr "Informacija"
 msgid "Init"
 msgstr "Inicializacija"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:211
 msgid "Init failed!"
 msgstr "Init nepavyko!"
 
@@ -4989,7 +4999,7 @@ msgstr "Inicializuokite šį %(desc)s."
 msgid "Initializing %(desc)s..."
 msgstr "Inicializuojama %(desc)s..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:143
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:145
 msgid "Initializing DFU Mode..."
 msgstr "Inicijuojamas DFU režimas..."
 
@@ -6606,7 +6616,7 @@ msgstr "OGG"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:35
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:229
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:38
@@ -6840,7 +6850,7 @@ msgstr "PMT PID"
 msgid "PVR"
 msgstr "PVR"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:173
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:175
 #, python-brace-format
 msgid "Package Content: {0}"
 msgstr "Pakuotės turinys: {0}"
@@ -7312,7 +7322,7 @@ msgid "Please press red to remove this %(desc)s configuration!"
 msgstr ""
 "Prašome spausti raudoną mygtuką, kad pašalinti šią %(desc)s konfigūraciją!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:149
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:151
 msgid "Please read carefully!"
 msgstr "Prašome atidžiai perskaityti!"
 
@@ -7731,7 +7741,7 @@ msgstr "Norėdami aktyvuoti pasirinktą temą, spauskite OK."
 msgid "Press OK to apply"
 msgstr "Paspauskite OK jei norite naudoti"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:193
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:205
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
 msgstr "Spauskite OK, jei norite pritaikyti %s raktus '%s'"
@@ -8658,7 +8668,7 @@ msgstr "SNR:"
 msgid "SSA Substation Alpha"
 msgstr "SSA Substation Alpha"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:170
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
 msgid "SYSTEM"
 msgstr "SISTEMA"
 
@@ -9842,7 +9852,7 @@ msgstr "Pradėk blogiausiai"
 msgid "StartTime"
 msgstr "Paleidimo pradžia"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:194
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:196
 #, python-brace-format
 msgid "Starting DFU Upload of {0}"
 msgstr "Pradedamas DFU {0} įkėlimas"
@@ -10085,12 +10095,12 @@ msgstr "Sinchronizavimo režimas"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:178
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "System"
 msgstr "Sistema"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:240
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:248
 msgid "System rejected! (Already the latest version?!). Skipping!"
 msgstr "Sistema atmesta! (Jau naujausia versija?!). Praleidžiama!"
 
@@ -10390,7 +10400,7 @@ msgstr ""
 "Katalogas %s nėra įrašomas.\n"
 "Įsitikinkite, kad pasirinkote įrašymui tinkamą katalogą."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:201
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
 msgid ""
 "The firmware files are invalid or corrupted!\n"
 "The upload was rejected by the device!"
@@ -11176,7 +11186,7 @@ msgstr "Universalus LNB"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:105
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:121
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
 msgid "Unknown"
 msgstr "Nežinomas"
 
@@ -11238,7 +11248,7 @@ msgstr "Atnaujinti nepavyko!"
 msgid "Update finished!"
 msgstr "Atnaujinimas baigtas!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:207
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Update initialization failed!\n"
 msgstr "Naujinimo inicijuoti nepavyko!\n"
 
@@ -11282,12 +11292,12 @@ msgstr "Atnaujinama"
 msgid "Upgrading Dreambox... Please wait"
 msgstr "Atnaujinamas imtuvas... Prašome palaukti"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:165
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:203
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
 msgid "Upload rejected!"
 msgstr "Įkėlimas atmestas!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:226
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:234
 #, python-brace-format
 msgid "Uploaded {0} of {1} bytes"
 msgstr "Įkelta {1} baitų {0}"
@@ -11445,7 +11455,7 @@ msgstr "Vali.HD.warp tema"
 msgid "Vendor list"
 msgstr "Tiekėjų sąrašas"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:142
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:154
 msgid "Vendors"
 msgstr "Tiekėjai"
 
@@ -11750,7 +11760,7 @@ msgstr "Laukiama"
 msgid "Waiting for clients"
 msgstr "Laukiama klientų"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
 msgstr "Laukiama įrenginio perkrovimo..."
 
@@ -11800,6 +11810,7 @@ msgid "Weekday"
 msgstr "Savaitės diena"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:96
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Welcome"
 msgstr "Sveiki"
 
@@ -12162,7 +12173,7 @@ msgstr "Jūs galite įdiegti šį priedą."
 msgid "You can only burn Dreambox recordings!"
 msgstr "Galite įrašyti tik Dreambox įrašus!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:197
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:199
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
 msgstr ""
@@ -12384,7 +12395,7 @@ msgstr ""
 msgid "Your network is not working. Please try again."
 msgstr "Jūsų tinklas neveikia. Prašome bandyti dar kartą."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:148
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:150
 msgid ""
 "Your remote is likely to become unresponsive during the first half of the "
 "update Process.\n"
