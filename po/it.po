@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-25 22:02+0000\n"
-"PO-Revision-Date: 2019-12-02 06:35+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-11-02 22:01+0000\n"
+"Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
+"Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
+"enigma2/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
 "X-POOTLE-MTIME: 1575268528.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -24,6 +25,13 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!!ATTENZIONE!!!\n"
+"A causa di importanti modifiche al firmware non è possibile eseguire il "
+"downgrade a immagini anteriori a questa.\n"
+"Questo aggiornamento è obbligatorio e non deve essere omesso.\n"
+"!!!ATTENZIONE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -313,6 +321,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d blocchi scritti\n"
+"%03d blocchi verificati (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -321,6 +333,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d blocchi scritti (%s)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
@@ -372,12 +387,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:64
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s codici IR riconosciuti."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s codici IR inviati."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -387,7 +402,7 @@ msgstr "%s Rete - Name server (DNS)"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s dispositivi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
@@ -441,11 +456,11 @@ msgstr "* animazione in uso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
@@ -672,7 +687,7 @@ msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
@@ -705,7 +720,7 @@ msgstr "<sconosciuto>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
@@ -943,7 +958,7 @@ msgstr "AC3+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:174
 msgid "APPLICATION"
-msgstr ""
+msgstr "APPLICAZIONE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:945
 #, python-format
@@ -992,11 +1007,11 @@ msgstr "Informazioni..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Account Setup"
-msgstr ""
+msgstr "Configurazione account"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Accounts list"
-msgstr ""
+msgstr "Elenco account"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1418
 msgid "Accuracy (higher is better)"
@@ -1050,7 +1065,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:99
 msgid "Adaptive Mode"
-msgstr ""
+msgstr "Modalità adattiva"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:40
@@ -1392,11 +1407,11 @@ msgstr "Rendere anonimi i crashlog?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Anti Scroll Setup"
-msgstr ""
+msgstr "Configurazione anti scroll"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
-msgstr ""
+msgstr "Applicazione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:23
@@ -1511,7 +1526,7 @@ msgstr "Plugin Selezione Audio"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Restart Setup"
-msgstr ""
+msgstr "Configurazione riavvio audio"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Sync"
@@ -1529,7 +1544,7 @@ msgstr "Sistema Audio (forzato)"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AudioPlayer"
-msgstr ""
+msgstr "AudioPlayer"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:497
 msgid "Authentication required"
