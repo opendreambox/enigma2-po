@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-04 22:02+0000\n"
+"PO-Revision-Date: 2021-11-05 22:01+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -5672,7 +5672,7 @@ msgstr "Gestore LED"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr ""
+msgstr "Configurazione LED"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -10650,7 +10650,7 @@ msgstr "Posizione memorizzata"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:84
 msgid "Stream Client"
-msgstr ""
+msgstr "Client di streaming"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
@@ -10670,15 +10670,15 @@ msgstr "Configurazione Stream server"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:11
 msgid "Stream Services"
-msgstr ""
+msgstr "Servizi di streaming"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:15
 msgid "Stream Services Setup"
-msgstr ""
+msgstr "Configurazione servizi di streaming"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Stream Services configuration"
-msgstr ""
+msgstr "Configurazione servizi di streaming"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Streaming"
@@ -10792,7 +10792,7 @@ msgstr "Symbolrate:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:91
 msgid "Sync mode"
-msgstr ""
+msgstr "Modalità di sincronizzazione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
@@ -10809,7 +10809,7 @@ msgstr "Sistema"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:248
 msgid "System rejected! (Already the latest version?!). Skipping!"
-msgstr ""
+msgstr "Sistema rifiutatato. (Già ultima versione?). Operazione annullata."
 
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:100
@@ -10818,7 +10818,7 @@ msgstr "Traduzione: dario croci - spaeleus@croci.org - © 2019"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "TS Streaming Buffer (ms)"
-msgstr ""
+msgstr "Buffer streaming TS (ms)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:304
 msgid "TS file is too large for ISO9660 level 1!"
@@ -10853,7 +10853,7 @@ msgstr "Standard TV"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 msgid "TXT"
-msgstr ""
+msgstr "TXT"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:128
 msgid "TXT PID"
@@ -10974,7 +10974,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:181
 msgid "Thank you..."
-msgstr ""
+msgstr "Grazie..."
 
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
@@ -10996,6 +10996,8 @@ msgid ""
 "The Frontprocessor was updated successfully!\n"
 "Your Dreambox will now be restarted!"
 msgstr ""
+"Frontprocessor aggiornato con successo.\n"
+"Ora il Dreambox sarà riavviato."
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -11122,6 +11124,8 @@ msgid ""
 "The firmware files are invalid or corrupted!\n"
 "The upload was rejected by the device!"
 msgstr ""
+"I file del firmware sono corrotti o non validi.\n"
+"Aggiornamento rifiutato dal dispositivo."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:52
@@ -11176,6 +11180,8 @@ msgid ""
 "The selected remote is already running the latest firmware!\n"
 "Update anyways?"
 msgstr ""
+"Il telecomando selezionato è già aggiornato al firmware più recente.\n"
+"Aggiornare comunque?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:111
 msgid "The sleep timer has been activated."
@@ -11986,7 +11992,7 @@ msgstr "Fino al: %s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:20
 msgid "Up"
-msgstr ""
+msgstr "Su"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:678
@@ -12014,7 +12020,7 @@ msgstr "Aggiornato!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Update initialization failed!\n"
-msgstr ""
+msgstr "Inizializzazione aggiornamento fallita.\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:79
 msgid ""
@@ -12063,12 +12069,12 @@ msgstr "DreamBox in aggiornamento... Attendere"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
 msgid "Upload rejected!"
-msgstr ""
+msgstr "Upload rifiutato."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:234
 #, python-brace-format
 msgid "Uploaded {0} of {1} bytes"
-msgstr ""
+msgstr "Caricati {0} byte su {1}"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:711
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:723
@@ -12231,15 +12237,15 @@ msgstr "Skin HD warp by Vali"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
-msgstr ""
+msgstr "Elenco fornitori"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:154
 msgid "Vendors"
-msgstr ""
+msgstr "Fornitori"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Verbose FileWatch Debug output"
-msgstr ""
+msgstr "Output dettagliato debug FileWatch"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:63
 msgid "Verifying firmware..."
@@ -12333,7 +12339,7 @@ msgstr "Configurazione video"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Video color space setup"
-msgstr ""
+msgstr "Configurazione spazio colore video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:325
@@ -12534,11 +12540,11 @@ msgstr "Volume"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:38
 msgid "Volume +"
-msgstr ""
+msgstr "Volume +"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:39
 msgid "Volume -"
-msgstr ""
+msgstr "Volume -"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
@@ -12568,7 +12574,7 @@ msgstr "In attesa clienti"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
-msgstr ""
+msgstr "In attesa riavvio dispositivo..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
@@ -12598,7 +12604,7 @@ msgstr "Webinterface: Impostazioni"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Webinterface:Main Setup"
-msgstr ""
+msgstr "Interfaccia web: Configurazione principale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -12844,7 +12850,7 @@ msgstr "Wizard..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:317
 msgid "WoL"
-msgstr ""
+msgstr "WoL"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:55
 msgid "Working..."
@@ -12852,7 +12858,7 @@ msgstr "In esecuzione..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:22
 msgid "Worst"
-msgstr ""
+msgstr "Peggiore"
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:420
 msgid "Write error while recording. Disk full?\n"
@@ -12884,7 +12890,7 @@ msgstr "Anno"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:19
 msgid "Yellow"
-msgstr ""
+msgstr "Giallo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:200
