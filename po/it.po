@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-05 22:01+0000\n"
+"PO-Revision-Date: 2021-11-06 22:02+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -2023,12 +2023,12 @@ msgstr "Bonjour"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:560
 #, python-format
 msgid "Bookmark '%s' deleted!"
-msgstr "Segnalibro '%s' cancellato."
+msgstr "Segnalibro \"%s\" cancellato."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:547
 #, python-format
 msgid "Bookmark '%s' saved succesfully!"
-msgstr "Segnalibro '%s' salvato correttamente."
+msgstr "Segnalibro \"%s\" salvato correttamente."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:132
@@ -2324,7 +2324,7 @@ msgstr "Capitolo:"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:819
 msgid "Check"
-msgstr "Verificare"
+msgstr "Verif."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:148
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:41
@@ -3050,8 +3050,8 @@ msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
 msgstr ""
-"DFU non disponibile per questo dispositivo. Potrebbe essere necessario "
-"preventivo aggiornamento firmware."
+"DFU non disponibile per il dispositivo. Forse è necessario un preventivo "
+"aggiornamento firmware."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:236
 msgid "DLNA / UPnP"
@@ -3290,7 +3290,7 @@ msgstr "Periferica di memoria"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:113
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:358
 msgid "Default storage device is not available!"
-msgstr "Periferica di memoria non disponibile!"
+msgstr "Dispositivo di memorizzazione predefinito non disponibile."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:120
 msgid "Default storage device was removed!"
@@ -4293,12 +4293,12 @@ msgstr "Tutto OK"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:309
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:312
 msgid "Exceeds Bludisc medium!"
-msgstr "Superata la capacità del supporto Bludisc."
+msgstr "Superata capacità supporto Bludisc."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:320
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:323
 msgid "Exceeds dual layer medium!"
-msgstr "Supera la capacità di supporto doppio strato."
+msgstr "Supera capacità supporto doppio strato."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Console.py:44
@@ -4406,7 +4406,7 @@ msgstr "Gestione delle estensioni"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "F I L E L I S T"
-msgstr "E L E N C O  F I L E"
+msgstr "ELENCO FILE"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:96
@@ -4613,7 +4613,7 @@ msgstr "Segui in diretta"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:977
 msgid "Following tasks will be done after you press OK!"
-msgstr "Premere OK per completare i processi seguenti."
+msgstr "OK >> Completare i processi seguenti."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
@@ -5773,11 +5773,11 @@ msgstr "Livello"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:111
 msgid "Limit by bandwidth (MBit/s)"
-msgstr ""
+msgstr "Limitare per larghezza di banda (MBit/s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:112
 msgid "Limit by resolution (Height in px)"
-msgstr ""
+msgstr "Limitare per risoluzione (Altezza in px)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:253
@@ -5843,7 +5843,7 @@ msgstr "Caricare metadata dal database"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/PlayerImpl.py:124
 #, python-format
 msgid "Loading a picture from '%s' failed!"
-msgstr "Caricamento immagine da '%s' fallito."
+msgstr "Caricamento immagine da \"%s\" fallito."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:118
 msgid "Loading data. Please wait"
@@ -5891,7 +5891,7 @@ msgstr "Salvare log su harddisk"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LogoManager Setup"
-msgstr ""
+msgstr "Configurazione LogoManager"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HelpMenu.py:39
@@ -6200,16 +6200,16 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:100
 msgid "Minimum Buffer Mode"
-msgstr ""
+msgstr "Dimensione minima buffer"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:104
 msgid "Minimum buffer (Fallback, s)"
-msgstr ""
+msgstr "Buffer minimo (fallback, s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:107
 msgid "Minimum buffer (s)"
-msgstr ""
+msgstr "Buffer minimo (s)"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Minimum treshold in seconds before resuming"
@@ -6337,7 +6337,7 @@ msgstr "Percorso registrazione"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MovieSelection QuickButton Setup"
-msgstr ""
+msgstr "Configurazione QuickButton MovieSelection"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Movielist"
@@ -6550,7 +6550,7 @@ msgstr "Configurazione rete"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Network Configuration"
-msgstr ""
+msgstr "Configurazione di rete"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:813
@@ -6604,7 +6604,7 @@ msgstr "Tecnologia di rete"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Network:Service configuration"
-msgstr ""
+msgstr "Rete: configurazione servizio"
 
 #
 #: enigma2/usr/share/enigma2/skin.xml
@@ -6714,7 +6714,7 @@ msgstr "Nessun settings predefinito"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1891
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:352
 msgid "No default storage device found!"
-msgstr "Nessuna periferica di memoria trovata!"
+msgstr "Nessun dispositivo di memorizzazione predefinito trovato."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1203
@@ -6916,11 +6916,11 @@ msgstr "No, mai inoltrare"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:18
 msgid "No, skip update process"
-msgstr ""
+msgstr "No, saltare il processo di aggiornamento"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Non TS Streaming Buffer (ms)"
-msgstr ""
+msgstr "Buffer per flussi non TS (ms)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:30
@@ -7322,12 +7322,12 @@ msgstr "PID PMT"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:26
 msgid "PVR"
-msgstr ""
+msgstr "PVR"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:175
 #, python-brace-format
 msgid "Package Content: {0}"
-msgstr ""
+msgstr "Contenuto pacchetto: {0}"
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -7445,11 +7445,11 @@ msgstr "Impostazioni Partnerbox"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:Edit Entry"
-msgstr ""
+msgstr "Partnerbox: modificare voce"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Partnerbox:List of Entries"
-msgstr ""
+msgstr "Partnerbox: elenco voci"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:33
@@ -7806,16 +7806,16 @@ msgstr "OK >> Proseguire."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:855
 msgid "Please press OK to see available partitions!"
-msgstr "Premere OK per visualizzare le partizioni disponibili."
+msgstr "OK >> Visualizzare le partizioni disponibili."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:858
 #, python-format
 msgid "Please press OK to set up a mountpoint for this %(desc)s!"
-msgstr "Premere OK per impostare un mountpoint per %(desc)s."
+msgstr "OK >> Impostare un mountpoint per %(desc)s."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:856
 msgid "Please press OK to set up a mountpoint for this partition!"
-msgstr "Premere OK per configurare un mountpoint per la partizione."
+msgstr "OK >> Configurare un mountpoint per la partizione."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:860
 #, python-format
@@ -7829,7 +7829,7 @@ msgstr "ROSSO >> rimuovere la configurazione di %(desc)s."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:151
 msgid "Please read carefully!"
-msgstr ""
+msgstr "Leggere attentamente."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2439
 msgid "Please select a Text application"
@@ -7942,7 +7942,7 @@ msgid ""
 "Please select the network service(s) you want to connect your Dreambox to.\n"
 "It may take a few moments before wireless networks show up in the list below!"
 msgstr ""
-"Selezionare la rete a cui connettere il Dreambox.\n"
+"Selezionare le reti a cui connettere il Dreambox.\n"
 "Per le reti wireless, attendere qualche secondo perché appaiano in elenco."
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
@@ -8176,7 +8176,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:15
 msgid "Power"
-msgstr ""
+msgstr "Power"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:86
 msgid "Power Handling"
@@ -8237,6 +8237,8 @@ msgid ""
 "Press Blue to update the firmware of the selected remote control to "
 "application version {0} and bootloader version {1}"
 msgstr ""
+"Blu >> aggiornamento firmware del telecomando selezionato con applicazione "
+"versione {0} e bootloader versione {1}"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:130
 msgid "Press INFO on your remote control for additional information."
@@ -8266,7 +8268,7 @@ msgstr "Premere OK per salvare"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:205
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
-msgstr ""
+msgstr "OK >> assegnare i tasti %s di '%s'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:216
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:324
@@ -8297,7 +8299,7 @@ msgstr "Premere OK per abilitare"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:68
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:115
 msgid "Press OK to finish the Remote Control Firmware Update Assistant."
-msgstr ""
+msgstr "OK >> chiudere l'Assistente aggiornamento firmware del telecomando."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:559
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
@@ -8401,7 +8403,7 @@ msgstr "Elabora"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:110
 msgid "Processor"
-msgstr ""
+msgstr "Processore"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:277
 msgid "Profile"
@@ -8504,7 +8506,7 @@ msgstr "Fade rapido"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "QuickButton Setup"
-msgstr ""
+msgstr "Configurazione QuickButton"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "QuickZap"
@@ -8533,7 +8535,7 @@ msgstr "Menu telecomando"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 msgid "RETRYING!"
-msgstr ""
+msgstr "Nuovo tentativo in corso."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:76
@@ -8701,7 +8703,7 @@ msgstr "Modalità Ripristino"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:16
 msgid "Red"
-msgstr ""
+msgstr "Rosso"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:327
 msgid "Reenter new PIN"
@@ -8814,7 +8816,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:820
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remove"
-msgstr "Rimuovere"
+msgstr "Rimuov."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:95
@@ -9141,7 +9143,7 @@ msgstr "Tornare al canale precedente"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:41
 msgid "Rewind"
-msgstr ""
+msgstr "Rewind"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -9250,7 +9252,7 @@ msgstr "SSA Substation Alpha"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
 msgid "SYSTEM"
-msgstr ""
+msgstr "Sistema"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -9583,7 +9585,7 @@ msgstr "Ricercare ad ovest"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Search with 0-9:"
-msgstr ""
+msgstr "Ricercare tramite 0-9:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:599
@@ -9712,7 +9714,7 @@ msgstr "Selezionare la periferica di memoria."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select teletext"
-msgstr ""
+msgstr "Selezionare televideo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/RemoteControlSelection/plugin.py:90
 msgid "Select the remote you're using"
@@ -9859,7 +9861,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service:Name server configuration"
-msgstr ""
+msgstr "Servizio: configurazione DNS"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -9924,7 +9926,7 @@ msgstr "Settare le connessioni di rete"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
-msgstr ""
+msgstr "Configurazione telecomandi bluetooth"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:75
 msgid "Set up your keyboard."
@@ -9960,7 +9962,7 @@ msgstr "Impostazione encoder a {0} fallita ! (Risorse insufficienti)"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Settings"
-msgstr "Impostazioni"
+msgstr "Conf."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:463
 msgid "Settings have been saved successfully!"
@@ -10031,7 +10033,7 @@ msgstr "Nomi brevi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:62
 msgid "Show Full Log"
-msgstr ""
+msgstr "Mostrare log esteso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:59
 msgid "Show HbbTV Browser"
@@ -10121,7 +10123,7 @@ msgstr "Mostrare..."
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/PlayerImpl.py:118
 #, python-format
 msgid "Showing a picture from '%s' failed!"
-msgstr "Visualizzazione immagine da '%s' fallita."
+msgstr "Visualizzazione immagine da \"%s\" fallita."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:122
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:315
@@ -10151,7 +10153,7 @@ msgstr "Spegnere"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Shutdown Color"
-msgstr ""
+msgstr "Colore shutdown"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:44
@@ -10180,11 +10182,11 @@ msgstr "Semplice"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Simple RSS Reader Setup"
-msgstr ""
+msgstr "Configurazione Simple RSS Reader"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Simple RSS Ticker"
-msgstr ""
+msgstr "Semplice ticker RSS"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Simple Scan"
@@ -10327,7 +10329,7 @@ msgstr "Lento"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:137
 msgid "Slow Motion"
-msgstr ""
+msgstr "Rallentatore"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -10546,7 +10548,7 @@ msgstr "Ora avvio"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:196
 #, python-brace-format
 msgid "Starting DFU Upload of {0}"
-msgstr ""
+msgstr "Caricamento DFU per {0} avviato"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:198
@@ -10814,7 +10816,7 @@ msgstr "Sistema rifiutatato. (Già ultima versione?). Operazione annullata."
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:100
 msgid "TRANSLATOR_INFO"
-msgstr "Traduzione: dario croci - spaeleus@croci.org - © 2019"
+msgstr "Traduzione: dario croci - spaeleus@croci.org - © 2021"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "TS Streaming Buffer (ms)"
@@ -10997,7 +10999,7 @@ msgid ""
 "Your Dreambox will now be restarted!"
 msgstr ""
 "Frontprocessor aggiornato con successo.\n"
-"Ora il Dreambox sarà riavviato."
+"Il Dreambox sarà riavviato."
 
 #: enigma2/usr/share/meta/plugin_hotplug.xml
 #: enigma2/usr/share/meta/plugin_hotplug.xml./enigma2/usr/share/meta/plugin_hotplug.xml
@@ -11167,7 +11169,7 @@ msgstr "Percorso %s già esistente."
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:271
 msgid "The pin code you entered is wrong."
-msgstr "Inserito codice PIN errato."
+msgstr "E' stato inserito un codice PIN errato."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:527
@@ -11281,7 +11283,7 @@ msgstr "Errore nella configurazione del supporto di memorizzazione."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:116
 msgid "There was no input for too long!"
-msgstr "Trascorso troppo tempo senza alcun inserimento."
+msgstr "Trascorso troppo tempo senza alcun input."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:310
 msgid "These options require a bluetooth enabled and connected remote!"
@@ -11897,7 +11899,7 @@ msgstr "Rilevato %(desc)s non configurato."
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:99
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:348
 msgid "Unconfigured storage devices found!"
-msgstr "Rilevati dispostitivi di memoria non configurati!"
+msgstr "Rilevati dispostitivi di memorizzazione non configurati."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:660
@@ -12747,7 +12749,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Where do you want to backup your settings?"
-msgstr "Destinazione backup impostazioni:"
+msgstr "Destinazione backup impostazioni?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:528
@@ -13007,7 +13009,7 @@ msgstr "È possibile masterizzare solo registrazioni Dreambox."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:199
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
-msgstr ""
+msgstr "Per riavviare il telecomando rimuovere e reinserire le batterie."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1099
@@ -13238,6 +13240,10 @@ msgid ""
 "After the Bootloader/System has been updated you will regain control for the "
 "rest of this and all future updates."
 msgstr ""
+"Il telecomando cesserà di funzionare durante la prima parte del processo di "
+"aggiornamento.\n"
+"Dopo l'aggiornamento di Bootloader/Sistema tornerà a operare correttamente "
+"per il processo in corso e i futuri aggiornamenti."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -13246,7 +13252,7 @@ msgstr "Zap"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap Statistic"
-msgstr ""
+msgstr "Statistiche zap"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceStopScreen.py:35
 msgid "Zap back to previously tuned service?"
@@ -13913,6 +13919,9 @@ msgid ""
 "\n"
 "[Press OK to close]"
 msgstr ""
+"per l'utilizzo dell'Assistente Aggiornamento firmware telecomando.\n"
+"\n"
+"(OK >> Chiudere)"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:406
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:425
@@ -14684,7 +14693,7 @@ msgstr "selezionare slot"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:268
 msgid "select movie"
-msgstr "selezionare video"
+msgstr "sel. registr."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:247
@@ -14953,6 +14962,12 @@ msgid ""
 "\n"
 "[Press OK]"
 msgstr ""
+"nell'Assistente Aggiornamento firmware telecomando.\n"
+"Si verrà guidati nella procedura di aggiornamento firmware del telecomando.\n"
+"\n"
+"Per iniziare\n"
+"\n"
+"Premere OK"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:12
 msgid ""
