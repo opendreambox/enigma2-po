@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-14 22:36+0000\n"
+"PO-Revision-Date: 2021-11-15 16:01+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -6651,7 +6651,7 @@ msgstr "Nuovo PIN"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "New ttx subtitle charset detection"
-msgstr "Riconoscimento caratteri dei sottotitoli teletext"
+msgstr "Nuovo riconoscimento set di caratteri sottotitoli ttx"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FrontprocessorUpgrade/plugin.py:36
@@ -6710,7 +6710,7 @@ msgid ""
 "No data on transponder!\n"
 "(Timeout reading PAT)"
 msgstr ""
-"Nessuna dato sul transponder.\n"
+"Nessun dato sul transponder.\n"
 "(Timeout in lettura PAT)"
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
@@ -6840,7 +6840,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:68
 msgid "No update required!"
-msgstr "Nessun aggiornamento!"
+msgstr "Aggiornamento non necessario."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:162
 msgid ""
@@ -6864,21 +6864,21 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, but do a manual scan now"
-msgstr "No, ricercare manualmente"
+msgstr "No, ma effettuare scansione manuale ora"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, but do an automatic scan now"
-msgstr "No, fare una ricerca automatica ora"
+msgstr "No, ma effettuare scansione automatica ora"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:125
 msgid "No, but play again"
-msgstr "No, ma riproduci"
+msgstr "No, ma riprodurre di nuovo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:128
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:147
 msgid "No, but play video again"
-msgstr "No: riprodurre nuovamente il filmato"
+msgstr "No, ma riprodurre di nuovo il filmato"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, continue without bluetooth remote setup"
@@ -6891,7 +6891,7 @@ msgstr "No, proseguire senza ripristino"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "No, do nothing."
-msgstr "No, non fare nulla."
+msgstr "No, nessuna azione."
 
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -6908,12 +6908,12 @@ msgstr "No, non ora"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, proceed with empty service list"
-msgstr "No, procedi con una lista canali vuota"
+msgstr "No, procedere con un elenco canali vuoto"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, scan later manually"
-msgstr "No, ricerca manuale successiva"
+msgstr "No, effettuare ricerca manuale più tardi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:203
@@ -6975,11 +6975,11 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:212
 msgid "Not implemented, yet!"
-msgstr "Non ancora implementato!"
+msgstr "Non ancora implementato."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:584
 msgid "Not mounted!"
-msgstr "Non montato!"
+msgstr "Non montato."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Not tested:"
@@ -6988,7 +6988,7 @@ msgstr "Non testato:"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/WebCoverResource.py:9
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/WebCoverResource.py:25
 msgid "Nothing there!"
-msgstr "Non trovato!"
+msgstr "Non trovato."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:170
 msgid "Nothing to add..."
@@ -7024,7 +7024,7 @@ msgstr "Coda notifiche"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Notification Queue Viewer"
-msgstr "Visualizzare Notifiche"
+msgstr "Visualizzatore coda notifiche"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:602
 msgid "Now"
@@ -7221,11 +7221,11 @@ msgstr "Aprire gestione connessione dispositivi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:267
 msgid "Open GOP"
-msgstr "Apri GOP"
+msgstr "Aprire GOP"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:139
 msgid "Open Menu"
-msgstr "Menu"
+msgstr "Aprire Menu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:292
 msgid "Open Virtual Keyboard"
@@ -7295,7 +7295,7 @@ msgstr "PIN"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "PIN WARNING"
-msgstr "Avvertimento PIN"
+msgstr "Warning PIN"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1462
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:187
@@ -7405,7 +7405,7 @@ msgstr "Controllo parentale"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "ParentControl Finished"
-msgstr "Controllo Parentale terminato"
+msgstr "Controllo parentale terminato"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/ParentalControlStep.py:12
 msgid "Parental Control"
@@ -7426,7 +7426,7 @@ msgstr "Editor dei canali con controllo parentale"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:47
 msgid "Parental control setup"
-msgstr "Configurazione controllo parentale"
+msgstr "Impostazioni controllo parentale"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:87
 msgid "Parental control type"
@@ -7575,21 +7575,21 @@ msgstr "Riprodurre Musica..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:171
 msgid "Play Music... (MediaCenter)"
-msgstr "Riproduci musica (MediaCenter)"
+msgstr "Riprodurre musica... (MediaCenter)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:148
 msgid "Play Next Entry"
-msgstr "Riproduci prossima voce"
+msgstr "Riprodurre voce successiva"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:149
 msgid "Play Previous Entry"
-msgstr "Riproduci precedente"
+msgstr "Riprodurre voce precedente"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:50
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:140
 msgid "Play Selected Entry"
-msgstr "Riprodurre selezionato"
+msgstr "Riprodurre voce selezionata"
 
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml./enigma2/usr/share/meta/plugin_mediarenderer.xml
