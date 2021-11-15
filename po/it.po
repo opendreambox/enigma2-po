@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-15 16:01+0000\n"
+"PO-Revision-Date: 2021-11-15 22:02+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -371,7 +371,7 @@ msgstr "%s (%s)\n"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:159
 #, python-format
 msgid "%s - scanning..."
-msgstr "%s - ricerca in corso..."
+msgstr "%s - scansione in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:426
 #, python-format
@@ -1027,11 +1027,11 @@ msgstr "Azione"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Action on long powerbutton press"
-msgstr "Su press. prolungata tasto power"
+msgstr "Su pressione prolungata tasto power"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Action on short powerbutton press"
-msgstr "Su press. breve tasto power"
+msgstr "Su pressione breve tasto power"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:79
@@ -1650,7 +1650,7 @@ msgstr "Automatico"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2290
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Automatic Scan"
-msgstr "Ricerca automatica"
+msgstr "Scansione automatica"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -1667,7 +1667,7 @@ msgstr "Aggiornamenti automatici"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:55
 msgid "Automatic service scan"
-msgstr "Ricerca automatica canali"
+msgstr "Scansione automatica canali"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:19
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -1712,7 +1712,7 @@ msgstr "Segnalare automaticamente memoria interna insufficiente"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Automatically scan for new services."
-msgstr "Ricercare automaticamente nuovi canali."
+msgstr "Scansionare automaticamente per nuovi canali."
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
@@ -2241,7 +2241,7 @@ msgstr "Certificati"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Change bouquets in quickzap"
-msgstr "Cambio di bouquet nello zapping veloce"
+msgstr "Cambio di bouquet in quickzap"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:317
@@ -2357,7 +2357,7 @@ msgstr "Controllare su 'Stream Set' (solo on)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:105
 msgid "Check state on 'TV Power Status On' (on only)"
-msgstr "Controllare su 'Alimentazione TV' (solo on)"
+msgstr "Controllare su 'Stato alimentazione TV On' (solo on)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:192
@@ -2474,7 +2474,7 @@ msgstr "Svuotare la playlist"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1469
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2250
 msgid "Clear before scan"
-msgstr "Cancellare prima di cercare"
+msgstr "Cancellare prima di scansionare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:505
@@ -2520,7 +2520,7 @@ msgstr "Chiudere il browser"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:178
 msgid "Close title selection"
-msgstr "Chiudere selezione sottotitoli"
+msgstr "Chiudere selezione titolo"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1465
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:110
@@ -3748,7 +3748,7 @@ msgstr "Interrompere la configurazione guidata?"
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Do you want to do another manual service scan?"
-msgstr "Effettuare un'altra ricerca canali manuale?"
+msgstr "Effettuare un'altra scansione canali manuale?"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/ParentalControlStep.py:13
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -3994,7 +3994,7 @@ msgstr "ERRORE"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
 #, python-format
 msgid "ERROR - failed to scan (%s)!"
-msgstr "ERRORE - Ricerca fallita (%s)."
+msgstr "ERRORE - Scansione fallita (%s)."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
@@ -4607,7 +4607,7 @@ msgstr "Aggiornamento firmware del ricevitore bluetooth in corso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:15
 msgid "Flashing Frontprocessor Firmware"
-msgstr "Aggiornamento firmware del Frontprocessor in corso"
+msgstr "Aggiornamento firmware Frontprocessor in corso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:60
 msgid "Flashing firmware..."
@@ -4675,7 +4675,7 @@ msgstr "Bande di frequenza"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:232
 msgid "Frequency scan step size(khz)"
-msgstr "Passo di frequenza ricerca (kHz)"
+msgstr "Passo di frequenza scansione (kHz)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1414
 msgid "Frequency start"
@@ -5241,7 +5241,7 @@ msgstr "Ignorare CeC all'avvio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:106
 msgid "Ignore Device Power States"
-msgstr "Ignorare Stati di Alimentazione"
+msgstr "Ignorare stati alimentazione dispositivo"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Import AutoTimer"
@@ -6005,15 +6005,15 @@ msgstr "Gestire il software del ricevitore"
 #
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Manual Scan"
-msgstr "Ricerca manuale"
+msgstr "Scansione manuale"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Manual scan"
-msgstr "Ricerca manuale"
+msgstr "Scansione manuale"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:56
 msgid "Manual service scan"
-msgstr "Ricerca manuale canali"
+msgstr "Scansione manuale canali"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
@@ -6023,7 +6023,7 @@ msgstr "Transponder manuale"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Manually scan for new services."
-msgstr "Ricerca manuale nuovi canali."
+msgstr "Scansione manuale per nuovi canali."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1098
 msgid "Manually select a mountpoint."
@@ -6323,11 +6323,11 @@ msgstr "Spostare a est"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:155
 msgid "Move selected item down"
-msgstr "Spostare la selezione giù"
+msgstr "Spostare la voce selezionata giù"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:154
 msgid "Move selected item up"
-msgstr "Spostare la selezione su"
+msgstr "Spostare la voce selezionata su"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:241
@@ -6836,7 +6836,7 @@ msgid ""
 "Please setup your tuner settings before you start a service scan."
 msgstr ""
 "Nessun tuner abilitato.\n"
-"Impostare i tuner prima di effettuare una ricerca canali."
+"Impostare i tuner prima di effettuare una scansione canali."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:68
 msgid "No update required!"
@@ -6913,7 +6913,7 @@ msgstr "No, procedere con un elenco canali vuoto"
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, scan later manually"
-msgstr "No, effettuare ricerca manuale più tardi"
+msgstr "No, effettuare scansione manuale più tardi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:203
@@ -6922,7 +6922,7 @@ msgstr "No, mai inoltrare"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:18
 msgid "No, skip update process"
-msgstr "No, saltare il processo di aggiornamento"
+msgstr "No, ignorare l'aggiornamento"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Non TS Streaming Buffer (ms)"
@@ -7005,12 +7005,12 @@ msgid ""
 "Nothing to scan!\n"
 "Please setup your tuner settings before you start a service scan."
 msgstr ""
-"Impossibile effettuare la ricerca.\n"
-"Impostare i tuner prima di effettuare una nuova ricerca canali."
+"Impossibile effettuare la scansione.\n"
+"Impostare i tuner prima di effettuare una nuova scansione canali."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1185
 msgid "Nothing to scan! Press Exit!"
-msgstr "Ricerca impossibile. Premere Exit."
+msgstr "Scansione impossibile. Premere Exit."
 
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
 msgid "Notification"
@@ -7597,8 +7597,8 @@ msgid ""
 "Play UPnP/DLNA media controlled from an UPnP/DLNA controlpoint on your "
 "dreambox."
 msgstr ""
-"Attiva dei media UPnP/DLNA controllati da un centro di controllo UPnP/DLNA "
-"sul tuo Dreambox."
+"Plugin per riprodurre media UPnP/DLNA gestiti da un centro di controllo UPnP/"
+"DLNA sul Dreambox."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:253
 msgid "Play and watch all your media."
@@ -7633,7 +7633,7 @@ msgstr "Periferica di riproduzione 3"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:206
 msgid "Playlist has been saved!"
-msgstr "Playlist salvata!"
+msgstr "Playlist salvata."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/DatabasePlaylist.py:49
 msgid "Playlists"
@@ -7652,7 +7652,7 @@ msgstr "Riavviare"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:65
 msgid "Please Select Medium to be Scanned"
-msgstr "Selezionare il supporto su cui cercare"
+msgstr "Selezionare il supporto da scansionare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:294
 msgid "Please add titles to the compilation."
@@ -7700,7 +7700,7 @@ msgstr "Impostare almeno un server dei nomi valido (DNS)."
 msgid "Please do not change any values unless you know what you are doing!"
 msgstr ""
 "Non modificare alcun parametro se non si è certi di quello che si sta "
-"facendo!"
+"facendo."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:250
@@ -7740,7 +7740,7 @@ msgid ""
 "Please enter the directory to use as mountpoint or select a directory by "
 "pressing OK."
 msgstr ""
-"Inserire una directory da usare come mountpoint o selezionarne una premendo "
+"Inserire la directory da usare come mountpoint o selezionarne una premendo "
 "OK."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:354
@@ -7802,7 +7802,7 @@ msgid ""
 "Please pickup the remote control you want to connect and press any number "
 "key on it to select it in the list.\n"
 msgstr ""
-"Premere un tasto numerico qualsiasi sul telecomado che si vuole connettere "
+"Premere un tasto numerico qualsiasi sul telecomando che si vuole connettere "
 "per selezionarlo nell'elenco.\n"
 
 #
@@ -7949,7 +7949,7 @@ msgid ""
 "It may take a few moments before wireless networks show up in the list below!"
 msgstr ""
 "Selezionare le reti a cui connettere il Dreambox.\n"
-"Per le reti wireless, attendere qualche secondo perché appaiano in elenco."
+"Per le reti wireless, attendere qualche secondo perchè appaiano in elenco."
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Please select the packages to be restored from the list below"
@@ -7960,7 +7960,7 @@ msgid ""
 "Please select the timeshift location which is used for storing timeshift "
 "recordings."
 msgstr ""
-"Selezionare il percorso predefinito per le registrazioni con timeshift."
+"Selezionare la destinazione dove memorizzare le registrazioni timeshift."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/TimezoneStep.py:11
 msgid "Please select your timezone!"
@@ -7992,8 +7992,8 @@ msgid ""
 "Press OK to go back to the TV mode or EXIT to cancel the moving."
 msgstr ""
 "Usare frecce per muovere la finestra PiP.\n"
-"Bouquet +/- per ridimensionare la finestra.\n"
-"Ok per tornare alla modalità TV oppure EXIT per annullare."
+"Bouquet +/- >> ridimensionare la finestra.\n"
+"Ok >> tornare alla modalità TV oppure EXIT >> annullare."
 
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:128
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -8029,7 +8029,7 @@ msgstr "Attendere: rimozione pacchetto selezionato in corso."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:236
 msgid "Please wait while scanning is in progress..."
-msgstr "Attendere: ricerca in corso."
+msgstr "Attendere: scansione in corso."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/CleanupWizard.py:89
@@ -8167,7 +8167,7 @@ msgstr "Movimento rotore"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:638
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:644
 msgid "Positioner setup"
-msgstr "Configurazione rotore"
+msgstr "Impostazioni rotore"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:202
@@ -8186,11 +8186,11 @@ msgstr "Power"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:86
 msgid "Power Handling"
-msgstr "Gestione Alimentazione"
+msgstr "Gestione alimentazione"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:90
 msgid "Power on AV-Receiver"
-msgstr "Accensione Ricevitore A/V"
+msgstr "Accendere il ricevitore A/V"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:95
 msgid "Power on/off based on CEC Events"
@@ -8315,7 +8315,7 @@ msgstr "OK >> Maggiori dettagli su %s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2291
 msgid "Press OK to scan"
-msgstr "OK >> Ricercare"
+msgstr "OK >> Scansionare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:434
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:544
@@ -8332,7 +8332,7 @@ msgstr "OK >> Commutare la selezione CAid."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1260
 msgid "Press OK to start the scan"
-msgstr "OK >> Iniziare la ricerca"
+msgstr "OK >> Iniziare la scansione"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:472
 #, python-format
@@ -8391,7 +8391,7 @@ msgstr "Prime time"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Primetime"
-msgstr "Prima serata"
+msgstr "Primetime"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:317
@@ -8405,7 +8405,7 @@ msgstr "Sicurezza (IPv6)"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:681
 msgid "Process"
-msgstr "Elabora"
+msgstr "Elaborare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:110
 msgid "Processor"
@@ -8456,7 +8456,7 @@ msgstr "Provider (TV)"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:214
 msgid "Provider to scan"
-msgstr "Provider su cui cercare"
+msgstr "Provider da scansionare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:483
@@ -8508,7 +8508,7 @@ msgstr "Veloce"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Quick fade"
-msgstr "Fade rapido"
+msgstr "Dissolvenza veloce"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "QuickButton Setup"
@@ -8527,7 +8527,7 @@ msgstr "Impostazioni QuickButton"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2016
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2019
 msgid "Quickzap"
-msgstr "Zapping veloce"
+msgstr "Quickzap"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:244
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:249
@@ -8598,7 +8598,7 @@ msgstr "Disconnettere %s (%s)?"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SubservicesQuickzap.py:131
 msgid "Really exit the subservices quickzap?"
-msgstr "Uscire dallo zapping veloce sottocanali?"
+msgstr "Uscire da quickzap sottocanali?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:150
 msgid "Really reboot into Recovery Mode?\n"
@@ -8648,7 +8648,7 @@ msgstr "Tempo di registrazione limitato: conflitto timer %s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:167
 msgid "Recordable media toolbox"
-msgstr "Strumenti supporti registrabili"
+msgstr "Strumenti per la registrazione di media"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:390
@@ -8792,7 +8792,7 @@ msgstr "Selezione Telecomando"
 #: enigma2/usr/share/meta/plugin_remotecontrolselection.xml./enigma2/usr/share/meta/plugin_remotecontrolselection.xml
 msgid ""
 "Remote Control Selection let's you select which Remote Control you're using"
-msgstr "Selezione Telecomando ti consente di selezionare il telecomando in uso"
+msgstr "Selezione Telecomando consente di selezionare il telecomando in uso"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remote Timer Editor"
@@ -8904,8 +8904,8 @@ msgid ""
 "Removing %s from the database failed with\n"
 " %s"
 msgstr ""
-"Rimuovendo %s dal database è fallito con\n"
-"%s"
+"La rimozione di %s dal database è fallita con\n"
+" %s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:183
 msgid "Removing a directory from the database failed!"
@@ -8938,7 +8938,7 @@ msgstr "Ripetere"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:321
 msgid "Repeat - All"
-msgstr "Ripeti - Tutto"
+msgstr "Ripetere - Tutto"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:123
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:327
@@ -8947,7 +8947,7 @@ msgstr "Non ripetere"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:324
 msgid "Repeat - Single"
-msgstr "Ripeti singolo"
+msgstr "Ripetere singolo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:190
@@ -8976,7 +8976,7 @@ msgstr "Tipo di supporto richiesto:"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:81
 msgid "Rescan"
-msgstr "Ripetere ricerca"
+msgstr "Ripetere scansione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:40
@@ -9057,12 +9057,12 @@ msgstr "Ripristinare"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Restore Backups"
-msgstr "Ripristina Backup"
+msgstr "Ripristinare Backup"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:232
 msgid "Restore backups"
-msgstr "Ripristino backup"
+msgstr "Ripristinare backup"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Restore fstab.backup"
@@ -9271,7 +9271,7 @@ msgstr "Sab"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Sat / Dish Setup"
-msgstr "Configurazione Sat / Parabola"
+msgstr "Impostazioni Sat / Parabola"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Sat lists"
@@ -9397,18 +9397,18 @@ msgstr "Nitidezza scaler"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:213
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:334
 msgid "Scan"
-msgstr "Ricerca"
+msgstr "Scansionare"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2261
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2269
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2277
 msgid "Scan "
-msgstr "Ricerca "
+msgstr "Scansione di "
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:112
 msgid "Scan Files..."
-msgstr "Ricerca file..."
+msgstr "Scansione dei file..."
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -9418,111 +9418,111 @@ msgstr "Scansione IP"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:238
 msgid "Scan QAM128"
-msgstr "Ricerca su QAM128"
+msgstr "Sansione di QAM128"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:235
 msgid "Scan QAM16"
-msgstr "Ricerca su QAM16"
+msgstr "Sansione di QAM16"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:239
 msgid "Scan QAM256"
-msgstr "Ricerca su QAM256"
+msgstr "Sansione di QAM256"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:236
 msgid "Scan QAM32"
-msgstr "Ricerca su QAM32"
+msgstr "Sansione di QAM32"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:237
 msgid "Scan QAM64"
-msgstr "Ricerca su QAM64"
+msgstr "Sansione di QAM64"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:241
 msgid "Scan SR6875"
-msgstr "Ricerca su SR6875"
+msgstr "Sansione di SR6875"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:240
 msgid "Scan SR6900"
-msgstr "Ricerca su SR6900"
+msgstr "Sansione di SR6900"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:242
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:243
 msgid "Scan additional SR"
-msgstr "Ricerca su SR aggiuntivi"
+msgstr "Sansione di SR aggiuntivi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:223
 msgid "Scan band EU HYPER"
-msgstr "Ricerca su banda EU HYPER"
+msgstr "Sansione banda EU HYPER"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:218
 msgid "Scan band EU MID"
-msgstr "Ricerca su banda EU MID"
+msgstr "Sansione banda EU MID"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:222
 msgid "Scan band EU SUPER"
-msgstr "Ricerca su banda EU SUPER"
+msgstr "Sansione banda EU SUPER"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:220
 msgid "Scan band EU UHF IV"
-msgstr "Ricerca su banda EU UHF IV"
+msgstr "Sansione banda EU UHF IV"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:221
 msgid "Scan band EU UHF V"
-msgstr "Ricerca su banda EU UHF V"
+msgstr "Sansione banda EU UHF V"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:217
 msgid "Scan band EU VHF I"
-msgstr "Ricerca su banda EU VHF I"
+msgstr "Sansione banda EU VHF I"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:219
 msgid "Scan band EU VHF III"
-msgstr "Ricerca su banda EU VHF III"
+msgstr "Sansione banda EU VHF III"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:226
 msgid "Scan band US HIGH"
-msgstr "Ricerca su banda US HIGH"
+msgstr "Sansione banda US HIGH"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:228
 msgid "Scan band US HYPER"
-msgstr "Ricerca su banda US HYPER"
+msgstr "Sansione banda US HYPER"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:229
 msgid "Scan band US JUMBO"
-msgstr "Ricerca su banda US JUMBO"
+msgstr "Sansione banda US JUMBO"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:224
 msgid "Scan band US LOW"
-msgstr "Ricerca su banda US LOW"
+msgstr "Sansione banda US LOW"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:225
 msgid "Scan band US MID"
-msgstr "Ricerca su banda US MID"
+msgstr "Sansione banda US MID"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:227
 msgid "Scan band US SUPER"
-msgstr "Ricerca su banda US SUPER"
+msgstr "Sansione banda US SUPER"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:230
 msgid "Scan band US ULTRA"
-msgstr "Ricerca su banda US ULTRA"
+msgstr "Sansione banda US ULTRA"
 
 #: enigma2/usr/share/meta/plugin_mediascanner.xml
 #: enigma2/usr/share/meta/plugin_mediascanner.xml./enigma2/usr/share/meta/plugin_mediascanner.xml
@@ -9535,26 +9535,26 @@ msgid ""
 "Scanning '%s' for media files. Scanned %s files.\n"
 "%s of them contain audio or video."
 msgstr ""
-"Ricerca su '%s' per files media. Scansionati %s files.\n"
+"Sansione di '%s' per file multimediali. Scansionati %s file\n"
 "di cui %s con contenuti audio o video."
 
 #: enigma2/usr/share/meta/plugin_defaultservicesscanner.xml
 #: enigma2/usr/share/meta/plugin_defaultservicesscanner.xml./enigma2/usr/share/meta/plugin_defaultservicesscanner.xml
 msgid "Scans default lamedbs sorted by satellite"
-msgstr "Ricerca con lamedb predefiniti, ordinati per satellite"
+msgstr "Scansione con lamedb predefiniti, ordinati per satellite"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DefaultServicesScanner/plugin.py:140
 msgid ""
 "Scans default lamedbs sorted by satellite with a connected dish positioner"
 msgstr ""
-"Ricerca con lamedb predefiniti, ordinati per satellite, tramite parabola "
+"Scansione con lamedb predefiniti, ordinati per satellite, tramite parabola "
 "motorizzata"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:835
 #, python-format
 msgid "Scroll mode is now %s"
-msgstr "La modalità scorrimento è ora %s"
+msgstr "La modalità di scroll è ora %s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:834
 msgid "Scrolling"
@@ -9568,7 +9568,7 @@ msgstr "Cercare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:446
 msgid "Search Provider"
-msgstr "Ricerca Provider"
+msgstr "Provider di ricerca"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:243
@@ -9578,7 +9578,7 @@ msgstr "Cercare ad est"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:479
 #, python-format
 msgid "Search for '%s'"
-msgstr "Ricercare per '%s'"
+msgstr "Ricerca di '%s'"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Search for services and configure your tuners."
@@ -9620,7 +9620,7 @@ msgstr "Selezionare"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Select HDD"
-msgstr "Seleziona HDD"
+msgstr "Selezionare HDD"
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -9641,7 +9641,7 @@ msgstr "Selezionare la skin"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Select a movie"
-msgstr "Seleziona un film"
+msgstr "Scegliere un filmato"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:361
@@ -9733,7 +9733,7 @@ msgstr "Selezionare la sorgente aggiornamento da modificare."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/RemoteControlSelection/plugin.py:52
 msgid "Select your Remote"
-msgstr "Seleziona telecomando"
+msgstr "Selezionare telecomando"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:815
 msgid "Select your favorite mapping."
@@ -9798,7 +9798,7 @@ msgstr "Canale"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Service Scan"
-msgstr "Ricerca Canale"
+msgstr "Scansione canale"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -9854,7 +9854,7 @@ msgstr "Riferimento canale"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Service scan"
-msgstr "Ricerca canale"
+msgstr "Scansione canale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2689
@@ -10010,7 +10010,7 @@ msgstr "Settare servizi UPnP/DLNA"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:644
 msgid "Setup your positioner"
-msgstr "Configurare il rotore"
+msgstr "Impostare il rotore"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SatelliteEquipmentControl/plugin.py:75
 msgid "Setup your satellite equipment"
@@ -10196,7 +10196,7 @@ msgstr "Semplice ticker RSS"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Simple Scan"
-msgstr "Ricerca semplice"
+msgstr "Scansione semplice"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Simple fade"
@@ -10306,7 +10306,7 @@ msgstr "Slideshow: Intervallo tra foto (sec)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:232
 msgid "Slideshow: Repeat"
-msgstr "Slideshow: Ripeti"
+msgstr "Slideshow: Ripetere"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:57
@@ -11025,8 +11025,8 @@ msgid ""
 "The Media Database Manager helps you manging Folders that should be scanned "
 "for media files.\n"
 msgstr ""
-"Il Gestore Database Multimediale aiuta a gestire le directory per la ricerca "
-"di file multimediali.\n"
+"Il Gestore Database Multimediale fornisce supporto per gestire le directory "
+"da scansionare alla ricerca di file multimediali.\n"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:373
 msgid "The PIN code has been changed successfully."
@@ -11581,7 +11581,7 @@ msgstr "Oggi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:145
 msgid "Toggle Repeat-Modes (None / All / Single)"
-msgstr "Attiva ripetizione (Nessuna / Tutto / Singolo)"
+msgstr "Commutare ripetizione (Nessuna / Tutto / Singolo)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:144
 msgid "Toggle Shuffle"
@@ -11693,7 +11693,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1609
 msgid "Trying to download a new packetlist. Please wait..."
-msgstr "Download nuovo elenco pacchetti. Attendere..."
+msgstr "Download nuovo elenco pacchetti in corso. Attendere..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -11811,7 +11811,7 @@ msgstr "Tipo"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1331
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1334
 msgid "Type of scan"
-msgstr "Tipo ricerca"
+msgstr "Tipo di scansione"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:96
 msgid "UPnP/DLNA"
@@ -11827,7 +11827,7 @@ msgstr "UPnP/DLNA - Visualizzazione immagine fallita"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/AudioGUI.py:46
 msgid "UPnP/DLNA Audio Player"
-msgstr "UPnP/DLNA Player Audio"
+msgstr "Player Audio UPnP/DLNA"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:227
 msgid "UPnP/DLNA Browser"
@@ -11849,7 +11849,7 @@ msgstr "Impostazioni UPnP/DLNA"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/VideoGUI.py:18
 msgid "UPnP/DLNA Video Player"
-msgstr "UPnP/DLNA Player Video"
+msgstr "Player Video UPnP/DLNA"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1752
@@ -12177,7 +12177,7 @@ msgstr "Configurazione guidata opzioni di base"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:211
 msgid "Used service scan type"
-msgstr "Tipo ricerca canali in uso"
+msgstr "Tipo di scansione canali in uso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:227
@@ -12732,7 +12732,7 @@ msgstr "Ovest"
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "What do you want to scan?"
-msgstr "Cosa si intende cercare?"
+msgstr "Quale scansione effettuare?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:94
@@ -12817,7 +12817,7 @@ msgid ""
 "With the DefaultServicesScanner plugin you can scan default lamedbs sorted "
 "by satellite with a connected dish positioner."
 msgstr ""
-"Con DefaultServiceScanner è possibile effettuare una ricerca con lamedb "
+"Con DefaultServiceScanner è possibile effettuare una scansione con lamedb "
 "predefiniti ordinati per satellite utilizzando un rotore."
 
 #: enigma2/usr/share/meta/plugin_diseqctester.xml
@@ -12843,7 +12843,7 @@ msgstr ""
 msgid ""
 "With the Remote Control Selection you can select which Remote Control you're "
 "using"
-msgstr "Con la selezione telecomando puoi selezionare quello in uso"
+msgstr "Con Selezione Telecomando è possibile selezionare il telecomando in uso"
 
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml./enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
@@ -12955,7 +12955,7 @@ msgstr "Sì, ma riprodurre il canale precedente"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes, do another manual scan now"
-msgstr "Sì, eseguire un'altra ricerca manuale"
+msgstr "Sì, eseguire un'altra scansione manuale"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes, install default servicelists"
@@ -13269,7 +13269,7 @@ msgstr "Tornare al canale sintonizzato in precedenza?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:166
 msgid "Zap back to service before positioner setup?"
-msgstr "Tornare al canale attivo prima di configurare il rotore?"
+msgstr "Tornare al canale attivo prima dell'impostazione rotore?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:257
@@ -13875,7 +13875,7 @@ msgstr "terminare modifica preferiti"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:96
 msgid "enqueued for future scan..."
-msgstr "accodato per ricerca successiva...."
+msgstr "accodato per scansione successiva...."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:799
@@ -14646,21 +14646,21 @@ msgstr "in uscita salvare la playlist"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:108
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 msgid "scan done!"
-msgstr "ricerca terminata."
+msgstr "scansione terminata."
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:39
 #, python-format
 msgid "scan in progress - %d%% done!"
-msgstr "ricerca in corso - completata al %d%%."
+msgstr "scansione in corso - completata al %d%%."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceScan.py:52
 msgid "scan state"
-msgstr "stato ricerca"
+msgstr "stato scansione"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:93
 msgid "scanning..."
-msgstr "ricerca in corso..."
+msgstr "scansione in corso..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:77
