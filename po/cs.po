@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-05 22:01+0000\n"
+"PO-Revision-Date: 2021-11-16 22:02+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -1685,7 +1685,7 @@ msgstr "aut.nakonfigurovat přípojný bod"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:67
 msgid "Available Remotes"
-msgstr "dostupné dálkové ovladače"
+msgstr "Dostupné dálkové ovladače..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Available format variables"
@@ -4503,7 +4503,7 @@ msgstr "OK -> start zpracování úkolů..."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
 msgid "Force Update"
-msgstr "vynutit aktualizaci"
+msgstr "spustit aktualizaci"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:253
 msgid "Forced"
@@ -8076,7 +8076,7 @@ msgstr "OK -> použít..."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:205
 #, python-format
 msgid "Press OK to apply assign %s keys of '%s'"
-msgstr "OK -> přiřadit %s klávesy k '%s'"
+msgstr "OK -> přiřadit %s kláves pro '%s'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:216
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:324
@@ -9814,7 +9814,7 @@ msgstr "zobrazit ikony v seznamu"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show blinking clock in display during recording"
-msgstr "zobrazit pulzující LED/ikonu při nahrávání"
+msgstr "zobrazit pulzující hodiny při nahrávání"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:109
 msgid "Show event-progress"
@@ -14599,12 +14599,11 @@ msgid ""
 "\n"
 "[Press OK]"
 msgstr ""
-"do asistenta aktualizace firmwaru dálkového ovladače.\n"
-"Nyní vás provedeme postupem aktualizace firmwaru dálkového ovladače !\n"
+"Asistent pro aktualizaci firmwaru dálkového ovladače.\n"
+"Projdeme spolu několik kroků a zaktualizujeme firmware DO.\n"
 "\n"
-"Pojďme začít !\n"
 "\n"
-"[stisněte OK]"
+"[OK-> začneme...]"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:12
 msgid ""
