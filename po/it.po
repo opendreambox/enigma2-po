@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-11-15 22:02+0000\n"
+"PO-Revision-Date: 2021-11-16 09:43+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -781,7 +781,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/plugin.py:121
 msgid "A graphical EPG for all services of an specific bouquet"
-msgstr "EPG grafico per i canali di uno specifico bouquet"
+msgstr "EPG grafico per i tutti canali di uno specifico bouquet"
 
 #: enigma2-skins/skins/holoFHD-black/meta/skin_holofhd-black.xml
 #: enigma2-skins/skins/holoFHD-dark/meta/skin_holofhd-dark.xml
@@ -985,7 +985,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:753
 msgid "AUTOMATICALLY start service searching, press green to change"
-msgstr "Previsto avvio automatico ricerca canali: VERDE >> Cambiare"
+msgstr "Previsto avvio automatico scansione canali: VERDE >> Cambiare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:379
@@ -1055,7 +1055,7 @@ msgid ""
 "Active name servers:\n"
 "%s"
 msgstr ""
-"Nameservers attivi:\n"
+"Nameserver attivi:\n"
 "%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:881
@@ -1064,7 +1064,7 @@ msgid ""
 "Active time servers:\n"
 "%s"
 msgstr ""
-"Time srver attivi:\n"
+"Time server attivi:\n"
 "%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:99
@@ -1271,19 +1271,19 @@ msgstr "Dopo il nome canale"
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:114
 msgid "After service number"
-msgstr "Dopo il numero canale"
+msgstr "Dopo il numero di canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicedescription"
-msgstr "Dpo la descrizione canale"
+msgstr "Dopo la descrizione del canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicename"
-msgstr "Dopo il nome canale"
+msgstr "Dopo il nome del canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicenumber"
-msgstr "Dopo il numero canale"
+msgstr "Dopo il numero del canale"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -1362,7 +1362,7 @@ msgstr "Modalità radio alternativa"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Alternative services tuner priority"
-msgstr "Priorità tuner"
+msgstr "Priorità tuner per canali alternativi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
@@ -1712,7 +1712,7 @@ msgstr "Segnalare automaticamente memoria interna insufficiente"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Automatically scan for new services."
-msgstr "Scansionare automaticamente per nuovi canali."
+msgstr "Effettuare automaticamente scansione nuovi canali."
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
@@ -3571,17 +3571,17 @@ msgstr "Parabola"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:82
 msgid "Display 16:9 content as"
-msgstr "Mostrare contenuti in 16:9 come"
+msgstr "Mostrare i contenuti in 16:9 come"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:78
 msgid "Display 4:3 content as"
-msgstr "Mostrare contenuti in 4:3 come"
+msgstr "Mostrare i contenuti in 4:3 come"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:79
 msgid "Display >16:9 content as"
-msgstr "Mostrare contenuti > di 16:9 come"
+msgstr "Mostrare i contenuti > di 16:9 come"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4790,7 +4790,7 @@ msgstr "Schermo intero: dimensione Frame"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:233
 msgid "Fullscreen: Show info line"
-msgstr "Schermo intero: Mostra info"
+msgstr "Schermo intero: Mostrare informazioni"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:234
 msgid "Fullscreen: Text color"
@@ -4896,8 +4896,8 @@ msgid ""
 "GraphMultiEPG shows a graphical timeline EPG.\n"
 "Shows a nice overview of all running und upcoming tv shows."
 msgstr ""
-"GraphMultiEPG mostra l'EPG attraverso una linea temporale grafica\n"
-"fornendo una chiara impaginazione della programmazione eventi."
+"GraphMultiEPG mostra l'EPG attraverso una timeline grafica\n"
+"fornendo una chiara panoramica degli eventi in programmazione."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/plugin.py:120
@@ -5931,7 +5931,7 @@ msgstr "USB inferiore"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:751
 msgid "MANUALLY start service searching, press green to change"
-msgstr "Avvio manuale ricerca canali, VERDE >> Cambiare"
+msgstr "Avvio manuale scansione canali, VERDE >> Cambiare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:16
 msgid "MMC authentication failed"
@@ -6385,10 +6385,9 @@ msgstr ""
 "\n"
 "Il Dreambox offre la funzione preferiti multipli. Attivandola si potranno "
 "gestire più liste personalizzate di canali TV e Radio. Disattivandola sarà "
-"disponibile una sola lista Preferiti, che renderà la navigazione più "
-"semplice.\n"
+"disponibile una sola lista Preferiti, rendendo la navigazione più semplice.\n"
 "\n"
-"Attivare la funzione Preferiti multipli?"
+"Attivare la funzione Preferiti multipli ora?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:582
 msgid "Multiple partitions found!"
@@ -6850,7 +6849,7 @@ msgid ""
 msgstr ""
 "Nessun codice PIN canale valido trovato.\n"
 "Cambiare il codice PIN canale?\n"
-"Scegliendo 'No' la protezione del canale non sarà abilitata."
+"Scegliendo 'No' la protezione del canale resterà disabilitata."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:160
 msgid ""
@@ -7422,7 +7421,7 @@ msgstr "Controllo parentale"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Parental control services Editor"
-msgstr "Editor dei canali con controllo parentale"
+msgstr "Editor controllo parentale canali"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:47
 msgid "Parental control setup"
@@ -8361,7 +8360,7 @@ msgstr "Giallo >> Disconnettere il telecomando selezionato."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:759
 msgid "Press green to start service searching!"
-msgstr "VERDE >> Avviare ricerca canali."
+msgstr "VERDE >> Avviare scansione canali."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:541
@@ -9582,7 +9581,7 @@ msgstr "Ricerca di '%s'"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Search for services and configure your tuners."
-msgstr "Impostazioni tuner e ricerca canali."
+msgstr "Impostazioni tuner e scansione canali."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:242
@@ -9737,7 +9736,7 @@ msgstr "Selezionare telecomando"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:815
 msgid "Select your favorite mapping."
-msgstr "Selezionare la funzione preferita."
+msgstr "Selezionare il layout preferito."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:50
@@ -9755,7 +9754,7 @@ msgstr "Inviare eventi di alimentazione HDMI CEC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:92
 msgid "Send explicit on/off to Audio System"
-msgstr "Inviare on/off esplicito sistema audio"
+msgstr "Inviare on/off esplicito al sistema audio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:193
 msgid "Sensor"
@@ -9786,7 +9785,7 @@ msgstr "Tempo di buffer del server"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:154
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:181
 msgid "Servers"
-msgstr "Servers"
+msgstr "Server"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:47
@@ -9892,22 +9891,22 @@ msgstr "Conf. ora termine"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:60
 msgid "Set Voltage and 22KHz"
-msgstr "Setta voltaggio e 22KHz"
+msgstr "Impostare tensione e 22KHz"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:370
 msgid "Set as Startpage"
-msgstr "Settare come pagina iniziale"
+msgstr "Impostare come pagina iniziale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:96
 msgid "Set available internal memory threshold for the warning."
-msgstr "Settare l'avviso per il limite di memoria interna disponibile."
+msgstr "Impostare l'avviso per il limite di memoria interna disponibile."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:201
 msgid "Set limits"
-msgstr "Impostare limiti"
+msgstr "Impostare i limiti"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up a timer after which your Dreambox will turn off."
@@ -9928,7 +9927,7 @@ msgstr "Impostare la lingua del Dreambox."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:169
 msgid "Set up your Network connections"
-msgstr "Settare le connessioni di rete"
+msgstr "Impostare le connessioni di rete"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Set up your bluetooth remotes"
@@ -9944,7 +9943,7 @@ msgstr "Configurare la periferica di memoria?"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your storage devices like harddisks and flash memory cards."
-msgstr "Settare i supporti di memoria come hard-disk e memorie flash."
+msgstr "Impostare i supporti di memoria come hard-disk e memorie flash."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your system timezone."
@@ -10006,7 +10005,7 @@ msgstr "Impostazioni animazioni"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:103
 msgid "Setup UPnP/DLNA Services"
-msgstr "Settare servizi UPnP/DLNA"
+msgstr "Impostare i servizi UPnP/DLNA"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:644
 msgid "Setup your positioner"
@@ -10014,19 +10013,19 @@ msgstr "Impostare il rotore"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SatelliteEquipmentControl/plugin.py:75
 msgid "Setup your satellite equipment"
-msgstr "Configurazione apparecchiatura satellitare"
+msgstr "Impostazioni dispositivo satellitare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:90
 msgid "Share Audio"
-msgstr "Condivisione Audio"
+msgstr "Condividere l'audio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:92
 msgid "Share Live TV/Radio"
-msgstr "Condivisione Live TV/Radio"
+msgstr "Condividere TV/Radio in diretta"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:91
 msgid "Share Video"
-msgstr "Condividi Video"
+msgstr "Condividere i Video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:104
@@ -10048,7 +10047,7 @@ msgstr "Mostrare il browser Hbbtv"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show Message when Recording starts"
-msgstr "Mostrare messaggio su avvio registrazione"
+msgstr "Mostrare un messaggio su avvio registrazione"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:94
 msgid "Show Picons"
@@ -10061,7 +10060,7 @@ msgstr "Orologio lampeggiante durante le registrazioni"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:109
 msgid "Show event-progress"
-msgstr "Mostra il progresso dell'evento"
+msgstr "Mostrare il progresso dell'evento"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show event-progress in channel selection"
@@ -10070,17 +10069,17 @@ msgstr "Mostrare il progresso evento in selezione canali"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show infobar on channel change"
-msgstr "Mostrare barra informazioni su cambio canale"
+msgstr "Mostrare la barra informazioni su cambio canale"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show infobar on event change"
-msgstr "Mostra barra info su cambio evento"
+msgstr "Mostrare la barra informazioni su cambio evento"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show infobar on skip forward/backward"
-msgstr "Mostrare barra informazioni su FFW/REW"
+msgstr "Mostrare la barra informazioni su FFW/REW"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -10089,20 +10088,20 @@ msgstr "Mostrare il movimento rotore"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:92
 msgid "Show recordings"
-msgstr "Mostra le registrazioni"
+msgstr "Mostrare le registrazioni"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:104
 msgid "Show service name"
-msgstr "Mostra il nome canale"
+msgstr "Mostrare il nome canale"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:93
 msgid "Show service numbers"
-msgstr "Mostra il numero canale"
+msgstr "Mostrare il numero canale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:258
 msgid "Show services beginning with"
-msgstr "Mostra i canali che iniziano per"
+msgstr "Mostrare i canali che iniziano per"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:316
 msgid "Show the current HbbTV Startapplication"
@@ -10682,7 +10681,7 @@ msgstr "Servizi di streaming"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:15
 msgid "Stream Services Setup"
-msgstr "Configurazione servizi di streaming"
+msgstr "Impostazioni servizi di streaming"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Stream Services configuration"
@@ -10777,12 +10776,12 @@ msgstr "Svedese"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1937
 msgid "Switch to next subservice"
-msgstr "Sottocanale seguente"
+msgstr "Passare al sottocanale seguente"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1938
 msgid "Switch to previous subservice"
-msgstr "Sottocanale precedente"
+msgstr "Passare al sottocanale precedente"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:90
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:461
@@ -12130,7 +12129,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Use legacy virtual subservices detection"
-msgstr "Usa rilevamento sottocanali virtuali ereditati"
+msgstr "Utilizzare il rilevamento legacy dei sottoservizi virtuali"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -13275,13 +13274,13 @@ msgstr "Tornare al canale attivo prima dell'impostazione rotore?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:257
 msgid "Zap back to service before satfinder?"
-msgstr "Tornare al canale attivo prima di ricercare i satelliti?"
+msgstr "Tornare al canale attivo prima della scansione satelliti?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:559
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:573
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:586
 msgid "Zap back to service before tuner setup?"
-msgstr "Ritornare al canale attivo prima della configurazione tuner?"
+msgstr "Tornare al canale attivo prima dell'impostazione tuner?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap-History Browser"
@@ -13464,7 +13463,7 @@ msgstr "aggiungere canale al bouquet"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:173
 msgid "add service to favourites"
-msgstr "aggiungere canale a preferiti"
+msgstr "aggiungere il canale ai preferiti"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:160
 msgid "add to parental protection"
@@ -14320,7 +14319,7 @@ msgstr "Nessuno slot CI rilevato"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:195
 msgid "no Services/Providers selected"
-msgstr "Nessun canale/provider selezionato"
+msgstr "nessun canale/provider selezionato"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:302
 msgid "no active streams..."
@@ -14424,17 +14423,17 @@ msgstr "una volta"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:373
 msgid "open servicelist"
-msgstr "elenco canali"
+msgstr "aprire elenco canali"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:368
 msgid "open servicelist(down)"
-msgstr "elenco canali (dal basso)"
+msgstr "elenco canali (canale successivo)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:367
 msgid "open servicelist(up)"
-msgstr "elenco canali (dall'alto)"
+msgstr "elenco canali (canale precedente)"
 
 #: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:161
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:12
