@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-03 22:02+0000\n"
-"PO-Revision-Date: 2021-08-04 07:30+0000\n"
-"Last-Translator: Bernhard Reknes <foxyrabbit.ppteam@gmail.com>\n"
+"PO-Revision-Date: 2021-11-17 22:02+0000\n"
+"Last-Translator: Kurt Normand <kurt@normand.no>\n"
 "Language-Team: Norwegian Bokmål <https://dreambox.de/translate/projects/"
 "dreambox/enigma2/nb_NO/>\n"
 "Language: no\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 4.8\n"
 "X-POOTLE-MTIME: 1575268575.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -195,6 +195,10 @@ msgid ""
 "\n"
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
+"\n"
+"Fjernkontrollen vil starte på nytt om noen få sekunder (opptil 40)!\n"
+"\n"
+"Trykk [OK] eller [EXIT] for å lukke dette vinduet når oppstart er ferdig!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid " extensions."
@@ -392,7 +396,7 @@ msgstr "%s enheter"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
-msgstr ""
+msgstr "%s mapped keys"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
@@ -517,12 +521,12 @@ msgstr "16:10"
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:95
 msgid "16:10 Letterbox"
-msgstr ""
+msgstr "16:10 Letterbox"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:96
 msgid "16:10 PanScan"
-msgstr ""
+msgstr "16:10 PanScan"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
@@ -535,7 +539,7 @@ msgstr "16:9"
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:97
 msgid "16:9 Letterbox"
-msgstr ""
+msgstr "16:9 Letterbox"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:94
@@ -627,12 +631,12 @@ msgstr "4:3"
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:91
 msgid "4:3 Letterbox"
-msgstr ""
+msgstr "4:3 Letterbox"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:92
 msgid "4:3 PanScan"
-msgstr ""
+msgstr "4:3 PanScan"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "5"
@@ -940,7 +944,7 @@ msgstr "AC3+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:174
 msgid "APPLICATION"
-msgstr ""
+msgstr "APPLIKASJON"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:945
 #, python-format
@@ -1066,7 +1070,7 @@ msgstr "Legg til & spill"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:575
 #, python-format
 msgid "Add '%s' to Bookmarks"
-msgstr "Legg til '%s' til favoritter"
+msgstr "Legg '%s' til favoritter"
 
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:202
 msgid "Add Bookmark"
@@ -1370,7 +1374,7 @@ msgstr "Oppsett av Anti-Scroll"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
-msgstr ""
+msgstr "Applikasjon"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:23
@@ -1554,7 +1558,7 @@ msgstr "Auto"
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:18
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Auto Standby"
-msgstr ""
+msgstr "Auto Standby"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1886
 msgid "Auto Updater"
@@ -1672,7 +1676,7 @@ msgstr "Sett opp et monteringspunkt automatisk."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:67
 msgid "Available Remotes"
-msgstr ""
+msgstr "Tilgjengelige fjernkontroller"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Available format variables"
@@ -1695,7 +1699,7 @@ msgstr "BA"
 
 #: enigma2-skins/skins/BASIC-HD/meta/skin_basic-hd.xml
 msgid "BASIC-HD Skin by Ismail Demir"
-msgstr ""
+msgstr "BASIC-HD Skin av Ismail Demir"
 
 #: enigma2-skins/skins/BASIC-HD/meta/skin_basic-hd.xml
 msgid "BASIC-HD Skin for Dreambox Images created from Ismail Demir"
@@ -1707,7 +1711,7 @@ msgstr "BAT"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "BAT:"
-msgstr ""
+msgstr "BAT:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
@@ -1731,7 +1735,7 @@ msgstr "BER:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "BIN"
-msgstr ""
+msgstr "BIN"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BLE"
@@ -1739,7 +1743,7 @@ msgstr "BLE"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "BLE:"
-msgstr ""
+msgstr "BLE:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
@@ -1748,7 +1752,7 @@ msgstr "BLUDISC skrivbar"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Babelzapper Plugin"
-msgstr ""
+msgstr "Babelzapper-plugin"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:650
@@ -1896,7 +1900,7 @@ msgstr "Oppførsel når en film når slutten"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:24
 msgid "Best"
-msgstr ""
+msgstr "Best"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:50
 msgid "Bing"
@@ -1959,7 +1963,7 @@ msgstr "Fjernoppsett for Bluetooth"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
-msgstr ""
+msgstr "Bonjour"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:560
 #, python-format
@@ -2496,7 +2500,7 @@ msgstr "Utført DiSEqC kommando"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Common Interface"
-msgstr ""
+msgstr "Common Interface"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:651
 msgid "Common Interface Assignment"
@@ -2611,7 +2615,7 @@ msgstr "Koble til ny fjernkontroll?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:67
 msgid "Connect with WPS Push-Button?"
-msgstr ""
+msgstr "Koble til med WPS-trykknapp?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:46
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -2624,7 +2628,7 @@ msgstr "Koblet til"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:119
 msgid "Connecting"
-msgstr "Kobler til…"
+msgstr "Kobler til"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:109
 #, python-format
@@ -2667,12 +2671,12 @@ msgstr "Kontrast"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:217
 msgid "Control write failed!"
-msgstr ""
+msgstr "Kontrollskriving mislyktes!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:215
 #, python-format
 msgid "Control write failed! Code %i\n"
-msgstr ""
+msgstr "Kontrollskriving mislyktes! Kode %i\n"
 
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
@@ -2887,11 +2891,11 @@ msgstr "Tjekkisk"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:98
 msgid "DASH"
-msgstr ""
+msgstr "DASH"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "DAT"
-msgstr ""
+msgstr "DAT"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DBusInterfaceProxy/plugin.py:74
 msgid "DBus Interface Python Proxy"
@@ -2899,36 +2903,40 @@ msgstr "DBus Interface Python Proxy"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:88
 msgid "DFU - DM Remote"
-msgstr ""
+msgstr "DFU - DM fjernkontroll"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DFU Firmware Upgrade"
-msgstr ""
+msgstr "DFU Firmware Oppgradering"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:22
 msgid "DFU Log"
-msgstr ""
+msgstr "DFU Log"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:192
 msgid "DFU device connected!"
-msgstr ""
+msgstr "DFU-enhet tilkoblet!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:162
 msgid ""
 "DFU device did not show up. Cancelling!\n"
 "You may want to try this again!"
 msgstr ""
+"DFU-enheten dukket ikke opp. Kansellerer!\n"
+"Du kan prøve dette en gang til!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:189
 msgid "DFU device ready!"
-msgstr ""
+msgstr "DFU-enhet klar!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:157
 msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
 msgstr ""
+"DFU er ikke tilgjengelig på denne enheten. En firmware oppdatering kan være "
+"nødvendig først!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:236
 msgid "DLNA / UPnP"
@@ -3279,6 +3287,8 @@ msgid ""
 "Device battery level of {0}% is too low.\n"
 "It's required to be at least {1}%!"
 msgstr ""
+"Enhetens batterinivå på {0} % er for lavt.\n"
+"Det kreves å være minst {1} %!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:41
 #: enigma2/usr/share/enigma2/menu.xml
@@ -3809,7 +3819,7 @@ msgstr "EPGRefresh funksjoner"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "ERROR"
-msgstr ""
+msgstr "FEIL"
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
 #, python-format
@@ -4366,6 +4376,8 @@ msgid ""
 "Firmware updates can only be applied to connected remotes!\n"
 "Press Yellow to connect the selected remote control."
 msgstr ""
+"Firmware oppdateringer kan bare brukes på tilkoblede fjernkontroller!\n"
+"Trykk Gul for å koble til den valgte fjernkontrollen."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
@@ -4400,7 +4412,7 @@ msgstr "Følgende oppgaver blir utført etter at du trykker OK!"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
 msgid "Force Update"
-msgstr ""
+msgstr "Tving oppdatering"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:253
 msgid "Forced"
@@ -4622,7 +4634,7 @@ msgstr "Genre"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Genuine Dreambox"
-msgstr "Genuine Dreambox"
+msgstr "Genuin Dreambox"
 
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:22
 msgid "German"
@@ -4764,7 +4776,7 @@ msgstr "Harddisk"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Harddisk"
-msgstr "Harddisk"
+msgstr "Hard-disk"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -5053,7 +5065,7 @@ msgstr "Initiere"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:211
 msgid "Init failed!"
-msgstr ""
+msgstr "Init feilet!"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:45
 msgid "Inital Setup Finished!"
@@ -5092,7 +5104,7 @@ msgstr "Initialisere %(desc)s..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:145
 msgid "Initializing DFU Mode..."
-msgstr ""
+msgstr "Initialiserer DFU-modus..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
 #: enigma2/usr/lib/enigma2/python/Screens/ChoiceBox.py:11
@@ -6109,7 +6121,7 @@ msgstr "Musikk og Lydbøker"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Mute"
-msgstr "Demp"
+msgstr "Stille"
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -6163,7 +6175,7 @@ msgstr "MyTubeSuggestionsListScreen..."
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:72
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:216
 msgid "N/A"
-msgstr "Ikke tilgjengelig"
+msgstr "Ikke aktuell"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -6969,7 +6981,7 @@ msgstr "PVR"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:175
 #, python-brace-format
 msgid "Package Content: {0}"
-msgstr ""
+msgstr "Pakkeinnhold: {0}"
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
@@ -7447,7 +7459,7 @@ msgstr "Vennligst trykk RØD tast for fjerne denne %(desc)s konfigurasjon!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:151
 msgid "Please read carefully!"
-msgstr ""
+msgstr "Vennligst les nøye!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2439
 msgid "Please select a Text application"
@@ -7834,6 +7846,8 @@ msgid ""
 "Press Blue to update the firmware of the selected remote control to "
 "application version {0} and bootloader version {1}"
 msgstr ""
+"Trykk på Blå for å oppdatere firmware til den valgte fjernkontrollen til "
+"programversjon {0} og bootloader versjon {1}"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:130
 msgid "Press INFO on your remote control for additional information."
@@ -7894,7 +7908,7 @@ msgstr "Trykk OK for å aktivere"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:68
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:115
 msgid "Press OK to finish the Remote Control Firmware Update Assistant."
-msgstr ""
+msgstr "Trykk OK for å fullføre fjernkontroll Firmware oppdateringsassistent."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:559
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
@@ -8505,7 +8519,7 @@ msgstr "Gjenta - Enkel"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:190
 msgid "Repeat Type"
-msgstr "Gjentagelses type"
+msgstr "Gjenta Type"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:102
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1735
@@ -8795,7 +8809,7 @@ msgstr "SSA Substation Alpha"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:172
 msgid "SYSTEM"
-msgstr ""
+msgstr "SYSTEM"
 
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
@@ -9145,7 +9159,7 @@ msgstr "Velg IPKG kilde..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:53
 msgid "Select Location"
-msgstr "Velg plassering"
+msgstr "Velg lokasjon"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:117
 msgid "Select Your Skin"
@@ -9227,7 +9241,7 @@ msgstr "Velg lagringsenhet."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select teletext"
-msgstr ""
+msgstr "Velg tekst-tv"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/RemoteControlSelection/plugin.py:90
 msgid "Select the remote you're using"
@@ -9283,7 +9297,7 @@ msgstr "Servernavn"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:28
 msgid "Server buffer time"
-msgstr ""
+msgstr "Serverbuffertid"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:154
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:181
@@ -9538,7 +9552,7 @@ msgstr "Korte filnavn"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:62
 msgid "Show Full Log"
-msgstr ""
+msgstr "Vis hele loggen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:59
 msgid "Show HbbTV Browser"
@@ -9969,7 +9983,7 @@ msgstr "Starter HbbTV..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:20
 msgid "Start best"
-msgstr ""
+msgstr "Start best"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:101
 msgid "Start from the beginning"
@@ -9977,7 +9991,7 @@ msgstr "Start fra begynnelsen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:19
 msgid "Start mid"
-msgstr ""
+msgstr "Start mid"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Start over"
@@ -10001,7 +10015,7 @@ msgstr "Start med gjeldende kanal isteden for første kanal i kanallisten."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:18
 msgid "Start worst"
-msgstr ""
+msgstr "Start worst"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:220
 msgid "StartTime"
@@ -10010,7 +10024,7 @@ msgstr "Starttidspunkt"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:196
 #, python-brace-format
 msgid "Starting DFU Upload of {0}"
-msgstr ""
+msgstr "Starter DFU-opplasting av {0}"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:198
 msgid "Starting on"
@@ -10114,7 +10128,7 @@ msgstr "Lagret posisjon"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:84
 msgid "Stream Client"
-msgstr ""
+msgstr "Stream klient"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
@@ -10134,15 +10148,15 @@ msgstr "Stream server oppsett"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:11
 msgid "Stream Services"
-msgstr ""
+msgstr "Strømmetjenester"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/plugin.py:15
 msgid "Stream Services Setup"
-msgstr ""
+msgstr "Oppsett av strømmetjenester"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Stream Services configuration"
-msgstr ""
+msgstr "Konfigurasjon av strømmetjenester"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Streaming"
@@ -10264,13 +10278,13 @@ msgstr "System"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:248
 msgid "System rejected! (Already the latest version?!). Skipping!"
-msgstr ""
+msgstr "System avvist! (Allerede siste versjon?!). Hopper over!"
 
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:100
 msgid "TRANSLATOR_INFO"
 msgstr ""
-"Sist oppdatert 16. jan. 2021\n"
+"Sist oppdatert 17. nov. 2021\n"
 "Har du forlag til endringer, ta kontakt på www.digsat.net"
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -10421,7 +10435,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:181
 msgid "Thank you..."
-msgstr ""
+msgstr "Takk..."
 
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
@@ -10566,6 +10580,8 @@ msgid ""
 "The firmware files are invalid or corrupted!\n"
 "The upload was rejected by the device!"
 msgstr ""
+"Firmware-filene er ugyldige eller ødelagte!\n"
+"Opplastingen ble avvist av enheten!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaScanner/plugin.py:52
 msgid "The following files were found..."
@@ -10613,6 +10629,8 @@ msgid ""
 "The selected remote is already running the latest firmware!\n"
 "Update anyways?"
 msgstr ""
+"Den valgte fjernkontrollen kjører allerede den nyeste fastvaren!\n"
+"Oppdatere likevel?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:111
 msgid "The sleep timer has been activated."
@@ -10743,6 +10761,8 @@ msgid ""
 "This WiFi supports connecting using the WPS Push-Button Method!\n"
 "Do you want to connect using WPS Push-Button"
 msgstr ""
+"Denne WiFi-en støtter tilkobling ved hjelp av WPS-trykkknappmetoden!\n"
+"Ønsker du å koble til med WPS-trykkknapp"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:919
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:146
@@ -11407,7 +11427,7 @@ msgstr "Oppdatering ferdig!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Update initialization failed!\n"
-msgstr ""
+msgstr "Oppdateringsinitialisering mislyktes!\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:79
 msgid ""
@@ -11447,17 +11467,17 @@ msgstr "Oppgraderer"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:71
 msgid "Upgrading Dreambox... Please wait"
-msgstr "Oppgraderer Dreambox! Vennligst vent..."
+msgstr "Oppgraderer Dreambox... Vennligst vent"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
 msgid "Upload rejected!"
-msgstr ""
+msgstr "Opplasting avvist!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:234
 #, python-brace-format
 msgid "Uploaded {0} of {1} bytes"
-msgstr ""
+msgstr "Lastet opp {0} av {1} byte"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:711
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:723
@@ -11921,7 +11941,7 @@ msgstr "Venter på klienter"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
-msgstr ""
+msgstr "Venter på omstart av enheten..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
 msgid "Warn if free space drops below (kB):"
@@ -11929,7 +11949,7 @@ msgstr "Varsle hvis ledig plass komme under (Kb) :"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Weather Plugin"
-msgstr "Weather Plugin"
+msgstr "Vær Programtillegg"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/plugin.py:18
 msgid "Web Browser"
@@ -12196,7 +12216,7 @@ msgstr "Arbeider..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:22
 msgid "Worst"
-msgstr ""
+msgstr "Verst"
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:420
 msgid "Write error while recording. Disk full?\n"
@@ -12339,6 +12359,7 @@ msgstr "Du kan bare brenne Dreambox inspillinger!"
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
 msgstr ""
+"Du kan ta ut batteriene til fjernkontrollen et kort øyeblikk for omstart!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1099
 msgid "You can remove this plugin."
@@ -12495,7 +12516,7 @@ msgstr ""
 "Ekspert - Dette gir deg full kontroll over alle tilgjengelige valgmuligheter "
 "for din Dreambox.\n"
 "\n"
-"Advarsel: Høyere nivåer kan lede til økt brukerkompleksitet!"
+"Advarsel: Høyere nivåer kan lede til økt brukerkompleksitet."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:100
 msgid "Your Dreambox software is up to date!"
@@ -12570,6 +12591,10 @@ msgid ""
 "After the Bootloader/System has been updated you will regain control for the "
 "rest of this and all future updates."
 msgstr ""
+"Fjernkontrollen din vil sannsynligvis ikke reagere i løpet av første halvdel "
+"av oppdateringsprosessen.\n"
+"Etter at Bootloader/Systemet har blitt oppdatert vil du få tilbake "
+"kontrollen for resten av denne og alle fremtidige oppdateringer."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12600,11 +12625,11 @@ msgstr "Skift tilbake til kanal før tuneroppsett?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap-History Browser"
-msgstr "Bytthistorieleser"
+msgstr "Byttehistorieleser"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap-History Configurator"
-msgstr "Bytthistoriekonfigurasjon"
+msgstr "Byttehistoriekonfigurasjon"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap/Exit"
@@ -13197,6 +13222,9 @@ msgid ""
 "\n"
 "[Press OK to close]"
 msgstr ""
+"For bruk av fjernkontrollens Firmware oppdateringsassistent.\n"
+"\n"
+"[Trykk OK for å lukke]"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:406
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:425
@@ -13214,7 +13242,7 @@ msgstr "kun tvunget"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:355
 msgid "forward to the next chapter"
-msgstr "framover til neste kapittel"
+msgstr "fremover til neste kapittel"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:327
@@ -13360,7 +13388,7 @@ msgstr "hopp tilbake til forrige tittel"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:357
 msgid "jump forward to the next title"
-msgstr "hopp framover til neste tittel"
+msgstr "hopp fremover til neste tittel"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:167
@@ -14133,6 +14161,13 @@ msgid ""
 "\n"
 "[Press OK]"
 msgstr ""
+"til fjernkontrollens Firmware oppdateringsassistent.\n"
+"Vi vil nå veilede deg gjennom prosedyren for oppdatering av fjernkontrollens "
+"firmware!\n"
+"\n"
+"La oss begynne!\n"
+"\n"
+"[Trykk OK]"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:12
 msgid ""
