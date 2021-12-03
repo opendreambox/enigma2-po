@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-02 22:02+0000\n"
-"PO-Revision-Date: 2021-11-18 22:02+0000\n"
+"PO-Revision-Date: 2021-12-03 22:01+0000\n"
 "Last-Translator: Kurt Normand <kurt@normand.no>\n"
 "Language-Team: Norwegian Bokmål <https://dreambox.de/translate/projects/"
 "dreambox/enigma2/nb_NO/>\n"
@@ -750,7 +750,7 @@ msgid ""
 "Dreambox to standby. Do that now?"
 msgstr ""
 "En avluttet timer ønsker å sette din Dreambox\n"
-"i standby. Skal det gjøres nå?"
+"i dvale. Skal det gjøres nå?"
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:334
 msgid ""
@@ -1629,10 +1629,10 @@ msgid ""
 "the standby mode automatically. You can choose the period after which the "
 "standby mode will be activated or disable this functionality now."
 msgstr ""
-"Automatisk standby modus\n"
+"Automatisk dvale modus\n"
 "\n"
 "Hvis du ikke trykker på en vilkårlig knapp på fjernkontrollen nå, kan din "
-"Dreambox gå i standby modus automatisk. Du kan også angi en tid før standby "
+"Dreambox gå i dvale modus automatisk. Du kan også angi en tid før dvale "
 "aktiveres, eller du kan deaktiver funksjonen nå."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:142
@@ -1641,7 +1641,7 @@ msgstr "Automatisk oppdateringssjekk"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Automatic wakeup from standby for zap timers"
-msgstr "Automatisk vekking fra standby for zap-timere"
+msgstr "Automatisk vekking fra dvale for zap-timere"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:42
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:149
@@ -4786,7 +4786,7 @@ msgstr "Harddisk oppsett"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Harddisk standby after"
-msgstr "Harddisk standby etter"
+msgstr "Harddisk dvale etter"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:459
 msgid "Hardware address"
@@ -7596,8 +7596,8 @@ msgid ""
 "Please specify the amount of time the device has to be inactive (e.g. no "
 "button pressed) before shutting down automatically"
 msgstr ""
-"Vennligst velg hvor lang inaktiv tid det skal gå (f eks ingen taster "
-"trykket) før din Dreambox går i automatisk standby"
+"Vennligst velg hvor lang inaktiv tid det skal gå (f eks ingen taster trykket)"
+" før din Dreambox går i dvale automatisk"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PiPSetup.py:35
 msgid ""
@@ -8073,11 +8073,11 @@ msgstr "Setter din Dreambox i hvilemodus."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Put your Dreambox into standby, restart or shut it down."
-msgstr "Aktiver hvilemodus, ta omstart eller slå av din Dreambox."
+msgstr "Aktiver dvalemodus, ta omstart eller slå av din Dreambox."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Put your Dreambox into standby."
-msgstr "Sett din Dreambox i standby."
+msgstr "Sett din Dreambox i dvale."
 
 #: enigma2/usr/share/meta/plugin_devshell.xml
 #: enigma2/usr/share/meta/plugin_devshell.xml./enigma2/usr/share/meta/plugin_devshell.xml
@@ -9965,17 +9965,17 @@ msgstr "Dvale"
 #: enigma2/usr/lib/enigma2/python/mytest.py:580
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Standby / Restart"
-msgstr "Standby & Omstart"
+msgstr "Dvale & Omstart"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:239
 #, python-format
 msgid "Standby Fan %d PWM"
-msgstr "Standby vifte %d PWN"
+msgstr "Dvale for vifte %d PWN"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:238
 #, python-format
 msgid "Standby Fan %d Voltage"
-msgstr "Standby vifte %d Volt"
+msgstr "Dvale for vifte %d Volt"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2450
 msgid "Start HbbTV..."
@@ -13266,7 +13266,7 @@ msgstr "gå til hvilemodus"
 #: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:51
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:113
 msgid "go to standby"
-msgstr "gå til standby"
+msgstr "gå til dvale"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:83
 msgid "grab this frame as bitmap"
@@ -13606,7 +13606,7 @@ msgstr "ingen modul funnet"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:84
 msgid "no standby"
-msgstr "ingen standby"
+msgstr "ingen dvale"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:778
 msgid "no storage devices found"
@@ -14213,7 +14213,7 @@ msgstr "uspesifisert"
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:33
 msgid "until standby/restart"
-msgstr "inntil standby eller restart"
+msgstr "inntil dvale eller restart"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
 #: enigma2/usr/lib/enigma2/python/Components/ServiceList.py:455
