@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-02 22:02+0000\n"
-"PO-Revision-Date: 2021-11-22 22:02+0000\n"
+"PO-Revision-Date: 2021-12-05 21:23+0000\n"
 "Last-Translator: Dario Croci <spaeleus@gmail.com>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -701,7 +701,7 @@ msgstr "<Percorso corrente>"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Default movie location>"
-msgstr "<Percorso predefinito>"
+msgstr "<Percorso predefinito registrazioni>"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
@@ -2641,7 +2641,7 @@ msgstr "Impostazioni"
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:327
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Configuration Mode"
-msgstr "Modalità configurazione"
+msgstr "impostazioni"
 
 #: enigma2/usr/share/meta/plugin_streamservices.xml
 msgid "Configuration Utility for the Dreambox Stream Services"
@@ -3271,7 +3271,7 @@ msgstr "Impostazioni predefinite"
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:123
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:157
 msgid "Default movie location"
-msgstr "Percorso predefinito registrazione"
+msgstr "Percorso predefinito registrazioni"
 
 #
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -4367,7 +4367,7 @@ msgstr "Gestione specifica del fornitore sperimentale"
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:17
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:58
 msgid "Expert"
-msgstr "Avanzato"
+msgstr "Modalità avanzata"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:257
 msgid "Expert Encoder Settings"
@@ -4798,7 +4798,7 @@ msgstr "Schermo intero: Colore Testo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:258
 msgid "GOP Length (ms, P-Frames auto calculated)"
-msgstr "Lunghezza GOP (ms, P-Frames auto calcolata)"
+msgstr "Lunghezza GOP (ms, P-Frames calcolati automaticamente)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:86
 msgid ""
@@ -4920,7 +4920,7 @@ msgstr "Intensificare il verde"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Grow from left + Shrink to top"
-msgstr "Espandere da sinistra > Contrarre verso l'alto"
+msgstr "Espandere da sinistra >> Contrarre verso l'alto"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Growlee Setup"
@@ -5084,7 +5084,7 @@ msgstr "Supporto hight bitrate"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:127
 msgid "Higher"
-msgstr "Più alta"
+msgstr "Superiore"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:133
 msgid "History"
@@ -6049,7 +6049,7 @@ msgstr "Maschera (IPv4)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:129
 msgid "Maximum"
-msgstr "Massimo"
+msgstr "Massima"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Maximum stream resolution"
@@ -6133,7 +6133,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:125
 msgid "Medium"
-msgstr "Medio"
+msgstr "Media"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:298
@@ -6202,7 +6202,7 @@ msgstr "Metodo (IPv6)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:23
 msgid "Mid"
-msgstr "Medio"
+msgstr "Intermedia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:100
 msgid "Minimum Buffer Mode"
@@ -7041,11 +7041,11 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:264
 msgid "Number of B-Frames"
-msgstr "Numero di Frames-B"
+msgstr "Numero di B-Frame"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:262
 msgid "Number of P-Frames"
-msgstr "Numero di P-Frames"
+msgstr "Numero di P-Frame"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:273
 msgid "Number of slices"
@@ -7934,7 +7934,9 @@ msgstr ""
 msgid ""
 "Please select the default timer record location which is used for timer "
 "based recordings."
-msgstr "Selezionare il percorso predefinito per le registrazioni programmate."
+msgstr ""
+"Selezionare il percorso predefinito per le registrazioni programmate con "
+"timer."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:406
@@ -8430,12 +8432,12 @@ msgstr "Proprietà titolo corrente"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:85
 msgid "Protect services"
-msgstr "Proteggere canali"
+msgstr "Proteggere i canali"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:81
 msgid "Protect setup"
-msgstr "Proteggere configurazione"
+msgstr "Proteggere le impostazioni"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:82
@@ -9222,7 +9224,7 @@ msgstr "SATA"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:204
 msgid "SCPC optimized search range"
-msgstr "Intervallo ricerca ottimizzato SCPC"
+msgstr "Intervallo di ricerca ottimizzato SCPC"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:672
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:687
@@ -10017,7 +10019,7 @@ msgstr "Impostazioni dispositivo satellitare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:90
 msgid "Share Audio"
-msgstr "Condividere l'audio"
+msgstr "Condividere audio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:92
 msgid "Share Live TV/Radio"
@@ -10025,7 +10027,7 @@ msgstr "Condividere TV/Radio in diretta"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:91
 msgid "Share Video"
-msgstr "Condividere i Video"
+msgstr "Condividere video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:104
@@ -10285,19 +10287,19 @@ msgstr "Scorrere da sinistra a destra"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in left + Slide out right (Wizard)"
-msgstr "Entrata a sinistra > Uscita a destra (Wizard)"
+msgstr "Entrata a sinistra >> Uscita a destra (Wizard)"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in right + Slide out left"
-msgstr "Entrata a destra > Uscita a sinistra"
+msgstr "Entrata a destra >> Uscita a sinistra"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in right + Slide out left (Wizard)"
-msgstr "Entrata a destra > Uscita a sinistra (Wizard)"
+msgstr "Entrata a destra >> Uscita a sinistra (Wizard)"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in top + Slide out bottom"
-msgstr "Entrata dall'alto > Uscita dal basso"
+msgstr "Entrata dall'alto >> Uscita dal basso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:231
 msgid "Slideshow: Interval between pictures (sec)"
@@ -10518,7 +10520,7 @@ msgstr "Partire dall'inizio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:19
 msgid "Start mid"
-msgstr "Avvio: medio"
+msgstr "Avvio: intermedia"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Start over"
@@ -10855,7 +10857,7 @@ msgstr "Canali TV"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "TV System"
-msgstr "Standard TV"
+msgstr "Standard televisivo"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
@@ -12464,7 +12466,7 @@ msgstr "Riprodurre CD video..."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:663
 msgid "View details"
-msgstr "Visualizzare dettagli"
+msgstr "Dettagli"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid "View list of available "
@@ -13590,7 +13592,7 @@ msgstr "nero"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:137
 msgid "black box"
-msgstr "rettangolo nero"
+msgstr "Rettangolo nero"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:36
@@ -13761,7 +13763,7 @@ msgstr "disabilitare spostamento"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:830
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:844
 msgid "disabled"
-msgstr "disabilitato"
+msgstr "Disabilitato"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:94
@@ -13796,7 +13798,7 @@ msgstr "dreamIRC - Modificare impostazioni"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:137
 msgid "drop-shadow"
-msgstr "drop-shadow"
+msgstr "Drop-shadow"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:656
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:671
@@ -13937,16 +13939,16 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:406
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:425
 msgid "force disabled"
-msgstr "sempre disabilitato"
+msgstr "Disattivato forzatamente"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:405
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:424
 msgid "force enabled"
-msgstr "sempre abilitato"
+msgstr "Attivato forzatamente"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:256
 msgid "forced only"
-msgstr "solo forzato"
+msgstr "Solo forzato"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:355
@@ -14161,22 +14163,22 @@ msgstr "Elenco visualizzazioni EPG..."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:85
 msgid "list style compact"
-msgstr "elenco compatto"
+msgstr "Stile elenco compatto"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:84
 msgid "list style compact with description"
-msgstr "elenco compatto con descrizioni"
+msgstr "Stile elenco compatto con descrizioni"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:83
 msgid "list style default"
-msgstr "elenco standard"
+msgstr "Stile elenco standard"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:86
 msgid "list style single line"
-msgstr "elenco su singola riga"
+msgstr "Stile elenco su singola riga"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:516
@@ -14699,7 +14701,7 @@ msgstr "Selezionare CAId's"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "select Slot"
-msgstr "selezionare slot"
+msgstr "Selezionare slot"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:268
@@ -14728,7 +14730,7 @@ msgstr "descrizione breve"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:353
 msgid "show DVD main menu"
-msgstr "mostrare il menu principale DVD"
+msgstr "Mostrare il menu principale DVD"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:647
@@ -14780,7 +14782,7 @@ msgstr "mostrare la seconda etichetta selezionata"
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:110
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:115
 msgid "show shutdown menu"
-msgstr "mostrare il menu di arresto"
+msgstr "Mostrare il menu di arresto"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:638
@@ -14791,7 +14793,7 @@ msgstr "EPG singolo canale..."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:262
 msgid "show tag menu"
-msgstr "mostrare il menu etichette"
+msgstr "Mostrare il menu etichette"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:139
@@ -14856,7 +14858,7 @@ msgstr "caratteri speciali"
 #: enigma2/usr/lib/enigma2/python/Components/RecordingConfig.py:13
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:91
 msgid "standard"
-msgstr "standard"
+msgstr "Standard"
 
 #
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:16
