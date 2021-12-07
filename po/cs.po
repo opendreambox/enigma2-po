@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-02 22:02+0000\n"
-"PO-Revision-Date: 2021-11-16 22:02+0000\n"
+"PO-Revision-Date: 2021-12-07 18:09+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -196,9 +196,9 @@ msgid ""
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
 "\n"
-"Dálkový ovladač se restartuje během několika sekund (až 40) !\n"
+"Dálkový ovladač se restartuje během několika sekund.\n"
 "\n"
-"Tl. [OK] nebo [EXIT] zavřete toto okno, jakmile dokončí spouštění !"
+"[OK] nebo [EXIT] -> zavřít okno a dokončit..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid " extensions."
@@ -2707,12 +2707,12 @@ msgstr "kontrast"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:217
 msgid "Control write failed!"
-msgstr "Zápis obladačů se nezdařil !"
+msgstr "Zápis ovladačů se nezdařil !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:215
 #, python-format
 msgid "Control write failed! Code %i\n"
-msgstr "Zápis obladačů se nezdařil ! Kód :  %i\n"
+msgstr "Zápis ovladačů se nezdařil, kód :  %i\n"
 
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
@@ -2862,7 +2862,7 @@ msgstr "aktuální verze :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:31
 msgid "Custom buffer time"
-msgstr "vlastní paměť. čas"
+msgstr "vlastní časování paměti"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -3261,7 +3261,7 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "odstranit chybové protokoly"
+msgstr "Chybový protokol byl odstraněný !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
@@ -3439,7 +3439,7 @@ msgstr "zastavit výpis protokolu"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:81
 msgid "Disable timer"
-msgstr "vypnout časovač"
+msgstr "zastavit časovač"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:33
@@ -5526,11 +5526,11 @@ msgstr "LED"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LED Manager"
-msgstr "nastavení LED u tlačítka zdroje"
+msgstr "nastavení barvy LED"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr "jas a barvy LED u tl.zdroje"
+msgstr "jas a barvy tlačítka zdroje"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -5668,11 +5668,11 @@ msgstr "připojené titulky a DVD menu"
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:426
 #: enigma2/usr/lib/enigma2/python/Components/config.py:1252
 msgid "List of Storage Devices"
-msgstr "seznam záznamových zařízení"
+msgstr "<<nahoru>>"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Listen to radio stations."
-msgstr "rozhlasové stanice"
+msgstr "Poslouchat rozhlasové stanice_"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:36
@@ -5847,7 +5847,7 @@ msgstr "-- správa databáze videa"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1884
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1889
 msgid "Manage your receiver's software"
-msgstr "-- záloha nastavení, lok.instalace Image, aktualizace_"
+msgstr "Záloha nastavení, lok.instalace Image, aktualizace_"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -6980,11 +6980,11 @@ msgstr "prolínání textu a obrázku na obr.OSD"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:85
 msgid "OSD visibility"
-msgstr "průhlednost skinu"
+msgstr "průhledný >plný"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "OSD, Video and Audio Settings"
-msgstr "Skiny, animace, OLED, rastry, extra info-panel_"
+msgstr "Skiny, animace, OLED, obraz, zvuk_"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1735
@@ -7330,7 +7330,7 @@ msgstr "složka ikon :"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Picture and Sound"
-msgstr "volba skinu, obraz/zvuk, animace"
+msgstr "volba skinu, obraz/zvuk/anim."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:174
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:744
@@ -7502,7 +7502,7 @@ msgstr "Vyberte balíček..."
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/DefaultServicelistStep.py:18
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
 msgid "Please choose the default service list you want to install."
-msgstr "Vyberte předvolený seznam kanálů."
+msgstr "Výběr předvoleného seznamu kanálů_"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Please configure at least on set of IP Addresses (IPv4 or IPv6)."
@@ -7566,11 +7566,11 @@ msgstr "zadejte původní PIN"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1433
 #, python-format
 msgid "Please initialize this %(desc)s!"
-msgstr "inicializujte tento %(desc)s!"
+msgstr "naformátujte tento %(desc)s!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:580
 msgid "Please initialize!"
-msgstr "inicializujte :"
+msgstr "naformátujte !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:353
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1397
@@ -8298,7 +8298,7 @@ msgstr "Python použitý pro /tmp/mmi.socket_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:30
 msgid "Quarter server buffer time"
-msgstr "čtvrtinové časování paměti serveru"
+msgstr "čtvrtinové časování paměti"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Quick"
@@ -8821,7 +8821,7 @@ msgstr ">restart grafiky"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:87
 msgid "Restart GUI now?"
-msgstr "Restartovat Enigmu2 ?"
+msgstr "Restartovat grafiku ?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:259
 msgid "Restart from the beginning"
@@ -9501,7 +9501,7 @@ msgstr "vyberte vzdálenou obsluhu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:815
 msgid "Select your favorite mapping."
-msgstr "vybrat favorita pro mapování"
+msgstr "Vybrat favorita pro mapování_"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:50
 msgid "Send DiSEqC"
@@ -12476,9 +12476,9 @@ msgid ""
 "each of them.\n"
 "This allows watching a scrambled service while recording another one."
 msgstr ""
-"S CommonInterfaceAssignment je možné použít různé moduly CI v Dreamboxu. "
-"Přiřadí operátora, kanály nebo i CAID.\n"
-"Umožní to sledovat kódované kanály i při nahrávání. "
+"Modul umožní použít různé dekódování CI v Dreamboxu. Lze přiřadit operátora, "
+"kanály nebo i CAID.\n"
+"Dovolí sledovat kódované kanály i při nahrávání."
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
@@ -12515,7 +12515,7 @@ msgstr "Modul slouží pro nastavení motorizované paraboly."
 msgid ""
 "With the Remote Control Selection you can select which Remote Control you're "
 "using"
-msgstr "S výběrem vzdáleného ovládání vyberte, který dálkový ovladač použijete"
+msgstr "Výběrem režimu dálkového ovladače aktivujete konkrétní DO ovladač."
 
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml./enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
@@ -12710,7 +12710,7 @@ msgid ""
 "You chose not to install any default settings. You can however install the "
 "default settings later in the settings menu."
 msgstr ""
-"K nainstalování nebyl vybrán předvolený seznam kanálů. Můžete ho přidat i "
+"K nainstalování nebyla vybraná předvolba seznamu kanálů. Můžete ji přidat i "
 "později přes menu nastavení."
 
 #
@@ -12910,7 +12910,7 @@ msgid ""
 msgstr ""
 "Během první poloviny procesu aktualizace váš dálkový ovladač pravděpodobně "
 "přestane reagovat.\n"
-"Po aktualizaci zavaděče/systému získáte kontrolu a všech budoucích "
+"Po aktualizaci zavaděče/systému získáte kontrolu i všech budoucích "
 "aktualizací."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
