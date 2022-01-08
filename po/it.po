@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-07 22:02+0000\n"
+"PO-Revision-Date: 2022-01-08 13:58+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -1407,7 +1407,7 @@ msgstr "Animazioni"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:95
 msgid "Anonymize crashlog?"
-msgstr "Rendere anonimi i crashlog"
+msgstr "Rendere anonimi i crashlog?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Anti Scroll Setup"
@@ -2259,7 +2259,7 @@ msgstr "Cambiare i PIN canale"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:83
 msgid "Change setup PIN"
-msgstr "Cambiare il PIN configurazione"
+msgstr "Cambiare il PIN impostazioni"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:330
@@ -2641,7 +2641,7 @@ msgstr "Impostazioni"
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:327
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Configuration Mode"
-msgstr "impostazioni"
+msgstr "Modalità di configurazione"
 
 #: enigma2/usr/share/meta/plugin_streamservices.xml
 msgid "Configuration Utility for the Dreambox Stream Services"
@@ -5126,7 +5126,7 @@ msgstr "Quanti minuti di registrazione?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:93
 msgid "How to handle found crashlogs?"
-msgstr "Come gestire i crashlog rilevati"
+msgstr "Come gestire i crashlog rilevati?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:97
@@ -5876,7 +5876,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:233
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Location"
-msgstr "Posizione"
+msgstr "Destinazione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:173
@@ -6342,7 +6342,7 @@ msgstr "Percorso registrazione"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "MovieSelection QuickButton Setup"
-msgstr "Configurazione QuickButton MovieSelection"
+msgstr "Impostazioni QuickButton MovieSelection"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Movielist"
@@ -6588,7 +6588,7 @@ msgstr "Errore di rete su %s"
 #: enigma2/usr/share/meta/plugin_networkmanager.xml
 #: enigma2/usr/share/meta/plugin_networkmanager.xml./enigma2/usr/share/meta/plugin_networkmanager.xml
 msgid "Network management plugin"
-msgstr "plugin di gestione rete"
+msgstr "Plugin di gestione della rete"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1468
@@ -6856,9 +6856,9 @@ msgid ""
 "Do you like to change the setup PIN now?\n"
 "When you say 'No' here the setup protection stay disabled!"
 msgstr ""
-"Nessun codice PIN configurazione valido trovato.\n"
-"Cambiare il codice PIN configurazione?\n"
-"Scegliendo 'No' la protezione configurazione non sarà abilitata."
+"Nessun PIN impostazioni valido trovato.\n"
+"Cambiare il PIN impostazioni?\n"
+"Scegliendo 'No' la protezione impostazioni non sarà abilitata."
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No, but do a manual scan now"
@@ -7964,7 +7964,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/TimezoneStep.py:11
 msgid "Please select your timezone!"
-msgstr "Selezionare il fuso orario."
+msgstr "Selezionare il proprio fuso orario."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:102
 msgid ""
@@ -8361,7 +8361,7 @@ msgstr "Giallo >> Disconnettere il telecomando selezionato."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:759
 msgid "Press green to start service searching!"
-msgstr "VERDE >> Avviare scansione canali."
+msgstr "VERDE >> Avviare la scansione canali."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:64
@@ -9640,7 +9640,7 @@ msgstr "Selezionare la skin"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Select a movie"
-msgstr "Scegliere un filmato"
+msgstr "Scegliere un video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:157
@@ -9862,7 +9862,7 @@ msgid ""
 "Check tuner configuration!"
 msgstr ""
 "Canale non disponibile.\n"
-"Controllare la configurazione tuner."
+"Controllare le impostazioni tuner."
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Service:Name server configuration"
@@ -9951,12 +9951,12 @@ msgid "Set up your system timezone."
 msgstr "Impostare il proprio fuso orario."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1344
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Setting new encoder service to {0} failed!"
 msgstr "Impostazione canale encoder a {0} fallita."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1342
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Setting new encoder service to {0} failed! (Insufficient resources)"
 msgstr "Impostazione encoder a {0} fallita. (Risorse insufficienti)"
 
@@ -11647,7 +11647,7 @@ msgstr "Modalità trasmissione"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:121
 msgid "Transmitting"
-msgstr "Trasmissione..."
+msgstr "Trasmissione in corso"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:488
@@ -12741,7 +12741,7 @@ msgstr "Quale scansione effettuare?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:94
 msgid "What to do with submitted crashlogs?"
-msgstr "Cosa fare dei crashlog inoltrati"
+msgstr "Cosa fare dei crashlog inoltrati?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/FactoryReset.py:5
 msgid ""
@@ -14351,7 +14351,7 @@ msgstr "nessun dispositivo di archiviazione trovato"
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:77
 msgid "no timeout"
-msgstr "nessun timeout"
+msgstr "Nessun timeout"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:16
 msgid "no valid AACS certificate"
@@ -14490,7 +14490,7 @@ msgstr "Premere OK quando pronti"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:468
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:548
 msgid "please wait, loading picture..."
-msgstr "Attendere: immagine in caricamento."
+msgstr "Caricamento immagine, attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/DemoPlugins/TestPlugin/plugin.py:84
 msgid "plugin to test some capabilities"
@@ -14538,7 +14538,7 @@ msgstr "rosso"
 
 #: enigma2-skins/skins/Kerni-HD1R2/meta/skin_kerni-hd1r2.xml
 msgid "redesigned Kerni-HD1 skin"
-msgstr "Skin HD1 by Kerni ridisegnata"
+msgstr "Skin HD1 by Kerni rimodellata"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:74
@@ -14650,12 +14650,12 @@ msgstr "in uscita salvare la playlist"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:108
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 msgid "scan done!"
-msgstr "scansione terminata."
+msgstr "Analisi terminata."
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:39
 #, python-format
 msgid "scan in progress - %d%% done!"
-msgstr "scansione in corso - completata al %d%%."
+msgstr "Analisi in corso - completata al %d%%."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceScan.py:52
@@ -14705,12 +14705,12 @@ msgstr "Selezionare slot"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:268
 msgid "select movie"
-msgstr "sel. registr."
+msgstr "Selezionare video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:247
 msgid "select the movie path"
-msgstr "selezionare percorso video"
+msgstr "Selezionare percorso video"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:120
 #: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:150
@@ -14746,7 +14746,7 @@ msgstr "Mostrare tutto"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:214
 msgid "show alternatives"
-msgstr "mostrare alternative"
+msgstr "Mostrare alternative"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:254
