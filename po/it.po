@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-09 18:03+0000\n"
+"PO-Revision-Date: 2022-01-09 22:01+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -4472,7 +4472,7 @@ msgstr "Fallito:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:42
 msgid "Failure"
-msgstr "Errore"
+msgstr "Fallimento"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Sensors.py:71
@@ -4504,7 +4504,7 @@ msgstr "DiSEqC veloce"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:40
 msgid "Fast Forward"
-msgstr "Fast Forward"
+msgstr "Avanti veloce"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4582,7 +4582,7 @@ msgid ""
 "Press Yellow to connect the selected remote control."
 msgstr ""
 "L'aggiornamento firmware è applicabile solo ai telecomandi connessi.\n"
-"Giallo >> Connettere il telecomando selezionato."
+"Premere GIALLO per connettere il telecomando selezionato."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
@@ -4608,11 +4608,11 @@ msgstr "Aggiornamento firmware in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:99
 msgid "Follow Live"
-msgstr "Seguire in diretta"
+msgstr "Seguire dal vivo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:977
 msgid "Following tasks will be done after you press OK!"
-msgstr "OK >> Completare i processi seguenti."
+msgstr "Premere OK per eseguire i processi seguenti."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:142
@@ -4629,7 +4629,7 @@ msgstr "Formattare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:112
 msgid "Forward Volume keys to TV/AVR"
-msgstr "Inviare tasti Volume a TV/AVR"
+msgstr "Inviare tasti volume a TV/AVR"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:256
 msgid "Framerate"
@@ -4672,12 +4672,12 @@ msgstr "Passo di frequenza scansione (kHz)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1414
 msgid "Frequency start"
-msgstr "Frequenza d'inizio"
+msgstr "Frequenza iniziale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2007
 msgid "Frequency steps"
-msgstr "Fasi di frequenza"
+msgstr "Passi di frequenza"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1415
 msgid "Frequency stop"
@@ -4759,8 +4759,8 @@ msgid ""
 msgstr ""
 "Molteplici tentativi di aggiornamento Frontprocessor falliti.\n"
 "Contattare il servizio di supporto.\n"
-"È possibile effettuare un tentativo manuale\n"
-"eseguendo da console il comando\n"
+"È possibile effettuare un tentativo eseguendo\n"
+"manualmente da console il comando\n"
 "'flash-nrf52 --program --verify --start'"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:30
@@ -4779,7 +4779,7 @@ msgstr "Schermo intero: colore di sfondo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:236
 msgid "Fullscreen: Frame size"
-msgstr "Schermo intero: dimensione Frame"
+msgstr "Schermo intero: dimensione frame"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:233
 msgid "Fullscreen: Show info line"
