@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-08 13:58+0000\n"
+"PO-Revision-Date: 2022-01-09 13:43+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -116,7 +116,7 @@ msgid ""
 "Manage extensions or plugins for your Dreambox"
 msgstr ""
 "\n"
-"Gestione estensioni e plugin del Dreambox"
+"Gestire estensioni e plugin per il Dreambox"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:137
@@ -125,7 +125,7 @@ msgid ""
 "Online update of your Dreambox software."
 msgstr ""
 "\n"
-"Aggiornamento online Dreambox."
+"Aggiornare online il sofware del Dreambox."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:128
@@ -134,7 +134,7 @@ msgid ""
 "Press OK on your remote control to continue."
 msgstr ""
 "\n"
-"OK >> Proseguire."
+"Premere OK per proseguire."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:140
@@ -170,7 +170,7 @@ msgid ""
 "Scan for local extensions and install them."
 msgstr ""
 "\n"
-"Ricercare e installare estensioni locali."
+"Cercare e installare estensioni locali."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:160
 msgid ""
@@ -179,8 +179,8 @@ msgid ""
 "Current device: "
 msgstr ""
 "\n"
-"Selezionare il supporto per il backup.\n"
-"Supporto corrente: "
+"Selezionare il dispositivo per il backup.\n"
+"Dispositivo corrente: "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:251
 msgid ""
@@ -188,7 +188,7 @@ msgid ""
 "System will restart after the restore!"
 msgstr ""
 "\n"
-"Dopo il ripristino, il sistema verrà riavviato."
+"Dopo il ripristino il sistema verrà riavviato."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:163
@@ -197,7 +197,7 @@ msgid ""
 "View, install and remove available or installed packages."
 msgstr ""
 "\n"
-"Elencare, installare e rimuovere i pacchetti disponibili o installati."
+"Elencare, installare o rimuovere i pacchetti disponibili o installati."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:252
 msgid ""
@@ -248,7 +248,7 @@ msgstr "%(Desc)s"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr "%(Desc)s è già stato configurato."
+msgstr "%(Desc)s è già configurato."
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
@@ -269,7 +269,7 @@ msgstr "%H:%M"
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:148
 #, python-format
 msgid "%d jobs are running in the background!"
-msgstr "%d processi attivi in background."
+msgstr "%d processi sono attivi in background."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:180
@@ -283,17 +283,17 @@ msgstr "%d min"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 #, python-format
 msgid "%d services found!"
-msgstr "%d canali trovati."
+msgstr "Canali trovati: %d."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1019
 #, python-format
 msgid "%d transponder(s) found"
-msgstr "transponder rilevati: %d"
+msgstr "Transponder rilevati: %d"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:990
 #, python-format
 msgid "%d transponders found at %d:%02dmin"
-msgstr "rilevati %d transponder in %d:%02d min"
+msgstr "Rilevati %d transponder in %d:%02d min"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
@@ -359,7 +359,7 @@ msgid ""
 "%s\n"
 msgstr ""
 "%s\n"
-"Time server\n"
+"Server orario\n"
 "%s\n"
 
 #
@@ -371,7 +371,7 @@ msgstr "%s (%s)\n"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:159
 #, python-format
 msgid "%s - scanning..."
-msgstr "%s - scansione in corso..."
+msgstr "%s - Analisi in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:426
 #, python-format
@@ -411,12 +411,12 @@ msgstr "%s dispositivi"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
-msgstr "%s chiavi mappate"
+msgstr "%s tasti mappati"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
 msgid "%s previously installed package(s) have been restored!"
-msgstr "pacchetti preesistenti ripristinati: %s."
+msgstr "Pacchetti preesistenti ripristinati: %s."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:454
 #, python-format
@@ -424,7 +424,7 @@ msgid ""
 "%sName server\n"
 "%s\n"
 msgstr ""
-"%sServer DNS\n"
+"%sName server (DNS)\n"
 "%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:78
@@ -434,7 +434,7 @@ msgid ""
 "%s of them contain audio or video."
 msgstr ""
 "'%s' contiene un totale di %s files.\n"
-"%s contengono audio o video."
+"Di questi, %s contengono audio o video."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:70
@@ -447,16 +447,16 @@ msgstr "(ZAP)"
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:780
 msgid "(empty)"
-msgstr "(vuoto)"
+msgstr "(Vuoto)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:360
 msgid "(show optional DVD audio menu)"
-msgstr "(mostrare il menu opzionale DVD audio)"
+msgstr "(Mostrare il menu opzionale audio DVD)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:44
 msgid "* current animation"
-msgstr "* animazione in uso"
+msgstr "* Animazione in uso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
@@ -513,11 +513,11 @@ msgstr "1.3"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:118
 msgid "1.712 MHz"
-msgstr "1.712 Mhz"
+msgstr "1.712 MHz"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:119
 msgid "10 MHz"
-msgstr "10 Mhz"
+msgstr "10 MHz"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
@@ -696,17 +696,17 @@ msgstr "<"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Current movielist location>"
-msgstr "<Percorso corrente>"
+msgstr "<Posizione attuale elenco video>"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Default movie location>"
-msgstr "<Percorso predefinito registrazioni>"
+msgstr "<Posizione predefinita video>"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
 msgid "<Last timer location>"
-msgstr "<Ultimo percorso timer>"
+msgstr "<Ultima posizione timer>"
 
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:56
 msgid "<No default storage device selected.>"
@@ -720,7 +720,7 @@ msgstr "<Nessun dispositivo di archiviazione selezionato.>"
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:199
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:230
 msgid "<unknown>"
-msgstr "<sconosciuto>"
+msgstr "<Sconosciuto>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
 msgid ">"
@@ -761,7 +761,7 @@ msgstr ""
 
 #: enigma2-skins/skins/Vali.HD.atlantis/meta/skin_vali.hd.atlantis.xml
 msgid "A dreambox simulation from SG-Atlantis displays."
-msgstr "Una simulazione per Dreambox del display SG-Atlantis."
+msgstr "Una skin per dreambox che ricorda nel look SG-Atlantis."
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:328
 msgid ""
@@ -769,7 +769,7 @@ msgid ""
 "Dreambox to standby. Do that now?"
 msgstr ""
 "Il termine di una registrazione programmata prevede\n"
-"di porre il DreamBox in standby. Eseguire?"
+"di porre il DreamBox in standby. Eseguire ora?"
 
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:334
 msgid ""
@@ -777,11 +777,11 @@ msgid ""
 "your Dreambox. Shutdown now?"
 msgstr ""
 "Il termine di una registrazione programmata prevede\n"
-"di spegnere il DreamBox. Eseguire?"
+"di spegnere il DreamBox. Eseguire ora?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/plugin.py:121
 msgid "A graphical EPG for all services of an specific bouquet"
-msgstr "EPG grafico per i tutti canali di uno specifico bouquet"
+msgstr "Un EPG grafico per i tutti canali di uno specifico bouquet"
 
 #: enigma2-skins/skins/holoFHD-dark/meta/skin_holofhd-dark.xml
 #: enigma2-skins/skins/holoFHD-black/meta/skin_holofhd-black.xml
@@ -803,15 +803,15 @@ msgstr "Rilevato un nuovo telecomando bluetooth. Connetterlo ora?"
 #: enigma2-skins/skins/dTV-HD/meta/skin_dtv-hd.xml
 #: enigma2-skins/skins/dreamTV-HD/meta/skin_dreamtv-hd.xml
 msgid "A nice looking HD skin from Kerni"
-msgstr "Una gradevole skin HD da Kerni"
+msgstr "Una gradevole skin HD proposta da Kerni"
 
 #: enigma2-skins/skins/BrushedAlu-HD/meta/skin_brushedalu-hd.xml
 msgid "A nice looking HD skin in Brushed Alu Design from Kerni."
-msgstr "Una gradevole skin HD in stile alluminio satinato da Kerni."
+msgstr "Una gradevole skin HD in stile alluminio satinato proposta da Kerni."
 
 #: enigma2-skins/skins/SWAIN-HD/meta/skin_swain-hd.xml
 msgid "A nice looking skin from Kerni"
-msgstr "Una gradevole skin da Kerni"
+msgstr "Una gradevole skin proposta da Kerni"
 
 #
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:425
@@ -829,8 +829,8 @@ msgid ""
 "A recording is currently running.\n"
 "What do you want to do?"
 msgstr ""
-"Registrazione in corso.\n"
-"Cosa si desidera fare?"
+"È in corso una registrazione.\n"
+"Cosa si intende fare?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:622
@@ -838,7 +838,7 @@ msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "configure the positioner."
 msgstr ""
-"Registrazioni in corso. Per poter configurare il rotore è necessario "
+"Sono in corso registrazioni. Per poter configurare il rotore è necessario "
 "arrestarle."
 
 #
@@ -847,8 +847,8 @@ msgid ""
 "A recording is currently running. Please stop the recording before trying to "
 "start the satfinder."
 msgstr ""
-"Registrazioni in corso. Prima di avviare una ricerca satelliti, è necessario "
-"arrestarle."
+"Sono in corso registrazioni. Prima di avviare una ricerca satelliti, è "
+"necessario arrestarle."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:398
@@ -863,7 +863,7 @@ msgid ""
 "NOTE: Enigma2 will restart automatically after restoring your settings."
 msgstr ""
 "Rilevato un backup impostazioni.\n"
-"Procedere al ripristino delle impostazioni?\n"
+"Procedere ora al ripristino delle impostazioni?\n"
 "NOTA: al termine Enigma2 verrà riavviato automaticamente."
 
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml
@@ -878,7 +878,7 @@ msgid ""
 "Dreambox to standby. Do that now?"
 msgstr ""
 "Un timer di spegnimento prevede di\n"
-"porre in standby il DreamBox. Eseguire?"
+"porre in standby il DreamBox. Eseguire ora?"
 
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:31
 #: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:131
@@ -887,7 +887,7 @@ msgid ""
 "your Dreambox. Shutdown now?"
 msgstr ""
 "Un timer di spegnimento prevede\n"
-"l'arresto del DreamBox. Eseguire?"
+"l'arresto del DreamBox. Eseguire ora?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1074
 msgid "A small overview of the available icon states and actions."
@@ -948,7 +948,7 @@ msgstr "Impostazioni AC3 Lip Sync"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:103
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "AC3 default"
-msgstr "Default AC3"
+msgstr "AC3 predefinito"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:164
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:105
@@ -1007,7 +1007,7 @@ msgstr "Info"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:65
 msgid "About..."
-msgstr "Informazioni..."
+msgstr "Info..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Account Setup"
@@ -1019,7 +1019,7 @@ msgstr "Elenco account"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1418
 msgid "Accuracy (higher is better)"
-msgstr "Precisione (valore + elevato >> magg. precisione)"
+msgstr "Precisione (maggiore è meglio)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:264
 msgid "Action"
@@ -1055,7 +1055,7 @@ msgid ""
 "Active name servers:\n"
 "%s"
 msgstr ""
-"Nameserver attivi:\n"
+"Name server attivi:\n"
 "%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:881
@@ -1064,7 +1064,7 @@ msgid ""
 "Active time servers:\n"
 "%s"
 msgstr ""
-"Time server attivi:\n"
+"Server orario attivi:\n"
 "%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:99
@@ -1154,7 +1154,7 @@ msgstr "Aggiungere ai preferiti"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:113
 #, python-format
 msgid "Added '%s'"
-msgstr "Aggiunto '%s'"
+msgstr "'%s' aggiunto"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:119
 msgid "Additional event-time info"
@@ -1177,11 +1177,12 @@ msgid ""
 "Adds enigma2 settings and dreambox model informations like SN, rev... if "
 "enabled."
 msgstr ""
-"Se abilitata, includerà informazioni come SN, rev., conf. di enigma2 ecc."
+"Abilitandola, includerà informazioni come modello, SN, rev, impostazioni "
+"enigma2 ecc."
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Adjust network settings"
-msgstr "Regolare impostazioni di rete"
+msgstr "Modificare impostazioni di rete"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/VideoFinetune.py:228
@@ -1198,7 +1199,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:123
 msgid "Adjusting Bitrate"
-msgstr "Regolazioni Bitrate"
+msgstr "Impostazione Bitrate"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1099
 msgid "Adopt current configuration."
@@ -1229,16 +1230,16 @@ msgstr "Plugin Software avanzato"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:413
 msgid "Advanced Video Enhancement Setup"
-msgstr "Impostazioni avanzate Video Enhancement"
+msgstr "Impostazioni Advanced Video Enhancement"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:184
 msgid "Advanced Video Setup"
-msgstr "Configurazione avanzata video"
+msgstr "Impostazioni avanzate video"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:296
 msgid "Advanced input device features"
-msgstr "Funzionalità avanzate dispositivo di input"
+msgstr "Caratteristiche avanzate dispositivo di input"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:159
@@ -1251,7 +1252,7 @@ msgstr "Impostazioni avanzate."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Advanced setup options"
-msgstr "Impostazioni avanzate"
+msgstr "Opzioni di configurazione avanzate"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:240
@@ -1271,19 +1272,19 @@ msgstr "Dopo il nome canale"
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:114
 msgid "After service number"
-msgstr "Dopo il numero di canale"
+msgstr "Dopo il numero canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicedescription"
-msgstr "Dopo la descrizione del canale"
+msgstr "Dopo la descrizione canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicename"
-msgstr "Dopo il nome del canale"
+msgstr "Dopo il nome canale"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicenumber"
-msgstr "Dopo il numero del canale"
+msgstr "Dopo il numero canale"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -1291,9 +1292,8 @@ msgid ""
 "After the start wizard is completed, you need to protect single services. "
 "Refer to your dreambox's manual on how to do that."
 msgstr ""
-"Dopo il termine del wizard iniziale, occorre proteggere i singoli canali. "
-"Fare riferimento al manuale del DreamBox per ulteriori informazioni in "
-"merito."
+"Al termine del wizard iniziale, occorre proteggere i singoli canali. Fare "
+"riferimento al manuale del DreamBox per ulteriori informazioni in merito."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:111
@@ -1362,7 +1362,7 @@ msgstr "Modalità radio alternativa"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Alternative services tuner priority"
-msgstr "Priorità tuner per canali alternativi"
+msgstr "Priorità tuner canali alternativi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
@@ -1380,13 +1380,12 @@ msgid ""
 "An error occured while renaming the package list backup!\n"
 "%s"
 msgstr ""
-"Modificando il nome dell'elenco dei pacchetti salvati si è verificato un "
-"errore.\n"
+"Durante la rinomina del backup elenco pacchetti si è verificato un errore.\n"
 "%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:208
 msgid "An unexpected error occured when trying to save the Playlist!"
-msgstr "Errore inatteso durante il salvataggio della playlist."
+msgstr "Errore imprevisto durante il salvataggio della playlist."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:360
@@ -1398,7 +1397,7 @@ msgstr "Si è verificato un errore sconosciuto."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Animation Setup"
-msgstr "Impostazione animazioni"
+msgstr "Impostazioni animazioni"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Animations"
@@ -1427,23 +1426,19 @@ msgstr "Arabo"
 msgid ""
 "Are you sure you want to delete\n"
 "following backup:\n"
-msgstr ""
-"Rimuovere\n"
-"il seguente backup:\n"
+msgstr "Rimuovere il seguente backup:\n"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Wizard.py:372
 msgid "Are you sure you want to exit this wizard?"
-msgstr "Uscire da questa configurazione guidata?"
+msgstr "Abbandonare questa configurazione guidata?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:251
 msgid ""
 "Are you sure you want to restore\n"
 "following backup:\n"
-msgstr ""
-"Ripristinare\n"
-"il seguente backup:\n"
+msgstr "Ripristinare il seguente backup:\n"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:231
@@ -1526,7 +1521,7 @@ msgstr "PID audio"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:310
 msgid "Audio Plugin Selection"
-msgstr "Plugin Selezione Audio"
+msgstr "Selezione plugin audio"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Restart Setup"
@@ -9951,14 +9946,14 @@ msgid "Set up your system timezone."
 msgstr "Impostare il proprio fuso orario."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1344
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Setting new encoder service to {0} failed!"
-msgstr "Impostazione canale encoder a {0} fallita."
+msgstr "Impostazione encoder canale {0} fallita."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1342
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Setting new encoder service to {0} failed! (Insufficient resources)"
-msgstr "Impostazione encoder a {0} fallita. (Risorse insufficienti)"
+msgstr "Impostazione encoder canale {0} fallita. (Risorse insufficienti)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
