@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-09 22:12+0000\n"
+"PO-Revision-Date: 2022-01-10 04:45+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -4866,7 +4866,7 @@ msgstr "Goto 0"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:258
 msgid "Goto position"
-msgstr "Andare alla posizione"
+msgstr "Goto position"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -4913,11 +4913,11 @@ msgstr "Intensificare il verde"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Grow from left + Shrink to top"
-msgstr "Espandere da sinistra >> Contrarre verso l'alto"
+msgstr "Espandere da sinistra + Contrarre verso l'alto"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Growlee Setup"
-msgstr "Configurazione Growlee"
+msgstr "Impostazioni Growlee"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2716
 #, python-format
@@ -4928,7 +4928,7 @@ msgstr "Errore Gstreamer: %s"
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:191
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1456
 msgid "Guard interval"
-msgstr "Guard interval"
+msgstr "Intervallo di guardia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:568
 msgid "HD"
@@ -4937,20 +4937,20 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "HDMI CEC"
+msgstr "CEC HDMI"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
 msgid "HDMI CEC Configuration"
-msgstr "Impostazioni HDMI CEC"
+msgstr "Impostazioni CEC HDMI"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:161
 msgid "HDMI CEC: Setup"
-msgstr "HDMI CEC: Impostazioni"
+msgstr "CEC HDMI: impostazioni"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:34
 msgid "HDMI CeC: Devices"
-msgstr "HDMI CEC: dispositivi"
+msgstr "CEC HDMI: dispositivi"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:100
 msgid "HDMI Input"
@@ -4999,12 +4999,12 @@ msgstr "Hard disk"
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Harddisk setup"
-msgstr "Impostazioni harddisk"
+msgstr "Impostazioni hard disk"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Harddisk standby after"
-msgstr "Harddisk in standby dopo"
+msgstr "Hard disk in standby dopo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:459
 msgid "Hardware address"
@@ -5085,7 +5085,7 @@ msgstr "Cronologia"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:630
 msgid "History cleared!"
-msgstr "Cronologia rimossa."
+msgstr "Cronologia svuotata."
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:138
 msgid "Hold First Frame"
@@ -5094,7 +5094,7 @@ msgstr "Bloccare il primo frame"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:444
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:48
 msgid "Home Page"
-msgstr "Inizio"
+msgstr "Home page"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:620
 #, python-format
@@ -5115,7 +5115,7 @@ msgstr "Gestire inserimento/rimozione a caldo di supporti rimovibili"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1870
 msgid "How many minutes do you want to record?"
-msgstr "Quanti minuti di registrazione?"
+msgstr "Registrare per quanti minuti?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:93
@@ -5125,7 +5125,7 @@ msgstr "Come gestire i crashlog rilevati?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:97
 msgid "Hue"
-msgstr "Colore"
+msgstr "Tonalità"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:35
@@ -5143,7 +5143,7 @@ msgstr "Indirizzo IP"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "IPKG source"
-msgstr "Sorgente IPKG"
+msgstr "Origine IPKG"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
@@ -5153,11 +5153,11 @@ msgstr "Upgrade IPKG..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:319
 msgid "IR-Mode LED color when connected to this dreambox"
-msgstr "Colore LED modalità IR quando connesso a questo Dreambox"
+msgstr "Colore LED in modalità IR quando connesso a questo Dreambox"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:185
 msgid "IR-Setup"
-msgstr "Configurazione IR"
+msgstr "Impostazioni IR"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:305
@@ -5180,11 +5180,11 @@ msgstr "Idle"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Brightness"
-msgstr "Luminosità idle"
+msgstr "Luminosità in idle"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
-msgstr "Colore idle"
+msgstr "Colore in idle"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
@@ -5200,7 +5200,7 @@ msgid ""
 "your scart connection. Press OK to return."
 msgstr ""
 "La connessione SCART non funziona\n"
-"correttamente. OK >> Uscire."
+"correttamente. Premere OK per uscire."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/VideoFinetune.py:109
 msgid ""
@@ -5230,11 +5230,11 @@ msgstr "Ignorare 'Sorgente Attiva' se non inviata dalla TV"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:126
 msgid "Ignore CeC ready-state on startup"
-msgstr "Ignorare CeC all'avvio"
+msgstr "Ignorare lo stato del sistema CEC all'avvio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:106
 msgid "Ignore Device Power States"
-msgstr "Ignorare stati alimentazione dispositivo"
+msgstr "Ignorare gli stati di alimentazione dispositivo"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Import AutoTimer"
@@ -5318,7 +5318,7 @@ msgstr "Velocità iniziale REW"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:170
 msgid "Initial location in new timers"
-msgstr "Percorso iniziale nuovi timer"
+msgstr "Posizione iniziale dei nuovi timer"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:818
@@ -5327,17 +5327,17 @@ msgstr "Formattare"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:494
 msgid "Initialize selected storage device or remove offline storage device."
-msgstr "Inizializzare dispositivi di archiviazione o rimuovere quelli offline."
+msgstr "Preparare i dispositivi di archiviazione o rimuovere quelli offline."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1103
 #, python-format
 msgid "Initialize this %(desc)s."
-msgstr "Formattare %(desc)s."
+msgstr "Inizializzare questo %(desc)s."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:189
 #, python-format
 msgid "Initializing %(desc)s..."
-msgstr "Formattazione di %(desc)s in corso..."
+msgstr "Inizializzazione di %(desc)s in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:145
 msgid "Initializing DFU Mode..."
@@ -5374,7 +5374,7 @@ msgstr "Plugin per la gestione dei dispositivi di input"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Input device setup"
-msgstr "Impostazione periferica di input"
+msgstr "Impostazioni periferica di input"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:137
 #: enigma2/usr/share/enigma2/menu.xml
@@ -5395,16 +5395,16 @@ msgstr "Installare"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Install a new image with a USB stick"
-msgstr "Installare nuova immagine tramite penna USB"
+msgstr "Installare una nuova immagine tramite stick USB"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Install a new image with your web browser"
-msgstr "Installare nuova immagine tramite webbrowser"
+msgstr "Installare una nuova immagine tramite browser web"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Install default service lists."
-msgstr "Plugin per installare una lista di canali predefinita."
+msgstr "Installare un elenco di canali predefinito."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1859
@@ -5436,27 +5436,27 @@ msgstr "Installazione terminata."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:96
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1016
 msgid "Installing"
-msgstr "Inst. in corso"
+msgstr "Installazione in corso"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Installing Software..."
-msgstr "Installazione software..."
+msgstr "Installazione software in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/DefaultServicelistStep.py:62
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
 msgid "Installing default service lists... Please wait..."
-msgstr "Installazione liste canali predefinite in corso. Attendere..."
+msgstr "Installazione elenchi canali predefiniti in corso. Attendere..."
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
 msgid "Installing defaults..."
-msgstr "Installazione predefiniti..."
+msgstr "Installazione impostazioni di default..."
 
 #
 #: enigma2/usr/share/enigma2/defaultwizard.xml
 msgid "Installing defaults... Please wait..."
-msgstr "Installazione default in corso. Attendere..."
+msgstr "Installazione impostazioni di default in corso. Attendere..."
 
 #
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
@@ -5466,7 +5466,7 @@ msgstr "Installazione pacchetto in corso. Attendere..."
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/DefaultServicelistStep.py:61
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
 msgid "Installing..."
-msgstr "Installazione..."
+msgstr "Installazione in corso..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1700
@@ -5476,7 +5476,7 @@ msgstr "Registrazione istantanea..."
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:127
 msgid "Instant record location"
-msgstr "Percorso registrazione istantanea"
+msgstr "Posizione registrazione istantanea"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:16
@@ -5506,7 +5506,7 @@ msgstr "USB interna"
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 msgid "Internal firmware updater"
-msgstr "Plugin per l'aggiornamento del firmware interno"
+msgstr "Strumento per l'aggiornamento del firmware interno"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "InternetRadio Setup"
