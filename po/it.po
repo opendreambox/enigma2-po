@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-10 04:45+0000\n"
+"PO-Revision-Date: 2022-01-10 22:01+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -985,7 +985,9 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:753
 msgid "AUTOMATICALLY start service searching, press green to change"
-msgstr "Previsto avvio automatico scansione canali: VERDE >> Cambiare"
+msgstr ""
+"È previsto l'avvio automatico della ricerca canali: premere VERDE per "
+"cambiare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:379
@@ -5510,7 +5512,7 @@ msgstr "Strumento per l'aggiornamento del firmware interno"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "InternetRadio Setup"
-msgstr "Configurazione InternetRadio"
+msgstr "Impostazioni InternetRadio"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:407
@@ -5521,7 +5523,7 @@ msgstr "Posizione non valida"
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:281
 #, python-format
 msgid "Invalid directory selected: %s"
-msgstr "La directory selezionata non è valida: %s"
+msgstr "Selezionata directory non valida: %s"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:105
@@ -5549,7 +5551,7 @@ msgstr "La modalità video è corretta?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:743
 msgid "Issued for:"
-msgstr "Rilasciato per:"
+msgstr "Rilasciato il:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:39
@@ -5559,17 +5561,17 @@ msgstr "Italiano"
 #: enigma2/usr/share/meta/plugin_jsonapi.xml
 #: enigma2/usr/share/meta/plugin_jsonapi.xml./enigma2/usr/share/meta/plugin_jsonapi.xml
 msgid "JSON-RPC API"
-msgstr "JSON-RPC API"
+msgstr "API JSON-RPC"
 
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:11
 msgid "Job Manager"
-msgstr "Job Manager"
+msgstr "Gestore processi"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Job View"
-msgstr "Processi"
+msgstr "Vista processi"
 
 #
 #. TRANSLATORS: (aspect ratio policy: display as fullscreen, even if this breaks the aspect)
@@ -5579,7 +5581,7 @@ msgstr "Scalare solamente"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Keep outdated EPG (in hours)"
-msgstr "Mantenere EPG passato (in ore)"
+msgstr "Mantenere EPG passato da (ore)"
 
 #: enigma2-skins/skins/BrushedAlu-HD/meta/skin_brushedalu-hd.xml
 msgid "Kerni's BrushedAlu-HD skin"
@@ -5671,7 +5673,7 @@ msgstr "Gestore LED"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
-msgstr "Configurazione LED"
+msgstr "Impostazioni LED"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:318
 msgid "LED color when connected to this dreambox"
@@ -5731,7 +5733,7 @@ msgstr "Ultima velocità"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:48
 msgid "Last visted"
-msgstr "Ultimo visitato"
+msgstr "Ultima visita"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:67
@@ -5758,7 +5760,7 @@ msgstr "Sinistra"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Left to right slide + zoom"
-msgstr "Scorrere da sinistra a destra + zoom"
+msgstr "Scorrimento da sinistra a destra + zoom"
 
 #
 #. TRANSLATORS: (aspect ratio policy: black bars on top/bottom) in doubt, keep english term.
@@ -5772,11 +5774,11 @@ msgstr "Livello"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:111
 msgid "Limit by bandwidth (MBit/s)"
-msgstr "Limitare per larghezza di banda (MBit/s)"
+msgstr "Limite larghezza di banda (MBit/s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:112
 msgid "Limit by resolution (Height in px)"
-msgstr "Limitare per risoluzione (Altezza in px)"
+msgstr "Limite risoluzione (Altezza in px)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:253
@@ -5795,11 +5797,11 @@ msgstr "Set di caratteri limitato per i nomi dei file registrazioni"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:251
 msgid "Limits off"
-msgstr "Limiti off"
+msgstr "Limiti disattivati"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:254
 msgid "Limits on"
-msgstr "Limiti on"
+msgstr "Limiti attivi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:39
@@ -5829,7 +5831,7 @@ msgstr "Caricare"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Load Length of Movies in Movielist"
-msgstr "Caricare in elenco la durata registrazioni"
+msgstr "Caricare in elenco la durata video"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:191
 msgid "Load Playlist"
@@ -5863,7 +5865,7 @@ msgid ""
 "Local client(s):\n"
 "    %s"
 msgstr ""
-"Clienti locali (s):\n"
+"Client locali:\n"
 "    %s"
 
 #
@@ -5875,7 +5877,7 @@ msgstr "Destinazione"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:173
 msgid "Location for instant recordings"
-msgstr "Percorso per registrazioni istantanee"
+msgstr "Destinazione registrazioni istantanee"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -5886,7 +5888,7 @@ msgstr "Lock:"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:605
 msgid "Log results to harddisk"
-msgstr "Salvare log su harddisk"
+msgstr "Log risultati su hard disk"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "LogoManager Setup"
@@ -5899,7 +5901,7 @@ msgstr "Press. prolungata tasto"
 
 #: enigma2/usr/lib/enigma2/python/Components/RecordingConfig.py:15
 msgid "Long filenames"
-msgstr "Nomi estesi"
+msgstr "Nomi file lunghi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:65
@@ -5911,7 +5913,7 @@ msgstr "Longitudine"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1472
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2252
 msgid "Lookup other SDT"
-msgstr "Ricerca altri SDT"
+msgstr "Ricercare altri SDT"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:124
 msgid "Low"
@@ -5924,7 +5926,8 @@ msgstr "USB inferiore"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:751
 msgid "MANUALLY start service searching, press green to change"
-msgstr "Avvio manuale scansione canali, VERDE >> Cambiare"
+msgstr ""
+"È previsto l'avvio manuale della ricerca canali, premere VERDE per cambiare"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:16
 msgid "MMC authentication failed"
@@ -5987,26 +5990,26 @@ msgstr "Gestire le estensioni"
 #: enigma2/usr/share/meta/plugin_mediadatabasemanager.xml
 #: enigma2/usr/share/meta/plugin_mediadatabasemanager.xml./enigma2/usr/share/meta/plugin_mediadatabasemanager.xml
 msgid "Manage your Media Database"
-msgstr "Gestione del Media Database"
+msgstr "Gestione del database media"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1884
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1889
 msgid "Manage your receiver's software"
-msgstr "Gestire il software del ricevitore"
+msgstr "Gestione software del ricevitore"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Manual Scan"
-msgstr "Scansione manuale"
+msgstr "Ricerca manuale"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Manual scan"
-msgstr "Scansione manuale"
+msgstr "Ricerca manuale"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:56
 msgid "Manual service scan"
-msgstr "Scansione manuale canali"
+msgstr "Ricerca manuale canali"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:498
@@ -6016,7 +6019,7 @@ msgstr "Transponder manuale"
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Manually scan for new services."
-msgstr "Scansione manuale per nuovi canali."
+msgstr "Ricerca manuale di nuovi canali."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1098
 msgid "Manually select a mountpoint."
@@ -6026,7 +6029,7 @@ msgstr "Selezionare manualmente un mountpoint."
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:353
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:374
 msgid "Manufacturer"
-msgstr "Costruttore"
+msgstr "Produttore"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Margin after record"
@@ -6052,7 +6055,7 @@ msgstr "Massima risoluzione flusso"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:510
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/plugin.py:7
 msgid "Media Database"
-msgstr "Database dei Media"
+msgstr "Media Database"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:470
 msgid "Media Database Browser"
@@ -6071,7 +6074,7 @@ msgstr "MediaCenter"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:195
 msgid "MediaCenter - Menu"
-msgstr "Menu - MediaCenter"
+msgstr "MediaCenter - Menu"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MediaCenter Menu"
@@ -6079,7 +6082,7 @@ msgstr "Menu MediaCenter"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:57
 msgid "MediaCenter: Main Settings"
-msgstr "MediaCenter: Impostazioni principali"
+msgstr "MediaCenter: impostazioni principali"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MediaCenter:Main Settings"
@@ -6111,7 +6114,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/PlaylistPlayer.py:154
 msgid "Mediabrowser Selection"
-msgstr "Selezione browser Media"
+msgstr "Selezione browser media"
 
 #: enigma2/usr/share/meta/plugin_mediaplayer.xml
 #: enigma2/usr/share/meta/plugin_mediaplayer.xml./enigma2/usr/share/meta/plugin_mediaplayer.xml
@@ -6120,7 +6123,7 @@ msgid ""
 "Play all your favorite music and video files, organize them in playlists, "
 "view cover and album information."
 msgstr ""
-"MediaPlayer è in grado di riprodurre musica e video.\n"
+"MediaPlayer è in grado di riprodurre file musicali e video.\n"
 "Consente inoltre di organizzare playlist, complete di cover e informazioni "
 "sugli album."
 
@@ -6162,7 +6165,7 @@ msgstr "Menu"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Menu Sort"
-msgstr "Odinamento Menu"
+msgstr "Odinamento menu"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Merlin Program Guide"
@@ -6212,7 +6215,8 @@ msgstr "Buffer minimo (s)"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Minimum treshold in seconds before resuming"
-msgstr "Limite minimo in secondi prima di riprendere"
+msgstr ""
+"Soglia minima di esecuzione prima di riprendere la riproduzione (secondi)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:374
@@ -6277,7 +6281,7 @@ msgstr "Altro ..."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:110
 msgid "Mosquito noise reduction"
-msgstr "Riduzione sfarfallio"
+msgstr "Riduzione artefatti di compressione (mosquito noise)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:374
