@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-11 22:02+0000\n"
+"PO-Revision-Date: 2022-01-11 22:26+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -1045,7 +1045,7 @@ msgstr "Azione:"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1637
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:195
 msgid "Activate Picture in Picture"
-msgstr "Activare Picture in Picture"
+msgstr "Attivare Picture in Picture"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:217
 msgid "Active connection"
@@ -3522,7 +3522,7 @@ msgstr "Disabilitare il controllo parentale"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1635
 msgid "Disable Picture in Picture"
-msgstr "Disabiltare PiP"
+msgstr "Disattivare Picture in Picture"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
@@ -6315,7 +6315,7 @@ msgstr "Mouse Off"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1643
 msgid "Move Picture in Picture"
-msgstr "Spostare l'immagine nell'immagine"
+msgstr "Spostare Picture in Picture"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:244
@@ -11462,13 +11462,13 @@ msgstr "Impostazioni server orario"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:813
 msgid "Time to jump to by pressing the yellow key."
-msgstr "Orario su cui posizionarsi premendo il tasto giallo."
+msgstr "Orario selezionato premendo il tasto GIALLO."
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Time/Date Input"
-msgstr "Ora/Data input"
+msgstr "Input data/ora"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:116
 msgid "Timeout!"
@@ -11510,7 +11510,7 @@ msgid ""
 "Please recheck it!"
 msgstr ""
 "Sovrapposizione timer rilevata in timers.xml.\n"
-"Ricontrollare."
+"Verificare."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:125
@@ -11543,7 +11543,7 @@ msgstr "Timeshift"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timeshift State"
-msgstr "Stato Timeshift"
+msgstr "Stato timeshift"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:132
@@ -11595,11 +11595,11 @@ msgstr "Oggi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:145
 msgid "Toggle Repeat-Modes (None / All / Single)"
-msgstr "Commutare ripetizione (Nessuna / Tutto / Singolo)"
+msgstr "Modalità ripetizione (Nessuna/Tutto/Singola)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:144
 msgid "Toggle Shuffle"
-msgstr "Commutare Shuffle"
+msgstr "Commutare shuffle"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:486
 msgid "Toggle Subtitle Filter"
@@ -11653,7 +11653,7 @@ msgstr "Traduzione:"
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:190
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1455
 msgid "Transmission mode"
-msgstr "Modalità trasmissione"
+msgstr "Modalità di trasmissione"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:121
 msgid "Transmitting"
@@ -11686,7 +11686,8 @@ msgstr "Ricerca transponder utilizzati sulla rete via cavo. Attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:640
 msgid "Try to find used Transponders in terrestrial network.. please wait..."
-msgstr "Ricerca Transponders sulla rete terrestre in corso. Attendere..."
+msgstr ""
+"Ricerca transponder utilizzati sulla rete terrestre in corso. Attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1183
 msgid "Try to find used satellite transponders..."
@@ -11697,12 +11698,12 @@ msgstr "Ricerca transponder in uso sul satellite..."
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:506
 msgid "Try to find used transponders in cable network.. please wait..."
 msgstr ""
-"Attendere: ricerca transponder utilizzati sulla rete via cavo in corso."
+"Ricerca transponder utilizzati sulla rete via cavo in corso. Attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:706
 msgid "Try to find used transponders in terrestrial network.. please wait..."
 msgstr ""
-"Attendere: ricerca transponders utilizzati sulla rete terrestre in corso."
+"Ricerca transponder utilizzati sulla rete terrestre in corso. Attendere..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1609
@@ -11825,7 +11826,7 @@ msgstr "Tipo"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1331
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1334
 msgid "Type of scan"
-msgstr "Tipo di scansione"
+msgstr "Tipo di ricerca"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:96
 msgid "UPnP/DLNA"
@@ -14259,7 +14260,7 @@ msgstr "Mensile"
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:92
 msgid "move PiP to main picture"
-msgstr "Passare la PiP allo schermo principale"
+msgstr "Spostare la PiP sullo schermo principale"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1327
