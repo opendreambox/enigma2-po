@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-29 22:02+0000\n"
-"PO-Revision-Date: 2022-01-11 22:26+0000\n"
+"PO-Revision-Date: 2022-01-12 11:27+0000\n"
 "Last-Translator: Dario Croci <spaeleus@croci.org>\n"
 "Language-Team: Italian <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/it/>\n"
@@ -11875,12 +11875,12 @@ msgstr "USALS"
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:612
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:617
 msgid "USB 2.0 (Back, inner)"
-msgstr "USB 2.0 (Posteriore, interna)"
+msgstr "USB 2.0 (posteriore, interna)"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:613
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:618
 msgid "USB 3.0 (Back, outer)"
-msgstr "USB 3.0 (Posteriore, esterna)"
+msgstr "USB 3.0 (posteriore, esterna)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:51
@@ -11927,12 +11927,12 @@ msgstr "Rilevati dispositivi di archiviazione non configurati."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:660
 msgid "Undo install"
-msgstr "Annullare installazione"
+msgstr "Annullare l'installazione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:658
 msgid "Undo uninstall"
-msgstr "Annullare rimozione"
+msgstr "Annullare la rimozione"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -11971,12 +11971,12 @@ msgstr "Rilevato %(desc)s non formattato."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:652
 msgid "Uninstall"
-msgstr "Rimuovere"
+msgstr "Disinstallare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1721
 msgid "Universal LNB"
-msgstr "LNB Universale"
+msgstr "LNB universale"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
@@ -11999,7 +11999,7 @@ msgstr "Unmount fallito"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1101
 #, python-format
 msgid "Unmount this %(desc)s."
-msgstr "Eseguire unmount di %(desc)s."
+msgstr "Eseguire l'unmount di %(desc)s."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:220
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:565
@@ -12053,7 +12053,7 @@ msgid ""
 "Your Bootloader is now up-to-date!"
 msgstr ""
 "Aggiornamento riuscito.\n"
-"Il Bootloader è aggiornato."
+"Il Bootloader ora è aggiornato."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:630
 msgid "Updatefeed not available."
@@ -12062,34 +12062,34 @@ msgstr "Feed aggiornamenti non disponibile."
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml./enigma2/usr/share/meta/plugin_fsblupdater.xml
 msgid "Updates the dreambox bootloader when required"
-msgstr "Plugin per l'aggiornamento del bootloader quando necessario"
+msgstr "Plugin per l'aggiornamento del bootloader, qualora necessario"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:599
 msgid "Updating software catalog"
-msgstr "Aggiornamento catalogo software in corso"
+msgstr "Aggiornamento del catalogo software in corso"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Upgrade"
-msgstr "Aggiornamento"
+msgstr "Upgrade"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1675
 msgid "Upgrade finished."
-msgstr "Aggiornamento terminato."
+msgstr "Upgrade terminato."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:89
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:90
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1020
 msgid "Upgrading"
-msgstr "Agg. in corso"
+msgstr "Upgrade in corso"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:71
 msgid "Upgrading Dreambox... Please wait"
-msgstr "DreamBox in aggiornamento... Attendere"
+msgstr "Upgrade DreamBox in corso. Attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
@@ -12123,17 +12123,17 @@ msgstr "SCR disponibili"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1332
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:25
 msgid "Use"
-msgstr "Usare"
+msgstr "Utilizzare"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:384
 msgid "Use PIN"
-msgstr "Usare il PIN"
+msgstr "Utilizzare il PIN"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:70
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:447
 msgid "Use Power Measurement"
-msgstr "Usare misurazione di potenza"
+msgstr "Utilizzare misurazione di potenza"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ConfigSetHelpDialog.py:10
 msgid ""
@@ -12145,44 +12145,44 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Use legacy virtual subservices detection"
-msgstr "Utilizzare il rilevamento legacy dei sottoservizi virtuali"
+msgstr "Utilizzare il rilevamento legacy dei sottocanali virtuali"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Use power measurement"
-msgstr "Usare misurazione di potenza"
+msgstr "Utilizzare misurazione di potenza"
 
 #: enigma2/usr/lib/enigma2/python/Screens/StartWizard.py:105
 msgid "Use the left and right buttons to change an option."
-msgstr "Usare i tasti destra/sinistra per modificare le opzioni."
+msgstr "Utilizzare i tasti destra/sinistra per modificare le opzioni."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:427
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:429
 msgid "Use these settings?"
-msgstr "Usare queste impostazioni?"
+msgstr "Utilizzare queste impostazioni?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:264
 msgid "Use this input device settings?"
-msgstr "Usare le impostazioni di questo dispositivo di input?"
+msgstr "Utilizzare le impostazioni di questo dispositivo di input?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:383
 msgid "Use this settings?"
-msgstr "Usare queste impostazioni?"
+msgstr "Utilizzare queste impostazioni?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:174
 msgid "Use this video enhancement settings?"
-msgstr "Usare queste impostazioni per Video Enhancement?"
+msgstr "Utilizzare queste impostazioni per video enhancement?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:96
 msgid "Use time of currently running service"
-msgstr "Usare l'ora del canale attivo"
+msgstr "Utilizzare l'ora del canale attivo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:464
 msgid "Use usals for this sat"
-msgstr "Usare USALS per questo satellite"
+msgstr "Utilizzare USALS per questo satellite"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12192,7 +12192,7 @@ msgstr "Utilizzare la configurazione guidata per le impostazioni di base"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:211
 msgid "Used service scan type"
-msgstr "Tipo di scansione canali in uso"
+msgstr "Tipo di ricerca dei canali in uso"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:227
@@ -12202,7 +12202,7 @@ msgstr "User"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:30
 msgid "User Level"
-msgstr "Livello utente"
+msgstr "Livello user"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1633
@@ -12212,7 +12212,7 @@ msgstr "Definito dall'utente"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "User level"
-msgstr "Livello utente"
+msgstr "Livello user"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:1179
 msgid "User:"
@@ -12222,13 +12222,13 @@ msgstr "User:"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "UserDialog"
-msgstr "Dialogo utente"
+msgstr "Dialogo con l'utente"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "UserManager"
-msgstr "Gestione utente"
+msgstr "Gestione user"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -12250,15 +12250,15 @@ msgstr "Plugin VPS: informazioni"
 
 #: enigma2-skins/skins/Vali.HD.atlantis/meta/skin_vali.hd.atlantis.xml
 msgid "Vali.HD.atlantis skin"
-msgstr "Skin HD Atlantis by Vali"
+msgstr "Skin Vali.HD.Atlantis by Vali"
 
 #: enigma2-skins/skins/Vali.HD.nano/meta/skin_vali.hd.nano.xml
 msgid "Vali.HD.nano skin"
-msgstr "Skin Vali.HD.nano"
+msgstr "Skin Vali.HD.nano by Vali"
 
 #: enigma2-skins/skins/Vali.HD.warp/meta/skin_vali.hd.warp.xml
 msgid "Vali.HD.warp skin"
-msgstr "Skin HD warp by Vali"
+msgstr "Skin Vali.HD.warp by Vali"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
@@ -12278,7 +12278,7 @@ msgstr "Verifica firmware in corso..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1193
 msgid "Verifying initialization. Please wait!"
-msgstr "Attendere: verifica formattazione in corso."
+msgstr "Verifica formattazione in corso. Attendere..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:34
 msgid "Verifying your internet connection..."
@@ -12287,7 +12287,7 @@ msgstr "Verifica della connessione internet in corso..."
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Verkehrsinfo"
-msgstr "Info traffico"
+msgstr "Info sul traffico"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:65
@@ -12316,8 +12316,8 @@ msgid ""
 "Audio Bitrate:\t%s\n"
 "Resolution:\t%s"
 msgstr ""
-"Video Bitrate:\t%s\n"
-"Audio Bitrate:\t%s\n"
+"Bitrate video:\t%s\n"
+"Bitrate audio:\t%s\n"
 "Risoluzione:\t%s"
 
 #
@@ -12332,7 +12332,7 @@ msgid ""
 "Use up/down buttons."
 msgstr ""
 "Ingresso Video\n"
-"Usare i tasti su/giù."
+"Utilizzare i tasti su/giù."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:130
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12341,7 +12341,7 @@ msgid ""
 "Use up/down buttons."
 msgstr ""
 "Modalità Video\n"
-"Usare i tasti su/giù."
+"Utilizzare i tasti su/giù."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:59
@@ -12355,7 +12355,7 @@ msgstr "PID Video"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:10
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Video Player"
-msgstr "Player Video"
+msgstr "Player video"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:184
@@ -12369,17 +12369,17 @@ msgstr "Impostazioni spazio colore video"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:325
 msgid "Video enhancement preview"
-msgstr "Anteprima Video Enhancement"
+msgstr "Anteprima video enhancement"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:408
 msgid "Video enhancement settings"
-msgstr "Impostazioni Video enhancement"
+msgstr "Impostazioni video enhancement"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:62
 msgid "Video enhancement setup"
-msgstr "Impostazioni Video Enhancement"
+msgstr "Impostazioni video enhancement"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
@@ -12392,10 +12392,10 @@ msgid ""
 msgstr ""
 "Selezione ingresso video\n"
 "\n"
-"Se questa pagina è visibile, premere OK (o selezionare un ingresso video "
+"Se questa pagina è visibile, premere OK (o selezionare un ingresso "
 "differente).\n"
 "\n"
-"L'ingresso video successivo sarà testato automaticamente dopo 20 secondi."
+"L'ingresso successivo verrà comunque testato automaticamente dopo 20 secondi."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:131
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12409,10 +12409,11 @@ msgid ""
 msgstr ""
 "Selezione modalità video\n"
 "\n"
-"Se questa pagina è visibile, premere OK (o selezionare una modalità video "
+"Se questa pagina è visibile, premere OK (o selezionare una modalità "
 "differente).\n"
 "\n"
-"La modalità video successiva verrà testata automaticamente dopo 20 secondi."
+"La modalità successiva verrà comunque testata automaticamente dopo 20 "
+"secondi."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:75
 msgid "Video, audio and pictures"
@@ -12433,17 +12434,17 @@ msgstr "Anteprima VideoEnhancement"
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "VideoEnhancementSetup"
-msgstr "Impostazioni Video Enhancement"
+msgstr "Impostazioni VideoEnhancement"
 
 #: enigma2/usr/share/meta/plugin_videotune.xml
 #: enigma2/usr/share/meta/plugin_videotune.xml./enigma2/usr/share/meta/plugin_videotune.xml
 msgid "VideoTune helps fine-tuning your tv display"
-msgstr "Supporto per l'ottimizzazione del video della TV"
+msgstr "Supporto per l'ottimizzazione dello schermo TV"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:413
 msgid "Videoenhancement Setup"
-msgstr "Miglioramento immagine"
+msgstr "Impostazioni Videoenhancement"
 
 #: enigma2/usr/share/meta/plugin_videomode.xml
 #: enigma2/usr/share/meta/plugin_videomode.xml./enigma2/usr/share/meta/plugin_videomode.xml
@@ -12457,11 +12458,11 @@ msgstr "Video"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:1017
 msgid "View Movies..."
-msgstr "Visualizzare filmati..."
+msgstr "Visualizzare film..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:162
 msgid "View Movies... (MediaCenter)"
-msgstr "Visualizzare filmati... (MediaCenter)"
+msgstr "Visualizzare film... (MediaCenter)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:738
@@ -12485,66 +12486,66 @@ msgstr "Visualizzare elenco disponibilità "
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:849
 msgid "View list of available CommonInterface extensions"
-msgstr "Elenco estensioni CommonInterface disponibili"
+msgstr "Elenco delle estensioni disponibili per CommonInterface"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:859
 msgid "View list of available Display and Userinterface extensions."
-msgstr "Elenco estensioni display e interfaccia utente disponibili."
+msgstr "Elenco delle estensioni disponibili per display e interfaccia utente"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:861
 msgid "View list of available EPG extensions."
-msgstr "Elenco estensioni EPG disponibili."
+msgstr "Elenco delle estensioni disponibili per EPG"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:853
 msgid "View list of available Satellite equipment extensions."
-msgstr "Elenco estensioni per dispositivo satellitare disponibili."
+msgstr "Elenco delle estensioni disponibili per il dispositivo satellitare"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:863
 msgid "View list of available communication extensions."
-msgstr "Elenco estensioni comunicazione disponibili."
+msgstr "Elenco delle estensioni disponibili per comunicazione"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:851
 msgid "View list of available default settings"
-msgstr "Elenco impostazioni predefinite disponibili"
+msgstr "Elenco delle impostazioni predefinite disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:857
 msgid "View list of available multimedia extensions."
-msgstr "Elenco estensioni multimediali disponibili."
+msgstr "Elenco delle estensioni multimediali disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 msgid "View list of available networking extensions"
-msgstr "Elenco estensioni di rete disponibili"
+msgstr "Elenco delle estensioni di rete disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:845
 msgid "View list of available recording extensions"
-msgstr "Elenco estensioni registrazioni disponibili"
+msgstr "Elenco delle estensioni disponibili per le registrazioni"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:843
 msgid "View list of available skins"
-msgstr "Elenco skin disponibili"
+msgstr "Elenco delle skin disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:855
 msgid "View list of available software extensions"
-msgstr "Elenco estensioni software disponibili"
+msgstr "Elenco delle estensioni software disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
 msgid "View list of available system extensions"
-msgstr "Elenco estensioni di sistema disponibili"
+msgstr "Elenco delle estensioni di sistema disponibili"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2427
 msgid "View teletext..."
-msgstr "Televideo..."
+msgstr "Mostrare il televideo..."
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12555,7 +12556,7 @@ msgstr "Tastiera virtuale"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:411
 msgid "Voltage mode"
-msgstr "Modalità voltaggio"
+msgstr "Modalità tensione"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12599,12 +12600,12 @@ msgstr "In attesa dei client"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
-msgstr "In attesa riavvio dispositivo..."
+msgstr "In attesa del riavvio dispositivo..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
 msgid "Warn if free space drops below (kB):"
-msgstr "Avvisare se lo spazio libero scende sotto (kB):"
+msgstr "Notificare se lo spazio libero scende sotto (kB):"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Weather Plugin"
@@ -12612,11 +12613,11 @@ msgstr "Weather Plugin"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/plugin.py:18
 msgid "Web Browser"
-msgstr "WebBrowser"
+msgstr "Browser web"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Web Browser - Edit Bookmark"
-msgstr "Web Browser - Modificare segnalibro"
+msgstr "Browser web - Modificare segnalibro"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Web Browser - Menu"
@@ -12624,12 +12625,12 @@ msgstr "Browser web - Menu"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Webinterface: Main Setup"
-msgstr "Webinterface: Impostazioni"
+msgstr "Interfaccia web: Impostazioni"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Webinterface:Main Setup"
-msgstr "Interfaccia web: Impostazioni principali"
+msgstr "Interfaccia web: Impostazioni"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -12666,8 +12667,8 @@ msgid ""
 msgstr ""
 "Benvenuto in Cutlist editor.\n"
 "\n"
-"Cercare l'inizio di ciò che si vuole eliminare. Premere OK e selezionare "
-"'Inizio taglio'.\n"
+"Raggiungere l'inizio della parte che si vuole eliminare. Premere OK e "
+"selezionare 'Inizio taglio'.\n"
 "\n"
 "Raggiungere la fine della sequenza, premere OK e selezionare 'Fine taglio'. "
 "È tutto."
@@ -12713,7 +12714,7 @@ msgstr ""
 "Se si desidera connettere il Dreambox alla rete e/o Internet, questo wizard "
 "fornirà una guida nelle impostazioni di rete del Dreambox.\n"
 "\n"
-"Premere OK per impostare la rete"
+"Premere OK per iniziare a impostare la rete"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
@@ -12728,7 +12729,7 @@ msgstr ""
 "\n"
 "Questo wizard fornirà una guida per le impostazioni base del Dreambox.\n"
 "\n"
-"Utilizzare i tasti su/giù per selezionare le opzioni desiderate e premere OK."
+"Utilizzare i tasti su/giù per selezionare l'opzione desiderata e premere OK."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
@@ -12747,7 +12748,7 @@ msgstr "Ovest"
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "What do you want to scan?"
-msgstr "Quale scansione effettuare?"
+msgstr "Cosa si desidera cercare?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:94
@@ -12763,8 +12764,8 @@ msgid ""
 "\n"
 "Really do a factory reset?"
 msgstr ""
-"Con il ripristino di fabbrica, TUTTE le impostazioni\n"
-"(compresi bouquet, canali, satelliti...) saranno perse.\n"
+"Eseguendu un ripristino ai dati di fabbrica, TUTTE le impostazioni\n"
+"presenti (compresi bouquet, canali, satelliti...) saranno perse.\n"
 "Dopo il ripristino il ricevitore sarà riavviato automaticamente.\n"
 "\n"
 "Procedere con il ripristino?"
@@ -12772,7 +12773,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Where do you want to backup your settings?"
-msgstr "Dove salvare i backup delle impostazioni?"
+msgstr "Dove salvare il backup delle impostazioni?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:528
@@ -12793,11 +12794,11 @@ msgid ""
 "a standard-compliant DVD that can be played on conventinal DVD players.\n"
 "HDTV recordings can only be burned in proprietary dreambox format."
 msgstr ""
-"DVDBurn consente di creare compilazioni di registrazioni dall'harddisk del "
-"Dreambox.\n"
+"DVDBurn consente di creare raccolte dalle registrazioni presenti sull'hard "
+"disk del Dreambox.\n"
 "È inoltre possibile l'aggiunta di menu. Il DVD masterizzato potrà essere "
 "riprodotto su qualunque riproduttore DVD convenzionale.\n"
-"Le registrazione HDTV potranno essere masterizzate solo nel formato "
+"Tuttavia le registrazione HDTV potranno essere masterizzate solo nel formato "
 "proprietario Dreambox."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12813,8 +12814,8 @@ msgid ""
 "This allows watching a scrambled service while recording another one."
 msgstr ""
 "CommonInterfaceAssignement consente l'utilizzo di differenti moduli CI, "
-"assegnandoli ai rispettivi provider/canali/caid.\n"
-"Ciò consente di guardare un canale criptato mentre contemporaneamente un "
+"assegnandoli ai rispettivi provider/canali/caid, \n"
+"consentendo così di guardare un canale criptato mentre contemporaneamente un "
 "altro viene registrato."
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
@@ -12948,11 +12949,11 @@ msgstr "Sì, sempre"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:201
 msgid "Yes, and don't ask again"
-msgstr "Sì, e la richiesta non dovrà essere ripetuta"
+msgstr "Sì, e non ripetere la richiesta"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Yes, backup my settings!"
-msgstr "Eseguire backup impostazioni."
+msgstr "Eseguire il backup impostazioni."
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Yes, but only some"
@@ -12970,11 +12971,11 @@ msgstr "Sì, ma riprodurre il canale precedente"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes, do another manual scan now"
-msgstr "Sì, eseguire un'altra scansione manuale"
+msgstr "Sì, eseguire un'altra ricerca manuale"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes, install default servicelists"
-msgstr "Si, installare una lista canali predefinita"
+msgstr "Sì, installare una lista canali predefinita"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:17
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13117,10 +13118,10 @@ msgid ""
 "\n"
 "Do you want to set the pin now?"
 msgstr ""
-"È richiesta la configurazione di un codice PIN (tenere nascosto ai "
-"bambini).\n"
+"È richiesta la configurazione di un codice PIN (tenere nascosto ai bambini)."
 "\n"
-"Configurare un PIN?"
+"\n"
+"Configurare un PIN ora?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:159
 msgid ""
@@ -13132,7 +13133,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:522
 msgid "You've selected a media file what do you want to do?"
-msgstr "Selezionato file multimediale: cosa farne?"
+msgstr "Selezionato file multimediale: cosa si desidera fare?"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:15
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:218
@@ -13142,7 +13143,7 @@ msgid ""
 "Install the latest firmware now?"
 msgstr ""
 "Il ricevitore bluetooth Dreambox non ha firmware installato.\n"
-"Installare la versione più recente disponibile ora?"
+"Installare ora la versione più recente disponibile?"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
@@ -13150,7 +13151,7 @@ msgid ""
 "There is no network configuration required."
 msgstr ""
 "Il Dreambox è già connesso ad Internet.\n"
-"Nessuna configurazione di rete necessaria."
+"Nessuna configurazione di rete è necessaria."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:46
 msgid "Your Dreambox is now fully set up!"
@@ -13162,7 +13163,7 @@ msgid ""
 "What do you want to do?"
 msgstr ""
 "Dreambox completamente configurato.\n"
-"Come proseguire?"
+"Cosa si desidera fare ora?"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:31
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13182,13 +13183,12 @@ msgstr ""
 "\n"
 "Semplice - Suggerito se si tratta del primo approccio con un Dreambox.\n"
 "Intermedia - Consente l'accesso a un numero maggiore di opzioni "
-"configurabili, in particolare interfaccia grafica e comportamento del "
-"Dreambox.\n"
+"configurabili, come l'interfaccia grafica e il comportamento del Dreambox.\n"
 "Avanzata - Consente l'accesso completo a tutte le impostazioni disponibili "
 "sul Dreambox.\n"
 "\n"
 "Attenzione: i livelli più elevati possono determinare una maggiore "
-"complessità nell'utilizzo del box."
+"complessità nell'utilizzo del dispositivo."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:100
 msgid "Your Dreambox software is up to date!"
@@ -13214,13 +13214,13 @@ msgid ""
 "Your collection exceeds the size of a single layer medium, you will need a "
 "blank dual layer DVD!"
 msgstr ""
-"La compilation supera la capacità di un disco singolo strato. Sarà "
-"necessario utilizzare un DVD vergine doppio strato."
+"La raccolta supera la capacità di un disco singolo strato. Sarà necessario "
+"utilizzare un DVD vergine doppio strato."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:240
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:410
 msgid "Your current collection will get lost!"
-msgstr "La compilation corrente sarà perduta."
+msgstr "La raccolta corrente sarà perduta."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:19
 msgid ""
@@ -13289,7 +13289,7 @@ msgstr "Tornare al canale attivo prima dell'impostazione rotore?"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:257
 msgid "Zap back to service before satfinder?"
-msgstr "Tornare al canale attivo prima della scansione satelliti?"
+msgstr "Tornare al canale attivo prima della ricerca satelliti?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:559
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:573
@@ -13324,7 +13324,7 @@ msgstr "Zoom"
 
 #: enigma2/usr/share/enigma2/animations.xml
 msgid "Zoom in + Shrink out with crossfading"
-msgstr "Zoom con dissolvenza incrociata"
+msgstr "Zoom in + contrazione con dissolvenza incrociata"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:849
 #, python-format
