@@ -27,7 +27,7 @@ jobs:
 
       - name: Install wlc
         id: wlcinstall
-        run: sudo pip3 install wlc
+        run: sudo pip3 install wlc --upgrade
       
       - name: Setup wlc config
         id: wlcsetup
