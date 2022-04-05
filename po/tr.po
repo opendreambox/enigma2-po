@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:03+0000\n"
-"PO-Revision-Date: 2022-04-03 22:03+0000\n"
+"PO-Revision-Date: 2022-04-05 22:02+0000\n"
 "Last-Translator: DreamOSat Forum <info@dreamosat-forum.com>\n"
 "Language-Team: Turkish <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/tr/>\n"
@@ -98,6 +98,8 @@ msgid ""
 "\n"
 "Check software updates periodically."
 msgstr ""
+"\n"
+"Yazılım güncellemelerini periyodik olarak kontrol edin."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:164
@@ -205,6 +207,11 @@ msgid ""
 "\n"
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
+"\n"
+"Uzaktan kumandanız birkaç saniye içinde yeniden başlayacak (40'a kadar)!\n"
+"\n"
+"Önyüklemeyi bitirdikten sonra bu pencereyi kapatmak için [OK] veya [EXIT]'e "
+"basın!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
@@ -230,7 +237,7 @@ msgstr " güncelleme mevcut."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:56
 msgid "!! Bootloader Upgrade !!"
-msgstr ""
+msgstr "!! Önyükleyici Yükseltmesi !!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:596
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:599
@@ -239,18 +246,18 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
 #, python-format
 msgid "%(Desc)s"
-msgstr ""
+msgstr "%(Desc)s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr ""
+msgstr "%(Desc)s zaten yapılandırılmış!"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
 msgid "%(num)d hour"
 msgid_plural "%(num)d hours"
-msgstr[0] ""
+msgstr[0] "%(num)d saat"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1789
@@ -305,12 +312,12 @@ msgstr "%d:%02d/%d:%02ddk"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:988
 #, python-format
 msgid "%dMHz scanned"
-msgstr ""
+msgstr "%dMHz tarandı"
 
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:108
 #, python-format
 msgid "%i entries (%i pending)"
-msgstr ""
+msgstr "%i giriş (%i beklemede)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:77
 #, python-format
@@ -320,6 +327,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d bloklar yazıldı\n"
+"%03d bloklar doğrulandı (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -328,6 +339,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d blok yazıldı (%s)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
@@ -346,6 +360,9 @@ msgid ""
 "Time server\n"
 "%s\n"
 msgstr ""
+"%s\n"
+"Zaman sunucusu\n"
+"%s\n"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/PluginBrowser.py:44
