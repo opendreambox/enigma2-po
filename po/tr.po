@@ -373,7 +373,7 @@ msgstr "%s (%s)\n"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:159
 #, python-format
 msgid "%s - scanning..."
-msgstr ""
+msgstr "%s - taranıyor..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:426
 #, python-format
@@ -384,36 +384,41 @@ msgid ""
 "  Gateway: %s\n"
 "\n"
 msgstr ""
+"%s IPv%s\n"
+"  Address: %s\n"
+"  %s: %s\n"
+"  Ağ geçidi: %s\n"
+"\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:64
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s IR kodları onaylandı!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s IR kodları gönderildi!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
 msgid "%s Network - Name servers"
-msgstr ""
+msgstr "%s Ağ - Ad sunucuları"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s cihazlar"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
-msgstr ""
+msgstr "%s eşlenmiş anahtarlar"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
 msgid "%s previously installed package(s) have been restored!"
-msgstr ""
+msgstr "%s önceden kurulmuş paket(ler) geri yüklendi!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:454
 #, python-format
@@ -421,6 +426,8 @@ msgid ""
 "%sName server\n"
 "%s\n"
 msgstr ""
+"%sAd sunucusu\n"
+"%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:78
 #, python-format
@@ -428,6 +435,8 @@ msgid ""
 "'%s' contained a total of %s files.\n"
 "%s of them contain audio or video."
 msgstr ""
+"'%s' toplam %s dosya içerdi.\n"
+"%s tanesi ses veya video içeriyor."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:70
@@ -449,15 +458,15 @@ msgstr "(opsiyonel DVD ses menüsünü göster)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:44
 msgid "* current animation"
-msgstr ""
+msgstr "* mevcut animasyon"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
