@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-18 22:04+0000\n"
-"PO-Revision-Date: 2022-05-26 22:05+0000\n"
+"PO-Revision-Date: 2022-05-27 18:32+0000\n"
 "Last-Translator: DreamOSat Forum <info@dreamosat-forum.com>\n"
 "Language-Team: Turkish <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/tr/>\n"
@@ -3804,7 +3804,7 @@ msgstr "DVD'yi yazmadan önce önizleme yapmak istiyor musunuz?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:245
 msgid "Do you want to produce this collection?"
-msgstr ""
+msgstr "Bu derlemeyi yapmak ister misiniz?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:916
@@ -3835,7 +3835,7 @@ msgstr "Oynatmaya kaldığınız yerden devam etmek istiyor musunuz?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:96
 msgid "Do you want to update now?"
-msgstr ""
+msgstr "Şimdi güncellemek istiyor musunuz?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:222
@@ -3862,7 +3862,7 @@ msgstr "Bu kaydı ekleme"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:29
 msgid "Don't ask again!"
-msgstr ""
+msgstr "Bir daha sorma!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
@@ -3879,6 +3879,9 @@ msgid ""
 "place!\n"
 "Your device is still as fine as it was before this procedure!"
 msgstr ""
+"Endişelenmeyin, cihazınız hala iyi! Yerinde birkaç güvenlik mekanizması var!"
+"\n"
+"Cihazınız hala bu prosedürden önceki kadar iyi!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:118
@@ -3896,11 +3899,11 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:138
 msgid "Done - No updates available."
-msgstr ""
+msgstr "Bitti - Güncelleme yok."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
 msgid "Down"
-msgstr ""
+msgstr "Aşağı"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:520
@@ -3930,7 +3933,7 @@ msgstr "İndirilenler"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1885
 msgid "Dpkg"
-msgstr ""
+msgstr "Dpkg"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:39
@@ -3947,11 +3950,11 @@ msgstr "Dreambox güncellemelerini yükleyin."
 
 #: enigma2-skins/skins/Dreamy-FHD/meta/skin_dreamy-fhd.xml
 msgid "Dreamy FullHD skin"
-msgstr ""
+msgstr "Dreamy FullHD arayüz"
 
 #: enigma2-skins/skins/Dreamy-FHD/meta/skin_dreamy-fhd.xml
 msgid "Dreamy-FHD skin"
-msgstr ""
+msgstr "Dreamy-FHD arayüz"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:29
@@ -3960,11 +3963,11 @@ msgstr "Flemenkçe"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DynDNS Setup"
-msgstr ""
+msgstr "DynDNS Kurulumu"
 
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:19
 msgid "Dynamic"
-msgstr ""
+msgstr "Dinamik"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:108
@@ -3984,34 +3987,34 @@ msgstr "D"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "EPG"
-msgstr ""
+msgstr "EPG"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPG Copy view"
-msgstr ""
+msgstr "EPG Kopyalama görünümü"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "EPG Selection"
-msgstr ""
+msgstr "EPG Seçimi"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "EPG cache time span"
-msgstr ""
+msgstr "EPG önbellek zaman aralığı"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/UnitTests/EPGCache/plugin.py:38
 msgid "EPGCache Test"
-msgstr ""
+msgstr "EPGCache Testi"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "EPGRefresh Functions"
-msgstr ""
+msgstr "EPG Refresh Fonksiyonları"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "ERROR"
-msgstr ""
+msgstr "HATA"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
@@ -4021,18 +4024,18 @@ msgstr "HATA - arama başarısız (%s)!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
-msgstr ""
+msgstr "HATA!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR! Frontprocessor Update"
-msgstr ""
+msgstr "HATA! Önişlemci Güncellemesi"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:109
 #, python-format
 msgid "ERROR: Cannot add '%s'"
-msgstr ""
+msgstr "HATA: '%s' eklenemiyor"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1756
@@ -4053,7 +4056,7 @@ msgstr "Otomatik Zamanlayıcıyı Düzenle"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Edit AutoTimer Filters"
-msgstr ""
+msgstr "Otomatik Zamanlayıcı Filtrelerini Düzenle"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Edit AutoTimer Services"
