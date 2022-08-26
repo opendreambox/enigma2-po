@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-25 22:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-08-26 22:03+0000\n"
+"Last-Translator: Copan <21110167@qq.com>\n"
+"Language-Team: Chinese (Simplified) <https://dreambox.de/translate/projects/"
+"dreambox/enigma2/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
 msgid ""
@@ -27,6 +29,12 @@ msgid ""
 "This update is mandatory and should not be skipped!\n"
 "!!! ATTENTION !!!!"
 msgstr ""
+"\n"
+"\n"
+"!!!注意!!!\n"
+"由于这是主要的固件更新，你将再也不能再降级到任意早期版本了!\n"
+"这次更新是强制性的，不应该被跳过!\n"
+"!!!注意!!!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:67
 msgid ""
@@ -34,6 +42,9 @@ msgid ""
 "\n"
 "DO NOT TURN OFF YOUR DREAMBOX!"
 msgstr ""
+"\n"
+"\n"
+"请不要关闭您的机顶盒!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:746
 msgid ""
@@ -41,6 +52,9 @@ msgid ""
 "\n"
 "Issued from:"
 msgstr ""
+"\n"
+"\n"
+"生效日期:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:750
 msgid ""
@@ -48,12 +62,17 @@ msgid ""
 "\n"
 "Validity:\n"
 msgstr ""
+"\n"
+"\n"
+"有效期:\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:157
 msgid ""
 "\n"
 "Advanced options and settings."
 msgstr ""
+"\n"
+"高级选项和设置。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:222
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:549
@@ -63,66 +82,88 @@ msgid ""
 "\n"
 "After pressing OK, please wait!"
 msgstr ""
+"\n"
+"按OK键后，请等待!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:139
 msgid ""
 "\n"
 "Backup your Dreambox settings."
 msgstr ""
+"\n"
+"备份您的Dreambox设置。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:142
 msgid ""
 "\n"
 "Check software updates periodically."
 msgstr ""
+"\n"
+"定期检查软件更新。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:164
 msgid ""
 "\n"
 "Edit the upgrade source address."
 msgstr ""
+"\n"
+"编辑升级源地址。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:136
 msgid ""
 "\n"
 "Manage extensions or plugins for your Dreambox"
 msgstr ""
+"\n"
+"管理 Dreambox 的扩展或插件"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:137
 msgid ""
 "\n"
 "Online update of your Dreambox software."
 msgstr ""
+"\n"
+"Dreambox 软件的在线更新。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:128
 msgid ""
 "\n"
 "Press OK on your remote control to continue."
 msgstr ""
+"\n"
+"按OK键以继续。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:140
 msgid ""
 "\n"
 "Restore your Dreambox settings."
 msgstr ""
+"\n"
+"恢复Dreambox设置。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:138
 msgid ""
 "\n"
 "Restore your Dreambox with a new firmware."
 msgstr ""
+"\n"
+"使用新的固件恢复Dreambox。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:159
 msgid ""
 "\n"
 "Restore your backups by date."
 msgstr ""
+"\n"
+"根据日期恢复备份。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:141
 msgid ""
 "\n"
 "Scan for local extensions and install them."
 msgstr ""
+"\n"
+"扫描本地插件并安装。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:160
 msgid ""
@@ -130,18 +171,25 @@ msgid ""
 "Select your backup device.\n"
 "Current device: "
 msgstr ""
+"\n"
+"选择备份设备。\n"
+"当前设备: "
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:251
 msgid ""
 "\n"
 "System will restart after the restore!"
 msgstr ""
+"\n"
+"系统将在恢复完毕后重启！"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:163
 msgid ""
 "\n"
 "View, install and remove available or installed packages."
 msgstr ""
+"\n"
+"查看，安装和移除可用或已安装的软件包。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:252
 msgid ""
@@ -150,29 +198,33 @@ msgid ""
 "\n"
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
+"\n"
+"您的遥控器将在几秒钟内重新启动（最多 40 秒）\n"
+"\n"
+"启动完毕后按OK或EXIT键关闭此窗口！"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
 msgid " extensions."
-msgstr ""
+msgstr " 扩展。"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:237
 msgid " ms"
-msgstr ""
+msgstr " 毫秒"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:668
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:680
 msgid " packages selected."
-msgstr ""
+msgstr " 软件包已选中。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:622
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:666
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:677
 msgid " updates available."
-msgstr ""
+msgstr " 可用更新。"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:56
 msgid "!! Bootloader Upgrade !!"
-msgstr ""
+msgstr "!!引导程序(Bootloader)升级!!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:596
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:599
@@ -181,74 +233,73 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
 #, python-format
 msgid "%(Desc)s"
-msgstr ""
+msgstr "%(Desc)s"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr ""
+msgstr "%(Desc)s 已配置!"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
 msgid "%(num)d hour"
 msgid_plural "%(num)d hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num)d 小时"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1789
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1790
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1971
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1973
 msgid "%H:%M"
-msgstr ""
+msgstr "%H:%M"
 
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:148
 #, python-format
 msgid "%d jobs are running in the background!"
-msgstr ""
+msgstr "%d 个任务在后台执行！"
 
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:180
 #, python-format
 msgid "%d min"
-msgstr ""
+msgstr "%d 分钟"
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:39
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:108
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 #, python-format
 msgid "%d services found!"
-msgstr ""
+msgstr "%d 个已发现服务！"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1019
 #, python-format
 msgid "%d transponder(s) found"
-msgstr ""
+msgstr "%d 个已发现转发器"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:990
 #, python-format
 msgid "%d transponders found at %d:%02dmin"
-msgstr ""
+msgstr "%d 个已转发器,共花费 %d:%02d 分钟"
 
 #: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:136
 msgid "%d.%B %Y"
-msgstr ""
+msgstr "%d.%B %Y"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1024
 #, python-format
 msgid "%d:%02d/%d:%02dmin"
-msgstr ""
+msgstr "%d:%02d/%d:%02d 分钟"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:988
 #, python-format
 msgid "%dMHz scanned"
-msgstr ""
+msgstr "%dMHz 已扫描"
 
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:108
 #, python-format
 msgid "%i entries (%i pending)"
-msgstr ""
+msgstr "%i 条(%i 待确认)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:77
 #, python-format
@@ -258,6 +309,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d 块已写\n"
+"%03d 块已验证 (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -266,6 +321,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d 块已写 (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
 #, python-format
@@ -273,6 +331,8 @@ msgid ""
 "%s\n"
 "(%s, %d MB free)"
 msgstr ""
+"%s\n"
+"(%s, %d MB 空闲)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:456
 #, python-format
@@ -281,16 +341,19 @@ msgid ""
 "Time server\n"
 "%s\n"
 msgstr ""
+"%s\n"
+"时间服务器\n"
+"%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PluginBrowser.py:44
 #, python-format
 msgid "%s (%s)\n"
-msgstr ""
+msgstr "%s (%s)\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:159
 #, python-format
 msgid "%s - scanning..."
-msgstr ""
+msgstr "%s - 扫描中..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:426
 #, python-format
@@ -301,36 +364,41 @@ msgid ""
 "  Gateway: %s\n"
 "\n"
 msgstr ""
+"%s IPv%s\n"
+"  地址: %s\n"
+"  %s: %s\n"
+"  网关: %s\n"
+"\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:64
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s 红外代码已确认！"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s 红外代码已发送！"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
 msgid "%s Network - Name servers"
-msgstr ""
+msgstr "%s 网络 - DNS服务器"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s 个设备"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
-msgstr ""
+msgstr "%s 个已映射键"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
 msgid "%s previously installed package(s) have been restored!"
-msgstr ""
+msgstr "%s 个先前安装的软件包已恢复！"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:454
 #, python-format
@@ -338,6 +406,8 @@ msgid ""
 "%sName server\n"
 "%s\n"
 msgstr ""
+"%sDNS服务器\n"
+"%s\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:78
 #, python-format
@@ -345,128 +415,145 @@ msgid ""
 "'%s' contained a total of %s files.\n"
 "%s of them contain audio or video."
 msgstr ""
+"'%s' 共包含 %s 个文件夹。\n"
+"其中 %s 个含有音频或视频。"
 
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:70
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:72
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:78
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:80
 msgid "(ZAP)"
-msgstr ""
+msgstr "(ZAP)"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:780
 msgid "(empty)"
-msgstr ""
+msgstr "（空）"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:360
 msgid "(show optional DVD audio menu)"
-msgstr ""
+msgstr "（显示可选的DVD音频菜单）"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:44
 msgid "* current animation"
-msgstr ""
+msgstr "* 当前动画"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
+#, fuzzy
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
-msgstr ""
+msgstr "-- 所有 --"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:84
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:92
+#, fuzzy
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
+#, fuzzy
 msgid "1.0"
-msgstr ""
+msgstr "1.0"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:55
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
+#, fuzzy
 msgid "1.1"
-msgstr ""
+msgstr "1.1"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:56
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1767
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
+#, fuzzy
 msgid "1.2"
-msgstr ""
+msgstr "1.2"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:57
+#, fuzzy
 msgid "1.3"
-msgstr ""
+msgstr "1.3"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:118
+#, fuzzy
 msgid "1.712 MHz"
-msgstr ""
+msgstr "1.712 MHz"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:119
+#, fuzzy
 msgid "10 MHz"
-msgstr ""
+msgstr "10 MHz"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
+#, fuzzy
 msgid "13 V"
-msgstr ""
+msgstr "13 V"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "14 days"
-msgstr ""
+msgstr "14 天"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:385
+#, fuzzy
 msgid "16:10"
-msgstr ""
+msgstr "16:10"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:95
 msgid "16:10 Letterbox"
-msgstr ""
+msgstr "16:10 信箱模式"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:96
 msgid "16:10 PanScan"
-msgstr ""
+msgstr "16:10 裁切模式"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:77
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:384
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:93
+#, fuzzy
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:97
 msgid "16:9 Letterbox"
-msgstr ""
+msgstr "16:9 信箱模式"
 
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:94
 msgid "16:9 always"
-msgstr ""
+msgstr "16:9 强制模式"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
+#, fuzzy
 msgid "18 V"
-msgstr ""
+msgstr "18 V"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:58
+#, fuzzy
 msgid "2.0"
-msgstr ""
+msgstr "2.0"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:59
+#, fuzzy
 msgid "2.1"
-msgstr ""
+msgstr "2.1"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:60
+#, fuzzy
 msgid "2.2"
-msgstr ""
+msgstr "2.2"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "21 days"
-msgstr ""
+msgstr "21 天"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:151
 msgid "28 days"
-msgstr ""
+msgstr "28 天"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:103
 msgid "2nd line info"
