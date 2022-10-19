@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-18 22:08+0000\n"
+"POT-Creation-Date: 2022-10-19 22:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10662,23 +10662,11 @@ msgid "zapped"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
-msgid "Select package"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
-msgid "Removed successfully."
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
 msgid "Package removed successfully.\n"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
 msgid "Remove failed."
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
-msgid "Package removal failed.\n"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
@@ -10700,14 +10688,43 @@ msgstr ""
 msgid "The wizard is finished now."
 msgstr ""
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
+msgid "Removed successfully."
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
+msgid "Package removal failed.\n"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/cleanupwizard.xml
+msgid "Select package"
+msgstr ""
+
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Yes, perform a shutdown now."
+msgid "Install a new image with your web browser"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid ""
 "Your backup succeeded. We will now continue to explain the further upgrade "
 "process."
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Backup now"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Install a new image with a USB stick"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "OK, guide me through the upgrade process"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid ""
+"The wizard can backup your current settings. Do you want to do a backup now?"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -10723,29 +10740,13 @@ msgid "Exit the wizard"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Install a new image with a USB stick"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "No, do nothing."
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Backup now"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "The backup failed. Please choose a different backup location."
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "No backup needed"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid ""
-"You have chosen to restore your settings. Enigma2 will restart after "
-"restore. Please press OK to start the restore now."
+"You have chosen to backup your settings. Please press OK to start the backup "
+"now."
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Yes, backup my settings!"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -10756,24 +10757,21 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Yes, backup my settings!"
+msgid "No, do nothing."
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Where do you want to backup your settings?"
+msgid "The backup failed. Please choose a different backup location."
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Yes, perform a shutdown now."
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid ""
-"The wizard can backup your current settings. Do you want to do a backup now?"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Install a new image with your web browser"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "OK, guide me through the upgrade process"
+"You have chosen to restore your settings. Enigma2 will restart after "
+"restore. Please press OK to start the restore now."
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
@@ -10786,18 +10784,20 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid ""
-"You have chosen to backup your settings. Please press OK to start the backup "
-"now."
+msgid "Upgrade"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "No backup needed"
+msgstr ""
+
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Where do you want to backup your settings?"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
 msgid "No, just start my dreambox"
-msgstr ""
-
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
-msgid "Upgrade"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_remotecontrolselection.xml
@@ -10815,16 +10815,16 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_cutlisteditor.xml
 #: enigma2/usr/share/meta/plugin_cutlisteditor.xml./enigma2/usr/share/meta/plugin_cutlisteditor.xml
+msgid "CutListEditor allows you to edit your movies"
+msgstr ""
+
+#: enigma2/usr/share/meta/plugin_cutlisteditor.xml
+#: enigma2/usr/share/meta/plugin_cutlisteditor.xml./enigma2/usr/share/meta/plugin_cutlisteditor.xml
 msgid ""
 "CutListEditor allows you to edit your movies.\n"
 "Seek to the start of the stuff you want to cut away. Press OK, select 'start "
 "cut'.\n"
 "Then seek to the end, press OK, select 'end cut'. That's it."
-msgstr ""
-
-#: enigma2/usr/share/meta/plugin_cutlisteditor.xml
-#: enigma2/usr/share/meta/plugin_cutlisteditor.xml./enigma2/usr/share/meta/plugin_cutlisteditor.xml
-msgid "CutListEditor allows you to edit your movies"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -10931,15 +10931,20 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_dvdplayer.xml
 #: enigma2/usr/share/meta/plugin_dvdplayer.xml./enigma2/usr/share/meta/plugin_dvdplayer.xml
+msgid "DVDPlayer plays your DVDs on your Dreambox"
+msgstr ""
+
+#: enigma2/usr/share/meta/plugin_dvdplayer.xml
+#: enigma2/usr/share/meta/plugin_dvdplayer.xml./enigma2/usr/share/meta/plugin_dvdplayer.xml
 msgid ""
 "DVDPlayer plays your DVDs on your Dreambox.\n"
 "With the DVDPlayer you can play your DVDs on your Dreambox from a DVD or "
 "even from an iso file or video_ts folder on your harddisc or network."
 msgstr ""
 
-#: enigma2/usr/share/meta/plugin_dvdplayer.xml
-#: enigma2/usr/share/meta/plugin_dvdplayer.xml./enigma2/usr/share/meta/plugin_dvdplayer.xml
-msgid "DVDPlayer plays your DVDs on your Dreambox"
+#: enigma2/usr/share/meta/plugin_mediaplayer.xml
+#: enigma2/usr/share/meta/plugin_mediaplayer.xml./enigma2/usr/share/meta/plugin_mediaplayer.xml
+msgid "Plays your favorite music and videos"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_mediaplayer.xml
@@ -10948,11 +10953,6 @@ msgid ""
 "Mediaplayer plays your favorite music and videos.\n"
 "Play all your favorite music and video files, organize them in playlists, "
 "view cover and album information."
-msgstr ""
-
-#: enigma2/usr/share/meta/plugin_mediaplayer.xml
-#: enigma2/usr/share/meta/plugin_mediaplayer.xml./enigma2/usr/share/meta/plugin_mediaplayer.xml
-msgid "Plays your favorite music and videos"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
@@ -10967,17 +10967,12 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_socketmmi.xml
 #: enigma2/usr/share/meta/plugin_socketmmi.xml./enigma2/usr/share/meta/plugin_socketmmi.xml
-msgid "Python frontend for /tmp/mmi.socket."
+msgid "Frontend for /tmp/mmi.socket"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_socketmmi.xml
 #: enigma2/usr/share/meta/plugin_socketmmi.xml./enigma2/usr/share/meta/plugin_socketmmi.xml
-msgid "Frontend for /tmp/mmi.socket"
-msgstr ""
-
-#: enigma2/usr/share/meta/plugin_cleanupwizard.xml
-#: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
-msgid "Automatically informs you on low internal memory"
+msgid "Python frontend for /tmp/mmi.socket."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
@@ -10988,6 +10983,16 @@ msgid ""
 "some plugins."
 msgstr ""
 
+#: enigma2/usr/share/meta/plugin_cleanupwizard.xml
+#: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
+msgid "Automatically informs you on low internal memory"
+msgstr ""
+
+#: enigma2/usr/share/meta/plugin_graphmultiepg.xml
+#: enigma2/usr/share/meta/plugin_graphmultiepg.xml./enigma2/usr/share/meta/plugin_graphmultiepg.xml
+msgid "GraphMultiEPG shows a graphical timeline EPG"
+msgstr ""
+
 #: enigma2/usr/share/meta/plugin_graphmultiepg.xml
 #: enigma2/usr/share/meta/plugin_graphmultiepg.xml./enigma2/usr/share/meta/plugin_graphmultiepg.xml
 msgid ""
@@ -10995,9 +11000,9 @@ msgid ""
 "Shows a nice overview of all running und upcoming tv shows."
 msgstr ""
 
-#: enigma2/usr/share/meta/plugin_graphmultiepg.xml
-#: enigma2/usr/share/meta/plugin_graphmultiepg.xml./enigma2/usr/share/meta/plugin_graphmultiepg.xml
-msgid "GraphMultiEPG shows a graphical timeline EPG"
+#: enigma2/usr/share/meta/plugin_mediarenderer.xml
+#: enigma2/usr/share/meta/plugin_mediarenderer.xml./enigma2/usr/share/meta/plugin_mediarenderer.xml
+msgid "A simple UPnP/DLNA Mediarenderer"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml
@@ -11007,20 +11012,15 @@ msgid ""
 "dreambox."
 msgstr ""
 
-#: enigma2/usr/share/meta/plugin_mediarenderer.xml
-#: enigma2/usr/share/meta/plugin_mediarenderer.xml./enigma2/usr/share/meta/plugin_mediarenderer.xml
-msgid "A simple UPnP/DLNA Mediarenderer"
+#: enigma2/usr/share/meta/plugin_videoenhancement.xml
+#: enigma2/usr/share/meta/plugin_videoenhancement.xml./enigma2/usr/share/meta/plugin_videoenhancement.xml
+msgid ""
+"The VideoEnhancement plugin provides advanced video enhancement settings."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_videoenhancement.xml
 #: enigma2/usr/share/meta/plugin_videoenhancement.xml./enigma2/usr/share/meta/plugin_videoenhancement.xml
 msgid "VideoEnhancement provides advanced video enhancement settings"
-msgstr ""
-
-#: enigma2/usr/share/meta/plugin_videoenhancement.xml
-#: enigma2/usr/share/meta/plugin_videoenhancement.xml./enigma2/usr/share/meta/plugin_videoenhancement.xml
-msgid ""
-"The VideoEnhancement plugin provides advanced video enhancement settings."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_diseqctester.xml
@@ -11059,12 +11059,12 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml./enigma2/usr/share/meta/plugin_fsblupdater.xml
-msgid "Bootloader Updater"
+msgid "Updates the dreambox bootloader when required"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml./enigma2/usr/share/meta/plugin_fsblupdater.xml
-msgid "Updates the dreambox bootloader when required"
+msgid "Bootloader Updater"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_defaultservicesscanner.xml
@@ -11114,14 +11114,14 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_pictureplayer.xml
 #: enigma2/usr/share/meta/plugin_pictureplayer.xml./enigma2/usr/share/meta/plugin_pictureplayer.xml
-msgid ""
-"The PicturePlayer displays your photos on the TV.\n"
-"You can view them as thumbnails or slideshow."
+msgid "Display your photos on the TV"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_pictureplayer.xml
 #: enigma2/usr/share/meta/plugin_pictureplayer.xml./enigma2/usr/share/meta/plugin_pictureplayer.xml
-msgid "Display your photos on the TV"
+msgid ""
+"The PicturePlayer displays your photos on the TV.\n"
+"You can view them as thumbnails or slideshow."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml
@@ -11140,14 +11140,14 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
-msgid ""
-"With the CrashlogAutoSubmit plugin it is possible to automaticallymail "
-"crashlogs found on your hard drive to Dream Multimedia."
+msgid "Automatically send crashlogs to Dream Multimedia"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
-msgid "Automatically send crashlogs to Dream Multimedia"
+msgid ""
+"With the CrashlogAutoSubmit plugin it is possible to automaticallymail "
+"crashlogs found on your hard drive to Dream Multimedia."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_bludiscplayer.xml
@@ -11168,19 +11168,14 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_satfinder.xml
 #: enigma2/usr/share/meta/plugin_satfinder.xml./enigma2/usr/share/meta/plugin_satfinder.xml
-msgid "Satfinder helps you to align your dish"
-msgstr ""
-
-#: enigma2/usr/share/meta/plugin_satfinder.xml
-#: enigma2/usr/share/meta/plugin_satfinder.xml./enigma2/usr/share/meta/plugin_satfinder.xml
 msgid ""
 "The Satfinder plugin helps you to align your dish.\n"
 "It shows you informations about signal rate and errors."
 msgstr ""
 
-#: enigma2/usr/share/meta/plugin_videotune.xml
-#: enigma2/usr/share/meta/plugin_videotune.xml./enigma2/usr/share/meta/plugin_videotune.xml
-msgid "VideoTune helps fine-tuning your tv display"
+#: enigma2/usr/share/meta/plugin_satfinder.xml
+#: enigma2/usr/share/meta/plugin_satfinder.xml./enigma2/usr/share/meta/plugin_satfinder.xml
+msgid "Satfinder helps you to align your dish"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_videotune.xml
@@ -11190,16 +11185,21 @@ msgid ""
 "You can control brightness and contrast of your tv."
 msgstr ""
 
-#: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
-#: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
-msgid ""
-"This system tool is internally used to program the hardware with firmware "
-"updates."
+#: enigma2/usr/share/meta/plugin_videotune.xml
+#: enigma2/usr/share/meta/plugin_videotune.xml./enigma2/usr/share/meta/plugin_videotune.xml
+msgid "VideoTune helps fine-tuning your tv display"
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 msgid "Internal firmware updater"
+msgstr ""
+
+#: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
+#: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
+msgid ""
+"This system tool is internally used to program the hardware with firmware "
+"updates."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_dvdburn.xml
@@ -11229,90 +11229,36 @@ msgstr ""
 
 #: enigma2/usr/share/meta/plugin_networkmanager.xml
 #: enigma2/usr/share/meta/plugin_networkmanager.xml./enigma2/usr/share/meta/plugin_networkmanager.xml
-msgid "Network management plugin"
+msgid "This plugin is used to setup the network on your dreambox."
 msgstr ""
 
 #: enigma2/usr/share/meta/plugin_networkmanager.xml
 #: enigma2/usr/share/meta/plugin_networkmanager.xml./enigma2/usr/share/meta/plugin_networkmanager.xml
-msgid "This plugin is used to setup the network on your dreambox."
+msgid "Network management plugin"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "EPG"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Volume"
+msgid "/"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "UserManager"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Reception Settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Satellite Blindscan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Lock:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "About"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "CleanupWizard settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Translation"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Choose your Skin"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Software Update..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Default services lists"
+msgid "IPKG upgrade..."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin manager"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "Index"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11324,81 +11270,55 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Cutlist editor"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "UserDialog"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "DVD Tool"
+msgid "MyTube - Tasks"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Parental control services Editor"
+msgid "Satellite Blindscan"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "NOW"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MORE"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "7"
+msgid "BER:"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "CDInfo"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-msgid "Seek"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "1"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "2"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "Webinterface: Main Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "IPKG source"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "DVD media toolbox"
+msgid "MyTube - Help"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Select HDD"
+msgid "Translation"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Select a movie"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "EPG Selection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "CutlistEditor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MountEdit"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11412,9 +11332,470 @@ msgid "Radio"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Harddisk"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timer sanity error"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timer log"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MountEdit"
+msgid "AC3 Lip Sync Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "IPKG source"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "1"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "6"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Serviceinfo"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timer entry"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timer selection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Movielist menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Reception Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "CDInfo"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "NEXT"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Select IPKG source....."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Ipkg Installer..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "MyTube - Search"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Choose bouquet"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "UserDialog"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Common Interface"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Recording paths..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Job View"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "5"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Message..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Virtual KeyBoard"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Channellist menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "2"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "DVD Tool"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Restore Backups"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Software Update..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "7"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "UnhandledKey"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "VideoEnhancementSetup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "Index"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Lock:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Choose Tuner"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Command execution..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Installing Software..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Service scan"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "NOW"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Genuine Dreambox"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "help..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MountView"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Plugin browser"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "DVD media toolbox"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "Wireless Network State"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "9"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Notification Queue Viewer"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "CI Assignment"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Select files/folders to backup..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MyTube - Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Choose your Skin"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Volume"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MyTube - Browser"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "8"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Time/Date Input"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MORE"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MyTube - History"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Subservices"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Network Neighbourhood"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "Verkehrsinfo"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Translation:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+msgid "Seek"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Plugin details"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Cutlist editor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Default services lists"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "AutoMountManager"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "About"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Dish"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MediaPlayer"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "PiPSetup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timeshift"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Main menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "Webinterface: Main Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "4"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "SNR:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "UserManager"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "NetworkWizard"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Parental control services Editor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Service Scan"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "3"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timer Editor"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11424,9 +11805,19 @@ msgid "Eventview"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "CleanupWizard settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
+msgid "0"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timer selection"
+msgid "Continue in background"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11443,378 +11834,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "/"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Network Neighbourhood"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Service scan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTube - Tasks"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Recording paths..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timeshift"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Movielist menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Restore Backups"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timer log"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Subservices"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTube - Settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Select IPKG source....."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "CutlistEditor"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Notification Queue Viewer"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTube - Browser"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timer sanity error"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "AutoMountManager"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Installing Software..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "CI Assignment"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Plugin browser"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Job View"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Ipkg Installer..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timer entry"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Continue in background"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "PiPSetup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "4"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "EPG Selection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "AC3 Lip Sync Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Command execution..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Main menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "MyTube - Search"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Virtual KeyBoard"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Choose bouquet"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTube - Help"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Service Scan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Common Interface"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "SNR:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timer Editor"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "6"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "EPG"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Harddisk"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Plugin details"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "9"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MediaPlayer"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Choose Tuner"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Select a movie"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Message..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MountView"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Serviceinfo"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "3"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "BER:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Dish"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "0"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "UnhandledKey"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTube - History"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "Wireless Network State"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "help..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "VideoEnhancementSetup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "NetworkWizard"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "IPKG upgrade..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Time/Date Input"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Genuine Dreambox"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "Verkehrsinfo"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Translation:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "NEXT"
+msgid "Select HDD"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -11823,201 +11843,12 @@ msgstr ""
 msgid "Pin code needed"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Channellist menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Select files/folders to backup..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "8"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
-msgid "5"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Slow Motion speeds"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Initial Rewind speed"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Show Message when Recording starts"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Action on short powerbutton press"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "RC Menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Repeat"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Initial Fast Forward speed"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Usability"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "New ttx subtitle charset detection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Customize"
-msgstr ""
-
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Show infobar on channel change"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Change bouquets in quickzap"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Infobar timeout"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Behavior of 0 key in PiP-mode"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Debug"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Color Format"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Shutdown when no button has been pressed for"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Keep outdated EPG (in hours)"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Setup Mode"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Debug accel memory usage"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "TS Streaming Buffer (ms)"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Verbose FileWatch Debug output"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Recordings always have priority"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Non TS Streaming Buffer (ms)"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-#: enigma2/usr/share/enigma2/skin_default.xml
-msgid "OSD Settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Auto scart switching"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Behavior of 'pause' when paused"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Custom skip time for '1'/'3'-keys"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Position of finished Timers in Timerlist"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Margin after record"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Custom skip time for '7'/'9'-keys"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Sat / Dish Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Delay"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "LED"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Display Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Minimum treshold in seconds before resuming"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Keyboard Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Show positioner movement"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Streaming"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Alternative radio mode"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Show infobar on skip forward/backward"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Text subtitle presentation"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Composition of the recording filenames"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Show event-progress in channel selection"
+msgid "Rewind speeds"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12025,51 +11856,7 @@ msgid "Behavior when a movie is started"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Fast Forward speeds"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Margin before record (minutes)"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "WSS on 4:3"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Multi-EPG bouquet selection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Alpha"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Movielist"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Show infobar on event change"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "General PCM delay (ms)"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Keyboard Map"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Maximum stream resolution"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Use legacy virtual subservices detection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Harddisk setup"
+msgid "Debug"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12077,11 +11864,7 @@ msgid "Load metadata from database"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Shutdown Color"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Enable multiple bouquets"
+msgid "Keymap"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12089,7 +11872,107 @@ msgid "Text subtitle black box transparency"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
+msgid "Custom skip time for '1'/'3'-keys"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Repeat"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Action on short powerbutton press"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Load Length of Movies in Movielist"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Harddisk standby after"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Non TS Streaming Buffer (ms)"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Shutdown Color"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Shutdown when no button has been pressed for"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Behavior when a movie reaches the end"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Infobar timeout"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Automatic wakeup from standby for zap timers"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Change bouquets in quickzap"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Alternative services tuner priority"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
 msgid "LED Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Use power measurement"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Color"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Alpha"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Maximum stream resolution"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Fast Forward speeds"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Streaming"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Idle Brightness"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Behavior when a movie is stopped"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Show infobar on event change"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "New ttx subtitle charset detection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Setup Mode"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Movielist"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12099,47 +11982,48 @@ msgid "Timer"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Alternative services tuner priority"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Automatic wakeup from standby for zap timers"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "DiSEqC"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
-msgid "Color"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/setup.xml
 msgid "Idle Color"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "EPG cache time span"
+msgid "Margin before record (minutes)"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Limited character set for recording filenames"
+msgid "Enable multiple bouquets"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "General AC3 delay (ms)"
+msgid "Composition of the recording filenames"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Harddisk standby after"
+msgid "Recordings always have priority"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Load Length of Movies in Movielist"
+msgid "Custom skip time for '7'/'9'-keys"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Idle Brightness"
+msgid "Debug accel memory usage"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
+msgid "OSD Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Minimum treshold in seconds before resuming"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Harddisk setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Position of finished Timers in Timerlist"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12147,11 +12031,111 @@ msgid "Tuner Slot"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Behavior when a movie reaches the end"
+msgid "Delay"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Action on long powerbutton press"
+msgid "Custom skip time for '4'/'6'-keys"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "TS Streaming Buffer (ms)"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Show infobar on skip forward/backward"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Show event-progress in channel selection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Initial Fast Forward speed"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Limited character set for recording filenames"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Color Format"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Display Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Text subtitle presentation"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Usability"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "LED"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Slow Motion speeds"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "General PCM delay (ms)"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Multi-EPG bouquet selection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Show Message when Recording starts"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Margin after record"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Customize"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Verbose FileWatch Debug output"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Initial Rewind speed"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Keyboard Map"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Keep outdated EPG (in hours)"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Show positioner movement"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Behavior of 'pause' when paused"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "General AC3 delay (ms)"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Alternative radio mode"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "EPG cache time span"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12159,11 +12143,15 @@ msgid "TV System"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Use power measurement"
+msgid "WSS on 4:3"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Behavior when a movie is stopped"
+msgid "DiSEqC"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Sat / Dish Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12171,15 +12159,31 @@ msgid "Show blinking clock in display during recording"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Rewind speeds"
+msgid "RC Menu"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Keymap"
+msgid "Keyboard Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/setup.xml
-msgid "Custom skip time for '4'/'6'-keys"
+msgid "Action on long powerbutton press"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Use legacy virtual subservices detection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Behavior of 0 key in PiP-mode"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/setup.xml
+msgid "Auto scart switching"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default.xml
+msgid "Key Info"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -12191,13 +12195,17 @@ msgid "config menu"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "EPGRefresh Functions"
+msgid "x"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "GraphMultiEPG Settings"
+msgid "Service:Name server configuration"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default.xml
+msgid "Stream Services configuration"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -12206,26 +12214,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Network:Service configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default.xml
-msgid "Service:Name server configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default.xml
-#: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "x"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default.xml
-msgid "Stream Services configuration"
+msgid "EPGRefresh Functions"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
@@ -12234,21 +12223,18 @@ msgid "Help"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default.xml
-msgid "Key Info"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Cutlist Menu"
+msgid "Network:Service configuration"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
-msgid "BAT"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MovieSelection QuickButton Setup"
+msgid "GraphMultiEPG Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Automatic Timerlist Cleanup Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
@@ -12257,7 +12243,21 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "AudioPlayer"
+msgid "Scan IP"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Cutlist Menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MovieSelection QuickButton Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin.xml
+msgid "BLE"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
@@ -12266,92 +12266,12 @@ msgid "Webinterface:Main Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Scan IP"
+msgid "BAT"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin.xml
-msgid "BLE"
-msgstr ""
-
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "dreamIRC - edit settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Emulator Browser"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "eParted"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "DiSEqC Tester"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "F I L E L I S T"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Merlin Programm Guide"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Not tested:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "LogoManager Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Timeshift State"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Merlin Program Guide"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Sat&gt;IP Tuner Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "YT-Trailer Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Web Browser - Edit Bookmark"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Search with 0-9:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Sat&gt;IP Tuner Overview"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "select Slot"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MediaCenter:Main Settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MyTubeSuggestionsListScreen..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Retro GameStation"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Refresh"
+msgid "AudioPlayer"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12359,15 +12279,15 @@ msgid "CurlyTx"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Birthday Reminder"
+msgid "Symbolrate:"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Remote-Timer digest"
+msgid "Wizard..."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Anti Scroll Setup"
+msgid "add Partition"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12375,51 +12295,11 @@ msgid "Quickbutton Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Database Manager"
+msgid "Video color space setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Select teletext"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "FEC:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "LED Manager"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Account Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Simple RSS Ticker"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Babelzapper Plugin"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Stream Server Configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Remote timer entry"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Simple RSS Reader Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "InternetRadio Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "DynDNS Setup"
+msgid "MediaCenter:Main Settings"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12427,27 +12307,63 @@ msgid "FTP Browser"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Failed:"
+msgid "dreamIRC"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Remote Timer Editor"
+msgid "Partnerbox:Edit Entry"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "QuickZap"
+msgid "AutoTimer Overview"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Restore fstab.backup"
+msgid "Audio Sync"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Frequency:"
+msgid "Elektro Power Save Profile Times"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "hide/visible entry"
+msgid "Not tested:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Select teletext"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Retro GameStation"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "P L A Y L I S T"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Account Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Stream Server Configuration"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Birthday Reminder Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Elektro Power Save IP Addresses to wait"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Babelzapper Plugin"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Partnerbox Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12455,11 +12371,295 @@ msgid "Audio Restart Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Zap-History Browser"
+msgid "Preview AutoTimer"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "LogoManager Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Web Browser - Menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Failed:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "EPG Copy view"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Run mount -a"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Web Browser - Edit Bookmark"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "FTP Server Editor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Zap Statistic"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "DVD Backup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Merlin Program Guide"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "F I L E L I S T"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Search with 0-9:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Email Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Elektro Power Save IP Telnet - Poweroff"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MediaCenter Menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MyTubeSuggestionsListScreen..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Merlin Programm Guide"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "LED Manager"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "With errors:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Refresh"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Birthday Reminder"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Elektro Power Save"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Permanent Clock"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Remote timer entry"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Sat&gt;IP Tuner Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Database Manager"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "coded:2010 by Vali"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Zap-History Configurator"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Simple RSS Ticker"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "InternetRadio Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Remote Timer Editor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Zap-History Browser"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Timeshift State"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Bonjour"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Remote-Timer digest"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Accounts list"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Add entry"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "VPS-Plugin Information"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Remove entry"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "fstab-Editor"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "select Slot"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Sat&gt;IP Tuner Overview"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Show..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "BLE:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "End"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Overall progress:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "MPHelp"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "YT-Trailer Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "TeleTextFavoritesMenu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Primetime"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "VPS-Plugin"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Partnerbox:List of Entries"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "AutoTimer Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Progress:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "BAT:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Animation Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Frequency:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "DynDNS Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "CI/CA Menu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "3D settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Edit AutoTimer"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Zap/Exit"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "YT-Trailer List"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Restore fstab.backup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Anti Scroll Setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "hide/visible entry"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "FEC:"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "eParted"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "TeleTextMenu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Edit AutoTimer Services"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "Menu Sort"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
+msgid "QuickZap"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12471,47 +12671,15 @@ msgid "Edit AutoTimer Filters"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "TeleTextFavoritesMenu"
+msgid "FTP Server Manager"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Partnerbox:Edit Entry"
+msgid "dreamIRC - edit settings"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "coded:2010 by Vali"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "EPG Copy view"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Track Autoselect configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Growlee Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Zap-History Configurator"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "AutoTimer Overview"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "add Partition"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Overall progress:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Birthday Reminder Settings"
+msgid "Simple RSS Reader Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12519,99 +12687,7 @@ msgid "Option Selector"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "DVD Backup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "fstab-Editor"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Primetime"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Wizard..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Elektro Power Save IP Addresses to wait"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Show..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "BAT:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Stalker Middleware Client Configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Add entry"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "P L A Y L I S T"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Preview AutoTimer"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "TeleTextMenu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MediaCenter Menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "MPHelp"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Menu Sort"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Edit AutoTimer Services"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "3D settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "BLE:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Elektro Power Save IP Telnet - Poweroff"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Video color space setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Edit AutoTimer"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "YT-Trailer List"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "With errors:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "CI/CA Menu"
+msgid "Import AutoTimer"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12619,15 +12695,7 @@ msgid "FTP Queue Manager"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "VPS-Plugin"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "End"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Permanent Clock"
+msgid "Emulator Browser"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -12635,95 +12703,27 @@ msgid "Weather Plugin"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Remove entry"
+msgid "Growlee Setup"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Animation Setup"
+msgid "DiSEqC Tester"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "dreamIRC"
+msgid "Stalker Middleware Client Configuration"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Run mount -a"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Bonjour"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Zap/Exit"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Accounts list"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Partnerbox:List of Entries"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "FTP Server Manager"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Audio Sync"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Email Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Elektro Power Save"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Elektro Power Save Profile Times"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Symbolrate:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Partnerbox Setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Progress:"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "VPS-Plugin Information"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Zap Statistic"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Web Browser - Menu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "Import AutoTimer"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-msgid "AutoTimer Settings"
+msgid "Track Autoselect configuration"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
-msgid "Left to right slide + zoom"
+msgid "Quick fade"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
-msgid "Right to left slide + zoom"
+msgid "Zoom in + Shrink out with crossfading"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
@@ -12731,15 +12731,15 @@ msgid "Grow from left + Shrink to top"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
+msgid "Right to left slide + zoom"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in left + Slide out right (Wizard)"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
-msgid "Slide in right + Slide out left"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/animations.xml
-msgid "Quick fade"
+msgid "Slide in left + Slide out right"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
@@ -12751,19 +12751,19 @@ msgid "Simple fade"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
+msgid "Slide in right + Slide out left"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/animations.xml
 msgid "Slide in top + Slide out bottom"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/animations.xml
-msgid "Slide in left + Slide out right"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/animations.xml
-msgid "Zoom in + Shrink out with crossfading"
+msgid "Left to right slide + zoom"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
-msgid "Skip Satlists"
+msgid "There are no default services lists in your image."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
@@ -12771,39 +12771,11 @@ msgid "No service lists available"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
-msgid "You chose not to install any default services lists."
+msgid "Skip Satlists"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultsatlists.xml
-msgid "There are no default services lists in your image."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Simple Scan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Skip network configuration"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No, continue without bluetooth remote setup"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Flashing Bluetooth Receiver"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Select refresh rate"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Adjust network settings"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No, but do a manual scan now"
+msgid "You chose not to install any default services lists."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12811,78 +12783,10 @@ msgid "Tuner A"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Yes, install default servicelists"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "User level"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"After the start wizard is completed, you need to protect single services. "
-"Refer to your dreambox's manual on how to do that."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No picture on TV? Press EXIT and retry."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
 "You need to set a PIN code and hide it from your children.\n"
 "\n"
 "Do you want to set the pin now?"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Network connection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Your Network connection is NOT set up!\n"
-"Please go back to reconfigure or press OK to continue anyways."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Manual scan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Please configure at least on set of IP Addresses (IPv4 or IPv6)."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Tuner D"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Video input selection\n"
-"\n"
-"Please press OK if you can see this page on your TV (or select a different "
-"input port).\n"
-"\n"
-"The next input port will be automatically probed in 20 seconds."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No Connection"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No, but do an automatic scan now"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Please be aware, that anyone can disable the parental control, if you have "
-"not set a PIN."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Do you want to do another manual service scan?"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12896,33 +12800,33 @@ msgid "What do you want to scan?"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Sat lists"
+msgid "Yes, do another manual scan now"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Refresh rate selection."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No network"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Please configure at least one valid name server (DNS)."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "IP Addresses"
+msgid "Select refresh rate"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
-"Automatically check for new updates.\n"
-"Please select the interval for automated update checks."
+"Please be aware, that anyone can disable the parental control, if you have "
+"not set a PIN."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "There is no active connection."
+msgid "Do you want to do another manual service scan?"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Simple Scan"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No, continue without bluetooth remote setup"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "User level"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12930,37 +12834,11 @@ msgid "Automatic Update Check"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Tuner B"
+msgid "Yes, install default servicelists"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Yes, do another manual scan now"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Welcome.\n"
-"\n"
-"This start wizard will guide you through the basic setup of your Dreambox.\n"
-"\n"
-"Use the up/down keys on your remote control to select an option. After that, "
-"press OK."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "DNS Addresses"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Use wizard to set up basic features"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No, scan later manually"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Start over"
+msgid "Skip network configuration"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12968,25 +12846,33 @@ msgid "Exit wizard"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Thank you for using the wizard. Your box is now ready to use.\n"
-"Please press OK to start using your Dreambox."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "ParentControl"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
-msgid "PIN WARNING"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Tuner C"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Do you want to install default sat lists?"
+msgid "There is no active connection."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Manual scan"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid ""
+"Welcome.\n"
+"\n"
+"If you want to connect your Dreambox to a network and/or the Internet, this "
+"wizard will guide you through the basic network setup of your Dreambox.\n"
+"\n"
+"Press OK to start configuring your network"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "IP Addresses"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "ParentControl Finished"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13002,11 +12888,47 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Parent PIN"
+msgid "Please configure at least one valid name server (DNS)."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "No, proceed with empty service list"
+msgid "Do you want to install default sat lists?"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "ParentControl"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid ""
+"Video input selection\n"
+"\n"
+"Please press OK if you can see this page on your TV (or select a different "
+"input port).\n"
+"\n"
+"The next input port will be automatically probed in 20 seconds."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No network"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Adjust network settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Startwizard"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid ""
+"Welcome.\n"
+"\n"
+"This start wizard will guide you through the basic setup of your Dreambox.\n"
+"\n"
+"Use the up/down keys on your remote control to select an option. After that, "
+"press OK."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13016,11 +12938,13 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "Startwizard"
+msgid ""
+"Thank you for using the wizard. Your box is now ready to use.\n"
+"Please press OK to start using your Dreambox."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid "ParentControl Finished"
+msgid "Flashing Bluetooth Receiver"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13030,23 +12954,89 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
-msgid ""
-"Welcome.\n"
-"\n"
-"If you want to connect your Dreambox to a network and/or the Internet, this "
-"wizard will guide you through the basic network setup of your Dreambox.\n"
-"\n"
-"Press OK to start configuring your network"
+msgid "Parent PIN"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/defaultwizard.xml
-msgid "No default settings"
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Refresh rate selection."
 msgstr ""
 
-#: enigma2/usr/share/enigma2/defaultwizard.xml
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Sat lists"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No, scan later manually"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Tuner B"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
-"You can choose some default settings now. Please select the settings you "
-"want to be installed."
+"Automatically check for new updates.\n"
+"Please select the interval for automated update checks."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No, but do an automatic scan now"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "PIN WARNING"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No, proceed with empty service list"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Start over"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Tuner D"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid ""
+"After the start wizard is completed, you need to protect single services. "
+"Refer to your dreambox's manual on how to do that."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Please configure at least on set of IP Addresses (IPv4 or IPv6)."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid ""
+"Your Network connection is NOT set up!\n"
+"Please go back to reconfigure or press OK to continue anyways."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No, but do a manual scan now"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Use wizard to set up basic features"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "Network connection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No picture on TV? Press EXIT and retry."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "DNS Addresses"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/startwizard.xml
+msgid "No Connection"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
@@ -13056,15 +13046,25 @@ msgid ""
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
-msgid "Installing defaults... Please wait..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/defaultwizard.xml
 msgid "Installing defaults..."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
-msgid "Default settings"
+msgid ""
+"You can choose some default settings now. Please select the settings you "
+"want to be installed."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/defaultwizard.xml
+msgid "No default settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/defaultwizard.xml
+msgid "Installing defaults... Please wait..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/defaultwizard.xml
+msgid "Skip default settings"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
@@ -13072,7 +13072,7 @@ msgid "There are no default settings in your image."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/defaultwizard.xml
-msgid "Skip default settings"
+msgid "Default settings"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
@@ -13086,23 +13086,11 @@ msgid "Do you want to view a tutorial?"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
-msgid "Yes, view the tutorial"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/tutorialwizard.xml
 msgid "This is step number 2."
 msgstr ""
 
-#: enigma2/usr/share/enigma2/restorewizard.xml
-msgid "Yes, but only some"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/restorewizard.xml
-msgid "Please select the packages to be restored from the list below"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/restorewizard.xml
-msgid "Restore software?"
+#: enigma2/usr/share/enigma2/tutorialwizard.xml
+msgid "Yes, view the tutorial"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
@@ -13110,7 +13098,19 @@ msgid "Yes, all"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
+msgid "Yes, but only some"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "Package Selection"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/restorewizard.xml
+msgid "Restoring software"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/restorewizard.xml
+msgid "Please select the packages to be restored from the list below"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
@@ -13118,11 +13118,11 @@ msgid "Restoring previously installed software"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/restorewizard.xml
-msgid "Restoring software"
+msgid "Restore software?"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
-msgid "You can choose, what you want to install..."
+msgid "Installing package content... Please wait..."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
@@ -13130,128 +13130,12 @@ msgid "The package doesn't contain anything."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
-msgid ""
-"You chose not to install anything. Please press OK finish the install wizard."
+msgid "You can choose, what you want to install..."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
-msgid "Installing package content... Please wait..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Storage, Common Interface, Input, ..."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your frontpanel OLED or LCD display."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Language"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Listen to radio stations."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Network Setup and Tools."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Install default service lists."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Search for services and configure your tuners."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your recording paths."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Service Searching"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure Enigma2 interface and usage settings."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Factory reset"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Restart"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Setup UI animations"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Advanced setup options"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Manual Scan"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your frontpanel LED."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Reset your Dreambox to factory defaults."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Picture and Sound"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Technical details about channel and Dreambox."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Put your Dreambox into standby."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Set up parental control."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Set up your system timezone."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Manually scan for new services."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Set up your Dreambox language."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Shut down your Dreambox."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Put your Dreambox into standby, restart or shut it down."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your common interface."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Restart Enigma2 only."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Shut down Dreambox OS and start Recovery Mode to flash firmware images."
+msgid ""
+"You chose not to install anything. Please press OK finish the install wizard."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
@@ -13259,55 +13143,23 @@ msgid "Animations"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "Plugins"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Put your Dreambox into idle mode."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Recording paths"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Details about your Dreambox system."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure and set up your Dreambox."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
 msgid "Set up your storage devices like harddisks and flash memory cards."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "Browse and manage your plugins."
+msgid "Factory reset"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "OSD, Video and Audio Settings"
+msgid "Configure your common interface."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "Set up a timer after which your Dreambox will turn off."
+msgid "Shut down Dreambox OS and start Recovery Mode to flash firmware images."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "Restart GUI"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your tuners."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Mainmenu"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Service Searching, Parental Control, ..."
+msgid "Set up your Dreambox language."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
@@ -13315,35 +13167,7 @@ msgid "Information"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
-msgid "Automatically scan for new services."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Reboot your Dreambox."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Fine tuning for your Audio and Video settings."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Manage and edit timers."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "VCR scart"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Recovery Mode"
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Details about the current service."
-msgstr ""
-
-#: enigma2/usr/share/enigma2/menu.xml
-msgid "Configure your input devices."
+msgid "Shut down your Dreambox."
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
@@ -13351,11 +13175,183 @@ msgid "Services and Recordings"
 msgstr ""
 
 #: enigma2/usr/share/enigma2/menu.xml
+msgid "Mainmenu"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Setup UI animations"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Put your Dreambox into idle mode."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Restart GUI"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Restart Enigma2 only."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Set up a timer after which your Dreambox will turn off."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Put your Dreambox into standby."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Picture and Sound"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "OSD, Video and Audio Settings"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
 msgid "Tuner configuration"
 msgstr ""
 
-#: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
-msgid "Kerni's YADS-HD skin"
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure Enigma2 interface and usage settings."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Service Searching"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure your tuners."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Recording paths"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Automatically scan for new services."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Language"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Service Searching, Parental Control, ..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Install default service lists."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure your recording paths."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Fine tuning for your Audio and Video settings."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure and set up your Dreambox."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure your frontpanel OLED or LCD display."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Reset your Dreambox to factory defaults."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Set up your system timezone."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Storage, Common Interface, Input, ..."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Details about your Dreambox system."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Reboot your Dreambox."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Restart"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Technical details about channel and Dreambox."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Browse and manage your plugins."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Recovery Mode"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Manual Scan"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Listen to radio stations."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure your input devices."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Plugins"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Configure your frontpanel LED."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Manage and edit timers."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Advanced setup options"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Network Setup and Tools."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "VCR scart"
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Manually scan for new services."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Search for services and configure your tuners."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Put your Dreambox into standby, restart or shut it down."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Set up parental control."
+msgstr ""
+
+#: enigma2/usr/share/enigma2/menu.xml
+msgid "Details about the current service."
 msgstr ""
 
 #: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
@@ -13365,6 +13361,10 @@ msgstr ""
 #: enigma2-skins/skins/DMConcinnity-HD/meta/skin_dmconcinnity-hd.xml
 #: enigma2-skins/skins/DreamMM-HD/meta/skin_dreammm-hd.xml
 msgid "a HD skin from Kerni"
+msgstr ""
+
+#: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
+msgid "Kerni's YADS-HD skin"
 msgstr ""
 
 #: enigma2-skins/skins/dreamTV-HD/meta/skin_dreamtv-hd.xml
@@ -13386,14 +13386,14 @@ msgid "Vali.HD.nano skin"
 msgstr ""
 
 #: enigma2-skins/skins/holo-black/meta/skin_holo-black.xml
+msgid "holo-black skin"
+msgstr ""
+
+#: enigma2-skins/skins/holo-black/meta/skin_holo-black.xml
 #: enigma2-skins/skins/holoFHD-light/meta/skin_holofhd-light.xml
 #: enigma2-skins/skins/holo-light/meta/skin_holo-light.xml
 #: enigma2-skins/skins/holo-dark/meta/skin_holo-dark.xml
 msgid "A holo inspired HD skin from the Members of IhaD"
-msgstr ""
-
-#: enigma2-skins/skins/holo-black/meta/skin_holo-black.xml
-msgid "holo-black skin"
 msgstr ""
 
 #: enigma2-skins/skins/UltraViolet/meta/skin_ultraviolet.xml
@@ -13410,11 +13410,11 @@ msgid "A holo inspired Full HD skin from the Members of IhaD"
 msgstr ""
 
 #: enigma2-skins/skins/Kerni-HD1R2/meta/skin_kerni-hd1r2.xml
-msgid "Kerni-HD1R2 skin"
+msgid "redesigned Kerni-HD1 skin"
 msgstr ""
 
 #: enigma2-skins/skins/Kerni-HD1R2/meta/skin_kerni-hd1r2.xml
-msgid "redesigned Kerni-HD1 skin"
+msgid "Kerni-HD1R2 skin"
 msgstr ""
 
 #: enigma2-skins/skins/dTV-HD-Reloaded/meta/skin_dtv-hd-reloaded.xml
@@ -13442,11 +13442,11 @@ msgid "holoFHD-light skin"
 msgstr ""
 
 #: enigma2-skins/skins/BASIC-HD/meta/skin_basic-hd.xml
-msgid "BASIC-HD Skin for Dreambox Images created from Ismail Demir"
+msgid "BASIC-HD Skin by Ismail Demir"
 msgstr ""
 
 #: enigma2-skins/skins/BASIC-HD/meta/skin_basic-hd.xml
-msgid "BASIC-HD Skin by Ismail Demir"
+msgid "BASIC-HD Skin for Dreambox Images created from Ismail Demir"
 msgstr ""
 
 #: enigma2-skins/skins/holo-light/meta/skin_holo-light.xml
@@ -13454,35 +13454,35 @@ msgid "holo-light skin"
 msgstr ""
 
 #: enigma2-skins/skins/Kerni-HD1/meta/skin_kerni-hd1.xml
-msgid "Kernis HD1 skin"
-msgstr ""
-
-#: enigma2-skins/skins/Kerni-HD1/meta/skin_kerni-hd1.xml
 msgid "Kerni-HD1 skin"
 msgstr ""
 
-#: enigma2-skins/skins/elegance.HD/meta/skin_elegance.hd.xml
-msgid "Eleganter Skin fuer OE2.0"
+#: enigma2-skins/skins/Kerni-HD1/meta/skin_kerni-hd1.xml
+msgid "Kernis HD1 skin"
 msgstr ""
 
 #: enigma2-skins/skins/elegance.HD/meta/skin_elegance.hd.xml
 msgid "made by tikila"
 msgstr ""
 
-#: enigma2-skins/skins/hdsuisse.one4all.fhd/meta/skin_hdsuisse.one4all.fhd.xml
-msgid "hdsuisse.one4all.fhd Skin"
+#: enigma2-skins/skins/elegance.HD/meta/skin_elegance.hd.xml
+msgid "Eleganter Skin fuer OE2.0"
 msgstr ""
 
 #: enigma2-skins/skins/hdsuisse.one4all.fhd/meta/skin_hdsuisse.one4all.fhd.xml
 msgid "hdsuisse.one4all.fhd all DreamOS FHD Skin"
 msgstr ""
 
-#: enigma2-skins/skins/Vali.HD.warp/meta/skin_vali.hd.warp.xml
-msgid "Vali.HD.warp skin"
+#: enigma2-skins/skins/hdsuisse.one4all.fhd/meta/skin_hdsuisse.one4all.fhd.xml
+msgid "hdsuisse.one4all.fhd Skin"
 msgstr ""
 
 #: enigma2-skins/skins/Vali.HD.warp/meta/skin_vali.hd.warp.xml
 msgid "A BackToTheRoots-Skin .. but with Warp-8 speed."
+msgstr ""
+
+#: enigma2-skins/skins/Vali.HD.warp/meta/skin_vali.hd.warp.xml
+msgid "Vali.HD.warp skin"
 msgstr ""
 
 #: enigma2-skins/skins/dTV-HD/meta/skin_dtv-hd.xml
@@ -13506,11 +13506,11 @@ msgid "Kerni's DreamMM-HD skin"
 msgstr ""
 
 #: enigma2-skins/skins/Vali.HD.atlantis/meta/skin_vali.hd.atlantis.xml
-msgid "Vali.HD.atlantis skin"
+msgid "A dreambox simulation from SG-Atlantis displays."
 msgstr ""
 
 #: enigma2-skins/skins/Vali.HD.atlantis/meta/skin_vali.hd.atlantis.xml
-msgid "A dreambox simulation from SG-Atlantis displays."
+msgid "Vali.HD.atlantis skin"
 msgstr ""
 
 #: enigma2-skins/skins/holoFHD-black/meta/skin_holofhd-black.xml
