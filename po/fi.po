@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-20 22:07+0000\n"
+"POT-Creation-Date: 2022-11-17 22:08+0000\n"
 "PO-Revision-Date: 2019-12-02 06:34+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -279,9 +279,9 @@ msgid "%d transponders found at %d:%02dmin"
 msgstr "%d lähetintä löytyi %d:%02dmin"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:136
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
 msgid "%d.%B %Y"
 msgstr "%d.%m.%Y"
 
@@ -458,15 +458,15 @@ msgid "1.0"
 msgstr "1.0"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:55
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
+#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:55
 msgid "1.1"
 msgstr "1.1"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:56
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1767
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
+#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:56
 msgid "1.2"
 msgstr "1.2"
 
@@ -507,9 +507,9 @@ msgstr "16:10 Pan&Scan"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:77
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:384
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:93
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 msgid "16:9"
 msgstr "16:9"
 
@@ -599,8 +599,8 @@ msgid "4.2"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:75
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:383
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 msgid "4:3"
 msgstr "4:3"
 
@@ -759,8 +759,8 @@ msgstr ""
 msgid "A new bluetooth remote has been discovered. Connect now?"
 msgstr ""
 
-#: enigma2-skins/skins/dTV-HD/meta/skin_dtv-hd.xml
 #: enigma2-skins/skins/dreamTV-HD/meta/skin_dreamtv-hd.xml
+#: enigma2-skins/skins/dTV-HD/meta/skin_dtv-hd.xml
 #: enigma2-skins/skins/dTV-HD-Reloaded/meta/skin_dtv-hd-reloaded.xml
 msgid "A nice looking HD skin from Kerni"
 msgstr "Kernin tekemä HD-teema"
@@ -829,8 +829,8 @@ msgid "A simple UPnP/DLNA Mediarenderer"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:134
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:36
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:134
 msgid ""
 "A sleep timer wants to set your\n"
 "Dreambox to standby. Do that now?"
@@ -839,8 +839,8 @@ msgstr ""
 "Siirrytäänkö valmiustilaan?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:131
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:31
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:131
 msgid ""
 "A sleep timer wants to shut down\n"
 "your Dreambox. Shutdown now?"
@@ -899,9 +899,9 @@ msgstr "AB"
 msgid "AC3"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "AC3 Lip Sync Setup"
 msgstr ""
 
@@ -958,8 +958,8 @@ msgid "Abort Download?"
 msgstr "Keskeytä lataus?"
 
 #
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "About"
@@ -1031,13 +1031,13 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:40
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:37
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:11
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:37
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:81
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:121
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:11
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:174
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Add"
 msgstr "Lisää"
@@ -1070,9 +1070,9 @@ msgstr "Lisää uusi tallenne"
 msgid "Add entry"
 msgstr ""
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:143
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:54
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:143
 #, fuzzy
 msgid "Add file(s) to Playlist"
 msgstr "Lisää tiedostot soittolistalle"
@@ -1271,12 +1271,12 @@ msgid "Albums"
 msgstr "Albumi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:237
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:892
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1030
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:237
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:541
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:553
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:574
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:541
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:16
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:203
 msgid "All"
@@ -1345,10 +1345,10 @@ msgid "An unexpected error occured when trying to save the Playlist!"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/Task.py:360
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Bludisc.py:285
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:184
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:306
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Bludisc.py:285
-#: enigma2/usr/lib/enigma2/python/Components/Task.py:360
 msgid "An unknown error occured!"
 msgstr "Tuntematon virhe!"
 
@@ -1455,12 +1455,12 @@ msgstr "Määritä palvelutarjoajat/kanavat/CAId:t haluamaasi CI-moduuliin"
 msgid "Association"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:28
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:102
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:28
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Audio"
 msgstr ""
 
@@ -1492,8 +1492,8 @@ msgstr ""
 msgid "Audio Sync"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:14
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:20
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:14
 msgid "Audio System"
 msgstr ""
 
@@ -1501,8 +1501,8 @@ msgstr ""
 msgid "Audio System (force)"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "AudioPlayer"
 msgstr ""
 
@@ -1521,6 +1521,22 @@ msgid "Authoring mode"
 msgstr "Toimintatapa"
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:39
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:44
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:56
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:78
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:92
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:99
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:104
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:117
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:121
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:130
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:139
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:146
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:149
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:158
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:171
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:175
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1737
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1745
@@ -1543,22 +1559,6 @@ msgstr "Toimintatapa"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1915
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1924
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1739
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:39
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:44
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:56
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:78
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:92
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:99
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:104
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:117
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:121
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:130
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:139
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:146
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:149
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:158
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:171
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:175
 msgid "Auto"
 msgstr "Automaattinen"
 
@@ -1586,9 +1586,9 @@ msgstr "Ihonvärin korostus"
 msgid "Auto scart switching"
 msgstr "Autom. SCARTin kytkentä"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "AutoMountManager"
 msgstr ""
 
@@ -1652,8 +1652,8 @@ msgstr ""
 msgid "Automatic wakeup from standby for zap timers"
 msgstr "Automaattinen käynnistys valmiustilasta katseluajastimia varten"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:149
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:42
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:149
 msgid "Automatically check for new updates"
 msgstr ""
 
@@ -1734,10 +1734,10 @@ msgstr "BDMV Bludisc (vain HDTV-ohjelmat)"
 msgid "BDMV Compatible Bludisc (HDTV only)"
 msgstr "BDMV yhteensopiva Bludisc (vain HDTV)"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "BER:"
 msgstr ""
 
@@ -1882,8 +1882,8 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:77
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:454
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Begin time"
 msgstr "Aloitusaika"
 
@@ -1912,8 +1912,8 @@ msgstr "Toiminto kun toisto pysäytetään"
 msgid "Behavior when a movie reaches the end"
 msgstr "Toiminto kun tallenne loppuu"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:24
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:128
 msgid "Best"
 msgstr ""
 
@@ -2049,9 +2049,9 @@ msgid "Burn existing image to medium"
 msgstr "Polta olemassa oleva levykuva medialle"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:41
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/plugin.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:72
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:132
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/plugin.py:13
 msgid "Burn to medium"
 msgstr "Polta medialle"
 
@@ -2072,15 +2072,15 @@ msgstr "Painamalla kaukosäätimen OK-näppäintä, näet tietopalkin."
 msgid "C-Band"
 msgstr "C-taajuusalue"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CDInfo"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CI Assignment"
 msgstr ""
 
@@ -2100,10 +2100,10 @@ msgid "CVBS"
 msgstr "Komposiitti (CVBS)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1150
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:489
-#: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:76
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:90
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1150
+#: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:76
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:489
 msgid "Cable"
 msgstr "Kaapeli (DVB-C)"
 
@@ -2112,46 +2112,46 @@ msgid "Cached IO"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:18
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:38
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:16
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:37
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:59
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:340
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1331
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:96
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:130
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:40
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:94
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:184
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:306
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/Setup.py:87
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:16
+#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:18
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:96
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:130
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:38
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:40
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:94
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1331
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:59
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:340
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:184
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:306
+#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:111
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:189
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:317
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:121
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:200
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:121
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:337
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:975
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1413
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:581
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:34
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:376
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:37
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:189
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:28
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:59
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:107
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:853
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:376
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:581
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:218
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:55
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:28
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:24
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:66
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:218
-#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:111
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:59
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:107
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:55
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:853
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -2203,8 +2203,8 @@ msgid "Change bouquets in quickzap"
 msgstr "Suosikkilistan vaihto listan lopussa"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:317
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:263
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:317
 msgid "Change pin code"
 msgstr "Vaihda tunnusluku"
 
@@ -2231,9 +2231,9 @@ msgstr "Muuta askelkokoa"
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:358
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:379
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:173
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:23
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Channel"
 msgstr "Kanava"
@@ -2257,9 +2257,9 @@ msgstr "Kanava:"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:23
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:232
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "ChannelSelection Display Settings"
 msgstr "Kanavanvalinnan näyttöasetukset"
 
@@ -2289,8 +2289,8 @@ msgstr "Kappale:"
 msgid "Check"
 msgstr "Tarkista"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:148
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:41
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:148
 msgid "Check on every boot"
 msgstr ""
 
@@ -2334,8 +2334,8 @@ msgstr ""
 msgid "Choose Tuner"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Choose a Wireless Network"
 msgstr ""
 
@@ -2405,9 +2405,9 @@ msgstr "Puhdistusavustajan asetukset"
 msgid "CleanupWizard"
 msgstr "Puhdistusavustaja"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CleanupWizard settings"
 msgstr ""
 
@@ -2424,8 +2424,8 @@ msgstr "Tyhjennä historia?"
 msgid "Clear List"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:55
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:192
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:55
 #, fuzzy
 msgid "Clear Playlist"
 msgstr "tyhjennä soittolista"
@@ -2447,6 +2447,8 @@ msgstr "Tyhjennä loki"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:50
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:180
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:452
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:542
@@ -2456,16 +2458,14 @@ msgstr "Tyhjennä loki"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1327
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1539
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1823
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:69
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:58
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:35
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:430
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:540
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:69
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:173
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:105
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:289
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:50
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:173
 msgid "Close"
 msgstr "Sulje"
 
@@ -2505,9 +2505,9 @@ msgstr "Kokoelman nimi"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:138
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:71
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Collection settings"
 msgstr "Kokoelman asetukset"
 
@@ -2550,8 +2550,8 @@ msgid "Committed DiSEqC command"
 msgstr "Committed DiSEqC-käsky"
 
 #
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Common Interface"
@@ -2662,11 +2662,11 @@ msgstr "Ristiriita ajastusten välillä"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:59
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:112
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:63
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:63
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:80
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:84
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:63
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:112
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:63
 msgid "Connect"
 msgstr "Yhdistä"
 
@@ -2808,9 +2808,9 @@ msgstr "Kaatumislokien automaattilähetys"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:81
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CrashlogAutoSubmit settings..."
 msgstr "Kaatumislokien automaattilähetys..."
 
@@ -2827,9 +2827,9 @@ msgid "Create Bludisc ISO file"
 msgstr "Luo Bludisc ISO-tiedosto"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:41
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:906
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:947
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:41
 msgid "Create DVD-ISO"
 msgstr "Luo DVD-ISO"
 
@@ -2945,14 +2945,14 @@ msgstr ""
 "Hae leikkauksen alkukohta, paina OK ja valitse 'aloita leikkaus'.\n"
 "Hae loppukohta, paina OK ja valitse 'lopeta leikkaus'. "
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Cutlist Menu"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Cutlist editor"
 msgstr ""
 
@@ -2962,8 +2962,8 @@ msgstr ""
 msgid "Cutlist editor..."
 msgstr "Määritä leikkauskohdat..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CutlistEditor"
 msgstr ""
 
@@ -3128,15 +3128,15 @@ msgstr "DVD-soitin"
 msgid "DVD Titlelist"
 msgstr "DVD-otsikkoluettelo"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "DVD Tool"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "DVD media toolbox"
 msgstr ""
 
@@ -3182,8 +3182,8 @@ msgid "Database reset FAILED!"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:48
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:216
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:48
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:480
 msgid "Date"
 msgstr "Päiväys"
@@ -3213,8 +3213,8 @@ msgstr "Valitse mitä kaatumislokeille tehdään lähettämisen jälkeen."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:251
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:54
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:75
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:54
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/DatabasePlaylist.py:64
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:854
 msgid "Default"
@@ -3231,8 +3231,8 @@ msgid "Default movie location"
 msgstr "Oletushakemisto tallennuksille"
 
 #
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Default services lists"
@@ -3264,10 +3264,10 @@ msgstr "Viive"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:131
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:202
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:752
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:844
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:871
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:202
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:126
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:384
@@ -3335,10 +3335,10 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:187
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:22
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:75
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Description"
 msgstr "Kuvaus"
 
@@ -3494,9 +3494,9 @@ msgstr "Poista käytöstä"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:33
+#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:118
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:506
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
-#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:118
 msgid "Disabled"
 msgstr "Ei käytössä"
 
@@ -3509,11 +3509,11 @@ msgid "Discard changes?"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:55
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:61
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:45
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:78
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:77
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:61
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:45
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:55
 msgid "Disconnect"
 msgstr "Katkaise yhteys"
 
@@ -3597,14 +3597,14 @@ msgid "Do you really want to connect %s (%s) "
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:285
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:133
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:311
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:212
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:123
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:689
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:133
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:212
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:285
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:665
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:718
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:689
 #, python-format
 msgid "Do you really want to delete %s?"
 msgstr ""
@@ -3859,8 +3859,8 @@ msgstr "Lataa"
 msgid "Download Manager"
 msgstr "Latausten hallinta"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:117
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:514
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:117
 msgid "Download started..."
 msgstr "Lataaminen aloitettu..."
 
@@ -3920,16 +3920,17 @@ msgid "Dynamic contrast"
 msgstr "Dynaaminen kontrasti"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1158
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:550
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:497
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1158
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:57
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:497
 msgid "E"
 msgstr "E"
 
-#: enigma2/usr/share/enigma2/skin.xml enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/setup.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "EPG"
 msgstr ""
 
@@ -4230,11 +4231,11 @@ msgid "Enter web address or search term"
 msgstr "Syötä web-osoite tai hakutermi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/Task.py:296
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:606
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1613
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
-#: enigma2/usr/lib/enigma2/python/Components/Task.py:296
 msgid "Error"
 msgstr "Virhe"
 
@@ -4294,10 +4295,10 @@ msgstr "Exif"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:538
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:32
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:140
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:550
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:538
 msgid "Exit"
 msgstr "Poistu"
 
@@ -4370,9 +4371,9 @@ msgstr "Laajat lisäosavalinnat"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1559
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Extensions"
 msgstr "Laajennukset"
 
@@ -4394,12 +4395,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1378
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1443
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1458
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:96
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:98
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:114
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:467
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:469
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:485
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:96
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:98
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:114
 msgid "FEC"
 msgstr "FEC"
 
@@ -4437,8 +4438,8 @@ msgid "Factory reset"
 msgstr "Palauta tehdasasetukset"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:464
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:49
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:464
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Failed"
 msgstr "Epäonnistui"
@@ -4451,8 +4452,8 @@ msgstr ""
 msgid "Failure"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:195
 #: enigma2/usr/lib/enigma2/python/Components/Sensors.py:71
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:195
 #, python-format
 msgid "Fan %d"
 msgstr "Tuuletin %d"
@@ -4558,8 +4559,8 @@ msgid ""
 "Press Yellow to connect the selected remote control."
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Flash Bluetooth Receiver Firmware?"
 msgstr ""
@@ -4630,8 +4631,8 @@ msgstr "Ranska"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1366
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1438
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1451
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:459
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:88
 msgid "Frequency"
 msgstr "Taajuus"
 
@@ -4663,10 +4664,10 @@ msgid "Frequency:"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Fri"
 msgstr "pe"
 
@@ -4812,9 +4813,9 @@ msgstr ""
 msgid "Genre"
 msgstr "Laji"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Genuine Dreambox"
 msgstr ""
 
@@ -4938,8 +4939,8 @@ msgstr ""
 msgid "HLG Support"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:106
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:237
 msgid "HLS"
 msgstr ""
 
@@ -5061,8 +5062,8 @@ msgstr "Historia poistettu!"
 msgid "Hold First Frame"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:444
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:48
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:444
 msgid "Home Page"
 msgstr "Kotisivu"
 
@@ -5072,8 +5073,8 @@ msgid "Home page has been set to '%s'"
 msgstr "Kotisivuksi on asetettu '%s'"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1423
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:64
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1423
 msgid "Horizontal"
 msgstr "Horisontaali"
 
@@ -5111,14 +5112,14 @@ msgstr ""
 msgid "IP Addresses"
 msgstr "IP-osoite"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "IPKG source"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "IPKG upgrade..."
 msgstr ""
 
@@ -5160,7 +5161,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:90
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
-#: enigma2/usr/share/enigma2/menu.xml enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/menu.xml
 msgid "Idle Mode"
 msgstr ""
 
@@ -5242,9 +5243,9 @@ msgid "Index"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:27
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:304
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:542
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Info"
@@ -5331,8 +5332,8 @@ msgid "Input Device Autosetup"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:59
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Input Devices"
 msgstr ""
@@ -5343,9 +5344,9 @@ msgid "Input device management plugin"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:167
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Input device setup"
 msgstr "Syöttölaitteen asetukset"
 
@@ -5503,14 +5504,14 @@ msgstr "Virheellinen hakemisto valittu: %s"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1367
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1439
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1453
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:89
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:460
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:89
 msgid "Inversion"
 msgstr "Inversio"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Ipkg Installer..."
 msgstr ""
 
@@ -5675,18 +5676,18 @@ msgid "Language"
 msgstr "Kielivalinta"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/Language.py:129
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:160
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:176
-#: enigma2/usr/lib/enigma2/python/Components/Language.py:129
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Language selection"
 msgstr "Kielivalinta"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:153
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:46
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:153
 msgid "Last check"
 msgstr ""
 
@@ -5722,8 +5723,8 @@ msgid "Leave DVD Player?"
 msgstr "Poistutaanko DVD-soittimesta?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:23
 #: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:228
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:23
 msgid "Left"
 msgstr "Vasen"
 
@@ -5778,9 +5779,9 @@ msgstr "Rajat päälle"
 msgid "Linked titles with a DVD menu"
 msgstr "Linkitetyt tallenteet ja DVD-valikko"
 
-#: enigma2/usr/lib/enigma2/python/Components/config.py:1252
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:193
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:426
+#: enigma2/usr/lib/enigma2/python/Components/config.py:1252
 msgid "List of Storage Devices"
 msgstr "Luettelo tallennuslaitteista"
 
@@ -5920,8 +5921,8 @@ msgid "MPHelp"
 msgstr ""
 
 #
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Main menu"
@@ -5982,8 +5983,8 @@ msgid "Manual service scan"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:498
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
 msgid "Manual transponder"
 msgstr "Manuaalinen lähetin"
 
@@ -6122,14 +6123,14 @@ msgstr "Tallennusvälineen työkalut"
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:171
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:269
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:25
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:295
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:155
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:157
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:158
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:159
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:160
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:176
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:295
 msgid "Menu"
 msgstr "Valikko"
 
@@ -6195,8 +6196,8 @@ msgstr "Tiedostojärjestelmän luonti epäonnistui"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:149
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:334
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:14
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:65
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:14
 msgid "Mode"
 msgstr "Tila"
 
@@ -6212,16 +6213,16 @@ msgstr "Malli"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1373
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1441
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1454
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:93
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:464
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:93
 msgid "Modulation"
 msgstr "Modulaatio"
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Mon"
 msgstr "ma"
 
@@ -6236,14 +6237,14 @@ msgstr "ma-pe"
 msgid "Monday"
 msgstr "Maanantai"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:895
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:904
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:149
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:292
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:71
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:80
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:895
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:904
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:292
 msgid "More ..."
 msgstr ""
 
@@ -6257,15 +6258,15 @@ msgstr "Mosquito-kohinan vaimennus"
 msgid "Mount failed"
 msgstr "Liittäminen epäonnistui"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MountEdit"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MountView"
 msgstr ""
 
@@ -6305,8 +6306,8 @@ msgstr "Liikuta länteen"
 msgid "Movie location"
 msgstr "Tallennushakemisto"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MovieSelection QuickButton Setup"
 msgstr ""
 
@@ -6321,8 +6322,8 @@ msgid "Movielist menu"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:807
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:248
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:807
 msgid "Multi EPG"
 msgstr "Kanavaopas"
 
@@ -6365,8 +6366,8 @@ msgid "Multisat"
 msgstr "Usea satelliitti"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1384
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:104
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:475
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:104
 msgid "Multistream"
 msgstr ""
 
@@ -6384,44 +6385,44 @@ msgstr ""
 msgid "Mute"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Browser"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Help"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - History"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Search"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Settings"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Tasks"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Video Info"
 msgstr ""
 
@@ -6462,8 +6463,8 @@ msgid "NTP Time Updates"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
 msgid "NTSC"
 msgstr "NTSC"
 
@@ -6498,9 +6499,9 @@ msgid "Netmask"
 msgstr "Verkkomaski"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:169
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network"
 msgstr "Verkko"
@@ -6517,9 +6518,9 @@ msgstr ""
 msgid "Network Mount"
 msgstr "Verkkoliitoksen nimi"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Network Neighbourhood"
 msgstr ""
 
@@ -6567,14 +6568,14 @@ msgid "Network:Service configuration"
 msgstr ""
 
 #
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "NetworkWizard"
 msgstr "Verkkoavustaja"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1140
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:61
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1140
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:845
 msgid "New"
 msgstr "Uusi"
@@ -6618,20 +6619,20 @@ msgstr "Uusi versio:"
 msgid "Next"
 msgstr "Seuraava"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:154
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:47
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:154
 msgid "Next check"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:31
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:28
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:123
-#: enigma2/usr/share/enigma2/restorewizard.xml
 #: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/restorewizard.xml
 msgid "No"
 msgstr "Ei"
 
@@ -6748,8 +6749,8 @@ msgid "No picture on TV? Press EXIT and retry."
 msgstr "Ei kuvaa TV:ssä? Paina EXIT ja yritä uudelleen."
 
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:157
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:130
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:138
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:130
 msgid "No playable video found! Stop playing this movie?"
 msgstr ""
 "Toistokelpoista tallennetta ei löytynyt! Pysäytetäänkö tämän tallenteen "
@@ -6860,8 +6861,8 @@ msgid "No, do nothing."
 msgstr "Ei, älä tee mitään."
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 #: enigma2/usr/share/enigma2/tutorialwizard.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "No, just start my dreambox"
 msgstr "Ei, käynnistä vain Dreambox"
 
@@ -6898,21 +6899,21 @@ msgid "Non TS Streaming Buffer (ms)"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:245
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:251
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:260
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:43
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:103
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:167
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1751
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1833
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1843
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:30
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:245
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:251
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:260
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1745
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1766
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1774
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:43
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:103
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:167
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:30
 msgid "None"
 msgstr "Ei mitään"
 
@@ -6989,9 +6990,9 @@ msgstr "Ilmoitus"
 msgid "Notification Queue"
 msgstr "Ilmoitusjono"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Notification Queue Viewer"
 msgstr ""
 
@@ -7029,39 +7030,39 @@ msgid "OGG"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:39
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:15
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:36
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:60
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:341
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:93
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:95
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:185
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:307
 #: enigma2/usr/lib/enigma2/python/Screens/Setup.py:88
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:15
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:93
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:39
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:202
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:287
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:629
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:95
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:60
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:341
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:185
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:307
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:74
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:52
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:318
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:120
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:338
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:38
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:74
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:219
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:29
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:36
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:60
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:108
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:222
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:36
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:855
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:219
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:855
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
@@ -7112,8 +7113,8 @@ msgid "OSD Name"
 msgstr ""
 
 #
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 msgid "OSD Settings"
 msgstr "Kuvaruutunäytön asetukset"
 
@@ -7131,18 +7132,18 @@ msgid "OSD, Video and Audio Settings"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1735
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1788
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1811
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1839
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
-#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:227
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:41
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:80
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:101
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:144
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1735
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1788
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1811
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1839
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
+#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:227
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
 msgid "Off"
 msgstr "Pois"
 
@@ -7155,16 +7156,16 @@ msgid "Offset in scroll mode (px)"
 msgstr "Siirtymä vierityksessä (px)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1736
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1789
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1812
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1840
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:40
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:79
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:100
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:145
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1736
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1789
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1812
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1840
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
 msgid "On"
 msgstr "Päällä"
 
@@ -7240,8 +7241,8 @@ msgid "P L A Y L I S T"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
 msgid "PAL"
 msgstr "PAL"
 
@@ -7282,16 +7283,16 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:118
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:168
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1392
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:112
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:483
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:112
 msgid "PLS Code"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:117
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:167
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1389
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:109
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:480
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:109
 msgid "PLS Mode"
 msgstr ""
 
@@ -7501,8 +7502,8 @@ msgstr "Pillarbox"
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:106
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:164
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1382
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:473
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:102
 msgid "Pilot"
 msgstr "Pilot"
 
@@ -7513,8 +7514,8 @@ msgid "Pin code needed"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:521
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:61
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:521
 msgid "Play"
 msgstr "Jatka toistoa"
 
@@ -7556,9 +7557,9 @@ msgstr ""
 msgid "Play Previous Entry"
 msgstr ""
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:140
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:50
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:140
 msgid "Play Selected Entry"
 msgstr ""
 
@@ -7583,8 +7584,8 @@ msgid "Play recorded movies..."
 msgstr "Toista tallenteet..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:32
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:146
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:539
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:146
 msgid "Play/Pause"
 msgstr ""
 
@@ -7762,10 +7763,10 @@ msgstr ""
 "Huomaa, että oletushakemisto on käytössä, koska aikaisemmin valittua levyä "
 "ei voitu ladata."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:58
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:66
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:80
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:87
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:58
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:66
 msgid ""
 "Please pickup the remote control you want to connect and press any number "
 "key on it to select it in the list.\n"
@@ -8027,31 +8028,31 @@ msgstr "Asennetut Plugin-lisäosat"
 msgid "Plugin browser"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Plugin details"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Plugin manager"
 msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:983
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Plugin manager activity information"
 msgstr "Lisäosien hallinnan asennustiedot"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1080
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Plugin manager help"
 msgstr "Lisäosien hallinan ohje"
 
@@ -8064,9 +8065,9 @@ msgstr "Plugin-lisäosat"
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:104
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:161
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1369
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:462
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:462
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:91
 msgid "Polarization"
 msgstr "Polarisaatio"
 
@@ -8163,8 +8164,8 @@ msgid "Power threshold in mA"
 msgstr "Tunnistusvirta mA"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:499
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
 msgid "Predefined transponder"
 msgstr "Ennalta määritelty lähetin"
 
@@ -8249,8 +8250,8 @@ msgstr ""
 msgid "Press OK to disable"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:231
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:322
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:231
 msgid "Press OK to disconnect"
 msgstr ""
 
@@ -8315,9 +8316,9 @@ msgstr ""
 msgid "Press OK to toggle the selection."
 msgstr "Muuta valintaa OK-näppäimellä."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:64
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:60
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:85
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:64
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Press Yellow to connect the selected remote control."
 msgstr ""
@@ -8388,9 +8389,9 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:66
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:69
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Properties of current title"
 msgstr "Omaisuudet"
 
@@ -8538,13 +8539,13 @@ msgid "Random"
 msgstr "Satunnainen"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:441
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:571
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:441
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:275
+#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:184
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:394
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:157
-#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:314
 msgid "Really close without saving settings?"
 msgstr "Haluatko poistua tallentamatta asetuksia?"
 
@@ -8604,9 +8605,9 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:37
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Record"
 msgstr "Tallennus"
 
@@ -8662,8 +8663,8 @@ msgid "Recording(s) are in progress or coming up in few seconds!"
 msgstr "Tallennuksia on käynnissä tai käynnistymässä!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:845
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:562
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:845
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:224
 msgid "Recordings"
 msgstr "Tallenteet"
@@ -8778,10 +8779,10 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:820
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1213
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:36
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:13
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1213
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:120
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:13
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remove"
 msgstr "Poista"
@@ -8792,9 +8793,9 @@ msgstr "Poista"
 msgid "Remove Bookmark"
 msgstr "Poista kirjanmerkki"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:142
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:52
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:142
 msgid "Remove Selected Entry From Playlist"
 msgstr ""
 
@@ -8931,20 +8932,20 @@ msgstr "Toistokerrat"
 msgid "Required medium type:"
 msgstr "Tarvittava tallennusmedia:"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:57
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:39
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:81
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:39
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:57
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
 msgid "Rescan"
 msgstr "Hae uudelleen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:329
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:38
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:212
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:672
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:755
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:847
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:38
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:40
 msgid "Reset"
 msgstr "Käynnistä CA-moduuli uudelleen"
@@ -8974,8 +8975,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:84
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:69
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:255
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:69
 msgid "Resolution"
 msgstr "Tarkkuus"
 
@@ -9007,15 +9008,15 @@ msgid "Restart required"
 msgstr "Tarvitaan uudelleenkäynnistys"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:201
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SettingsRestoreStep.py:13
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:201
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Restore"
 msgstr "Palauta"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Restore Backups"
 msgstr ""
 
@@ -9117,8 +9118,8 @@ msgid "Rewind speeds"
 msgstr "Kelausnopeudet taaksepäin"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:24
 #: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:229
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:24
 msgid "Right"
 msgstr "Oikea"
 
@@ -9129,8 +9130,8 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:107
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:165
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1381
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:101
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:472
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:101
 msgid "Roll-off"
 msgstr "Roll-off"
 
@@ -9186,10 +9187,10 @@ msgstr "S-ATA"
 msgid "SCPC optimized search range"
 msgstr "SCPC optimoitu hakualue"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:571
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:672
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:687
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:699
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:571
 msgid "SD"
 msgstr ""
 
@@ -9205,10 +9206,10 @@ msgstr "SID"
 msgid "SINGLE LAYER DVD"
 msgstr "SINGLE LAYER DVD"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "SNR:"
 msgstr ""
 
@@ -9221,10 +9222,10 @@ msgid "SYSTEM"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Sat"
 msgstr "la"
 
@@ -9246,15 +9247,15 @@ msgid "Sat&gt;IP Tuner Setup"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:37
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:49
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:189
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1365
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1395
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1412
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:75
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:447
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:46
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:37
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:447
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:75
 msgid "Satellite"
 msgstr "Satelliitti"
 
@@ -9317,20 +9318,20 @@ msgstr "Lauantai"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:19
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:292
 #: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:41
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:292
+#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:112
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:111
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1414
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:70
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:59
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:377
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:70
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:67
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:23
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:111
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:222
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:23
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:67
-#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:112
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Save"
 msgstr "Tallenna"
@@ -9369,8 +9370,8 @@ msgstr "Hae "
 msgid "Scan Files..."
 msgstr "Hae tiedostoja..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Scan IP"
 msgstr ""
 
@@ -9567,8 +9568,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:13
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:150
 msgid "Select"
 msgstr "Valitse"
 
@@ -9578,9 +9579,9 @@ msgstr "Valitse"
 msgid "Select HDD"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Select IPKG source....."
 msgstr ""
 
@@ -9620,16 +9621,16 @@ msgstr "Valitse varmistettavat tiedostot."
 msgid "Select files/folders to backup"
 msgstr "Valitse varmistettavat tiedostot/kansiot"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Select files/folders to backup..."
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:98
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Select input device"
 msgstr "Valitse syöttölaite"
 
@@ -9651,9 +9652,9 @@ msgstr "Valitse paketti"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:441
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Select provider to add..."
 msgstr "Valitse lisättävä palveluntarjoaja..."
 
@@ -9664,9 +9665,9 @@ msgstr "Valitse virkistystaajuus"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:548
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Select service to add..."
 msgstr "Valitse lisättävä kanava..."
 
@@ -9922,10 +9923,10 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:207
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:137
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:71
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:88
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:137
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:207
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Settings"
 msgstr "Asetukset"
@@ -9936,8 +9937,8 @@ msgstr "Asetusten tallennus onnistui!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:108
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Setup"
@@ -10109,8 +10110,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:87
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Shutdown"
 msgstr "Sammuta"
 
@@ -10224,8 +10225,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:13
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Sleep Timer"
@@ -10304,9 +10305,9 @@ msgstr "Hidastusnopeudet"
 msgid "Software"
 msgstr "Ohjelmisto"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Software Update..."
 msgstr ""
 
@@ -10314,9 +10315,9 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1870
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1884
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1889
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Software management"
 msgstr "Ohjelmiston hallinta"
 
@@ -10441,8 +10442,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:85
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Standby"
 msgstr "Valmiustila"
@@ -10540,11 +10541,11 @@ msgid "Step west"
 msgstr "Askel länteen"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:36
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:236
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:238
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:239
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:36
 msgid "Stop"
 msgstr "Pysäytä"
 
@@ -10571,8 +10572,8 @@ msgstr "Pysäytä tallennus, mutta älä estä tulevia ajastuksia"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:155
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:136
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:126
 msgid "Stop playing this movie?"
 msgstr "Lopetetaanko tallenteen toistaminen?"
@@ -10624,8 +10625,8 @@ msgid "Stream Client"
 msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1387
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
 msgid "Stream ID"
 msgstr ""
 
@@ -10655,9 +10656,9 @@ msgstr ""
 msgid "Streaming"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/plugin.py:13
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:165
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:13
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:165
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/plugin.py:13
 msgid "Streaming Server"
 msgstr ""
 
@@ -10676,9 +10677,9 @@ msgstr ""
 msgid "Subservice list..."
 msgstr "Alipalvelulista..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Subservices"
 msgstr ""
 
@@ -10711,10 +10712,10 @@ msgid "Successfully, deactivated mount entry from fstab."
 msgstr "Liitosasetuksen poisto fstab-tiedostosta onnistui."
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Sun"
 msgstr "su"
 
@@ -10753,8 +10754,8 @@ msgstr "Vaihda edelliseen alipalveluun"
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:174
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1368
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1440
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:90
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:461
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:90
 msgid "Symbol rate"
 msgstr "Symbol rate"
 
@@ -10772,9 +10773,9 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:179
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1357
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "System"
 msgstr "Järjestelmä"
@@ -10808,8 +10809,8 @@ msgstr "TSID"
 msgid "TTX"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:9
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:9
 msgid "TV"
 msgstr ""
 
@@ -10891,10 +10892,10 @@ msgid "Temperature and Fan control"
 msgstr "Lämpötilan ja tuulettimen ohjaus"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1152
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:491
-#: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:88
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:112
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1152
+#: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:88
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:491
 msgid "Terrestrial"
 msgstr "Antennivastaanotto (DVB-T)"
 
@@ -11126,8 +11127,8 @@ msgid "The path %s already exists."
 msgstr "Hakemisto %s on jo olemassa."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:271
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:249
 msgid "The pin code you entered is wrong."
 msgstr "Syötit virheellisen tunnusluvun."
@@ -11286,8 +11287,8 @@ msgid ""
 "Do you want to connect using WPS Push-Button"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:919
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:146
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:919
 msgid "This feature requires valid EPG!"
 msgstr ""
 
@@ -11365,10 +11366,10 @@ msgid "Threshold"
 msgstr "Kynnys"
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Thu"
 msgstr "to"
 
@@ -11392,8 +11393,8 @@ msgid "Thursday"
 msgstr "Torstai"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:49
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:61
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:49
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
 msgid "Time"
 msgstr "Aika"
@@ -11418,7 +11419,7 @@ msgid "Timeout!"
 msgstr ""
 
 #
-#: enigma2/usr/share/enigma2/menu.xml enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer"
 msgstr "Ajastukset"
@@ -11478,9 +11479,9 @@ msgstr ""
 msgid "Timer status:"
 msgstr "Ajastimen tila:"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Timeshift"
 msgstr ""
 
@@ -11508,13 +11509,13 @@ msgstr "Aikavyöhyke"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:109
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:157
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:128
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:21
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:74
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:21
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:157
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:452
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
 msgid "Title"
 msgstr "Otsikko"
@@ -11531,8 +11532,8 @@ msgid "Titleset mode"
 msgstr "Tila"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:411
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:11
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:411
 msgid "Today"
 msgstr "Tänään"
 
@@ -11570,8 +11571,8 @@ msgid "Toneburst A/B"
 msgstr "Äänipurske A/B"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:73
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Track"
 msgstr "Raita"
 
@@ -11603,8 +11604,8 @@ msgid "Transmitting"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:117
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:488
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:117
 msgid "Transponder"
 msgstr "Lähetin"
 
@@ -11651,10 +11652,10 @@ msgid "Trying to download a new packetlist. Please wait..."
 msgstr "Ladataan uusinta IPKG-ohjelmapakettiluetteloa. Odota..."
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Tue"
 msgstr "ti"
 
@@ -11665,10 +11666,10 @@ msgid "Tuesday"
 msgstr "Tiistai"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:73
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:198
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:230
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:445
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:73
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Tune"
 msgstr "Viritys"
@@ -11684,8 +11685,8 @@ msgstr "Viritys epäonnistui!"
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:184
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:651
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1306
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:12
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:160
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:12
 msgid "Tuner"
 msgstr "Viritin"
 
@@ -11801,9 +11802,9 @@ msgstr ""
 msgid "UPnP/DLNA Mediaserver"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:103
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:31
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:103
 msgid "UPnP/DLNA Setup"
 msgstr ""
 
@@ -11919,8 +11920,8 @@ msgstr "Poista asennus"
 msgid "Universal LNB"
 msgstr "Universaali LNB"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:105
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 msgid "Unknown"
 msgstr "Tuntematon"
@@ -12167,15 +12168,15 @@ msgstr ""
 msgid "User:"
 msgstr "Käyttäjä:"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "UserDialog"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "UserManager"
 msgstr ""
 
@@ -12233,14 +12234,14 @@ msgstr "Tarkistetaan alustusta. Odota!"
 msgid "Verifying your internet connection..."
 msgstr "Tarkistetaan internet-yhteyttä"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Verkehrsinfo"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1424
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:65
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1424
 msgid "Vertical"
 msgstr "Vertikaali"
 
@@ -12358,15 +12359,15 @@ msgstr ""
 msgid "VideoEnhancement provides advanced video enhancement settings"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "VideoEnhancementPreview"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "VideoEnhancementSetup"
 msgstr ""
 
@@ -12507,10 +12508,10 @@ msgid "Volume -"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1156
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:548
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1156
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:55
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
 msgid "W"
 msgstr "W"
 
@@ -12561,16 +12562,16 @@ msgstr ""
 msgid "Webinterface: Main Setup"
 msgstr ""
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Webinterface:Main Setup"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
 msgid "Wed"
 msgstr "ke"
 
@@ -12655,12 +12656,12 @@ msgid ""
 "press OK."
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Welcome..."
 msgstr ""
 
@@ -12707,8 +12708,8 @@ msgstr "Minne haluat varmuuskopioida asetukset?"
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Minne ajansiirron väliaikainen tiedosto tallennetaan?"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Wireless Network State"
 msgstr ""
 
@@ -12818,8 +12819,8 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:113
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:132
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Year"
 msgstr "Vuosi"
 
@@ -12828,15 +12829,15 @@ msgid "Yellow"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:31
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 #: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:146
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:27
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:200
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:124
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:127
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:124
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:122
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes"
@@ -12953,8 +12954,8 @@ msgid "You can remove this plugin."
 msgstr "Voit poistaa tämän lisäosan."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:294
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:135
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:294
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:720
 msgid "You cannot delete this!"
 msgstr "Et voi poistaa tätä!"
@@ -13040,8 +13041,8 @@ msgstr ""
 msgid "You've selected a media file what do you want to do?"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:218
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:15
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:218
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
 "Your Dreambox bluetooth receiver has no firmware installed.\n"
@@ -13241,12 +13242,12 @@ msgstr "[Suosikkien järjestely]"
 msgid "[up]"
 msgstr ""
 
-#: enigma2-skins/skins/dmm-HD/meta/skin_dmm-hd.xml
 #: enigma2-skins/skins/DMConcinnity-HD/meta/skin_dmconcinnity-hd.xml
-#: enigma2-skins/skins/UltraViolet/meta/skin_ultraviolet.xml
+#: enigma2-skins/skins/dmm-HD/meta/skin_dmm-hd.xml
 #: enigma2-skins/skins/DreamMM-HD/meta/skin_dreammm-hd.xml
-#: enigma2-skins/skins/Elgato-HD/meta/skin_elgato-hd.xml
 #: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
+#: enigma2-skins/skins/UltraViolet/meta/skin_ultraviolet.xml
+#: enigma2-skins/skins/Elgato-HD/meta/skin_elgato-hd.xml
 msgid "a HD skin from Kerni"
 msgstr ""
 
@@ -13404,8 +13405,8 @@ msgstr "Aakkosjärjestys"
 msgid "always"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:165
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:16
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:165
 msgid "aqua"
 msgstr ""
 
@@ -13457,8 +13458,8 @@ msgstr "autom."
 msgid "available"
 msgstr "saatavilla"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:168
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:19
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:168
 msgid "azure"
 msgstr ""
 
@@ -13500,10 +13501,10 @@ msgid "blacklist"
 msgstr "kielletyt"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:18
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:167
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:167
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:18
 msgid "blue"
 msgstr "sininen"
 
@@ -13529,8 +13530,8 @@ msgid "change recording (endtime)"
 msgstr "Aseta tallennuksen päättymisaika"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:95
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
 msgid "chapters"
 msgstr "kappaleet"
@@ -13660,11 +13661,11 @@ msgid "disable move mode"
 msgstr "Poistu siirtotilasta"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:830
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:844
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:104
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2066
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:65
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:830
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:844
 msgid "disabled"
 msgstr "ei käyt."
 
@@ -13819,8 +13820,8 @@ msgid "fileformats (BMP, PNG, JPG, GIF)"
 msgstr "Tiedostomuodot (BMP, PNG, JPG, GIF)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:291
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "filename"
 msgstr "tiedostonimi"
 
@@ -13888,10 +13889,10 @@ msgid "grab this frame as bitmap"
 msgstr "tallenna tämä ruutu kuvatiedostoksi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:15
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:164
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:164
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:15
 msgid "green"
 msgstr "vihreä"
 
@@ -14061,8 +14062,8 @@ msgstr "vasen"
 msgid "length"
 msgstr "pituus"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:163
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:14
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:163
 msgid "lime"
 msgstr ""
 
@@ -14112,19 +14113,19 @@ msgstr ""
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:680
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1752
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:498
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:505
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:861
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1752
 msgid "manual"
 msgstr "manuaalinen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:253
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:149
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:166
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:77
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:182
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:166
 msgid "menu"
 msgstr "Valikko"
 
@@ -14142,8 +14143,8 @@ msgid "minute"
 msgstr "minuutti"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InputBox.py:139
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:45
+#: enigma2/usr/lib/enigma2/python/Screens/InputBox.py:139
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:85
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:86
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:87
@@ -14185,19 +14186,19 @@ msgstr ""
 msgid "n/A"
 msgstr ""
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:465
+#: enigma2/usr/lib/enigma2/python/Components/Network.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:109
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPCore.py:412
-#: enigma2/usr/lib/enigma2/python/Components/Network.py:51
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:465
 msgid "n/a"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
+#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:28
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:775
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:776
-#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
-#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:33
 msgid "never"
 msgstr "ei koskaan"
 
@@ -14213,15 +14214,15 @@ msgstr "seuraava kanava historiassa"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:95
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
+#: enigma2/usr/lib/enigma2/python/Components/config.py:503
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:44
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:443
-#: enigma2/usr/lib/enigma2/python/Components/config.py:503
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 msgid "no"
 msgstr "Ei"
 
@@ -14294,14 +14295,14 @@ msgstr "ei tuettu"
 msgid "not used"
 msgstr "ei käyt."
 
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
 #: enigma2/usr/lib/enigma2/python/mytest.py:202
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
 msgid "nothing"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1754
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:216
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1754
 msgid "nothing connected"
 msgstr "Ei kytketty"
 
@@ -14316,21 +14317,21 @@ msgid "of a SINGLE layer medium used."
 msgstr "DVD-levystä käytetty."
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:156
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:498
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:505
-#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 msgid "off"
 msgstr "Pois"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:166
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:17
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:166
 msgid "olympic blue"
 msgstr ""
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:156
 #: enigma2/usr/lib/enigma2/python/Components/config.py:508
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:156
 msgid "on"
 msgstr "Päällä"
 
@@ -14359,8 +14360,8 @@ msgstr "Avaa kanavalista(alaspäin)"
 msgid "open servicelist(up)"
 msgstr "Avaa kanavalista(ylöspäin)"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:161
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:12
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:161
 msgid "orange"
 msgstr ""
 
@@ -14379,8 +14380,8 @@ msgstr "hyväksytty"
 msgid "pause"
 msgstr "tauko"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:170
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:21
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:170
 msgid "pink"
 msgstr ""
 
@@ -14409,8 +14410,8 @@ msgid "please press OK when ready"
 msgstr "paina OK kun olet valmis"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:468
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:548
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:468
 msgid "please wait, loading picture..."
 msgstr "Kuvaa ladataan. Odota..."
 
@@ -14428,8 +14429,8 @@ msgstr "Edellinen kanava"
 msgid "previous channel in history"
 msgstr "Edellinen kanava historiassa"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:169
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:20
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:169
 msgid "purple"
 msgstr ""
 
@@ -14452,10 +14453,10 @@ msgid "recording..."
 msgstr "tallennetaan..."
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:10
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:159
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:159
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:10
 msgid "red"
 msgstr "punainen"
 
@@ -14553,8 +14554,8 @@ msgstr "kelaa edelliseen kappaleeseen"
 msgid "right"
 msgstr "oikea"
 
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:160
 #: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:11
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:160
 msgid "rose"
 msgstr ""
 
@@ -14620,9 +14621,9 @@ msgstr "Valitse CAId"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:390
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "select CAId's"
 msgstr "valitse CAId:t"
 
@@ -14747,9 +14748,9 @@ msgstr "sammuta"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:682
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:28
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:797
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:31
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:797
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:28
 msgid "simple"
 msgstr "Suppea"
 
@@ -14887,9 +14888,9 @@ msgid "template file"
 msgstr "Mallitiedosto"
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:126
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:236
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:327
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:126
 msgid "this recording"
 msgstr "tämä tallennus"
 
@@ -15011,9 +15012,9 @@ msgstr "poistettiin onnistuneesti"
 msgid "weekly"
 msgstr "joka viikko"
 
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:22
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:22
 msgid "white"
 msgstr ""
 
@@ -15027,31 +15028,31 @@ msgstr "hyväksytyt"
 msgid "working"
 msgstr "työskentelee"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "x"
 msgstr ""
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:13
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:162
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:162
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:13
 msgid "yellow"
 msgstr "keltainen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
-#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:93
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
+#: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
+#: enigma2/usr/lib/enigma2/python/Components/config.py:503
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:44
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:444
-#: enigma2/usr/lib/enigma2/python/Components/config.py:503
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 msgid "yes"
 msgstr "Kyllä"
 
