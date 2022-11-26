@@ -12354,16 +12354,15 @@ msgstr "Use el asistente para configuración básica"
 msgid "Used service scan type"
 msgstr "Tipo de búsqueda de canales usada"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:227
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:242
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
-#, fuzzy
 msgid "User"
-msgstr "Uso"
+msgstr "Usuario"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:30
 msgid "User Level"
-msgstr ""
+msgstr "Nivel de Usuario"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1633
@@ -12373,11 +12372,11 @@ msgstr "Definido por el usuario"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "User level"
-msgstr ""
+msgstr "Nivel de Usuario"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:1179
 msgid "User:"
-msgstr ""
+msgstr "Usuario:"
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
@@ -12403,15 +12402,15 @@ msgstr "VMGM (trailer intro)"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VPS-Plugin"
-msgstr ""
+msgstr "VPS-Plugin"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VPS-Plugin Information"
-msgstr ""
+msgstr "VPS-Plugin Information"
 
 #: enigma2-skins/skins/Vali.HD.atlantis/meta/skin_vali.hd.atlantis.xml
 msgid "Vali.HD.atlantis skin"
-msgstr ""
+msgstr "Piel Vali.HD.atlantis"
 
 #: enigma2-skins/skins/Vali.HD.nano/meta/skin_vali.hd.nano.xml
 msgid "Vali.HD.nano skin"
@@ -12424,11 +12423,11 @@ msgstr "Piel Vali.HD.nano"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Vendor list"
-msgstr ""
+msgstr "Lista de proveedores"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:154
 msgid "Vendors"
-msgstr ""
+msgstr "Proveedores"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Verbose FileWatch Debug output"
@@ -12436,20 +12435,20 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:63
 msgid "Verifying firmware..."
-msgstr ""
+msgstr "Verificando firmware..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1193
 msgid "Verifying initialization. Please wait!"
-msgstr ""
+msgstr "Verificando la inicialización. ¡Espere por favor!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:34
 msgid "Verifying your internet connection..."
-msgstr ""
+msgstr "Verificando su conexión a internet..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Verkehrsinfo"
-msgstr ""
+msgstr "Verkehrsinfo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:65
@@ -12459,16 +12458,16 @@ msgstr "Vertical"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:123
 msgid "Very Low"
-msgstr ""
+msgstr "Muy bajo"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:58
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:71
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:58
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:252
 msgid "Video Bitrate"
-msgstr ""
+msgstr "Bitrate de vídeo"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:312
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:324
@@ -12478,18 +12477,23 @@ msgid ""
 "Audio Bitrate:\t%s\n"
 "Resolution:\t%s"
 msgstr ""
+"Bitrate de vídeo: %s\n"
+"Bitrate de audio: %s\n"
+"Resolución: %s"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/plugin.py:12
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/plugin.py:16
 msgid "Video Fine-Tuning"
-msgstr "Ajuste de video fino"
+msgstr "Ajuste de vídeo fino"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
 "Video Input\n"
 "Use up/down buttons."
 msgstr ""
+"Entrada de vídeo\n"
+"Utilice los botones arriba/abajo."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:130
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12497,30 +12501,31 @@ msgid ""
 "Video Mode\n"
 "Use up/down buttons."
 msgstr ""
+"Modo de vídeo\n"
+"Utilice los botones arriba/abajo."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:59
 msgid "Video Output"
-msgstr "Salida de video"
+msgstr "Salida de vídeo"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:124
 msgid "Video PID"
-msgstr ""
+msgstr "Video PID"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:10
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#, fuzzy
 msgid "Video Player"
-msgstr "ocultar reproductor"
+msgstr "Reproductor de Vídeo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:184
 msgid "Video Setup"
-msgstr "Configuración de Video"
+msgstr "Configuración de Vídeo"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Video color space setup"
-msgstr ""
+msgstr "Configuración del espacio de color de vídeo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:325
@@ -12549,11 +12554,10 @@ msgid ""
 msgstr ""
 "Selección entrada de vídeo\n"
 "\n"
-"Por favor, pulse OK si quiere ver esta página en su TV (o selecciones un "
+"Por favor, pulse OK si quiere ver esta página en su TV (o seleccione un "
 "puerto de entrada diferente).\n"
 "\n"
-"El puerto de entrada siguiente será automáticamente probado durante 20 "
-"segundos."
+"El siguiente puerto de entrada se probará automáticamente en 20 segundos."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/VideoSteps.py:131
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -12565,28 +12569,34 @@ msgid ""
 "\n"
 "The next video mode will be automatically probed in 20 seconds."
 msgstr ""
+"Selección de modo de vídeo\n"
+"\n"
+"Presione OK si puede ver esta página en su televisor (o seleccione un modo "
+"de video diferente).\n"
+"\n"
+"El siguiente modo de vídeo se probará automáticamente en 20 segundos."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:75
 msgid "Video, audio and pictures"
-msgstr ""
+msgstr "Vídeo, audio e imágenes."
 
 #: enigma2/usr/share/meta/plugin_videoenhancement.xml
 #: enigma2/usr/share/meta/plugin_videoenhancement.xml./enigma2/usr/share/meta/plugin_videoenhancement.xml
 msgid "VideoEnhancement provides advanced video enhancement settings"
 msgstr ""
-"VideoEnhancement proporciona configuraciones de video avanzado mejorado"
+"VideoEnhancement proporciona configuraciones de vídeo avanzado mejorado"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VideoEnhancementPreview"
-msgstr ""
+msgstr "VideoEnhancementPreview"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VideoEnhancementSetup"
-msgstr ""
+msgstr "VideoEnhancementSetup"
 
 #: enigma2/usr/share/meta/plugin_videotune.xml
 #: enigma2/usr/share/meta/plugin_videotune.xml./enigma2/usr/share/meta/plugin_videotune.xml
@@ -12601,11 +12611,11 @@ msgstr "Configuración de mejora de vídeo"
 #: enigma2/usr/share/meta/plugin_videomode.xml
 #: enigma2/usr/share/meta/plugin_videomode.xml./enigma2/usr/share/meta/plugin_videomode.xml
 msgid "Videomode provides advanced video mode settings"
-msgstr "Videomode dispone de configuración de video avanzado"
+msgstr "Videomode dispone de configuración de viíeo avanzado"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:217
 msgid "Videos"
-msgstr ""
+msgstr "Vídeos"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:1017
@@ -12614,7 +12624,7 @@ msgstr "Ver Películas..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:162
 msgid "View Movies... (MediaCenter)"
-msgstr ""
+msgstr "Ver películas... (MediaCenter)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:738
@@ -12700,30 +12710,30 @@ msgstr "Ver lista de extensiones de sistema disponibles"
 msgid "View teletext..."
 msgstr "Ver teletexto..."
 
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Virtual KeyBoard"
-msgstr ""
+msgstr "Teclado virtual"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:411
 msgid "Voltage mode"
 msgstr "Modo voltaje"
 
-#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Volume"
-msgstr ""
+msgstr "Volumen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:38
 msgid "Volume +"
-msgstr ""
+msgstr "Volumen +"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:39
 msgid "Volume -"
-msgstr ""
+msgstr "Volumen -"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:55
@@ -12735,7 +12745,7 @@ msgstr "W"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:37
 msgid "WMA"
-msgstr ""
+msgstr "WMA"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -12749,11 +12759,11 @@ msgstr "Esperando"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:120
 msgid "Waiting for clients"
-msgstr ""
+msgstr "Esperando clientes"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:245
 msgid "Waiting for device reboot..."
-msgstr ""
+msgstr "Esperando el reinicio del dispositivo..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:77
@@ -12762,28 +12772,28 @@ msgstr "Avisar si el espacio libre baja de (kB):"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Plugin meteorológico"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/plugin.py:18
 msgid "Web Browser"
-msgstr ""
+msgstr "Navegador Web"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Web Browser - Edit Bookmark"
-msgstr ""
+msgstr "Navegador web - Editar marcador"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Web Browser - Menu"
-msgstr ""
+msgstr "Navegador web - Menú"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Webinterface: Main Setup"
-msgstr ""
+msgstr "Interfaz web: configuración principal"
 
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Webinterface:Main Setup"
-msgstr ""
+msgstr "Interfaz web: configuración principal"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -12807,7 +12817,7 @@ msgstr "DiaSemana"
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:96
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenido"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:208
@@ -12821,7 +12831,7 @@ msgid ""
 msgstr ""
 "Bienvenido al editor de listas de cortes.\n"
 "\n"
-"Vaya al comienzo que quiera cortar. Pulse OK, seleccione corte inicial'.\n"
+"Vaya al comienzo que quiera cortar. Pulse OK, seleccione 'corte inicial'.\n"
 "\n"
 "Vaya al final, pulse OK, seleccione 'corte final'. Eso es todo."
 
@@ -12863,6 +12873,12 @@ msgid ""
 "\n"
 "Press OK to start configuring your network"
 msgstr ""
+"Bienvenido.\n"
+"\n"
+"Si desea conectar su Dreambox a una red y/o Internet, este asistente lo "
+"guiará a través de la configuración básica de la red de su Dreambox.\n"
+"\n"
+"Presiona OK para comenzar a configurar tu red"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
@@ -12873,15 +12889,22 @@ msgid ""
 "Use the up/down keys on your remote control to select an option. After that, "
 "press OK."
 msgstr ""
+"Bienvenido.\n"
+"\n"
+"Este asistente de inicio lo guiará a través de la configuración básica de su "
+"Dreambox.\n"
+"\n"
+"Utilice las teclas arriba/abajo de su control remoto para seleccionar una "
+"opción. Después de eso, presione Aceptar."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
+#: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin.xml
-#: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Welcome..."
-msgstr ""
+msgstr "Bienvenido..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1756
@@ -12924,10 +12947,10 @@ msgstr "¿Donde quiere backup su configuración?"
 msgid "Where to save temporary timeshift recordings?"
 msgstr "¿Dónde guardar las grabaciones temporales de pausa?"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Wireless Network State"
-msgstr ""
+msgstr "Estado de la red inalámbrica"
 
 #: enigma2/usr/share/meta/plugin_dvdburn.xml
 #: enigma2/usr/share/meta/plugin_dvdburn.xml./enigma2/usr/share/meta/plugin_dvdburn.xml
@@ -12941,12 +12964,12 @@ msgstr ""
 "Con DVDBurn puede hacer DVDs de películas grabadas en su Dreambox.\n"
 "Opcionalmente puede personalizar menús. Puede grabar un DVD estándar que "
 "pueda ser reproducido en los reproductores convencionales.\n"
-"Las grabaciones en HDTV sólo pueden grabarse en un formato de dreambox "
+"Las grabaciones en HDTV sólo pueden grabarse en un formato de Dreambox "
 "propietario."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "With errors:"
-msgstr ""
+msgstr "Con errores:"
 
 #: enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml
 #: enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml./enigma2/usr/share/meta/plugin_commoninterfaceassignment.xml
@@ -12957,7 +12980,7 @@ msgid ""
 "This allows watching a scrambled service while recording another one."
 msgstr ""
 "Con el plugin CommonInterfaceAssignment es posible usar diferentes módulos "
-"CI en su Dreambox y asignar a proveedores/canales o caids cada uno de "
+"CI en su Dreambox y asignar a proveedores/canales o caids a cada uno de "
 "ellos.\n"
 "Esto permite ver un canal codificado mientras está grabando otro."
 
@@ -12986,7 +13009,7 @@ msgid ""
 "DiSEqC compatibility and errors."
 msgstr ""
 "Con el plugin DiseqcTester puede testear su equipamiento de satélite para la "
-"compatibilidad  y errores con DISEqC."
+"compatibilidad y errores con DISEqC."
 
 #: enigma2/usr/share/meta/plugin_positionersetup.xml
 #: enigma2/usr/share/meta/plugin_positionersetup.xml./enigma2/usr/share/meta/plugin_positionersetup.xml
@@ -13003,6 +13026,7 @@ msgid ""
 "With the Remote Control Selection you can select which Remote Control you're "
 "using"
 msgstr ""
+"Con la selección de mando a distancia puede seleccionar qué mando está usando"
 
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
 #: enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml./enigma2/usr/share/meta/plugin_satelliteequipmentcontrol.xml
@@ -13015,7 +13039,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Wizard..."
-msgstr ""
+msgstr "Asistente..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:317
 msgid "WoL"
