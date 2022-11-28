@@ -12815,7 +12815,7 @@ msgid ""
 msgstr ""
 "Bienvenido al editor de listas de cortes.\n"
 "\n"
-"Vaya al comienzo que quiera cortar. Pulse OK, seleccione 'corte inicial'.\n"
+"Vaya al comienzo que quiera cortar. Pulse OK, seleccione 'iniciar corte'.\n"
 "\n"
 "Vaya al final, pulse OK, seleccione 'corte final'. Eso es todo."
 
@@ -12878,8 +12878,8 @@ msgstr ""
 "Este asistente de inicio lo guiará a través de la configuración básica de su "
 "Dreambox.\n"
 "\n"
-"Utilice las teclas arriba/abajo de su control remoto para seleccionar una "
-"opción. Después de eso, presione Aceptar."
+"Utilice las teclas arriba/abajo de su mando a distancia para seleccionar una "
+"opción. Después de eso, presione OK."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
@@ -12915,7 +12915,7 @@ msgid ""
 "\n"
 "Really do a factory reset?"
 msgstr ""
-"Cuando haga un reseteo de fábrica, perderá todos los datos de configuración\n"
+"Cuando haga un reseteo de fábrica, perderá TODOS los datos de configuración\n"
 "(incluyendo listas, canales, datos del satélite...)\n"
 "Después de un reseteo, su receptor se reiniciará automáticamente!\n"
 "\n"
@@ -12924,7 +12924,7 @@ msgstr ""
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Where do you want to backup your settings?"
-msgstr "¿Donde quiere backup su configuración?"
+msgstr "¿Dónde quieres hacer una copia de seguridad de tu configuración?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:528
@@ -12963,10 +12963,10 @@ msgid ""
 "each of them.\n"
 "This allows watching a scrambled service while recording another one."
 msgstr ""
-"Con el plugin CommonInterfaceAssignment es posible usar diferentes módulos "
-"CI en su Dreambox y asignar a proveedores/canales o caids a cada uno de "
-"ellos.\n"
-"Esto permite ver un canal codificado mientras está grabando otro."
+"Con el complemento CommonInterfaceAssignment es posible usar diferentes "
+"módulos CI en su Dreambox y asignar proveedores/canales o caids dedicados a "
+"cada uno de ellos.\n"
+"Esto permite ver un canal codificado mientras se graba otro."
 
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
 #: enigma2/usr/share/meta/plugin_crashlogautosubmit.xml./enigma2/usr/share/meta/plugin_crashlogautosubmit.xml
@@ -12975,7 +12975,7 @@ msgid ""
 "crashlogs found on your hard drive to Dream Multimedia."
 msgstr ""
 "Con el plugin CrashlogAutoSubmit es posible enviar automáticamente por email "
-"los logs de fallos encontrados en su disco duro a Dream Multimedia."
+"los registros de fallos encontrados en su disco duro a Dream Multimedia."
 
 #: enigma2/usr/share/meta/plugin_defaultservicesscanner.xml
 #: enigma2/usr/share/meta/plugin_defaultservicesscanner.xml./enigma2/usr/share/meta/plugin_defaultservicesscanner.xml
@@ -12992,8 +12992,8 @@ msgid ""
 "With the DiseqcTester plugin you can test your satellite equipment for "
 "DiSEqC compatibility and errors."
 msgstr ""
-"Con el plugin DiseqcTester puede testear su equipamiento de satélite para la "
-"compatibilidad y errores con DISEqC."
+"Con el complemento DiseqcTester puede probar su equipo de satélite para "
+"verificar la compatibilidad y los errores de DiSEqC."
 
 #: enigma2/usr/share/meta/plugin_positionersetup.xml
 #: enigma2/usr/share/meta/plugin_positionersetup.xml./enigma2/usr/share/meta/plugin_positionersetup.xml
@@ -13156,12 +13156,12 @@ msgstr "Si, ver el tutorial"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1103
 msgid "You can cancel the installation."
-msgstr "Usted puede cancelar la instalación."
+msgstr "Puede cancelar la instalación."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1105
 msgid "You can cancel the removal."
-msgstr "Ha cancelado la desinstalación."
+msgstr "Puede cancelar la eliminación."
 
 #
 #: enigma2/usr/share/enigma2/defaultwizard.xml
@@ -13180,7 +13180,7 @@ msgstr "Puede elegir lo que quiere instalar..."
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1101
 msgid "You can install this plugin."
-msgstr "Usted puede instalar el plugin."
+msgstr "Puede instalar este plugin."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:202
@@ -13191,13 +13191,13 @@ msgstr "¡Solo puedes grabar grabaciones de Dreambox!"
 msgid ""
 "You can remove the batteries of your remote for a short moment to reboot it!"
 msgstr ""
-"¡Puede quitar las baterías de su mando a distancia por un breve momento para "
+"¡Puede quitar las pilas de su mando a distancia por un breve momento para "
 "reiniciarlo!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1099
 msgid "You can remove this plugin."
-msgstr "Usted puede desinstalar el plugin."
+msgstr "Puede eliminar este plugin."
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:720
@@ -13217,8 +13217,8 @@ msgid ""
 "You chose not to install any default settings. You can however install the "
 "default settings later in the settings menu."
 msgstr ""
-"Elige no instalar ninguna configuración por defecto. Sin embargo, más tarde "
-"puede instalar alguna en el menú de configuración."
+"Ha elegido no instalar ninguna configuración por defecto. Sin embargo, más "
+"tarde puede instalar alguna en el menú de configuración."
 
 #
 #: enigma2/usr/share/enigma2/dreampackagewizard.xml
@@ -13272,7 +13272,7 @@ msgid ""
 "instructions from the website, your new firmware will ask you to restore "
 "your settings."
 msgstr ""
-"Necesitas un PC conectada a tu Dreambox. Si necesita más instrucciones, "
+"Necesitas un PC conectado a tu dreambox. Si necesita más instrucciones, "
 "visite el sitio web http://dreambox.de.\n"
 "Tu Dreambox ahora se detendrá. Después de haber realizado las instrucciones "
 "de actualización del sitio web, su nuevo firmware le pedirá que restablezca "
@@ -13306,7 +13306,7 @@ msgid ""
 "Your Dreambox bluetooth receiver has no firmware installed.\n"
 "Install the latest firmware now?"
 msgstr ""
-"Su receptor bluetooth Dreambox no tiene firmware instalado.\n"
+"El receptor bluetooth de su Dreambox no tiene firmware instalado.\n"
 "¿Instalar el firmware más reciente ahora?"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -13472,7 +13472,7 @@ msgstr "Historial de Zapeo Navegador"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap-History Configurator"
-msgstr "Historial de Zapeo Configurador"
+msgstr "Configurar historial de Zapeo"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Zap/Exit"
@@ -13537,13 +13537,13 @@ msgstr "una piel HD de Kerni"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:662
 msgid "a gui to assign services/providers to common interface modules"
 msgstr ""
-"Un GUI para asignar canales/proveedores a los módulos de interfaz común"
+"un GUI para asignar canales/proveedores a los módulos de interfaz común"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:658
 msgid "a gui to assign services/providers/caids to common interface modules"
 msgstr ""
-"Un GUI para asignar canales/proveedores/caids a los módulos de interfaz común"
+"un GUI para asignar canales/proveedores/caids a los módulos de interfaz común"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:230
@@ -13655,7 +13655,7 @@ msgstr "añadir canal a favoritos"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:160
 msgid "add to parental protection"
-msgstr "añadir a protección de adultos"
+msgstr "añadir a protección parental"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:800
 msgid "additional cable of motorized LNB"
@@ -13775,7 +13775,7 @@ msgstr "negro"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:137
 msgid "black box"
-msgstr "black box"
+msgstr "caja negra"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:36
@@ -14065,7 +14065,7 @@ msgstr "fin edición de favoritos"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:96
 msgid "enqueued for future scan..."
-msgstr "en cola para escaneo futuro..."
+msgstr "encolado para búsqueda futura ..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:799
@@ -14085,7 +14085,7 @@ msgstr "salir del reproductor"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:267
 msgid "exit movielist"
-msgstr "salir del menú de películas"
+msgstr "salir de la lista de películas"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1889
 msgid "externally loopthrough to"
@@ -14117,7 +14117,7 @@ msgid ""
 "\n"
 "[Press OK to close]"
 msgstr ""
-"para usar el Asistente de actualización de firmware del mando a distancia.\n"
+"para usar el Asistente de actualización del firmware del mando a distancia.\n"
 "\n"
 "[Presione OK para cerrar]"
 
@@ -14129,7 +14129,7 @@ msgstr "forzar deshabilitado"
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:405
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:424
 msgid "force enabled"
-msgstr "fuerza habilitada"
+msgstr "forzar habilitado"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:256
 msgid "forced only"
@@ -14138,7 +14138,7 @@ msgstr "forzado sólo"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:355
 msgid "forward to the next chapter"
-msgstr "adelante al siguiente capitulo"
+msgstr "adelantar al siguiente capitulo"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
@@ -14302,7 +14302,7 @@ msgstr "saltar al título anterior"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:357
 msgid "jump forward to the next title"
-msgstr "salte al título siguiente"
+msgstr "saltar al título siguiente"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:167
