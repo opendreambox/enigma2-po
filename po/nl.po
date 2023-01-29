@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-19 22:02+0000\n"
-"PO-Revision-Date: 2023-01-29 12:44+0000\n"
+"PO-Revision-Date: 2023-01-29 22:02+0000\n"
 "Last-Translator: skyman <ufoman8165@gmx.us>\n"
 "Language-Team: Dutch <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/nl/>\n"
@@ -1276,7 +1276,7 @@ msgstr "Na opname"
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:114
 msgid "After event description"
-msgstr ""
+msgstr "Beschrijving na het evenement"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 msgid "After service name"
@@ -1425,7 +1425,7 @@ msgstr "Anonimiseren crashlog?"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Anti Scroll Setup"
-msgstr ""
+msgstr "Anti Scroll Instelling"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
@@ -1996,7 +1996,7 @@ msgstr "Instellingen voor verjaardagsherinneringen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:250
 msgid "Bitrates"
-msgstr ""
+msgstr "Bitsnelheid"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:139
 msgid "Black Screen"
@@ -2390,7 +2390,7 @@ msgstr "Controleer de status op 'Stream instellen' (alleen aan)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:105
 msgid "Check state on 'TV Power Status On' (on only)"
-msgstr ""
+msgstr "Controleer de status op 'TV Power Status On' (alleen aan)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:192
@@ -2484,7 +2484,7 @@ msgstr "CleanupWizard"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "CleanupWizard settings"
-msgstr ""
+msgstr "Instellingen Opruimen Wizard"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:370
@@ -3076,12 +3076,12 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:88
 msgid "DFU - DM Remote"
-msgstr ""
+msgstr "DFU - DM Afstandbediening"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:52
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DFU Firmware Upgrade"
-msgstr ""
+msgstr "DFU Firmware Bijwerken"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:22
 msgid "DFU Log"
@@ -3272,11 +3272,11 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:145
 msgid "Database has been reset successfully!"
-msgstr ""
+msgstr "Database is opnieuw ingesteld!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:149
 msgid "Database reset FAILED!"
-msgstr ""
+msgstr "Database opnieuw instellen MISLUKT!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:48
@@ -3489,6 +3489,8 @@ msgid ""
 "Device battery level of {0}% is too low.\n"
 "It's required to be at least {1}%!"
 msgstr ""
+"Het batterijniveau van het apparaat van{0}% is te laag.\n"
+"Het moet minstens {1}% zijn!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:41
@@ -3621,13 +3623,13 @@ msgstr "Verbreken"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:249
 msgid "Disconnect paired remote?"
-msgstr ""
+msgstr "Koppel gekoppelde afstandsbediening los?"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Dish"
-msgstr ""
+msgstr "Schotel"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:82
@@ -3698,7 +3700,7 @@ msgstr "Wilt u de afspeellijst ledigen?"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:251
 #, python-format
 msgid "Do you really want to connect %s (%s) "
-msgstr ""
+msgstr "Wil je echt verbinding maken %s (%s) "
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:311
@@ -3771,6 +3773,8 @@ msgid ""
 "Do you really want to remove ALL content (including playlists) from the "
 "database?"
 msgstr ""
+"Wil je echt ALLE content (inclusief afspeellijsten) uit de database "
+"verwijderen?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:275
@@ -3814,7 +3818,7 @@ msgstr "Wilt u deze verzameling op een DVD medium schrijven?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:314
 msgid "Do you want to cancel the guided setup?"
-msgstr ""
+msgstr "Wilt u de begeleide installatie annuleren?"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -3882,7 +3886,7 @@ msgstr "Wilt u het afspelen vervolgen?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:96
 msgid "Do you want to update now?"
-msgstr ""
+msgstr "Wilt u nu updaten?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:222
@@ -3911,7 +3915,7 @@ msgstr "Deze opname niet toevoegen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:29
 msgid "Don't ask again!"
-msgstr ""
+msgstr "Vraag het niet opnieuw!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:24
@@ -3929,6 +3933,9 @@ msgid ""
 "place!\n"
 "Your device is still as fine as it was before this procedure!"
 msgstr ""
+"Maak je geen zorgen je apparaat is nog steeds in orde! Er zijn verschillende "
+"veiligheidsmechanismen aanwezig!\n"
+"Uw apparaat is nog steeds in orde als vóór deze procedure!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:118
@@ -3950,7 +3957,7 @@ msgstr "Klaar - Geen updates beschikbaar."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:21
 msgid "Down"
-msgstr ""
+msgstr "Beneden"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:520
@@ -4014,7 +4021,7 @@ msgstr "Nederlands"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DynDNS Setup"
-msgstr ""
+msgstr "DynDNS Instellen"
 
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:19
 msgid "Dynamic"
@@ -4048,7 +4055,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPG Selection"
-msgstr ""
+msgstr "EPG Selectie"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4062,11 +4069,11 @@ msgstr "EPG cache Test"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPGRefresh Functions"
-msgstr ""
+msgstr "EPGVernieuwen Functies"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
 msgid "ERROR"
-msgstr ""
+msgstr "FOUT"
 
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:113
 #, python-format
@@ -4075,7 +4082,7 @@ msgstr "Fout - Zoeken mislukt (%s)!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
 msgid "ERROR!"
-msgstr ""
+msgstr "FOUT!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:30
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:32
@@ -4495,7 +4502,7 @@ msgstr "Extensies beheer"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "F I L E L I S T"
-msgstr ""
+msgstr "BESTANDSLIJST"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1371
@@ -4558,7 +4565,7 @@ msgstr "Mislukt"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Failed:"
-msgstr ""
+msgstr "Mislukt:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:42
@@ -4596,7 +4603,7 @@ msgstr "Snelle DiSEqC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:40
 msgid "Fast Forward"
-msgstr ""
+msgstr "Snel Vooruit"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -4655,7 +4662,7 @@ msgstr "Fijnafstelling van de instellingen voor audio en video."
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:54
 msgid "Finish without further actions"
-msgstr ""
+msgstr "Voltooien zonder verdere acties"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Task.py:49
@@ -4670,7 +4677,7 @@ msgstr "Fins"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:47
 msgid "Firmware flasher is missing or broken! Cancelled!"
-msgstr ""
+msgstr "Firmware flasher ontbreekt of is kapot! Geannuleerd!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:113
 msgid ""
@@ -4770,20 +4777,20 @@ msgstr "Frequentie scan stapgrootte(khz)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1414
 msgid "Frequency start"
-msgstr "Startfrekwentie"
+msgstr "Start Frequentie"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2007
 msgid "Frequency steps"
-msgstr "Freqentie stappen"
+msgstr "Frequentie stappen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1415
 msgid "Frequency stop"
-msgstr "Stopfrekwentie"
+msgstr "Stop frequentie"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Frequency:"
-msgstr ""
+msgstr "Frequentie:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
@@ -4791,7 +4798,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Fri"
-msgstr "Vr"
+msgstr "Vrij"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:138
@@ -4867,7 +4874,7 @@ msgstr "Fsck mislukt"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:235
 msgid "Fullscreen: Background color"
-msgstr "Fullscreen: achtergrond kleur"
+msgstr "Volledig Scherm: Achtergrond kleur"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:236
 msgid "Fullscreen: Frame size"
@@ -12300,21 +12307,23 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:74
 msgid "Update failed!"
-msgstr ""
+msgstr "Update mislukt!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:78
 msgid "Update finished!"
-msgstr ""
+msgstr "Update klaar!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:209
 msgid "Update initialization failed!\n"
-msgstr ""
+msgstr "Update-initialisatie mislukt!\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:79
 msgid ""
 "Update succeeded!\n"
 "Your Bootloader is now up-to-date!"
 msgstr ""
+"Update geslaagd!\n"
+"Uw Bootloader is nu up-to-date!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:630
@@ -12357,7 +12366,7 @@ msgstr "Dreambox update bezig... Een ogenblik geduld a.u.b."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:167
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:205
 msgid "Upload rejected!"
-msgstr ""
+msgstr "Upload geweigerd!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:234
 #, python-brace-format
