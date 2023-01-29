@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-19 22:02+0000\n"
-"PO-Revision-Date: 2023-01-28 21:39+0000\n"
+"PO-Revision-Date: 2023-01-29 12:44+0000\n"
 "Last-Translator: skyman <ufoman8165@gmx.us>\n"
 "Language-Team: Dutch <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/nl/>\n"
@@ -200,6 +200,11 @@ msgid ""
 "\n"
 "Press [OK] or [EXIT] to close this window once it finished booting!"
 msgstr ""
+"\n"
+"U afstandbediening zal binnen enkele seconden starten (op tot 40)!\n"
+"\n"
+"Druk [OK] of [EXIT] om deze venster te sluiten zodra het opstarten voltooid "
+"is!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:865
@@ -225,7 +230,7 @@ msgstr " updates beschikbaar."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/FSBLUpdater.py:56
 msgid "!! Bootloader Upgrade !!"
-msgstr ""
+msgstr "!! Bootloader Opwaarderen !!"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:596
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:599
@@ -316,6 +321,10 @@ msgid ""
 "%03d blocks written\n"
 "%03d blocks verified (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d blokken geschreven\n"
+"%03d blokken geverifieerd (%s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceAdapterFlasher.py:74
 #, python-format
@@ -324,6 +333,9 @@ msgid ""
 "\n"
 "%03d blocks written (%s)"
 msgstr ""
+"%s\n"
+"\n"
+"%03d blokken geschreven (%s)"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/About.py:58
@@ -375,12 +387,12 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:64
 #, python-format
 msgid "%s IR codes acknowledged!"
-msgstr ""
+msgstr "%s IR codes herkent!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:194
 #, python-format
 msgid "%s IR codes sent!"
-msgstr ""
+msgstr "%s IR codes gezonden!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:782
 #, python-format
@@ -390,17 +402,17 @@ msgstr "%s Netwerk - Nameservers"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:116
 #, python-format
 msgid "%s devices"
-msgstr ""
+msgstr "%s apparaten"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:136
 #, python-format
 msgid "%s mapped keys"
-msgstr ""
+msgstr "%s toegewezen toetsen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/PackageRestoreWizard.py:61
 #, python-format
 msgid "%s previously installed package(s) have been restored!"
-msgstr ""
+msgstr "%s eerder geïnstalleerde pakket(ten) zijn hersteld!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:454
@@ -445,11 +457,11 @@ msgstr "* actuele animatie"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:33
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:34
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:124
 msgid "-- All --"
@@ -464,15 +476,15 @@ msgstr "..."
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
@@ -494,15 +506,15 @@ msgstr "1.2"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:57
 msgid "1.3"
-msgstr ""
+msgstr "1.3"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:118
 msgid "1.712 MHz"
-msgstr ""
+msgstr "1.712 MHz"
 
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:119
 msgid "10 MHz"
-msgstr ""
+msgstr "10 MHz"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
@@ -551,19 +563,19 @@ msgstr "18 V"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:58
 msgid "2.0"
-msgstr ""
+msgstr "2.0"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:59
 msgid "2.1"
-msgstr ""
+msgstr "2.1"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:60
 msgid "2.2"
-msgstr ""
+msgstr "2.2"
 
 #
 #: enigma2/usr/lib/enigma2/python/mytest.py:151
@@ -581,19 +593,19 @@ msgstr "info 2de lijn"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:61
 msgid "3.0"
-msgstr ""
+msgstr "3.0"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:62
 msgid "3.1"
-msgstr ""
+msgstr "3.1"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:63
 msgid "3.2"
-msgstr ""
+msgstr "3.2"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
@@ -603,23 +615,23 @@ msgstr "30 minuten"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "3D settings"
-msgstr ""
+msgstr "3D instellingen"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:64
 msgid "4.0"
-msgstr ""
+msgstr "4.0"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:65
 msgid "4.1"
-msgstr ""
+msgstr "4.1"
 
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:66
 msgid "4.2"
-msgstr ""
+msgstr "4.2"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:383
@@ -640,7 +652,7 @@ msgstr "4:3 PanScan"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
@@ -650,7 +662,7 @@ msgstr "5 minuten"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
@@ -660,7 +672,7 @@ msgstr "60 minuten"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #
 #: enigma2/usr/lib/enigma2/python/mytest.py:151
@@ -669,15 +681,15 @@ msgstr "7dagen"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:30
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:51
@@ -710,7 +722,7 @@ msgstr "<onbekend>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:31
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
@@ -785,6 +797,7 @@ msgstr "Een HD skin door de IhaD-leden, gebaseerd op holo"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:73
 msgid "A new bluetooth remote has been discovered. Connect now?"
 msgstr ""
+"Er is een nieuwe bluetooth-afstandsbediening ontdekt. Nu verbinding maken?"
 
 #: enigma2-skins/skins/dreamTV-HD/meta/skin_dreamtv-hd.xml
 #: enigma2-skins/skins/dTV-HD-Reloaded/meta/skin_dtv-hd-reloaded.xml
@@ -849,6 +862,10 @@ msgid ""
 "Do you want to restore your settings now?\n"
 "NOTE: Enigma2 will restart automatically after restoring your settings."
 msgstr ""
+"Er is een back-up van de instellingen gevonden.\n"
+"Wilt u nu u instellingen herstellen?\n"
+"OPMERKING: Enigma2 wordt automatisch opnieuw opgestart na het herstellen van "
+"u instellingen."
 
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml
 #: enigma2/usr/share/meta/plugin_mediarenderer.xml./enigma2/usr/share/meta/plugin_mediarenderer.xml
@@ -902,7 +919,7 @@ msgstr "AA"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:30
 msgid "AAC"
-msgstr ""
+msgstr "AAC"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:16
 msgid "AACS certificate revoked"
@@ -914,7 +931,7 @@ msgstr "AACS configuratiebestand ontbreekt"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:56
 msgid "AAS Advanced SSA"
-msgstr ""
+msgstr "AAS Geavanceerd SSA"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
@@ -923,13 +940,13 @@ msgstr "AB"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:32
 msgid "AC3"
-msgstr ""
+msgstr "AC3"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "AC3 Lip Sync Setup"
-msgstr ""
+msgstr "AC3 Lip Sync Instellen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:103
@@ -945,11 +962,11 @@ msgstr "AC3 downmix"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:31
 msgid "AC3+"
-msgstr ""
+msgstr "AC3+"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:174
 msgid "APPLICATION"
-msgstr ""
+msgstr "APPLICATIE"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:945
 #, python-format
@@ -999,11 +1016,11 @@ msgstr "Over..."
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Account Setup"
-msgstr ""
+msgstr "Account Instellen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Accounts list"
-msgstr ""
+msgstr "Account lijst"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1418
 msgid "Accuracy (higher is better)"
@@ -1011,7 +1028,7 @@ msgstr "Gevoeligheid (hoger is beter)"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:264
 msgid "Action"
-msgstr ""
+msgstr "Actie"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Action on long powerbutton press"
@@ -1055,10 +1072,12 @@ msgid ""
 "Active time servers:\n"
 "%s"
 msgstr ""
+"Actieve tijdservers:\n"
+"%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:99
 msgid "Adaptive Mode"
-msgstr ""
+msgstr "Adaptieve Modus"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:40
@@ -1102,7 +1121,7 @@ msgstr "Nieuwe titel toevoegen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Add entry"
-msgstr ""
+msgstr "Item toevoegen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:51
@@ -1176,7 +1195,7 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Adjust network settings"
-msgstr ""
+msgstr "Netwerkinstellingen aanpassen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoTune/VideoFinetune.py:228
@@ -1203,7 +1222,7 @@ msgstr "Activeer huidige configuratie."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:155
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Advanced"
-msgstr ""
+msgstr "Geavanceerd"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:93
@@ -1233,7 +1252,7 @@ msgstr "Geavanceerde video instellingen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:296
 msgid "Advanced input device features"
-msgstr ""
+msgstr "Geavanceerde functies van invoerapparaten"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:159
@@ -1261,12 +1280,12 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 msgid "After service name"
-msgstr ""
+msgstr "Naam na service"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:114
 msgid "After service number"
-msgstr ""
+msgstr "Na service nummer"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicedescription"
@@ -1333,11 +1352,11 @@ msgstr "Alle wijzigngen aan de instellingen werden geannuleerd!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:100
 msgid "Allow 10bit"
-msgstr ""
+msgstr "Toestaan 10bit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:98
 msgid "Allow 12bit"
-msgstr ""
+msgstr "Toestaan 12bit"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:111
 msgid "Allow remote control via CEC"
@@ -1373,6 +1392,9 @@ msgid ""
 "An error occured while renaming the package list backup!\n"
 "%s"
 msgstr ""
+"Er is een fout opgetreden tijdens het hernoemen van de back-up van de "
+"pakketlijst!\n"
+"%s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:208
 msgid "An unexpected error occured when trying to save the Playlist!"
@@ -1389,7 +1411,7 @@ msgstr "Een onbekende fout is gebeurd!"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Animation Setup"
-msgstr ""
+msgstr "Animatie Instellingen"
 
 #
 #: enigma2/usr/share/enigma2/menu.xml
@@ -1407,7 +1429,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 msgid "Application"
-msgstr ""
+msgstr "Applicatie"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:23
@@ -1499,7 +1521,7 @@ msgstr "Koppeling"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:251
 msgid "Audio Bitrate"
@@ -1519,15 +1541,15 @@ msgstr "Audio PID"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:310
 msgid "Audio Plugin Selection"
-msgstr ""
+msgstr "Audio Plugin Selectie"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Restart Setup"
-msgstr ""
+msgstr "Audio opnieuw opstarten instellen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio Sync"
-msgstr ""
+msgstr "Audio Sync"
 
 #: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:20
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:14
@@ -1541,7 +1563,7 @@ msgstr "Audio Systeem (forceren)"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "AudioPlayer"
-msgstr ""
+msgstr "Audiospeler"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:497
 msgid "Authentication required"
@@ -1607,7 +1629,7 @@ msgstr "Autp-Standby"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1886
 msgid "Auto Updater"
-msgstr ""
+msgstr "Automatische updater"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:90
@@ -1632,11 +1654,11 @@ msgstr ""
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AutoTimer Overview"
-msgstr ""
+msgstr "AutoTimer Overzicht"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AutoTimer Settings"
-msgstr ""
+msgstr "AutoTimer-instellingen"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:382
@@ -1653,19 +1675,19 @@ msgstr "Automatisch zoeken"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr ""
+msgstr "Automatische Timerlijst Opruiming Instellen"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Automatic Update Check"
-msgstr ""
+msgstr "Automatische Updatecontrole"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:18
 msgid "Automatic Updates"
-msgstr ""
+msgstr "Automatische Updates"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:55
 msgid "Automatic service scan"
-msgstr ""
+msgstr "Automatische servicescan"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:19
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -1684,7 +1706,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:142
 msgid "Automatic update checks"
-msgstr ""
+msgstr "Automatische updatecontroles"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Automatic wakeup from standby for zap timers"
@@ -1693,13 +1715,15 @@ msgstr "Automatisch opstarten van standby voor zaptimer"
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:42
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:149
 msgid "Automatically check for new updates"
-msgstr ""
+msgstr "Automatisch controleren op nieuwe updates"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
 "Automatically check for new updates.\n"
 "Please select the interval for automated update checks."
 msgstr ""
+"Automatisch controleren op nieuwe updates.\n"
+"Selecteer het interval voor geautomatiseerde update controles."
 
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml
 #: enigma2/usr/share/meta/plugin_cleanupwizard.xml./enigma2/usr/share/meta/plugin_cleanupwizard.xml
@@ -1721,7 +1745,7 @@ msgstr "Automatisch een koppelingspunt instellen."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:67
 msgid "Available Remotes"
-msgstr ""
+msgstr "Beschikbare afstandsbedieningen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Available format variables"
@@ -1730,7 +1754,7 @@ msgstr "Beschikbare formaten"
 #: enigma2/usr/lib/enigma2/python/Screens/ConfigSetHelpDialog.py:13
 #, python-format
 msgid "Available values: %s"
-msgstr ""
+msgstr "Beschikbare waarden:%s"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1766
@@ -1752,11 +1776,11 @@ msgstr "Basic-HD skin voor Enigma2 Images van Ismail Demir"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BAT"
-msgstr ""
+msgstr "BAT"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "BAT:"
-msgstr ""
+msgstr "BAT:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
@@ -1776,19 +1800,19 @@ msgstr "BDMV Compatible Bludisc (enkel HDTV)"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BER:"
-msgstr ""
+msgstr "BER:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:186
 msgid "BIN"
-msgstr ""
+msgstr "BIN"
 
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "BLE"
-msgstr ""
+msgstr "BLE"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "BLE:"
-msgstr ""
+msgstr "BLE:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
@@ -1811,7 +1835,7 @@ msgstr "Terug"
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:704
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:705
 msgid "Back USB"
-msgstr ""
+msgstr "Achter USB"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:646
 msgid "Back USB 3.0"
@@ -1820,7 +1844,7 @@ msgstr "USB 3.0 achteraan"
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:680
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:681
 msgid "Back, inner USB"
-msgstr ""
+msgstr "Achter, USB aan de binnenkant"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:627
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:628
@@ -1836,7 +1860,7 @@ msgstr "Achteraan, onderste USB"
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:678
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:679
 msgid "Back, outer USB"
-msgstr ""
+msgstr "Achter, buitenste USB"
 
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:625
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:626
@@ -1904,7 +1928,7 @@ msgstr "Bandbreedte"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:253
 msgid "Basic Encoder Settings"
-msgstr ""
+msgstr "Basisinstellingen voor Encoder"
 
 #: enigma2/usr/share/meta/plugin_upnp.xml
 #: enigma2/usr/share/meta/plugin_upnp.xml./enigma2/usr/share/meta/plugin_upnp.xml
@@ -1964,11 +1988,11 @@ msgstr "Bing"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Birthday Reminder"
-msgstr ""
+msgstr "Verjaardagsherinnering"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Birthday Reminder Settings"
-msgstr ""
+msgstr "Instellingen voor verjaardagsherinneringen"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:250
 msgid "Bitrates"
@@ -1976,7 +2000,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:139
 msgid "Black Screen"
-msgstr ""
+msgstr "Zwart Scherm"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1684
 msgid "Blindscan"
@@ -2004,7 +2028,7 @@ msgstr "BludiscPlayer speelt onversleutelde films af van Bludiscs"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:17
 msgid "Blue"
-msgstr ""
+msgstr "Blauw"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:107
@@ -2018,7 +2042,7 @@ msgstr ""
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:88
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/plugin.py:99
 msgid "Bluetooth Remote Setup"
-msgstr ""
+msgstr "Bluetooth-afstandsbediening instellen"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Bonjour"
@@ -2043,11 +2067,11 @@ msgstr "Markeerpunten"
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml
 #: enigma2/usr/share/meta/plugin_fsblupdater.xml./enigma2/usr/share/meta/plugin_fsblupdater.xml
 msgid "Bootloader Updater"
-msgstr ""
+msgstr "Bootloader Opwaardering"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:32
 msgid "Bootloader update required!"
-msgstr ""
+msgstr "Bootloader opwaardering vereist!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:24
@@ -2130,7 +2154,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "CI Assignment"
-msgstr ""
+msgstr "CI-Toewijzing"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:74
@@ -2209,11 +2233,11 @@ msgstr "Annuleren"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:169
 msgid "Cancel guided setup"
-msgstr ""
+msgstr "Begeleide installatie annuleren"
 
 #: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:316
 msgid "Cancel guided setup?"
-msgstr ""
+msgstr "Begeleide installatie annuleren?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:186
 msgid "Cannot add this file. It's no video!"
@@ -2293,7 +2317,7 @@ msgstr "Kanaal"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Channel Selection"
-msgstr ""
+msgstr "Kanaal Selectie"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:331
@@ -2317,7 +2341,7 @@ msgstr "Instellingen Weergave KanaalSelectie"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Channellist menu"
-msgstr ""
+msgstr "Kanaallijst menu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:450
@@ -2342,7 +2366,7 @@ msgstr "Controleer"
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:41
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:148
 msgid "Check on every boot"
-msgstr ""
+msgstr "Controleer bij elke opstart"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:499
 msgid "Check selected storage device."
@@ -2350,19 +2374,19 @@ msgstr "Controleer het geselecteerd opslagmedium."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:103
 msgid "Check state on 'Active Source'"
-msgstr ""
+msgstr "Controleer de status op 'Actieve Bron'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:102
 msgid "Check state on 'Routing Change'"
-msgstr ""
+msgstr "Controleer de status op 'Routeringswijziging'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:101
 msgid "Check state on 'Routing Info'"
-msgstr ""
+msgstr "Status controleren op ‘Routerings Info'"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:104
 msgid "Check state on 'Set Stream' (on only)"
-msgstr ""
+msgstr "Controleer de status op 'Stream instellen' (alleen aan)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:105
 msgid "Check state on 'TV Power Status On' (on only)"
@@ -2383,12 +2407,12 @@ msgstr "Kies een zenderlijst"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose Tuner"
-msgstr ""
+msgstr "Kies Tuner"
 
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin.xml
 msgid "Choose a Wireless Network"
-msgstr ""
+msgstr "Kies een Draadloos Netwerk"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:161
@@ -2404,7 +2428,7 @@ msgstr "Kies een back-up locatie"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose bouquet"
-msgstr ""
+msgstr "Kies boeket"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:279
@@ -2420,7 +2444,7 @@ msgstr "Kies upgrade bron"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose your Skin"
-msgstr ""
+msgstr "Kies je Skin"
 
 #
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:66
@@ -2565,7 +2589,7 @@ msgstr "Verzamel instellingen"
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Color"
-msgstr ""
+msgstr "Kleur"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -2574,7 +2598,7 @@ msgstr "Beeldinstelling"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:99
 msgid "Color temp"
-msgstr ""
+msgstr "Kleur temperatuur"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:89
 msgid "Column style"
@@ -2582,13 +2606,13 @@ msgstr "Kolomstijl"
 
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:357
 msgid "Combined"
-msgstr ""
+msgstr "Gecombineerd"
 
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Command execution..."
-msgstr ""
+msgstr "Uitvoering van opdrachten..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:425
@@ -2617,7 +2641,7 @@ msgstr "Common Interface Taken"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Common interface"
-msgstr ""
+msgstr "Common interface"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:849
@@ -2660,7 +2684,7 @@ msgstr "Configuratie modus"
 
 #: enigma2/usr/share/meta/plugin_streamservices.xml
 msgid "Configuration Utility for the Dreambox Stream Services"
-msgstr ""
+msgstr "Configuratie hulpprogramma voor de Dreambox Stream Services"
 
 #
 #: enigma2/usr/share/meta/plugin_streamserver.xml
@@ -2687,7 +2711,7 @@ msgstr "Configureer uw common interface."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel LED."
-msgstr ""
+msgstr "Configureer u LED frontpaneel."
 
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Configure your frontpanel OLED or LCD display."
@@ -2731,11 +2755,11 @@ msgstr "Verbinden"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:251
 msgid "Connect new remote?"
-msgstr ""
+msgstr "Nieuwe afstandbediening verbinden?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:67
 msgid "Connect with WPS Push-Button?"
-msgstr ""
+msgstr "Druk knop met WPS verbinden?"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:46
@@ -2755,7 +2779,7 @@ msgstr "Verbinden"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:109
 #, python-format
 msgid "Connecting to %s"
-msgstr ""
+msgstr "Verbinden met %s"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:30
 msgid "Connection State:"
@@ -2781,7 +2805,7 @@ msgstr "Doorgaan"
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Continue in background"
-msgstr ""
+msgstr "Bezig in achtergrond"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:550
@@ -2797,12 +2821,12 @@ msgstr "Contrast"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:217
 msgid "Control write failed!"
-msgstr ""
+msgstr "Schrijven van besturing mislukt!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:215
 #, python-format
 msgid "Control write failed! Code %i\n"
-msgstr ""
+msgstr "Schrijven van besturing mislukt! Code %i\n"
 
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml
 #: enigma2/usr/share/meta/plugin_tempfancontrol.xml./enigma2/usr/share/meta/plugin_tempfancontrol.xml
@@ -2834,12 +2858,12 @@ msgstr "Kan Picture In Picture niet openen"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2715
 msgid "Couldn't find media type"
-msgstr ""
+msgstr "Kan mediatype niet vinden"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2714
 #, python-format
 msgid "Couldn't read file: %s"
-msgstr ""
+msgstr "Kan bestand niet lezen: %s"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1809
@@ -2966,7 +2990,7 @@ msgstr "Actuele versie:"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:31
 msgid "Custom buffer time"
-msgstr ""
+msgstr "Aangepaste buffertijd"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -3065,23 +3089,27 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:192
 msgid "DFU device connected!"
-msgstr ""
+msgstr "DFU apparaat aangesloten!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:162
 msgid ""
 "DFU device did not show up. Cancelling!\n"
 "You may want to try this again!"
 msgstr ""
+"DFU apparaat is niet weergegeven. Annuleren!\n"
+"Misschien wilt u dit opnieuw proberen!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:189
 msgid "DFU device ready!"
-msgstr ""
+msgstr "DFU apparaat is klaar!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:157
 msgid ""
 "DFU is not available on this device. A firmware update may be required "
 "upfront!"
 msgstr ""
+"DFU is niet beschikbaar op dit apparaat. Mogelijk is vooraf een firmware-"
+"update vereist!"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserUPnP.py:236
 msgid "DLNA / UPnP"
@@ -3091,7 +3119,7 @@ msgstr "DLNA / UPnP"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:94
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:86
 msgid "DM Remote"
-msgstr ""
+msgstr "DM Afstandbediening"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:215
 msgid "DNS"
@@ -3107,14 +3135,16 @@ msgid ""
 "DO NOT POWER OFF YOUR DEVICE WHILE UPDATING!\n"
 "Update now?"
 msgstr ""
+"SCHAKEL UW APPARAAT NIET UIT TIJDENS HET BIJWERKEN!\n"
+"Nu Updaten?"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:28
 msgid "DTS"
-msgstr ""
+msgstr "DTS"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:27
 msgid "DTS-HD"
-msgstr ""
+msgstr "DTS-HD"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:327
 msgid "DUAL LAYER DVD"
@@ -3122,12 +3152,12 @@ msgstr "DUBBEL LAYER DVD"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:45
 msgid "DVB"
-msgstr ""
+msgstr "DVB"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1516
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1517
 msgid "DVB-C"
-msgstr ""
+msgstr "DVB-C"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1511
@@ -3154,16 +3184,16 @@ msgstr "DVB-S2"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1525
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1527
 msgid "DVB-T"
-msgstr ""
+msgstr "DVB-T"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1522
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1523
 msgid "DVB-T2"
-msgstr ""
+msgstr "DVB-T2"
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:47
 msgid "DVD"
-msgstr ""
+msgstr "DVD"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DVD Backup"
@@ -3209,7 +3239,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:55
 msgid "DVD subtitles"
-msgstr ""
+msgstr "DVD ondertitels"
 
 #: enigma2/usr/share/meta/plugin_dvdplayer.xml
 #: enigma2/usr/share/meta/plugin_dvdplayer.xml./enigma2/usr/share/meta/plugin_dvdplayer.xml
@@ -3369,7 +3399,7 @@ msgstr "Verwijderen en afsluiten. "
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:257
 msgid "Delete and return to movie list"
-msgstr ""
+msgstr "Verwijder en keer terug naar filmlijst"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
@@ -3400,7 +3430,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:409
 msgid "Depends on"
-msgstr ""
+msgstr "Afhankelijk"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
