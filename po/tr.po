@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-14 22:02+0000\n"
+"POT-Creation-Date: 2023-03-16 22:03+0000\n"
 "PO-Revision-Date: 2022-08-07 22:02+0000\n"
 "Last-Translator: DreamOSat Forum <info@dreamosat-forum.com>\n"
 "Language-Team: Turkish <https://dreambox.de/translate/projects/dreambox/"
@@ -298,9 +298,9 @@ msgid "%d transponders found at %d:%02dmin"
 msgstr "%d transponder bulundu (süre : %d:%02d dk)"
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:136
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:42
 msgid "%d.%B %Y"
 msgstr "%d.%B %Y"
 
@@ -472,14 +472,14 @@ msgstr "-"
 msgid "-- All --"
 msgstr "-- Tümü --"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:92
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:84
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:92
 msgid "..."
 msgstr "..."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "/"
 msgstr "/"
 
@@ -497,15 +497,15 @@ msgid "1.0"
 msgstr "1.0"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:55
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
 msgid "1.1"
 msgstr "1.1"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:56
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1767
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
-#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:56
 msgid "1.2"
 msgstr "1.2"
 
@@ -546,10 +546,10 @@ msgid "16:10 PanScan"
 msgstr "16:10 PanTarama"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:384
 #: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:93
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:77
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 msgid "16:9"
 msgstr "16:9"
 
@@ -638,9 +638,9 @@ msgid "4.2"
 msgstr "4.2"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:383
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:75
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:17
 msgid "4:3"
 msgstr "4:3"
 
@@ -790,10 +790,10 @@ msgstr "Belirtilen buketteki tüm kanallar için görsel EPR"
 msgid "A holo inspired Full HD skin from the Members of IhaD"
 msgstr "IhaD Üyelerinden holo esintili bir Full HD skin"
 
+#: enigma2-skins/skins/holo-black/meta/skin_holo-black.xml
 #: enigma2-skins/skins/holoFHD-light/meta/skin_holofhd-light.xml
 #: enigma2-skins/skins/holo-dark/meta/skin_holo-dark.xml
 #: enigma2-skins/skins/holo-light/meta/skin_holo-light.xml
-#: enigma2-skins/skins/holo-black/meta/skin_holo-black.xml
 msgid "A holo inspired HD skin from the Members of IhaD"
 msgstr "IhaD Üyelerinden holo esinli bir HD skin"
 
@@ -801,9 +801,9 @@ msgstr "IhaD Üyelerinden holo esinli bir HD skin"
 msgid "A new bluetooth remote has been discovered. Connect now?"
 msgstr "Yeni bir Bluetooth uzaktan kumanda bulundu. Şimdi Bağlan?"
 
-#: enigma2-skins/skins/dTV-HD-Reloaded/meta/skin_dtv-hd-reloaded.xml
 #: enigma2-skins/skins/dTV-HD/meta/skin_dtv-hd.xml
 #: enigma2-skins/skins/dreamTV-HD/meta/skin_dreamtv-hd.xml
+#: enigma2-skins/skins/dTV-HD-Reloaded/meta/skin_dtv-hd-reloaded.xml
 msgid "A nice looking HD skin from Kerni"
 msgstr "Kerni' nin güzel görünüşlü HD arayüzü"
 
@@ -874,8 +874,8 @@ msgid "A simple UPnP/DLNA Mediarenderer"
 msgstr "Basit bir UPnP/DLNA Medya Oluşturucu / Mediarenderer"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:134
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:36
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:134
 msgid ""
 "A sleep timer wants to set your\n"
 "Dreambox to standby. Do that now?"
@@ -884,8 +884,8 @@ msgstr ""
 "hazırda bekleme kipine almak istiyor. Şimdi alınsın mı?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:131
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:31
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:131
 msgid ""
 "A sleep timer wants to shut down\n"
 "your Dreambox. Shutdown now?"
@@ -943,9 +943,9 @@ msgstr "AB"
 msgid "AC3"
 msgstr "AC3"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AC3 Lip Sync Setup"
 msgstr "AC3 Dudak Senkronizasyonu Yapılandırması"
 
@@ -956,8 +956,8 @@ msgid "AC3 default"
 msgstr "AC3 varsayılan"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:164
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:105
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:164
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "AC3 downmix"
 msgstr "AC3 Downmix"
@@ -1002,10 +1002,10 @@ msgid "Abort Download?"
 msgstr "İndirmeyi İptal Et?"
 
 #
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "About"
 msgstr "Hakkında"
 
@@ -1078,14 +1078,14 @@ msgid "Adaptive Mode"
 msgstr "Uyarlanabilir Mod"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:40
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:174
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:11
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:81
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:121
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:37
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:174
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:121
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:11
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:81
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:40
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Add"
 msgstr "Ekle"
@@ -1119,13 +1119,16 @@ msgstr "Yeni başlık ekle"
 msgid "Add entry"
 msgstr "Giriş ekle"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:143
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:54
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:143
 msgid "Add file(s) to Playlist"
 msgstr "Oynatma Listesine dosya(lar) ekleyin"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:674
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:710
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:761
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:79
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:296
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:332
@@ -1134,9 +1137,6 @@ msgstr "Oynatma Listesine dosya(lar) ekleyin"
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:108
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:144
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:197
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:674
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:710
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:761
 msgid "Add timer"
 msgstr "Zamanlayıcı"
 
@@ -1156,8 +1156,8 @@ msgstr "Buket ekle"
 msgid "Add to favourites"
 msgstr "Favorilere ekle"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:195
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:113
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:195
 #, python-format
 msgid "Added '%s'"
 msgstr "'%s' eklendi"
@@ -1212,15 +1212,15 @@ msgstr "Bit Hızını Ayarlama"
 msgid "Adopt current configuration."
 msgstr "Geçerli yapılandırmayı benimseyin."
 
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:61
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:155
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:61
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Advanced"
 msgstr "Gelişmiş"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:93
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:157
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:93
 msgid "Advanced Options"
 msgstr "Gelişmiş seçenekler"
 
@@ -1302,30 +1302,30 @@ msgstr ""
 "başvurun."
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:130
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:111
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:130
 msgid "Album"
 msgstr "Albüm"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:199
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:550
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:199
 msgid "Album Artists"
 msgstr "Albüm Sanatçıları"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:195
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:547
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:195
 msgid "Albums"
 msgstr "Albümler"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:553
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:574
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:541
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:16
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:203
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:237
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:892
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1030
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:16
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:203
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:541
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:553
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:574
 msgid "All"
 msgstr "Tümü"
 
@@ -1394,10 +1394,10 @@ msgid "An unexpected error occured when trying to save the Playlist!"
 msgstr "Oynatma Listesini kaydetmeye çalışırken beklenmeyen bir hata oluştu!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/Task.py:360
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:306
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:184
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Bludisc.py:285
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:306
+#: enigma2/usr/lib/enigma2/python/Components/Task.py:360
 msgid "An unknown error occured!"
 msgstr "Bilinmeyen bir hata oluştu!"
 
@@ -1458,13 +1458,13 @@ msgstr ""
 "Geri yükleme işleminden sonra Enigma2 yeniden başlayacaktır"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:126
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:107
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:126
 msgid "Artist"
 msgstr "Sanatçı"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:191
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:544
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:191
 msgid "Artists"
 msgstr "Sanatçılar"
 
@@ -1482,8 +1482,8 @@ msgid "Ask user"
 msgstr "Sor"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:84
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:74
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:84
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Aspect Ratio"
 msgstr "En boy oranı"
@@ -1502,12 +1502,12 @@ msgstr "Bir CI modülüne sağlayıcılar/hizmetler/caid'ler atama"
 msgid "Association"
 msgstr "Bağlantı"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:28
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:102
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Audio"
 msgstr "Ses"
 
@@ -1539,8 +1539,8 @@ msgstr "Ses Yeniden Başlatma Kurulumu"
 msgid "Audio Sync"
 msgstr "Ses Senkronizasyonu"
 
-#: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:20
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:14
+#: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:20
 msgid "Audio System"
 msgstr "Ses Sistemi"
 
@@ -1548,8 +1548,8 @@ msgstr "Ses Sistemi"
 msgid "Audio System (force)"
 msgstr "Ses Sistemi (zorla)"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AudioPlayer"
 msgstr "SesOynatıcı"
 
@@ -1568,7 +1568,24 @@ msgid "Authoring mode"
 msgstr "Yayınlama kipi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:39
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:44
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:56
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:78
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:92
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:99
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:104
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:117
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:121
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:130
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:139
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:146
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:149
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:158
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:171
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:175
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1739
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1737
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1745
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1771
@@ -1589,23 +1606,6 @@ msgstr "Yayınlama kipi"
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1907
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1915
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1924
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:39
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:44
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:56
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:78
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:92
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:99
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:104
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:117
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:121
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:130
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:139
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:146
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:149
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:158
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:171
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:175
 msgid "Auto"
 msgstr "Otomatik"
 
@@ -1632,9 +1632,9 @@ msgstr "Otomatik et"
 msgid "Auto scart switching"
 msgstr "Otomatik scart anahtarlama"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "AutoMountManager"
 msgstr "Otomatik Bağlantı Yöneticisi"
 
@@ -1657,8 +1657,8 @@ msgstr "Otomatik"
 msgid "Automatic Scan"
 msgstr "Otomatik arama"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Automatic Timerlist Cleanup Setup"
 msgstr "Otomatik Zamanlayıcı Listesi Temizleme - Kurulumu"
 
@@ -1697,8 +1697,8 @@ msgstr "Otomatik güncelleme kontrolleri"
 msgid "Automatic wakeup from standby for zap timers"
 msgstr "Zap zamanlayıcıları için bekleme modundan otomatik uyandırma"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:42
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:149
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:42
 msgid "Automatically check for new updates"
 msgstr "Yeni güncellemeleri otomatik olarak kontrol et"
 
@@ -1781,10 +1781,10 @@ msgstr "BDMV Bludisk (Yalnızca HDTV)"
 msgid "BDMV Compatible Bludisc (HDTV only)"
 msgstr "BDMV uyumlu BluDisk (Yalnızca HDTV)"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "BER:"
 msgstr "BER:"
 
@@ -1800,8 +1800,8 @@ msgstr "BLE"
 msgid "BLE:"
 msgstr "BLE:"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:314
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:141
 msgid "BLUDISC RECORDABLE"
 msgstr "KAYDEDİLEBİLİR BLUDISC"
 
@@ -1904,9 +1904,9 @@ msgid "Band"
 msgstr "Bant"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1452
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:103
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:188
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1452
 msgid "Bandwidth"
 msgstr "Bant genişliği"
 
@@ -1929,10 +1929,10 @@ msgstr ""
 "DLNA."
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:77
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:454
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 msgid "Begin time"
 msgstr "Başlangıç"
 
@@ -2044,8 +2044,8 @@ msgid "Bookmark '%s' saved succesfully!"
 msgstr "'%s' yerimi kaydedildi!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:73
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:132
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:73
 msgid "Bookmarks"
 msgstr "Yer imleri"
 
@@ -2099,10 +2099,10 @@ msgstr "DVD yaz"
 msgid "Burn existing image to medium"
 msgstr "Mevcut imajı DVD'ye yazın"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:41
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/plugin.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:72
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:132
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:41
 msgid "Burn to medium"
 msgstr "Medya'ya yaz"
 
@@ -2125,15 +2125,15 @@ msgstr ""
 msgid "C-Band"
 msgstr "C-Bandı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "CDInfo"
 msgstr "CDBilgi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "CI Assignment"
 msgstr "CI Atama"
 
@@ -2153,10 +2153,10 @@ msgid "CVBS"
 msgstr "CVBS"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:489
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:90
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:76
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1150
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:90
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:489
 msgid "Cable"
 msgstr "Kablo"
 
@@ -2165,49 +2165,49 @@ msgid "Cached IO"
 msgstr "Önbelleğe alınmış IO"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:51
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:317
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:37
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:337
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:975
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1413
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:121
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:110
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:200
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:376
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:34
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:581
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:189
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:59
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:107
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:28
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:853
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:24
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:66
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:55
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:218
 #: enigma2/usr/lib/enigma2/python/Components/SortableList.py:111
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:96
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:130
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:40
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:94
-#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:18
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:37
-#: enigma2/usr/lib/enigma2/python/Screens/Setup.py:87
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:59
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:340
 #: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:16
+#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:18
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1331
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:184
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:306
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:38
+#: enigma2/usr/lib/enigma2/python/Screens/Setup.py:87
 #: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:55
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:218
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:59
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:107
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:55
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:24
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:66
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:28
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:853
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:189
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:37
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:51
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:317
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:376
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:581
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:110
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:200
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:121
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:337
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:975
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1413
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:34
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:59
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:340
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:37
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:40
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:94
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Cancel"
 msgstr "Vazgeç"
 
@@ -2256,8 +2256,8 @@ msgid "Change bouquets in quickzap"
 msgstr "Kanal değiştirirken buketler arası geçişe izin"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:317
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:263
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:317
 msgid "Change pin code"
 msgstr "Şifre değiştir"
 
@@ -2279,22 +2279,22 @@ msgid "Change step size"
 msgstr "Ayar yapılırken atlama boyutu"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:230
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:173
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:23
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:335
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:358
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:379
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:23
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:173
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:230
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Channel"
 msgstr "Kanal"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:872
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Channel Selection"
 msgstr "Kanal Seçimi"
 
@@ -2310,15 +2310,15 @@ msgstr "Kanal:"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:23
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:232
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "ChannelSelection Display Settings"
 msgstr "Kanal Seçimi Görüntü Ayarları"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Channellist menu"
 msgstr "Kanal listesi menüsü"
 
@@ -2342,8 +2342,8 @@ msgstr "Bölüm:"
 msgid "Check"
 msgstr "Kontrol et"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:41
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:148
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:41
 msgid "Check on every boot"
 msgstr "Her önyüklemeyi kontrol edin"
 
@@ -2381,14 +2381,14 @@ msgstr "Dosya sistemi kontrol ediliyor..."
 msgid "Choose Servicelist"
 msgstr "Servis Listesini Seçin"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose Tuner"
 msgstr "Tuner Seçin"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Choose a Wireless Network"
 msgstr "Bir Kablosuz Ağ Seçin"
 
@@ -2402,9 +2402,9 @@ msgstr "Yedeklenecek dosyaları seç"
 msgid "Choose backup location"
 msgstr "Yedekleme konumu seç"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose bouquet"
 msgstr "Buket seçin"
 
@@ -2418,9 +2418,9 @@ msgstr "Hedef klasörü seçin"
 msgid "Choose upgrade source"
 msgstr "Güncelleme sunucusu ayarları"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Choose your Skin"
 msgstr "Arayüz Seçin"
 
@@ -2458,9 +2458,9 @@ msgstr "Temizlik sihirbazı ayarları"
 msgid "CleanupWizard"
 msgstr "Temizlik sihirbazı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "CleanupWizard settings"
 msgstr "Temizleme Sihirbazı ayarları"
 
@@ -2477,8 +2477,8 @@ msgstr "Geçmiş temizlensin mi?"
 msgid "Clear List"
 msgstr "Listeyi temizle"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:55
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:192
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:55
 msgid "Clear Playlist"
 msgstr "Oynatma Listesini Temizle"
 
@@ -2494,17 +2494,9 @@ msgid "Clear log"
 msgstr "Kayıt günlüğünü temizle"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:50
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:105
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:289
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:173
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SkinSelector/plugin.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:69
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:58
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:430
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:540
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:180
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:452
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:542
@@ -2514,6 +2506,14 @@ msgstr "Kayıt günlüğünü temizle"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1327
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1539
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1823
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:430
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:540
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:173
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:105
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:289
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
 msgid "Close"
 msgstr "Kapat"
 
@@ -2534,15 +2534,15 @@ msgstr "Gezgini kapat"
 msgid "Close title selection"
 msgstr "Başlık seçimini kapat"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1465
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:110
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:184
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1465
 msgid "Code rate HP"
 msgstr "Kod oranı HP"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1466
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:109
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:183
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1466
 msgid "Code rate LP"
 msgstr "Kod oranı LP"
 
@@ -2552,11 +2552,11 @@ msgid "Collection name"
 msgstr "Koleksiyon adı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:138
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:71
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:138
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Collection settings"
 msgstr "Koleksiyon ayarları"
 
@@ -2581,9 +2581,9 @@ msgstr "Kolon stili"
 msgid "Combined"
 msgstr "Kombine"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Command execution..."
 msgstr "Komut yürütme..."
 
@@ -2599,10 +2599,10 @@ msgid "Committed DiSEqC command"
 msgstr "Bağlı DiSEqC emri"
 
 #
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Common Interface"
 msgstr "Ortak Arayüz"
 
@@ -2627,9 +2627,9 @@ msgid "Communication"
 msgstr "İletişim"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1685
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1686
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Complete"
 msgstr "Tamamı"
 
@@ -2701,8 +2701,8 @@ msgid "Configure your tuners."
 msgstr "Tuner ayarlarınızı yapılandırın."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:107
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:108
+#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:107
 msgid "Configuring"
 msgstr "Ayarlanıyor"
 
@@ -2712,12 +2712,12 @@ msgid "Conflicting timer"
 msgstr "Zamanlama çakışması"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:80
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:84
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:59
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:63
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:63
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:112
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:63
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:84
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:80
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:59
 msgid "Connect"
 msgstr "Bağlan"
 
@@ -2768,9 +2768,9 @@ msgstr "İçerik DVD'ye sığmıyor!"
 msgid "Continue"
 msgstr "İlerle"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Continue in background"
 msgstr "Arka planda devam et"
 
@@ -2859,9 +2859,9 @@ msgid "CrashlogAutoSubmit settings"
 msgstr "Hata günlüğü gönderme ayarları"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:81
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "CrashlogAutoSubmit settings..."
 msgstr "Hata günlüğü gönderme ayarları..."
 
@@ -2940,9 +2940,9 @@ msgid "Current device: "
 msgstr "Mevcut cihaz: "
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:237
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:121
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:345
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:237
 msgid "Current value: "
 msgstr "Mevcut değer: "
 
@@ -2999,14 +2999,14 @@ msgstr ""
 "Sonrasında kesmek istediğiniz bölümün sonuna konumlanın. Tekrar OK tuşuna "
 "basın ve 'kesimi burada bitir' deyin."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Cutlist Menu"
 msgstr "Kesim Listesi Menüsü"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Cutlist editor"
 msgstr "Kesim listesi düzenleyicisi"
 
@@ -3014,8 +3014,8 @@ msgstr "Kesim listesi düzenleyicisi"
 msgid "Cutlist editor..."
 msgstr "Film düzenleyici..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "CutlistEditor"
 msgstr "Kesim Listesi Düzenleyicisi"
 
@@ -3077,9 +3077,9 @@ msgstr ""
 msgid "DLNA / UPnP"
 msgstr "DLNA/UPnP"
 
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:198
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:94
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:86
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:94
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:198
 msgid "DM Remote"
 msgstr "DM Remote Kumanda"
 
@@ -3170,9 +3170,9 @@ msgstr "DVD Sürücü"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:64
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:60
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DVD File Browser"
 msgstr "DVD Dosya gezgini"
 
@@ -3186,15 +3186,15 @@ msgstr "DVD Oynatıcı"
 msgid "DVD Titlelist"
 msgstr "DVD Başlık seti"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DVD Tool"
 msgstr "DVD Aracı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "DVD media toolbox"
 msgstr "DVD medya araç kutusu"
 
@@ -3241,9 +3241,9 @@ msgid "Database reset FAILED!"
 msgstr "Veritabanı sıfırlama BAŞARISIZ!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:216
-#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:48
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:480
+#: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:48
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:216
 msgid "Date"
 msgstr "Tarih"
 
@@ -3273,11 +3273,11 @@ msgstr ""
 "Hata günlüğü gönderildikten sonra, yapılmasını istediğiniz eylemi seçiniz."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:251
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/DatabasePlaylist.py:64
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:854
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:54
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:75
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/DatabasePlaylist.py:64
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:854
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:251
 msgid "Default"
 msgstr "Varsayılan"
 
@@ -3293,10 +3293,10 @@ msgid "Default movie location"
 msgstr "Varsayılan film konumu"
 
 #
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Default services lists"
 msgstr "Varsayılan kanal listesi"
 
@@ -3309,8 +3309,8 @@ msgstr "Varsayılan ayarlar"
 msgid "Default storage device"
 msgstr "Varsayılan depolama aygıtı"
 
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1897
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:113
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1897
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:358
 msgid "Default storage device is not available!"
 msgstr "Varsayılan depolama aygıtı kullanılabilir değil!"
@@ -3325,15 +3325,15 @@ msgid "Delay"
 msgstr "Gecikme"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:131
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:384
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:389
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:126
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:202
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:752
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:844
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:871
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:202
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:126
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:384
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:389
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:131
 msgid "Delete"
 msgstr "Sil"
 
@@ -3368,15 +3368,15 @@ msgid "Delete crashlogs"
 msgstr "Hata günlüğünü sil"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:512
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
 msgid "Delete entry"
 msgstr "Seçimi sil"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:673
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:732
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:150
 msgid "Delete failed!"
 msgstr "Silme işlemi başarısız!"
 
@@ -3395,12 +3395,12 @@ msgid "Depends on"
 msgstr "Bağlıdır"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:187
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:22
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:75
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1414
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:187
 msgid "Description"
 msgstr "Açıklama"
 
@@ -3555,10 +3555,10 @@ msgid "Disable timer"
 msgstr "Zamanlayıcıyı Kapat"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:506
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
 #: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:118
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:33
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:506
 msgid "Disabled"
 msgstr "Devre dışı"
 
@@ -3571,11 +3571,11 @@ msgid "Discard changes?"
 msgstr "Değişiklikleri gözardı et?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:78
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:77
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:61
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:45
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:55
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:77
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:78
 msgid "Disconnect"
 msgstr "Bağlı değil"
 
@@ -3583,9 +3583,9 @@ msgstr "Bağlı değil"
 msgid "Disconnect paired remote?"
 msgstr "Eşleştirilmiş uzaktan kumandanın bağlantısı kesilsin mi?"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Dish"
 msgstr "Çanak"
 
@@ -3659,14 +3659,14 @@ msgid "Do you really want to connect %s (%s) "
 msgstr "%s (%s) ile gerçekten bağlantı kurmak istiyor musunuz? "
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:311
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:285
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:212
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:133
-#: enigma2/usr/lib/enigma2/python/Screens/EventView.py:123
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:689
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:665
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:718
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:689
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:285
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:133
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:212
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:311
+#: enigma2/usr/lib/enigma2/python/Screens/EventView.py:123
 #, python-format
 msgid "Do you really want to delete %s?"
 msgstr "%s 'i silmek istediğinizden emin misiniz?"
@@ -3809,12 +3809,12 @@ msgid "Do you want to produce this collection?"
 msgstr "Bu derlemeyi yapmak ister misiniz?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:916
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1285
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1301
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1653
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1675
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:150
 msgid "Do you want to reboot your Dreambox?"
 msgstr "Dreambox'ı yeniden başlatmak istiyor musunuz?"
 
@@ -3922,8 +3922,8 @@ msgid "Download started..."
 msgstr "İndirme başlatıldı..."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:84
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:85
+#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:84
 msgid "Downloading"
 msgstr "İndiriliyor"
 
@@ -3977,16 +3977,17 @@ msgid "Dynamic contrast"
 msgstr "Dinamik kontrast"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:497
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:57
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:550
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1158
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:497
 msgid "E"
 msgstr "D"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/setup.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPG"
 msgstr "EPG"
 
@@ -3994,9 +3995,9 @@ msgstr "EPG"
 msgid "EPG Copy view"
 msgstr "EPG kopya görünümü"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPG Selection"
 msgstr "EPG Seçimi"
 
@@ -4008,8 +4009,8 @@ msgstr "EPG önbellek zaman aralığı"
 msgid "EPGCache Test"
 msgstr "EPGCache Testi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "EPGRefresh Functions"
 msgstr "EPGYenileme İşlevleri"
 
@@ -4032,8 +4033,8 @@ msgstr "HATA!"
 msgid "ERROR! Frontprocessor Update"
 msgstr "HATA! Önişlemci Güncellemesi"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:191
 #, python-format
 msgid "ERROR: Cannot add '%s'"
 msgstr "HATA: '%s' eklenemiyor"
@@ -4044,10 +4045,10 @@ msgid "East"
 msgstr "Doğu"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:422
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:36
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1328
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:36
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:364
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:422
 msgid "Edit"
 msgstr "Düzenle"
 
@@ -4083,8 +4084,8 @@ msgid "Edit services list"
 msgstr "Kanal listesini düzenle"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:63
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:520
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:63
 msgid "Edit settings"
 msgstr "Ayarları düzenle"
 
@@ -4116,9 +4117,9 @@ msgstr "Geçen / kalan / süre"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:861
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Electronic Program Guide"
 msgstr "Elektronik Televizyon Rehberi"
 
@@ -4204,8 +4205,8 @@ msgid "Enable vendor specific handling"
 msgstr "Satıcıya özel işlemeyi etkinleştir"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:31
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:506
+#: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:31
 msgid "Enabled"
 msgstr "Etkin"
 
@@ -4288,11 +4289,11 @@ msgid "Enter web address or search term"
 msgstr "Web adresini ya da arama kelimesini girin"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/Task.py:296
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:606
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1613
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:128
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
+#: enigma2/usr/lib/enigma2/python/Components/Task.py:296
 msgid "Error"
 msgstr "Hata"
 
@@ -4315,9 +4316,9 @@ msgstr "Estçe"
 msgid "Event-progessbar position"
 msgstr "Etkinlik ilerleme çubuğu konumu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Eventview"
 msgstr "Etkinlik görünümü"
 
@@ -4352,11 +4353,11 @@ msgid "Exif"
 msgstr "Exif"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:538
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:32
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:140
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:550
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:140
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:32
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:550
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:538
 msgid "Exit"
 msgstr "Çıkış"
 
@@ -4425,11 +4426,11 @@ msgid "Extended Software Plugin"
 msgstr "Genişletilmiş Yazılım Eklentisi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1559
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1559
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Extensions"
 msgstr "Eklentiler"
 
@@ -4443,21 +4444,21 @@ msgid "F I L E L I S T"
 msgstr "D O S Y A L İ S T E S İ"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:96
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:98
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:114
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:467
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:469
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:485
+#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:108
+#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:163
+#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:176
+#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:186
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1371
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1376
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1378
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1443
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1458
-#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:108
-#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:163
-#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:176
-#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:186
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:467
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:469
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:485
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:96
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:98
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:114
 msgid "FEC"
 msgstr "FEC"
 
@@ -4495,8 +4496,8 @@ msgid "Factory reset"
 msgstr "Fabrika ayarlarına dön"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/Task.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:464
+#: enigma2/usr/lib/enigma2/python/Components/Task.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Failed"
 msgstr "Başarısız"
@@ -4510,8 +4511,8 @@ msgid "Failure"
 msgstr "Başarısız"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/Sensors.py:71
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:195
+#: enigma2/usr/lib/enigma2/python/Components/Sensors.py:71
 #, python-format
 msgid "Fan %d"
 msgstr "Fan %d"
@@ -4561,22 +4562,22 @@ msgid "Favorites (TV)"
 msgstr "Favoriler (TV)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:825
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:543
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:825
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Favourites"
 msgstr "Favoriler"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserFile.py:53
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:12
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:158
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserFile.py:53
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "File Browser"
 msgstr "Dosya Tarayıcı"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserFile.py:74
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1450
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1452
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserFile.py:74
 msgid "Filesystem"
 msgstr "Dosya sistemi"
 
@@ -4621,8 +4622,8 @@ msgstr ""
 "uygulanabilir!\n"
 "Seçilen uzaktan kumandayı bağlamak için Sarı'ya basın."
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:220
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:14
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Flash Bluetooth Receiver Firmware?"
 msgstr "Bluetooth alıcı donanım yazılımı güncellensin mi?"
@@ -4684,18 +4685,18 @@ msgid "French"
 msgstr "Fransızca"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1366
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1438
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1451
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:88
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:459
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:337
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:360
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:381
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:101
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:159
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:173
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:181
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:337
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:360
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:381
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:459
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:88
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1366
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1438
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1451
 msgid "Frequency"
 msgstr "Frekans"
 
@@ -4727,10 +4728,10 @@ msgid "Frequency:"
 msgstr "Frekans:"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Fri"
 msgstr "Cuma"
 
@@ -4878,14 +4879,14 @@ msgid "General Settings"
 msgstr "Genel Ayarlar"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:134
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:115
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:134
 msgid "Genre"
 msgstr "Tür"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Genuine Dreambox"
 msgstr "Orijinal Dreambox"
 
@@ -4909,8 +4910,8 @@ msgstr "0 a git"
 msgid "Goto position"
 msgstr "Pozisyona git"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "GraphMultiEPG Settings"
 msgstr "GraphMultiEPG Ayarları"
 
@@ -4965,9 +4966,9 @@ msgstr "Growlee Kurulumu"
 msgid "Gstreamer error: %s"
 msgstr "Gstreamer hatası: %s"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1456
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:113
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:191
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1456
 msgid "Guard interval"
 msgstr "Koruma aralığı"
 
@@ -4975,8 +4976,8 @@ msgstr "Koruma aralığı"
 msgid "HD"
 msgstr "HD"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 msgid "HDMI CEC"
 msgstr "HDMI CEC"
 
@@ -5031,9 +5032,9 @@ msgstr "Listelerde dokunsal geri bildirim"
 msgid "Hard disk"
 msgstr "Sabit disk"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Harddisk"
 msgstr "Sabit Disk"
 
@@ -5092,8 +5093,8 @@ msgstr "HbbTV işlevselliği"
 msgid "Hebrew"
 msgstr "İbranice"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Help"
 msgstr "Yardım"
 
@@ -5101,9 +5102,9 @@ msgstr "Yardım"
 msgid "Helps setting up your dish"
 msgstr "Uydu çanağını ayarlamanıza yardımcı olur"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1464
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:114
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:185
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1464
 msgid "Hierarchy info"
 msgstr "Hiyerarşi bilgisi"
 
@@ -5133,8 +5134,8 @@ msgstr "Geçmiş temizlendi!"
 msgid "Hold First Frame"
 msgstr "İlk Kareyi Tut"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:48
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:444
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:48
 msgid "Home Page"
 msgstr "Ana sayfa"
 
@@ -5144,8 +5145,8 @@ msgid "Home page has been set to '%s'"
 msgstr "'%s' açılış sayfası olarak ayarlandı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1423
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:64
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1423
 msgid "Horizontal"
 msgstr "Yatay (H)"
 
@@ -5182,14 +5183,14 @@ msgstr "IP"
 msgid "IP Addresses"
 msgstr "IP Adresleri"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "IPKG source"
 msgstr "IPKG kaynağı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "IPKG upgrade..."
 msgstr "IPKG yükseltmesi..."
 
@@ -5231,7 +5232,7 @@ msgstr "Boşta Renk"
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:112
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:117
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:90
-#: enigma2/usr/share/enigma2/menu.xml enigma2/usr/share/enigma2/setup.xml
+#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/menu.xml
 msgid "Idle Mode"
 msgstr "Bekleme modu"
 
@@ -5313,12 +5314,12 @@ msgid "Index"
 msgstr "Dizin"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:27
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:304
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:542
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:457
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:27
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Info"
 msgstr "Hakkında"
 
@@ -5389,12 +5390,12 @@ msgid "Initializing DFU Mode..."
 msgstr "DFU Modu Başlatılıyor..."
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
 #: enigma2/usr/lib/enigma2/python/Screens/ChoiceBox.py:11
 #: enigma2/usr/lib/enigma2/python/Screens/InputBox.py:14
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:40
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Input"
 msgstr "Giriş"
 
@@ -5403,9 +5404,9 @@ msgid "Input Device Autosetup"
 msgstr "Giriş Cihazı Otomatik Kurulumu"
 
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:59
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/startwizard.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Input Devices"
 msgstr "Giriş cihazları"
 
@@ -5415,9 +5416,9 @@ msgid "Input device management plugin"
 msgstr "Giriş cihazı yönetimi eklentisi"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:167
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Input device setup"
 msgstr "Giriş aygıtı ayarları"
 
@@ -5474,15 +5475,15 @@ msgid "Installation finished."
 msgstr "Yükleme tamamlandı."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:95
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:96
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1016
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:96
+#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:95
 msgid "Installing"
 msgstr "Kuruluyor"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Installing Software..."
 msgstr "Yazılım Yükleniyor..."
 
@@ -5566,21 +5567,21 @@ msgid "Invalid directory selected: %s"
 msgstr "Seçilen klasör geçersiz: %s"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1367
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1439
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1453
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:89
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:460
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:105
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:162
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:175
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:182
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:460
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:89
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1367
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1439
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1453
 msgid "Inversion"
 msgstr "Tersine çevir"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Ipkg Installer..."
 msgstr "Ipkg Kurulumu..."
 
@@ -5606,9 +5607,9 @@ msgstr "JSON-RPC API'si"
 msgid "Job Manager"
 msgstr "Görev Yöneticisi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Job View"
 msgstr "İş Görünümü"
 
@@ -5744,18 +5745,18 @@ msgid "Language"
 msgstr "Dil ayarları"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/Language.py:129
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:160
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:176
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/lib/enigma2/python/Components/Language.py:129
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/startwizard.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Language selection"
 msgstr "Dil seçimi"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:46
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:153
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:46
 msgid "Last check"
 msgstr "Son kontrol"
 
@@ -5791,8 +5792,8 @@ msgid "Leave DVD Player?"
 msgstr "DVD Oynatıcıyı Kapat?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:228
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:23
+#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:228
 msgid "Left"
 msgstr "Sol"
 
@@ -5849,9 +5850,9 @@ msgid "Linked titles with a DVD menu"
 msgstr "DVD Menüsü ile bağlı başlıklar"
 
 #
+#: enigma2/usr/lib/enigma2/python/Components/config.py:1252
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:193
 #: enigma2/usr/lib/enigma2/python/Components/FileList.py:426
-#: enigma2/usr/lib/enigma2/python/Components/config.py:1252
 msgid "List of Storage Devices"
 msgstr "Depolama Aygıtları"
 
@@ -5920,9 +5921,9 @@ msgstr "Konum"
 msgid "Location for instant recordings"
 msgstr "Anlık kayıt konumu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Lock:"
 msgstr "Kilit:"
 
@@ -5973,9 +5974,9 @@ msgstr "MANUEL OLARAK servis aramaya başlayın, değiştirmek için yeşile bas
 msgid "MMC authentication failed"
 msgstr "MMC kimlik doğrulaması başarısız oldu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MORE"
 msgstr "DAHA"
 
@@ -5992,10 +5993,10 @@ msgid "MPHelp"
 msgstr "MPYardım"
 
 #
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Main menu"
 msgstr "Ana menü"
 
@@ -6024,8 +6025,8 @@ msgid "Manage and edit timers."
 msgstr "Zamanlayıcıları yönetin ve düzenleyin."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/PluginBrowser.py:20
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:136
+#: enigma2/usr/lib/enigma2/python/Screens/PluginBrowser.py:20
 msgid "Manage extensions"
 msgstr "Eklentileri yönet"
 
@@ -6054,8 +6055,8 @@ msgid "Manual service scan"
 msgstr "Manuel servis taraması"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:498
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:498
 msgid "Manual transponder"
 msgstr "Transponder bilgilerini elle gir"
 
@@ -6095,9 +6096,9 @@ msgstr "Maksimum"
 msgid "Maximum stream resolution"
 msgstr "Maksimum akış çözünürlüğü"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/plugin.py:7
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:509
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:510
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/plugin.py:7
 msgid "Media Database"
 msgstr "Medya Veritabanı"
 
@@ -6140,9 +6141,9 @@ msgstr "Medya Veritabanı SIFIRLA!"
 msgid "MediaDatabase was NOT reset!"
 msgstr "MedyaVeritabanı sıfırlanmadı!"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MediaPlayer"
 msgstr "Medya Oynatıcı"
 
@@ -6176,9 +6177,9 @@ msgid "Medium"
 msgstr "Orta"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:298
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:153
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:183
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:298
 msgid "Medium is not a writeable DVD!"
 msgstr "DVD medyası yazılabilir değil!"
 
@@ -6187,23 +6188,23 @@ msgstr "DVD medyası yazılabilir değil!"
 msgid "Medium is not empty!"
 msgstr "DVD medyası boş değil!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:58
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:129
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:58
 msgid "Medium toolbox"
 msgstr "Orta araç kutusu"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:269
-#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:171
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:295
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:25
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:155
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:157
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:158
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:159
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:160
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:176
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:25
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:295
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTV.py:16
+#: enigma2/usr/lib/enigma2/python/Screens/SetupGuide.py:171
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:269
 msgid "Menu"
 msgstr "Menü"
 
@@ -6220,15 +6221,15 @@ msgid "Merlin Programm Guide"
 msgstr "Merlin Program Rehberi"
 
 #: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:20
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Message"
 msgstr "Mesaj"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Message..."
 msgstr "Mesaj..."
 
@@ -6267,10 +6268,10 @@ msgid "Mkfs failed"
 msgstr "Mkfs (disk biçimlendirme) başarısız"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:14
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:65
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:149
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:334
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:65
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:14
 msgid "Mode"
 msgstr "Kip"
 
@@ -6280,22 +6281,22 @@ msgid "Model"
 msgstr "Model"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1373
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1441
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1454
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:93
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:464
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:99
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:157
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:172
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:464
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:93
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1373
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1441
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1454
 msgid "Modulation"
 msgstr "Modülasyon"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Mon"
 msgstr "Ptesi"
 
@@ -6313,11 +6314,11 @@ msgstr "Pazartesi"
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:125
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:149
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:895
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:904
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:71
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:80
 #: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:292
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:895
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:904
 msgid "More ..."
 msgstr "Daha ..."
 
@@ -6330,15 +6331,15 @@ msgstr "Sivrisinek gürültüsü azaltma"
 msgid "Mount failed"
 msgstr "Depolama aygıtı bağlama işlemi (mount) başarısız"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MountEdit"
 msgstr "Bağlantı Düzenle"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MountView"
 msgstr "Bağlantı Görünümü"
 
@@ -6378,8 +6379,8 @@ msgstr "Batıya taşı"
 msgid "Movie location"
 msgstr "Film konumu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MovieSelection QuickButton Setup"
 msgstr "Film Seçimi Hızlı Düğme Kurulumu"
 
@@ -6387,9 +6388,9 @@ msgstr "Film Seçimi Hızlı Düğme Kurulumu"
 msgid "Movielist"
 msgstr "Film listesi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Movielist menu"
 msgstr "Film listesi menüsü"
 
@@ -6445,9 +6446,9 @@ msgstr "Çoklandırıcı"
 msgid "Multisat"
 msgstr "Çoklu uydu"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1384
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:475
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:104
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:475
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1384
 msgid "Multistream"
 msgstr "Çoklu akış"
 
@@ -6466,44 +6467,44 @@ msgstr "Müzik ve Sesli Kitaplar"
 msgid "Mute"
 msgstr "Sessiz"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - Browser"
 msgstr "MyTube - Tarayıcı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - Help"
 msgstr "MyTube - Yardım"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - History"
 msgstr "MyTube - Geçmiş"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "MyTube - Search"
 msgstr "MyTube - Ara"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - Settings"
 msgstr "MyTube - Ayarlar"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - Tasks"
 msgstr "MyTube - Görevler"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "MyTube - Video Info"
 msgstr "MyTube - Video Bilgisi"
 
@@ -6521,9 +6522,9 @@ msgstr "MyTubeÖnerilerListesiEkranı..."
 msgid "N/A"
 msgstr "Kullanılamaz"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "NEXT"
 msgstr "SONRAKİ"
 
@@ -6533,9 +6534,9 @@ msgstr "SONRAKİ"
 msgid "NIM"
 msgstr "Tuner"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "NOW"
 msgstr "ŞİMDİ"
 
@@ -6544,15 +6545,15 @@ msgid "NTP Time Updates"
 msgstr "NTP Zaman Güncellemeleri"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
+#: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
 msgid "NTSC"
 msgstr "NTSC"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:186
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:81
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:88
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:186
 msgid "Name"
 msgstr "Ad"
 
@@ -6580,9 +6581,9 @@ msgid "Netmask"
 msgstr "Alt ağ maskesi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/plugin.py:169
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:847
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "Network"
 msgstr "Ağ"
@@ -6600,9 +6601,9 @@ msgstr "Ağ Yapılandırması"
 msgid "Network Mount"
 msgstr "Ağ Depolama Aygıtı Bağla"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Network Neighbourhood"
 msgstr "Ağ Komşuları"
 
@@ -6644,21 +6645,21 @@ msgstr "Ağ hizmetleri"
 msgid "Network technologies"
 msgstr "Ağ teknolojileri"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Network:Service configuration"
 msgstr "Ağ:Hizmet yapılandırması"
 
 #
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "NetworkWizard"
 msgstr "Ağ yapılandırma sihirbazı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:61
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1140
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:845
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1140
+#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:61
 msgid "New"
 msgstr "Yeni"
 
@@ -6696,23 +6697,23 @@ msgid "New version:"
 msgstr "Yeni sürüm:"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:65
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:540
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:65
 msgid "Next"
 msgstr "Sonraki"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:47
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:154
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/AutomaticUpdatesStep.py:47
 msgid "Next check"
 msgstr "Sonraki kontrol"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:28
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:123
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:31
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:123
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:28
 #: enigma2/usr/share/enigma2/restorewizard.xml
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "No"
@@ -6826,9 +6827,9 @@ msgid "No picture on TV? Press EXIT and retry."
 msgstr "TV'nizde resim yoksa EXIT'e basın ve tekrar deneyin."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:157
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:138
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:130
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:138
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:157
 msgid "No playable video found! Stop playing this movie?"
 msgstr "Oynatılabilir video bulunamadı! Film durdurulsun mu?"
 
@@ -6910,8 +6911,8 @@ msgid "No, but play again"
 msgstr "Hayır, ama tekrar oynat"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:147
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:128
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:147
 msgid "No, but play video again"
 msgstr "Hayır, ama videoyu yeniden oynat"
 
@@ -6928,8 +6929,8 @@ msgid "No, do nothing."
 msgstr "Hayır, birşey yapma."
 
 #
-#: enigma2/usr/share/enigma2/tutorialwizard.xml
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+#: enigma2/usr/share/enigma2/tutorialwizard.xml
 msgid "No, just start my dreambox"
 msgstr "Hayır, Dreambox'ımı şimdi başlat"
 
@@ -6965,21 +6966,21 @@ msgid "Non TS Streaming Buffer (ms)"
 msgstr "TS Olmayan Akış Arabelleği (ms)"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:30
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:43
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:103
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:167
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1742
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1745
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1766
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1768
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1774
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1751
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1833
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1843
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:245
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:251
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:260
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:43
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:103
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:167
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:30
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1751
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1833
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1843
 msgid "None"
 msgstr "Yok"
 
@@ -7031,12 +7032,12 @@ msgid "Nothing to add..."
 msgstr "Eklenecek bir şey yok..."
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DefaultServicesScanner/plugin.py:93
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1262
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2162
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2164
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2372
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2374
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DefaultServicesScanner/plugin.py:93
 msgid ""
 "Nothing to scan!\n"
 "Please setup your tuner settings before you start a service scan."
@@ -7056,9 +7057,9 @@ msgstr "Bilgilendirme"
 msgid "Notification Queue"
 msgstr "Bilgilendirme kuyruğu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Notification Queue Viewer"
 msgstr "Bildirim Kuyruğu Görüntüleyici"
 
@@ -7094,42 +7095,42 @@ msgid "OGG"
 msgstr "OGG"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:202
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:287
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:629
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:52
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:318
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:38
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:338
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:120
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:74
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:60
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:108
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:222
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:36
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:29
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:855
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:56
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:219
 #: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:93
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:95
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:36
-#: enigma2/usr/lib/enigma2/python/Screens/Setup.py:88
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:60
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:341
 #: enigma2/usr/lib/enigma2/python/Screens/TimeDateInput.py:15
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:185
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:307
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:39
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:219
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:36
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:60
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:108
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:222
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/Config.py:29
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:855
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:190
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:38
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:52
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:318
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:582
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:33
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:120
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:338
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:74
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:35
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:22
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:237
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
+#: enigma2/usr/lib/enigma2/python/Screens/Setup.py:88
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:60
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:341
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:202
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:287
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:629
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:36
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:95
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "OK"
 msgstr "Tamam"
 
@@ -7195,18 +7196,18 @@ msgid "OSD, Video and Audio Settings"
 msgstr "OSD,Görüntü ve Ses Seçenekleri"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
-#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:227
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1735
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1788
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1811
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1839
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:41
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:80
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:101
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:144
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
+#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:227
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:149
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1735
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1788
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1811
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1839
 msgid "Off"
 msgstr "Kapalı"
 
@@ -7219,16 +7220,16 @@ msgid "Offset in scroll mode (px)"
 msgstr "Kaydırma modunda ofset (px)"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:40
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:79
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:100
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:145
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1765
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1736
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1789
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1812
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1840
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:40
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:79
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:100
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:145
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:309
 msgid "On"
 msgstr "Açık"
 
@@ -7304,8 +7305,8 @@ msgid "P L A Y L I S T"
 msgstr "P L A Y L I S T"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Project.py:245
+#: enigma2/usr/lib/enigma2/python/Components/AVSwitch.py:100
 msgid "PAL"
 msgstr "PAL"
 
@@ -7334,8 +7335,8 @@ msgstr "PIN"
 msgid "PIN WARNING"
 msgstr "PIN UYARISI"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1462
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:187
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1462
 msgid "PLP ID"
 msgstr "PLP ID"
 
@@ -7343,19 +7344,19 @@ msgstr "PLP ID"
 msgid "PLP ID Auto"
 msgstr "PLP ID Otomatik"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1392
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:112
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:483
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:118
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:168
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:483
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:112
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1392
 msgid "PLS Code"
 msgstr "PLS Kodu"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1389
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:480
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:117
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:167
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:480
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:109
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1389
 msgid "PLS Mode"
 msgstr "PLS Modu"
 
@@ -7377,9 +7378,9 @@ msgid "Package Selection"
 msgstr "Paket Seçimi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:70
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:602
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1609
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:70
 msgid "Package list update"
 msgstr "Paket listesi güncelleniyor"
 
@@ -7455,9 +7456,9 @@ msgstr "Ebeveyn Kontrolü"
 msgid "Parental control"
 msgstr "Ebeveyn kontrolü"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Parental control services Editor"
 msgstr "Ebeveyn Kontrolü Kanal Yapılandırması"
 
@@ -7497,9 +7498,9 @@ msgid "Partnerbox:List of Entries"
 msgstr "Partnerbox:Girişlerin Listesi"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:228
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:243
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:33
 msgid "Password"
 msgstr "Parola"
 
@@ -7532,9 +7533,9 @@ msgstr "Kalıcı Saat"
 msgid "Persian"
 msgstr "Farsça"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "PiPSetup"
 msgstr "PiP Kurulumu"
 
@@ -7550,8 +7551,8 @@ msgstr "Görüntü ve Ses"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:174
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:744
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:745
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "PicturePlayer"
 msgstr "Resim Oynatıcı"
 
@@ -7566,23 +7567,23 @@ msgid "Pillarbox"
 msgstr "Sütun Kutusu"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1382
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:102
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:473
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:106
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:164
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:473
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:102
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1382
 msgid "Pilot"
 msgstr "Pilot"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Pin code needed"
 msgstr "Pin kodu gerekli"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:61
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:521
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:61
 msgid "Play"
 msgstr "Oynat"
 
@@ -7624,9 +7625,9 @@ msgstr "Sonraki girişi oynat"
 msgid "Play Previous Entry"
 msgstr "Önceki girişi oynat"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:140
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:50
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:140
 msgid "Play Selected Entry"
 msgstr "Seçilen girişi oynat"
 
@@ -7652,9 +7653,9 @@ msgstr "Medya dosyalarını oynatın"
 msgid "Play recorded movies..."
 msgstr "Kayıtlı video dosyalarını göster..."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:539
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:146
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:32
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:146
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:539
 msgid "Play/Pause"
 msgstr "Oynat/Durdur"
 
@@ -7814,9 +7815,9 @@ msgstr ""
 "Lütfen depolama aygıt tanımlarını, geliştirilmiş depolama aygıt yönetimi "
 "bölümü olan Menü -> Kurulum -> Sistem -> Depolama aygıtları bölümünden yapın."
 
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:100
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1394
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1888
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:100
 msgid ""
 "Please make sure to set up your storage devices with the storage management "
 "in menu -> setup -> system -> storage devices."
@@ -7831,10 +7832,10 @@ msgid ""
 "therefore the default directory is being used instead."
 msgstr "Seçtiğiniz medyaya erişilemedi, yerine varsayılan klasör kullanılıyor."
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:80
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:87
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:58
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:66
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:80
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:87
 msgid ""
 "Please pickup the remote control you want to connect and press any number "
 "key on it to select it in the list.\n"
@@ -7906,8 +7907,8 @@ msgid "Please select a subservice to record..."
 msgstr "Lütfen kaydetmek istediğiniz alt servisi seçin..."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2023
 #: enigma2/usr/lib/enigma2/python/Screens/SubservicesQuickzap.py:120
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2023
 msgid "Please select a subservice..."
 msgstr "Lütfen bir alt servis seçin..."
 
@@ -8099,9 +8100,9 @@ msgid "Please wait..."
 msgstr "Lütfen bekleyin..."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:213
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:67
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:34
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:213
 msgid "Please wait... Loading list..."
 msgstr "Lütfen bekleyin... Liste yükleniyor..."
 
@@ -8109,37 +8110,37 @@ msgstr "Lütfen bekleyin... Liste yükleniyor..."
 msgid "Plugin Browser"
 msgstr "eklenti tarayıcı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin browser"
 msgstr "Eklenti Tarayıcı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin details"
 msgstr "Eklenti Ayrıntıları"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin manager"
 msgstr "Eklenti Yöneticisi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:983
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin manager activity information"
 msgstr "Eklenti yönetimi aktivite bilgisi"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1080
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Plugin manager help"
 msgstr "Eklenti yönetimi yardımı"
 
@@ -8149,12 +8150,12 @@ msgid "Plugins"
 msgstr "Eklentiler"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:91
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:462
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1764
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1369
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:104
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:161
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:462
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:91
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1369
 msgid "Polarization"
 msgstr "Polarizasyon"
 
@@ -8251,8 +8252,8 @@ msgid "Power threshold in mA"
 msgstr "Güç eşiği (mA)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:499
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:174
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:499
 msgid "Predefined transponder"
 msgstr "Önceden tanımlanmış transponder"
 
@@ -8361,8 +8362,8 @@ msgstr ""
 "basın."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:559
+#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:98
 #, python-format
 msgid "Press OK to get further details for %s"
 msgstr "%s detayları için OK tuşuna basın"
@@ -8407,9 +8408,9 @@ msgstr "%s arasında geçiş yapmak için Tamam'a basın"
 msgid "Press OK to toggle the selection."
 msgstr "Seçimi açıp kapamak için OK'a basın."
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:64
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:60
 #: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:85
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceWizard.py:64
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Press Yellow to connect the selected remote control."
 msgstr "Uzaktan kumandayı bağlamak için Sarı'ya basın."
@@ -8423,8 +8424,8 @@ msgid "Press green to start service searching!"
 msgstr "Kanal aramayı başlatmak için YEŞİL tuşa basın!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:64
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:541
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:64
 msgid "Prev"
 msgstr "Önceki"
 
@@ -8479,11 +8480,11 @@ msgid "Progress:"
 msgstr "İlerleme:"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:66
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:69
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:66
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Properties of current title"
 msgstr "Geçerli başlığın özellikleri"
 
@@ -8518,10 +8519,10 @@ msgid "Provider to scan"
 msgstr "Yayıncıya göre ara"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:483
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:824
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1026
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1138
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:483
 msgid "Providers"
 msgstr "Yayıncılar"
 
@@ -8621,8 +8622,8 @@ msgstr "RTSP Yolu"
 msgid "RTSP Server"
 msgstr "RTSP Sunucusu"
 
-#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 msgid "Radio"
 msgstr "Radyo"
 
@@ -8632,13 +8633,13 @@ msgid "Random"
 msgstr "Rastgele"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:314
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:441
-#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:275
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:571
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:157
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:184
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:394
+#: enigma2/usr/lib/enigma2/python/Components/ConfigList.py:314
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:571
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:441
+#: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:275
 msgid "Really close without saving settings?"
 msgstr "Ayarlarınızı kaydetmeden çıkmak istediğinizden emin misiniz?"
 
@@ -8690,18 +8691,18 @@ msgstr "Dreambox'ı şimdi kapatmak istiyor musunuz?"
 msgid "Reboot your Dreambox."
 msgstr "Dreambox'ınızı yeniden başlatın."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Reception Settings"
 msgstr "Tuner Ayarları"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:37
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Record"
 msgstr "Kayıt"
 
@@ -8745,9 +8746,9 @@ msgstr "Bu zamanlayıcı için kayıt konumu mevcut değil."
 msgid "Recording paths"
 msgstr "Kayıt ayarları"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Recording paths..."
 msgstr "Kayıt Yolları..."
 
@@ -8757,9 +8758,9 @@ msgid "Recording(s) are in progress or coming up in few seconds!"
 msgstr "Kayıt işlemi devam ediyor veya birkaç saniye içinde başlayacak!"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:224
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:562
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:845
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:224
 msgid "Recordings"
 msgstr "Kayıt"
 
@@ -8880,11 +8881,11 @@ msgid "Remote-Timer digest"
 msgstr "Uzak Zamanlayıcı özeti"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:820
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:13
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:120
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1213
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:36
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1213
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:120
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:13
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:820
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Remove"
 msgstr "Kaldır"
@@ -8895,9 +8896,9 @@ msgstr "Kaldır"
 msgid "Remove Bookmark"
 msgstr "Yer imini sil"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:142
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:52
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/VideoPlayer.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:142
 msgid "Remove Selected Entry From Playlist"
 msgstr "Seçilen girişi oynatma listesinden kaldır"
 
@@ -8932,12 +8933,12 @@ msgid "Remove this %(desc)s configuration."
 msgstr "Bu %(desc)s yapılandırmasını kaldırın."
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:707
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:758
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:329
 #: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:445
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:141
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:194
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:707
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/GraphMultiEPG/GraphMultiEpg.py:758
 msgid "Remove timer"
 msgstr "Zamanl. kaldır"
 
@@ -8957,9 +8958,9 @@ msgid "Removed successfully."
 msgstr "Başarıyla kaldırıldı."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:101
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1018
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:102
+#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:101
 msgid "Removing"
 msgstr "Kaldırılıyor"
 
@@ -9020,8 +9021,8 @@ msgid "Repeat Type"
 msgstr "Tekrarlama Türü"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1735
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:102
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1735
 msgid "Repeating event currently recording... What do you want to do?"
 msgstr ""
 "Tekrarlama görevi verilmiş kayıt işlemi yapılıyor. Ne yapmak istersiniz?"
@@ -9037,21 +9038,21 @@ msgstr "Tekrarlar"
 msgid "Required medium type:"
 msgstr "İhtiyaç duyulan medya tipi:"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:81
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:57
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:39
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkWizard.py:57
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:154
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/NetworkSteps.py:81
 msgid "Rescan"
 msgstr "Yeniden ara"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:329
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:40
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:38
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:212
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:672
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:755
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:847
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:38
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:329
 msgid "Reset"
 msgstr "Sıfırla"
 
@@ -9080,9 +9081,9 @@ msgid "Reset your Dreambox to factory defaults."
 msgstr "Dreambox'ınızı fabrika varsayılanlarına sıfırlayın."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:84
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:255
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:69
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:255
+#: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:84
 msgid "Resolution"
 msgstr "Çözünürlük"
 
@@ -9114,15 +9115,15 @@ msgid "Restart required"
 msgstr "Yeniden başlatma gerekiyor"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SettingsRestoreStep.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:201
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SettingsRestoreStep.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
 msgid "Restore"
 msgstr "Geri yükle"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Restore Backups"
 msgstr "Yedekleri Geri Yükle"
 
@@ -9224,8 +9225,8 @@ msgid "Rewind speeds"
 msgstr "Geri sarma hızları"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:229
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:24
+#: enigma2/usr/lib/enigma2/python/Components/VideoEnhancement.py:229
 msgid "Right"
 msgstr "Sağ"
 
@@ -9233,11 +9234,11 @@ msgstr "Sağ"
 msgid "Right to left slide + zoom"
 msgstr "Sagdan sola kayarak gir + Yakınlaştır"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1381
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:101
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:472
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:107
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:165
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:472
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:101
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1381
 msgid "Roll-off"
 msgstr "Yuvarlanma"
 
@@ -9293,10 +9294,10 @@ msgstr "SATA"
 msgid "SCPC optimized search range"
 msgstr "SCPC optimize edilmiş tarama aralığı"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:571
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:672
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:687
 #: enigma2/usr/lib/enigma2/python/Components/Harddisk.py:699
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:571
 msgid "SD"
 msgstr "SD"
 
@@ -9312,10 +9313,10 @@ msgstr "SID"
 msgid "SINGLE LAYER DVD"
 msgstr "TEK KATMAN DVD"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "SNR:"
 msgstr "SNR:"
 
@@ -9328,10 +9329,10 @@ msgid "SYSTEM"
 msgstr "SİSTEM"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Sat"
 msgstr "Ctesi"
 
@@ -9353,21 +9354,21 @@ msgid "Sat&gt;IP Tuner Setup"
 msgstr "Sat&gt;IP Tuner Kurulumu"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:75
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:447
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:37
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:46
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:49
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:189
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1365
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1395
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1412
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:49
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:189
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:37
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:447
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:75
 msgid "Satellite"
 msgstr "Uydu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Satellite Blindscan"
 msgstr "Uydu Kör Tarama"
 
@@ -9396,9 +9397,9 @@ msgstr "Uydular"
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:314
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:320
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Satfinder"
 msgstr "Uydu arayıcı"
 
@@ -9424,28 +9425,28 @@ msgid "Saturday"
 msgstr "Cumartesi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:112
-#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:41
-#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:19
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:292
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:23
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:70
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:59
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1414
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:111
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:377
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:111
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:222
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:225
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:67
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:70
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CleanupWizard/plugin.py:59
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:377
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:111
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1414
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:376
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/HbbTV/HbbTVSetup.py:23
+#: enigma2/usr/lib/enigma2/python/Components/SortableList.py:112
+#: enigma2/usr/lib/enigma2/python/Screens/RecordPaths.py:19
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:292
+#: enigma2/usr/lib/enigma2/python/Screens/AnimationSetup.py:41
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Save"
 msgstr "Kaydet"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:618
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:618
 msgid "Save Playlist"
 msgstr "Oynatma listesini kaydet"
 
@@ -9475,8 +9476,8 @@ msgstr "Ara : "
 msgid "Scan Files..."
 msgstr "Dosyaları ara..."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Scan IP"
 msgstr "IP tarama"
 
@@ -9675,21 +9676,21 @@ msgid "Seek"
 msgstr "Ara"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:56
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/FileBrowser.py:13
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/BackupRestore.py:150
+#: enigma2/usr/lib/enigma2/python/Screens/NotificationQueueViewer.py:56
 msgid "Select"
 msgstr "Seç"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select HDD"
 msgstr "HDD'yi seçin"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select IPKG source....."
 msgstr "IPKG kaynağını seçin....."
 
@@ -9702,15 +9703,15 @@ msgstr "Konum Seçin"
 msgid "Select Your Skin"
 msgstr "Arayüz seçin"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select a movie"
 msgstr "Bir film seçin"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:157
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:361
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:157
 msgid "Select audio track"
 msgstr "Kullanmak istediğiniz ses izini seçin"
 
@@ -9729,16 +9730,16 @@ msgstr "Yedekleme için dosya seçin."
 msgid "Select files/folders to backup"
 msgstr "Yedeklenecek dosya/klasörleri seç"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select files/folders to backup..."
 msgstr "Yedeklenecek dosyaları/klasörleri seçin..."
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:98
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select input device"
 msgstr "Giriş aygıtı seçin"
 
@@ -9747,9 +9748,9 @@ msgid "Select input device."
 msgstr "Giriş aygıtı seçin."
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1357
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select mountpoint"
 msgstr "Bağlantı noktası seçin"
 
@@ -9760,9 +9761,9 @@ msgstr "Paket seçin"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:441
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select provider to add..."
 msgstr "Eklenecek yayıncıyı seçin..."
 
@@ -9773,9 +9774,9 @@ msgstr "Tazeleme hızı seçin"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:548
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Select service to add..."
 msgstr "Eklenecek kanalı seçin..."
 
@@ -9860,9 +9861,9 @@ msgstr "Sunucular"
 msgid "Service"
 msgstr "Kanal"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Service Scan"
 msgstr "Kanal taraması"
 
@@ -9916,9 +9917,9 @@ msgstr ""
 msgid "Service reference"
 msgstr "Kanal referansı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Service scan"
 msgstr "Kanal Tarat"
 
@@ -9935,9 +9936,9 @@ msgstr ""
 msgid "Service:Name server configuration"
 msgstr "Servis:Ad sunucusu yapılandırması"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Serviceinfo"
 msgstr "Kanal Bilgisi"
 
@@ -10030,11 +10031,11 @@ msgid "Setting new encoder service to {0} failed! (Insufficient resources)"
 msgstr "{0} Encoder / Kodlayıcı kanalı ayarlanamadı! (eksik kaynak)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:137
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:207
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:71
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:88
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:137
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:207
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:821
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Settings"
 msgstr "Ayarlar"
@@ -10045,10 +10046,10 @@ msgstr "Ayarlar başarıyla kaydedildi!"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:108
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Setup"
 msgstr "Kurulum"
 
@@ -10220,8 +10221,8 @@ msgstr "Dreambox'ınızı kapatın."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:87
-#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+#: enigma2/usr/share/enigma2/menu.xml
 msgid "Shutdown"
 msgstr "Kapat"
 
@@ -10335,10 +10336,10 @@ msgstr "Ağ yapılandırmasını atla"
 
 #
 #: enigma2/usr/lib/enigma2/python/SleepTimer.py:13
-#: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Sleep Timer"
 msgstr "Uyku zamanlayıcı"
 
@@ -10377,11 +10378,11 @@ msgid "Slideshow: Repeat"
 msgstr "Slayt gösterisi: Tekrarla"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:308
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:312
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:57
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:59
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:61
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:308
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:312
 #, python-format
 msgid "Slot %d"
 msgstr "Yuva (slot) %d"
@@ -10415,9 +10416,9 @@ msgstr "Ağır çekim hızları"
 msgid "Software"
 msgstr "Yazılım"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Software Update..."
 msgstr "Yazılım Güncellemesi..."
 
@@ -10426,9 +10427,9 @@ msgstr "Yazılım Güncellemesi..."
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1870
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1884
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1889
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Software management"
 msgstr "Yazılım yönetimi"
 
@@ -10552,8 +10553,8 @@ msgstr "Takipçi Ara Yazılım İstemci Yapılandırması"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:85
 #: enigma2/usr/share/enigma2/menu.xml
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Standby"
 msgstr "Hazırda beklet"
 
@@ -10666,22 +10667,22 @@ msgid "Stop Timeshift?"
 msgstr "Zaman kaydırıcı durdurulsun mu?"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1733
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:99
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1733
 msgid "Stop current event and disable coming events"
 msgstr "Geçerli programı durdur ve gelecek programları devre dışı bırak"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1732
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEdit.py:98
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1732
 msgid "Stop current event but not coming events"
 msgstr "Geçerli eylemi durdur ama gelecek eylemlere dokunma"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:155
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:128
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:126
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:136
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:128
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:155
 msgid "Stop playing this movie?"
 msgstr "Film durdurulsun mu?"
 
@@ -10700,9 +10701,9 @@ msgid "Storage device"
 msgstr "Depolama aygıtı"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1396
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Storage device information"
 msgstr "Depolama Aygıtı Bilgileri"
 
@@ -10733,9 +10734,9 @@ msgstr "Kaydedilen pozisyonlar"
 msgid "Stream Client"
 msgstr "Akış İstemcisi"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1387
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:107
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:478
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1387
 msgid "Stream ID"
 msgstr "Akış / Stream kimliği"
 
@@ -10765,9 +10766,9 @@ msgstr "Akış Hizmetleri yapılandırması"
 msgid "Streaming"
 msgstr "Akış Yapıyor / Streaming"
 
-#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:165
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/plugin.py:13
+#: enigma2/usr/lib/enigma2/python/Components/StreamServerControl.py:13
 msgid "Streaming Server"
 msgstr "Akış Sunucusu Yapılandırması"
 
@@ -10775,8 +10776,8 @@ msgstr "Akış Sunucusu Yapılandırması"
 msgid "Streaming Server Setup"
 msgstr "Akış Sunucusu / Streaming Server Yapılandırması"
 
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2713
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:302
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2713
 #, python-format
 msgid "Streaming error: %s"
 msgstr "Akış / Streaming hatası: %s"
@@ -10786,21 +10787,21 @@ msgstr "Akış / Streaming hatası: %s"
 msgid "Subservice list..."
 msgstr "Alt servis listesi..."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Subservices"
 msgstr "Alt Hizmetler"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:212
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:174
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:212
 msgid "Subtitle selection"
 msgstr "Altyazı seçimi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:123
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:158
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:123
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Subtitles"
 msgstr "Altyazı"
@@ -10821,10 +10822,10 @@ msgid "Successfully, deactivated mount entry from fstab."
 msgstr "fstab'ta yer alan bağlantı pasifleştirildi."
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Sun"
 msgstr "Pazar"
 
@@ -10858,13 +10859,13 @@ msgstr "Sonraki alt servise geç"
 msgid "Switch to previous subservice"
 msgstr "Önceki alt servise geç"
 
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1368
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1440
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:90
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:461
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:102
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:160
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:174
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:461
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:90
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1368
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1440
 msgid "Symbol rate"
 msgstr "Sembol oranı"
 
@@ -10877,14 +10878,14 @@ msgid "Sync mode"
 msgstr "Senkronizasyon modu"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1357
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:98
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:156
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:179
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:454
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:83
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:841
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuFlashGuard.py:180
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1357
 #: enigma2/usr/share/enigma2/menu.xml
 msgid "System"
 msgstr "Sistem"
@@ -10916,8 +10917,8 @@ msgstr "TSID"
 msgid "TTX"
 msgstr "TTX"
 
-#: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:22
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:9
+#: enigma2/usr/lib/enigma2/python/Components/HdmiCec.py:22
 msgid "TV"
 msgstr "TV"
 
@@ -10934,8 +10935,8 @@ msgstr "TV Kanalları"
 msgid "TV System"
 msgstr "TV Sistemi"
 
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/KeyBindingList.py:29
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:49
 msgid "TXT"
 msgstr "TXT"
 
@@ -10963,8 +10964,8 @@ msgid "Tag 2"
 msgstr "Etiket 2"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:234
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:367
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:234
 msgid "Tags"
 msgstr "Etiketler"
 
@@ -11000,10 +11001,10 @@ msgid "Temperature and Fan control"
 msgstr "Sıcaklık ve fan kontrolü"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:491
+#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:112
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:88
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1152
-#: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:112
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:491
 msgid "Terrestrial"
 msgstr "Karasal"
 
@@ -11252,8 +11253,8 @@ msgstr "%s yolu zaten var."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:249
-#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:271
+#: enigma2/usr/lib/enigma2/python/Screens/ParentalControlSetup.py:39
 msgid "The pin code you entered is wrong."
 msgstr "Girdiğiniz şifre yanlış."
 
@@ -11397,12 +11398,12 @@ msgstr ""
 "içeriğini silecektir."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2710
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2711
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:284
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:290
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:175
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:181
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:284
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:290
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2710
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2711
 #, python-format
 msgid "This Dreambox can't decode %s streams!"
 msgstr "Dreambox %s streamlarını çözemez!"
@@ -11500,10 +11501,10 @@ msgid "Threshold"
 msgstr "Eşik"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Thu"
 msgstr "Perş"
 
@@ -11542,9 +11543,9 @@ msgstr "Zaman Sunucusu Yapılandırması"
 msgid "Time to jump to by pressing the yellow key."
 msgstr "Sarı tuşa basarak atlama zamanı."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Time/Date Input"
 msgstr "Tarih / Saat Girişi"
 
@@ -11553,15 +11554,14 @@ msgid "Timeout!"
 msgstr "Süre doldu!"
 
 #
-#: enigma2/usr/share/enigma2/menu.xml
+#: enigma2/usr/share/enigma2/setup.xml enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/setup.xml
 msgid "Timer"
 msgstr "Zamanlayıcı"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer Editor"
 msgstr "Zamanlayıcıların Yapılandırılması"
 
@@ -11570,15 +11570,15 @@ msgstr "Zamanlayıcıların Yapılandırılması"
 msgid "Timer Type"
 msgstr "Zamanlayıcı Tipi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer entry"
 msgstr "Zamanlayıcı Girişi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer log"
 msgstr "Zamanlayıcı günlüğü"
 
@@ -11596,15 +11596,15 @@ msgstr ""
 msgid "Timer record location"
 msgstr "Zamanlayıcı kaydı konumu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer sanity error"
 msgstr "Zamanlayıcı zeka hatası"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timer selection"
 msgstr "Zamanlayıcı seçimi"
 
@@ -11614,9 +11614,9 @@ msgstr "Zamanlayıcı seçimi"
 msgid "Timer status:"
 msgstr "Zamanlayıcı durumu:"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Timeshift"
 msgstr "Zaman kaydırma"
 
@@ -11641,15 +11641,15 @@ msgid "Timezone"
 msgstr "Zaman dilimi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:74
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:21
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:157
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:452
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:128
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Title.py:21
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:74
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:91
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:128
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDPlayer/plugin.py:452
 msgid "Title"
 msgstr "Başlık"
 
@@ -11665,8 +11665,8 @@ msgid "Titleset mode"
 msgstr "Başlıkseti kipi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:411
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:11
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:411
 msgid "Today"
 msgstr "Bugün"
 
@@ -11703,8 +11703,8 @@ msgid "Toneburst A/B"
 msgstr "Ses patlaması A/B"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:73
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:73
 msgid "Track"
 msgstr "İz"
 
@@ -11712,22 +11712,22 @@ msgstr "İz"
 msgid "Track Autoselect configuration"
 msgstr "Otomatik Seçim yapılandırmasını izle"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Translation"
 msgstr "Tercüme"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Translation:"
 msgstr "Tercüme eden:"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1455
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:190
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1455
 msgid "Transmission mode"
 msgstr "İletim (transmisyon) modu"
 
@@ -11736,8 +11736,8 @@ msgid "Transmitting"
 msgstr "Yayın gönderme"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:488
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:117
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:488
 msgid "Transponder"
 msgstr "Transponder"
 
@@ -11784,10 +11784,10 @@ msgid "Trying to download a new packetlist. Please wait..."
 msgstr "Paket listesi indiriliyor. Lütfen bekleyin..."
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Tue"
 msgstr "Salı"
 
@@ -11798,10 +11798,10 @@ msgid "Tuesday"
 msgstr "Salı"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:73
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:198
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:230
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/PositionerSetup/plugin.py:445
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Satfinder/plugin.py:73
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Tune"
 msgstr "Ayar"
@@ -11812,13 +11812,13 @@ msgid "Tune failed!"
 msgstr "Kanal geçişi başarısız!"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:12
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:160
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1306
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:163
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:173
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:184
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:651
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CeCDeviceList.py:12
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1306
 msgid "Tuner"
 msgstr "Tuner"
 
@@ -11885,13 +11885,13 @@ msgid "Two"
 msgstr "İki"
 
 #
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:318
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:354
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:375
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:97
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:155
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:171
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:180
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:318
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:354
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:375
 msgid "Type"
 msgstr "Tip"
 
@@ -11930,9 +11930,9 @@ msgstr "UPnP/DLNA Medya oluşturucu / MediaRenderer"
 msgid "UPnP/DLNA Mediaserver"
 msgstr "UPnP/DLNA Medya Sunucusu / Mediaserver"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:103
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:31
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPConfig.py:109
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/plugin.py:103
 msgid "UPnP/DLNA Setup"
 msgstr "UPnP/DLNA Yapılandırması"
 
@@ -11992,8 +11992,8 @@ msgstr "Bağımsız DiSEqC tekrarı"
 msgid "Unconfigured %(desc)s found!"
 msgstr "Yapılandırılmamış %(desc)s bulundu!"
 
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1887
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:99
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1887
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:348
 msgid "Unconfigured storage devices found!"
 msgstr "Yapılandırılmamış depolama aygıtları bulundu!"
@@ -12008,9 +12008,9 @@ msgstr "Yükle(me)"
 msgid "Undo uninstall"
 msgstr "Kaldır(ma)"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "UnhandledKey"
 msgstr "İşlenmemiş tuş"
 
@@ -12052,9 +12052,9 @@ msgstr "Kaldır"
 msgid "Universal LNB"
 msgstr "Üniversal LNB"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:105
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceIRProg.py:133
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:110
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
@@ -12076,8 +12076,8 @@ msgstr "Depolama aygıtı çözme işlemi (unmount) başarısız"
 msgid "Unmount this %(desc)s."
 msgstr "%(desc)s bağlantısını kes."
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:220
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/DreamboxMediaStore.py:565
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowserDB.py:220
 msgid "Unseen"
 msgstr "Seyredilmemiş"
 
@@ -12095,10 +12095,10 @@ msgid "Up"
 msgstr "Yukarı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:33
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:678
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:190
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:105
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:190
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/MediumToolbox.py:33
 msgid "Update"
 msgstr "Güncelle"
 
@@ -12149,15 +12149,15 @@ msgid "Upgrade"
 msgstr "Yükselt"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1675
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:150
 msgid "Upgrade finished."
 msgstr "Güncelleme tamamlandı."
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:89
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:90
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1020
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdatePlugin.py:90
+#: enigma2/usr/lib/enigma2/python/Screens/Ipkg.py:89
 msgid "Upgrading"
 msgstr "Yazılımı güncelle"
 
@@ -12195,8 +12195,8 @@ msgid "Usable SCRs"
 msgstr "Kullanılabilir SCR'ler"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1332
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/settings.py:25
+#: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1332
 msgid "Use"
 msgstr "Kullan"
 
@@ -12271,9 +12271,9 @@ msgstr "Basit kurulum sihirbazını kullan"
 msgid "Used service scan type"
 msgstr "Kullanılan kanal arama tipi"
 
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:227
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServer/StreamServerConfig.py:242
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/MultiInputBox.py:25
 msgid "User"
 msgstr "Kullanıcı"
 
@@ -12295,15 +12295,15 @@ msgstr "Kullanıcı düzeyi"
 msgid "User:"
 msgstr "Kullanıcı:"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "UserDialog"
 msgstr "Kullanıcı Diyalogu"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "UserManager"
 msgstr "Kullanıcı yöneticisi"
 
@@ -12361,14 +12361,14 @@ msgstr "Sıfırlama doğrulanıyor. Lütfen bekleyin!"
 msgid "Verifying your internet connection..."
 msgstr "İnternet bağlantısı doğrulanıyor..."
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Verkehrsinfo"
 msgstr "Trafik bilgisi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1424
 #: enigma2/usr/lib/enigma2/python/Tools/Transponder.py:65
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1424
 msgid "Vertical"
 msgstr "Düşey (V)"
 
@@ -12376,8 +12376,8 @@ msgstr "Düşey (V)"
 msgid "Very Low"
 msgstr "Çok düşük"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:71
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/Videomode/plugin.py:58
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/MediaBrowser.py:71
 msgid "Video"
 msgstr "Video"
 
@@ -12501,15 +12501,15 @@ msgstr "Video,Ses ve Resimler"
 msgid "VideoEnhancement provides advanced video enhancement settings"
 msgstr "Dreambox'ınız için gelişmiş A/V ayarları"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VideoEnhancementPreview"
 msgstr "Video Geliştirme - Önizleme"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "VideoEnhancementSetup"
 msgstr "Video Geliştirme - Ayarlar"
 
@@ -12627,9 +12627,9 @@ msgstr "Sistem yönetimini kolaylaştıran eklentileri buradan yönetebilirsiniz
 msgid "View teletext..."
 msgstr "Teleteksi aç..."
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Virtual KeyBoard"
 msgstr "Sanal Klavye"
 
@@ -12638,9 +12638,9 @@ msgstr "Sanal Klavye"
 msgid "Voltage mode"
 msgstr "Voltaj kipi"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Volume"
 msgstr "Ses"
 
@@ -12653,10 +12653,10 @@ msgid "Volume -"
 msgstr "Ses -"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:548
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:1156
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:495
 msgid "W"
 msgstr "B"
 
@@ -12707,16 +12707,16 @@ msgstr "Web Tarayıcı Yapılandırması"
 msgid "Webinterface: Main Setup"
 msgstr "Web Arayüzü Yapılandırması"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Webinterface:Main Setup"
 msgstr "Web arayüzü: Ana Kurulum"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
-#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 #: enigma2/usr/lib/enigma2/python/Tools/FuzzyDate.py:14
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:56
+#: enigma2/usr/lib/enigma2/python/Components/EpgList.py:50
+#: enigma2/usr/lib/enigma2/python/Screens/EpgSelection.py:401
 msgid "Wed"
 msgstr "Çarş"
 
@@ -12815,12 +12815,12 @@ msgstr ""
 "Bir seçeneği seçmek için yukarı/aşağı tuşlarını kullanın.Bundan sonra,bir "
 "sonraki adıma geçmek için uzaktan kumandanızdaki OK tuşuna basın."
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:20
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/SimpleSteps.py:11
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Welcome..."
 msgstr "Hoşgeldiniz..."
 
@@ -12866,8 +12866,8 @@ msgstr "Ayarlarınızın yedeğini nereye almak istiyorsunuz?"
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Geçici zaman kaydırıcı kayıtları nereye yapılsın?"
 
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
 msgid "Wireless Network State"
 msgstr "Kablosuz Ağ Durumu"
 
@@ -12998,8 +12998,8 @@ msgstr "YT-Fragman Kurulumu"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:132
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:113
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:132
 msgid "Year"
 msgstr "Yıl"
 
@@ -13008,16 +13008,16 @@ msgid "Yellow"
 msgstr "Sarı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:146
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
-#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:31
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:200
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:27
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:124
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:122
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:127
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:753
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaRenderer/MediaGUI.py:124
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:200
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/FSBLUpdater/plugin.py:27
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:554
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:146
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:29
+#: enigma2/usr/lib/enigma2/python/Screens/Ci.py:31
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Yes"
 msgstr "Evet"
@@ -13049,13 +13049,13 @@ msgstr "Evet, ayarlarımın yedeğini al!"
 msgid "Yes, but only some"
 msgstr "Evet ama sadece bazıları"
 
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:150
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:131
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:150
 msgid "Yes, but play next service"
 msgstr "Evet, ama sonraki kanala geç"
 
-#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:152
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/MoviePlayer.py:133
+#: enigma2/usr/lib/enigma2/python/Screens/MoviePlayer.py:152
 msgid "Yes, but play previous service"
 msgstr "Evet, ama önceki kanala geç"
 
@@ -13136,9 +13136,9 @@ msgid "You can remove this plugin."
 msgstr "Bu eklentiyi kaldırabilirsiniz."
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:720
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBar.py:294
 #: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:135
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:720
 msgid "You cannot delete this!"
 msgstr "Bunu silemezsiniz!"
 
@@ -13236,8 +13236,8 @@ msgstr "Cihaza fiziksel erişiminiz olmadan Kurtarma Modundan çıkamayacaksın�
 msgid "You've selected a media file what do you want to do?"
 msgstr "Seçtiğiniz medya dosyasıyla ne yapmak istiyorsunuz?"
 
-#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:15
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:218
+#: enigma2/usr/lib/enigma2/python/Components/SetupGuide/InputDeviceSteps.py:15
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid ""
 "Your Dreambox bluetooth receiver has no firmware installed.\n"
@@ -13321,8 +13321,8 @@ msgstr ""
 "Koleksiyonunuz tek katman DVD'ye sığmıyor, çift katman DVD kullanmanız "
 "gerekiyor!"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:240
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:410
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:240
 msgid "Your current collection will get lost!"
 msgstr "Mevcut derlemeniz kaybolacak!"
 
@@ -13463,12 +13463,12 @@ msgstr "[taşıma kipi]"
 msgid "[up]"
 msgstr "[yukarı]"
 
-#: enigma2-skins/skins/dmm-HD/meta/skin_dmm-hd.xml
-#: enigma2-skins/skins/Elgato-HD/meta/skin_elgato-hd.xml
-#: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
 #: enigma2-skins/skins/DreamMM-HD/meta/skin_dreammm-hd.xml
+#: enigma2-skins/skins/YADS-HD/meta/skin_yads-hd.xml
+#: enigma2-skins/skins/dmm-HD/meta/skin_dmm-hd.xml
 #: enigma2-skins/skins/DMConcinnity-HD/meta/skin_dmconcinnity-hd.xml
 #: enigma2-skins/skins/UltraViolet/meta/skin_ultraviolet.xml
+#: enigma2-skins/skins/Elgato-HD/meta/skin_elgato-hd.xml
 msgid "a HD skin from Kerni"
 msgstr "Kerni tarafından hazırlanan bir HD arayüz"
 
@@ -13661,15 +13661,15 @@ msgid "audio track (%s) language"
 msgstr "(%s) ses izi dili"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:123
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Screens/AudioSelection.py:123
 msgid "audio tracks"
 msgstr "ses izleri"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:116
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:505
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:861
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:116
 msgid "auto"
 msgstr "otomatik"
 
@@ -13685,8 +13685,8 @@ msgid "azure"
 msgstr "azur mavisi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:234
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:56
+#: enigma2/usr/lib/enigma2/python/Screens/ChannelSelection.py:234
 msgid "back"
 msgstr "geri"
 
@@ -13720,15 +13720,15 @@ msgid "blacklist"
 msgstr "kara liste"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:167
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:18
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:167
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:18
 msgid "blue"
 msgstr "mavi"
 
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:89
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:81
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:89
 msgid "bound"
 msgstr "eşleşik"
 
@@ -13749,9 +13749,9 @@ msgid "change recording (endtime)"
 msgstr "kaydı değiştir (bitiş zamanı)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:95
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleProperties.py:95
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/BludiscPlayer/plugin.py:57
 msgid "chapters"
 msgstr "bölümler"
 
@@ -13786,9 +13786,9 @@ msgid "config menu"
 msgstr "Yapılandırma Menüsü"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:394
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:94
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:394
 msgid "connected"
 msgstr "bağlı"
 
@@ -13827,8 +13827,8 @@ msgid "create directory"
 msgstr "klasör oluştur"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:123
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:29
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:123
 msgid "daily"
 msgstr "günlük"
 
@@ -13878,23 +13878,23 @@ msgid "disable move mode"
 msgstr "taşıma kipini kapat"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2066
-#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:104
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:65
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:830
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/Browser.py:844
+#: enigma2/usr/lib/enigma2/python/Components/TimerList.py:104
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:2066
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:65
 msgid "disabled"
 msgstr "devre dışı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/Dfu/DfuGuide.py:94
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceManagement.py:100
 msgid "disconnected"
 msgstr "bağlı değil"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1713
+#: enigma2/usr/lib/enigma2/python/Screens/TaskView.py:54
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:116
 msgid "do nothing"
 msgstr "birşey yapma"
@@ -14038,8 +14038,8 @@ msgid "fileformats (BMP, PNG, JPG, GIF)"
 msgstr "dosya biçimi (BMP, PNG, JPG, GIF)"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:291
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/ProjectSettings.py:116
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:291
 msgid "filename"
 msgstr "dosyaadı"
 
@@ -14110,10 +14110,10 @@ msgid "grab this frame as bitmap"
 msgstr "bu çerçeveyi bitmap olarak yakala"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:164
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:15
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:164
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:15
 msgid "green"
 msgstr "yeşil"
 
@@ -14331,20 +14331,20 @@ msgid "main"
 msgstr "ana"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1752
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:680
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:498
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:505
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:861
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1752
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:680
 msgid "manual"
 msgstr "elle"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:149
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:253
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:182
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:77
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:166
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/CutListEditor/plugin.py:182
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:149
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:253
 msgid "menu"
 msgstr "menü"
 
@@ -14365,8 +14365,8 @@ msgstr "dakika"
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:85
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:86
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:87
-#: enigma2/usr/lib/enigma2/python/Screens/InputBox.py:139
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:45
+#: enigma2/usr/lib/enigma2/python/Screens/InputBox.py:139
 msgid "minutes"
 msgstr "dakika"
 
@@ -14405,19 +14405,19 @@ msgstr "çoklu"
 msgid "n/A"
 msgstr "n/A"
 
-#: enigma2/usr/lib/enigma2/python/Components/Network.py:51
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPCore.py:412
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:465
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:109
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:465
+#: enigma2/usr/lib/enigma2/python/Components/Network.py:51
 msgid "n/a"
 msgstr "kullanılamaz"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
-#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:33
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:28
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:775
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:776
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:28
+#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:32
+#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:33
 msgid "never"
 msgstr "hiç"
 
@@ -14432,16 +14432,16 @@ msgid "next channel in history"
 msgstr "Hafızadaki sonraki kanal"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:44
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:443
 #: enigma2/usr/lib/enigma2/python/Components/config.py:503
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 #: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
 #: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:95
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
 msgid "no"
 msgstr "hayır"
 
@@ -14470,9 +14470,9 @@ msgid "no matching processing key"
 msgstr "geçerli tuş yok"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:57
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:333
 #: enigma2/usr/lib/enigma2/python/Screens/Ci.py:357
-#: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:57
 msgid "no module found"
 msgstr "modül bulunamadı"
 
@@ -14514,8 +14514,8 @@ msgstr "desteklenmiyor"
 msgid "not used"
 msgstr "kullanılmıyor"
 
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
 #: enigma2/usr/lib/enigma2/python/mytest.py:202
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:152
 msgid "nothing"
 msgstr "hiçbir şey"
 
@@ -14536,10 +14536,10 @@ msgid "of a SINGLE layer medium used."
 msgstr "TEK katmanlı medya kullanıldığında."
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:156
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:498
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:505
+#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 msgid "off"
 msgstr "kapalı"
 
@@ -14549,8 +14549,8 @@ msgid "olympic blue"
 msgstr "olimpik mavisi"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:156
+#: enigma2/usr/lib/enigma2/python/Components/config.py:508
 msgid "on"
 msgstr "açık"
 
@@ -14594,8 +14594,8 @@ msgid "pass"
 msgstr "geç"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:941
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:162
+#: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:941
 msgid "pause"
 msgstr "duraklat"
 
@@ -14629,8 +14629,8 @@ msgid "please press OK when ready"
 msgstr "Lütfen hazır olduğunuzda OK'a basın"
 
 #
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:548
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/Process.py:468
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:548
 msgid "please wait, loading picture..."
 msgstr "fotoğraf yükleniyor, lütfen bekleyin..."
 
@@ -14672,10 +14672,10 @@ msgid "recording..."
 msgstr "kaydediliyor..."
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:159
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:10
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:159
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:10
 msgid "red"
 msgstr "kırmızı"
 
@@ -14839,9 +14839,9 @@ msgstr "CAId seç"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CommonInterfaceAssignment/plugin.py:390
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
-#: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
+#: enigma2/usr/share/enigma2/skin.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "select CAId's"
 msgstr "CAId'leri seç"
 
@@ -14895,12 +14895,12 @@ msgid "show alternatives"
 msgstr "alternatifleri göster"
 
 #
+#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:179
+#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:254
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:524
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:531
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:538
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:545
-#: enigma2/usr/lib/enigma2/python/Screens/MovieSelection.py:254
-#: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:179
 msgid "show event details"
 msgstr "EPG detaylarını göster"
 
@@ -14963,10 +14963,10 @@ msgid "shutdown"
 msgstr "kapat"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:797
-#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:31
-#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:682
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:28
+#: enigma2/usr/lib/enigma2/python/Components/ParentalControl.py:31
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:797
+#: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:682
 msgid "simple"
 msgstr "basit"
 
@@ -15000,8 +15000,8 @@ msgid "special characters"
 msgstr "özel karakterler"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:91
 #: enigma2/usr/lib/enigma2/python/Components/RecordingConfig.py:13
+#: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:91
 msgid "standard"
 msgstr "standart"
 
@@ -15066,10 +15066,10 @@ msgid "switch to bookmarks"
 msgstr "Yer imlerine geç"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:144
-#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:423
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:170
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaPlayer/plugin.py:510
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:144
+#: enigma2/usr/lib/enigma2/python/Screens/LocationBox.py:423
 msgid "switch to filelist"
 msgstr "dosya listesine geç"
 
@@ -15229,14 +15229,14 @@ msgid "was removed successfully"
 msgstr "başarıyla kaldırıldı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:123
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:30
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:123
 msgid "weekly"
 msgstr "haftalık"
 
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:22
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:22
 msgid "white"
 msgstr "beyaz"
 
@@ -15250,31 +15250,31 @@ msgstr "beyaz liste"
 msgid "working"
 msgstr "çalışıyor"
 
-#: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
+#: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "x"
 msgstr "x"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:162
-#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:13
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:34
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/PicturePlayer/plugin.py:35
+#: enigma2/usr/lib/enigma2/python/Components/InputDevice.py:162
+#: enigma2/usr/lib/enigma2/python/Components/FrontPanelLed.py:13
 msgid "yellow"
 msgstr "sarı"
 
 #
-#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:44
 #: enigma2/usr/lib/enigma2/python/Components/DisplayHardware.py:444
 #: enigma2/usr/lib/enigma2/python/Components/config.py:503
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
-#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
-#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
+#: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1942
 #: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:53
 #: enigma2/usr/lib/enigma2/python/Screens/MessageBox.py:55
 #: enigma2/usr/lib/enigma2/python/Screens/SleepTimerEdit.py:93
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1687
+#: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:2249
+#: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:128
 msgid "yes"
 msgstr "evet"
 
