@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-03 22:02+0000\n"
-"PO-Revision-Date: 2022-05-01 17:46+0000\n"
+"PO-Revision-Date: 2023-05-04 22:02+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: Czech <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/cs/>\n"
@@ -1242,7 +1242,7 @@ msgstr "za název kanálu"
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:112
 #: enigma2/usr/lib/enigma2/python/Screens/ChannelSelectionDisplaySettings.py:114
 msgid "After service number"
-msgstr "před název kanálu"
+msgstr "za číslo kanálu"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicedescription"
@@ -1254,7 +1254,7 @@ msgstr "za název kanálu"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:145
 msgid "After servicenumber"
-msgstr "před název kanálu"
+msgstr "za číslo kanálu"
 
 #
 #: enigma2/usr/share/enigma2/startwizard.xml
@@ -1478,7 +1478,7 @@ msgstr "bit.tok audia"
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:640
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:1918
 msgid "Audio Options..."
-msgstr "audio kanálu"
+msgstr "audio kanály"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ServiceInfo.py:125
 msgid "Audio PID"
@@ -1615,7 +1615,7 @@ msgstr "kanály - vyhledat automaticky"
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 #: enigma2/usr/share/enigma2/skin_default.xml
 msgid "Automatic Timerlist Cleanup Setup"
-msgstr "aut.čištění seznamu časovačů"
+msgstr "nastavení aut.čištění časovačů"
 
 #: enigma2/usr/share/enigma2/startwizard.xml
 msgid "Automatic Update Check"
@@ -2862,7 +2862,7 @@ msgstr "aktuální verze :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:31
 msgid "Custom buffer time"
-msgstr "vlastní časování paměti"
+msgstr "vlastní časování bufferu"
 
 #
 #: enigma2/usr/share/enigma2/setup.xml
@@ -3261,7 +3261,7 @@ msgstr "ano  - odstranit toto video a vrátit se do seznamu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/CrashlogAutoSubmit/plugin.py:26
 msgid "Delete crashlogs"
-msgstr "Chybový protokol byl odstraněný !"
+msgstr "odstranit chybové protokoly"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:502
@@ -3707,7 +3707,7 @@ msgstr "Chcete obnovit původní nastavení ?"
 #
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2198
 msgid "Do you want to resume this playback?"
-msgstr "Chcete obnovit přehrávání ?"
+msgstr "Pokračovat v přehrávání ?"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/UpdateCheck.py:96
 msgid "Do you want to update now?"
@@ -4522,7 +4522,7 @@ msgstr "snímková rychlost"
 
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1413
 msgid "Free"
-msgstr "volno "
+msgstr "volné"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/Language.py:32
@@ -4818,7 +4818,7 @@ msgstr "HD"
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:80
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/plugin.py:126
 msgid "HDMI CEC"
-msgstr "HDMI CEC"
+msgstr "ovládání TV přes HDMI"
 
 #: enigma2/usr/share/meta/plugin_hdmicec.xml
 #: enigma2/usr/share/meta/plugin_hdmicec.xml./enigma2/usr/share/meta/plugin_hdmicec.xml
@@ -4860,7 +4860,7 @@ msgstr "server HLS..."
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:29
 msgid "Half server buffer time"
-msgstr "poloviční časování paměti serveru"
+msgstr "poloviční časování bufferu serveru"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InputDeviceSetup.py:320
 msgid "Haptic feedback in lists"
@@ -5921,7 +5921,7 @@ msgstr "Media player"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:74
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/plugin.py:242
 msgid "MediaCenter"
-msgstr "media - centrum >>"
+msgstr "Dream média >>"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/AudioPlayer.py:195
 msgid "MediaCenter - Menu"
@@ -6049,16 +6049,16 @@ msgstr "střední"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:100
 msgid "Minimum Buffer Mode"
-msgstr "minimální režim vyrovnávací paměti"
+msgstr "min.režim bufferu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:104
 msgid "Minimum buffer (Fallback, s)"
-msgstr "minimální vyrovnávací paměť (Fallback, s)"
+msgstr "minimální buffer (Fallback, s)"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:102
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:107
 msgid "Minimum buffer (s)"
-msgstr "minimální vyrovnávací paměť (s)"
+msgstr "min.buffer v sek."
 
 #: enigma2/usr/share/enigma2/setup.xml
 msgid "Minimum treshold in seconds before resuming"
@@ -6337,7 +6337,7 @@ msgstr "tuner_"
 #: enigma2/usr/share/enigma2/skin_default.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "NOW"
-msgstr "-aktu-"
+msgstr "-aktuální-"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/NetworkManager/NetworkConfig.py:904
 msgid "NTP Time Updates"
@@ -7994,7 +7994,7 @@ msgstr "zapnout AV přijímač"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/HdmiCec/CecConfig.py:95
 msgid "Power on/off based on CEC Events"
-msgstr "zap./vyp. na základě událostí CEC"
+msgstr "zap./vyp. podle CEC"
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/Satconfig.py:73
@@ -8297,7 +8297,7 @@ msgstr "Python použitý pro /tmp/mmi.socket_"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:30
 msgid "Quarter server buffer time"
-msgstr "čtvrtinové časování paměti"
+msgstr "čtvrtinové časování bufferu serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
 msgid "Quick"
@@ -9541,7 +9541,7 @@ msgstr "označení serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/StreamServices/StreamServicesConfig.py:28
 msgid "Server buffer time"
-msgstr "časování paměti serveru"
+msgstr "časování bufferu serveru"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:154
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/UPnP/UPnPBrowser.py:181
@@ -11100,11 +11100,11 @@ msgstr "Tento modul je připravený pro nastavení sítě Dreamboxu"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1103
 msgid "This plugin will be installed."
-msgstr "nainstalovat zásuvný modul"
+msgstr "Instalovaný modul"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:1105
 msgid "This plugin will be removed."
-msgstr "odebrat zásuvný modul"
+msgstr "Odebíraný modul"
 
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
 #: enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml./enigma2/usr/share/meta/plugin_frontprocessorupgrade.xml
@@ -13139,7 +13139,7 @@ msgstr "nastavitelný"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:148
 msgid "ahead"
-msgstr "před název kanálu"
+msgstr "dopředu"
 
 #: enigma2/usr/lib/enigma2/python/mytest.py:202
 msgid "all"
@@ -13595,12 +13595,12 @@ msgstr "přeskočit na další kapitolu"
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:327
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/DVDBurn/TitleList.py:334
 msgid "free"
-msgstr ", volno:"
+msgstr ", volných:"
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/DiskInfo.py:32
 msgid "free diskspace"
-msgstr " - volno na disku"
+msgstr "- volného místa na disku"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "fstab-Editor"
