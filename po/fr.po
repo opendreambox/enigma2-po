@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-11 22:02+0000\n"
-"PO-Revision-Date: 2021-01-28 04:48+0000\n"
-"Last-Translator: dre <dre@drecomx.net>\n"
+"PO-Revision-Date: 2023-05-23 22:01+0000\n"
+"Last-Translator: Incendio <Incendio@mac.com>\n"
 "Language-Team: French <https://dreambox.de/translate/projects/dreambox/"
 "enigma2/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3.1\n"
+"X-Generator: Weblate 4.11.2\n"
 "X-POOTLE-MTIME: 1575268466.000000\n"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/InputDeviceManager/InputDeviceUpdateHandlerBase.py:16
@@ -34,7 +34,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"NE PAS ETEINDRE VOTRE DREAMBOX!"
+"NE PAS ETEINDRE VOTRE DREAMBOX !"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:746
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Délivré à partir de:"
+"Délivré à partir de :"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/Extensions/Browser/BrowserMenu.py:750
 msgid ""
@@ -54,7 +54,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Validité:\n"
+"Validité :\n"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:157
@@ -74,7 +74,7 @@ msgid ""
 "After pressing OK, please wait!"
 msgstr ""
 "\n"
-"Après appui sur OK, veuillez patienter!"
+"Après appui sur OK, veuillez patienter !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:139
@@ -180,7 +180,7 @@ msgid ""
 "System will restart after the restore!"
 msgstr ""
 "\n"
-"Le système redémarrera après restauration!"
+"Le système redémarrera après restauration !"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/SoftwareManager/plugin.py:163
@@ -234,7 +234,7 @@ msgstr "%(Desc)s"
 #: enigma2/usr/lib/enigma2/python/Screens/HarddiskSetup.py:1148
 #, python-format
 msgid "%(Desc)s already configured!"
-msgstr "%(Desc)s déjà configuré!"
+msgstr "%(Desc)s déjà configuré !"
 
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:67
 #, python-format
@@ -253,7 +253,7 @@ msgstr "%H:%M"
 #: enigma2/usr/lib/enigma2/python/Screens/Standby.py:148
 #, python-format
 msgid "%d jobs are running in the background!"
-msgstr "les travaux %d fonctionnent en arrière-plan!"
+msgstr "les travaux %d fonctionnent en arrière-plan !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/EventView.py:180
 #, python-format
@@ -265,7 +265,7 @@ msgstr "%d min"
 #: enigma2/usr/lib/enigma2/python/Components/ServiceScan.py:110
 #, python-format
 msgid "%d services found!"
-msgstr "%d services trouvés!"
+msgstr "%d services trouvés !"
 
 #: enigma2/usr/lib/enigma2/python/Screens/ScanSetup.py:1019
 #, python-format
@@ -677,7 +677,7 @@ msgstr ">"
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:204
 #: enigma2/usr/lib/enigma2/python/Screens/Menu.py:207
 msgid "??"
-msgstr "??"
+msgstr "? ?"
 
 #: enigma2/usr/lib/enigma2/python/Components/NimManager.py:1766
 msgid "A"
@@ -699,7 +699,7 @@ msgid ""
 "Do you want to add an exception for this certificate and accept connections "
 "to this host anyways?"
 msgstr ""
-"Un certificat pour la connexion sécurisée contient les erreurs suivantes:\n"
+"Un certificat pour la connexion sécurisée contient les erreurs suivantes :\n"
 "%s\n"
 "Voulez-vous ajouter une exception pour ce certificat et accepter les "
 "connexions à cet hôte malgré tout ?"
@@ -714,7 +714,7 @@ msgid ""
 "Dreambox to standby. Do that now?"
 msgstr ""
 "Un enregistrement programmé et terminé veut passer\n"
-"votre Dreambox en veille. Procéder maintenant?"
+"votre Dreambox en veille. Procéder maintenant ?"
 
 #
 #: enigma2/usr/lib/enigma2/python/RecordTimer.py:334
@@ -1382,7 +1382,7 @@ msgid ""
 "Are you sure you want to restore your Enigma2 backup?\n"
 "Enigma2 will restart after the restore"
 msgstr ""
-"Etes-vous sûr de vouloir restaurer votre sauvegarde Enigma2?\n"
+"Etes-vous sûr de vouloir restaurer votre sauvegarde Enigma2 ?\n"
 "Enigma2 redémarrera après la restauration"
 
 #
@@ -3930,7 +3930,7 @@ msgstr "Editer"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Edit AutoTimer"
-msgstr ""
+msgstr "Modifier le minuteur automatique"
 
 #: enigma2/usr/share/enigma2/skin_default_1080.xml
 msgid "Edit AutoTimer Filters"
@@ -8445,7 +8445,7 @@ msgstr ""
 #: enigma2/usr/share/enigma2/menu.xml
 #: enigma2/usr/share/enigma2/Default-HD/skin.xml
 msgid "Radio"
-msgstr ""
+msgstr "Radio"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/DiseqcTester/plugin.py:591
@@ -10347,7 +10347,7 @@ msgstr ""
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/TempFanControl/plugin.py:198
 msgid "Speed"
-msgstr ""
+msgstr "Vitesse"
 
 #
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/VideoEnhancement/plugin.py:102
@@ -14382,7 +14382,7 @@ msgstr "violet"
 
 #: enigma2/usr/lib/enigma2/python/Screens/InfoBarGenerics.py:2570
 msgid "reconnecting..."
-msgstr "reconnexion"
+msgstr "reconnexion..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Screens/TimerEntry.py:110
@@ -14538,7 +14538,7 @@ msgstr "état de l'analyse"
 
 #: enigma2/usr/lib/enigma2/python/Plugins/SystemPlugins/MediaDatabaseManager/MediaDatabaseManager.py:93
 msgid "scanning..."
-msgstr "balayage"
+msgstr "balayage..."
 
 #
 #: enigma2/usr/lib/enigma2/python/Components/UsageConfig.py:77
